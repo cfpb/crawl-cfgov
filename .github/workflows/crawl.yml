@@ -1,6 +1,6 @@
 name: Crawl cf.gov
 
-# Triggers the workflow every day at 1am EST (6am UTC)
+# Triggers the workflow every day at 6AM UTC (1AM EST, 2AM EDT)
 on:
   schedule:
     - cron: '0 6 * * *'
