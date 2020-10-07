@@ -1,7 +1,6 @@
 #!/usr/bin/env bash
 time wget \
     --domains=www.consumerfinance.gov \
-    --output-file=wget.log \
     --execute robots=off \
     --follow-tags=a \
     --limit-rate=200k \
