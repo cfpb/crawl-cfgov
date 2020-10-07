@@ -9,7 +9,7 @@ time wget \
     --reject '*.css,*.doc,*.docx,*.gif,*.ico,*.jpg,*.js,*.mp3,*.pdf,*.png,*.txt,*.wav,*.woff,*.woff2,*.xls,*xlsx,*.zip' \
     --reject-regex "topics=|authors=|categories=|filter_blog_category=|ext_url=" \
     --recursive \
-    --level=100 \
+    --level=inf \
     --trust-server-names \
     --no-verbose \
     https://www.consumerfinance.gov/
