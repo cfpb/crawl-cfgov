@@ -24,6 +24,16 @@ To run a crawl on your computer, `cd` into the root of this project and use the 
 A full crawl usually takes over two hours.
 To modify the parameters of the crawl, such as the target domain or which pages to include, edit `crawl.sh`.
 
+## Known issues
+
+The crawl has some constraints and limitations.
+- The results only contain pages that share the same domain: www.consumerfinance.gov
+- Pages may exist on consumerfinance.gov that are not linked to. If so, they will not appear in crawl results.
+- The crawl records each page based on its url.
+  If we accidentally record a page with url parameters, it counts that as a separate page, which could result in duplication
+- There are some pages on consumerfinance.gov that can only be found by paging through paginated lists of results.
+  We try to configure the crawl to find and download all of these pages, but it's possible there will be omissions.
+
 ## Getting help
 
 If you have questions, concerns, bug reports, etc, please file an issue in this repository's Issue Tracker.
