@@ -1,4 +1,4 @@
-All notable changes to this project will be documented in this file.
+All notable changes to the parameters or strategy of the crawl will be documented in this file.
 We follow the [Semantic Versioning 2.0.0](http://semver.org/) format.
 
 
