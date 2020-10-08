@@ -12,7 +12,11 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - run: ./crawl.sh
+      - name: Remove previous crawl results
+        run: rm -r www.consumerfinance.gov
+
+      - name: Run the crawl script
+        run: ./crawl.sh
 
       - name: Commit crawl results back to GitHub
         uses: EndBug/add-and-commit@v4
