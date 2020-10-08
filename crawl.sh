@@ -11,4 +11,5 @@ time wget \
     --level=inf \
     --trust-server-names \
     --no-verbose \
+    --no-clobber \
     https://www.consumerfinance.gov/
