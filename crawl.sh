@@ -6,7 +6,7 @@ time wget \
     --limit-rate=200k \
     --random-wait \
     --reject '*.css,*.doc,*.docx,*.gif,*.ico,*.jpg,*.js,*.mp3,*.pdf,*.png,*.txt,*.wav,*.woff,*.woff2,*.xls,*xlsx,*.zip' \
-    --reject-regex "topics=|authors=|categories=|filter_blog_category=|ext_url=" \
+    --reject-regex "topics=|authors=|categories=|filter_blog_category=|ext_url=|search_field=|issuer_name=" \
     --recursive \
     --level=inf \
     --trust-server-names \
