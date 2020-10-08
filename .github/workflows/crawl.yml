@@ -20,6 +20,7 @@ jobs:
 
       - name: Commit crawl results back to GitHub
         uses: EndBug/add-and-commit@v4
+        if: always()
         with:
           add: www.consumerfinance.gov
         env:
