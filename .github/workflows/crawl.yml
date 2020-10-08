@@ -1,9 +1,11 @@
 name: Crawl cf.gov
 
 # Triggers the workflow every day at 6AM UTC (1AM EST, 2AM EDT)
+#   - cron: '0 6 * * *'
+# Temporary: test crawl at 11am EDT, 3pm UTC
 on:
   schedule:
-    - cron: '0 6 * * *'
+    - cron: '0 15 * * *'
 
 jobs:
   build:
