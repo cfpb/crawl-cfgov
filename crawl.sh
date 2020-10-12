@@ -6,10 +6,10 @@ time wget \
     --follow-tags=a \
     --limit-rate=200k \
     --random-wait \
-    --reject '*.css,*.doc,*.docx,*.epub,*.gif,*.ico,*.jpg,*.js,*.mp3,*.pdf,*.PDF,*.png,*.pptx,*.tmp,*.txt,*.wav,*.woff,*.woff2,*.xls,*xlsx,*.xml,*.zip' \
+    --accept html \
     --reject-regex "topics=|authors=|categories=|filter_blog_category=|ext_url=|search_field=|issuer_name=" \
     --recursive \
-    --level=8 \
+    --level=5 \
     --trust-server-names \
     --no-verbose \
     --no-clobber \
