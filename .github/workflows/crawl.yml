@@ -24,7 +24,7 @@ jobs:
 
       - name: Commit crawl results back to GitHub
         if: always()
-        uses: EndBug/add-and-commit
+        uses: EndBug/add-and-commit@v5
         with:
           add: 'www.consumerfinance.gov'
           author_name: Automated
