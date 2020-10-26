@@ -9,7 +9,7 @@ time wget \
     --accept html \
     --reject-regex "topics=|authors=|categories=|filter_blog_category=|ext_url=|search_field=|issuer_name=" \
     --recursive \
-    --level=5 \
+    --level=4 \
     --trust-server-names \
     --no-verbose \
     --no-clobber \
