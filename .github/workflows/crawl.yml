@@ -19,8 +19,16 @@ jobs:
       - name: Run the crawl script
         run: ./crawl.sh
 
+      - name: Prepare COMMIT_MESSAGE variable
+        run: ./generate_summary.sh
+
       - name: Commit crawl results back to GitHub
         if: always()
-        run: ./commit_results.sh
+        uses: EndBug/add-and-commit
+        with:
+          add: 'www.consumerfinance.gov'
+          author_name: Automated
+          author_email: actions@users.noreply.github.com
+          message: $COMMIT_MESSAGE
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
