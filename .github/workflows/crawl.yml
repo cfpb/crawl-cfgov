@@ -29,6 +29,6 @@ jobs:
           add: 'www.consumerfinance.gov'
           author_name: Automated
           author_email: actions@users.noreply.github.com
-          message: ${{ $COMMIT_MESSAGE }}
+          message: ${{ env.COMMIT_MESSAGE }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
