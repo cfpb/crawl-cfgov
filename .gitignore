@@ -23,7 +23,6 @@ _site/
 
 # Logs and databases #
 ######################
-*.log
 *.sql
 *.sqlite
 

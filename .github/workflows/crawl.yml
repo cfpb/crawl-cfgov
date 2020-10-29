@@ -17,7 +17,7 @@ jobs:
         run: rm -r www.consumerfinance.gov
 
       - name: Run the crawl script
-        run: ./crawl.sh
+        run: ./crawl.sh -d 4 https://www.consumerfinance.gov
         continue-on-error: true
 
       - name: Remove <script> tags and blank lines from crawl results
@@ -31,7 +31,7 @@ jobs:
       - name: Commit crawl results back to GitHub
         uses: EndBug/add-and-commit@v5
         with:
-          add: 'www.consumerfinance.gov'
+          add: *.log www.consumerfinance.gov
           author_name: Automated
           author_email: actions@users.noreply.github.com
           message: ${{ env.COMMIT_MESSAGE }}
