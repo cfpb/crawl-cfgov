@@ -20,8 +20,8 @@ jobs:
         run: ./crawl.sh
         continue-on-error: true
 
-      - name: Remove <script> tags from crawl results
-        run: find www.consumerfinance.gov -type f -exec sed -f 'sed/remove_scripts.sed' -i '' {} \;
+      - name: Remove <script> tags and blank lines from crawl results
+        run: ./transform_results.sh
         continue-on-error: true
 
       - name: Prepare COMMIT_MESSAGE variable

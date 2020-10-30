@@ -13,6 +13,3 @@ s/<script.*//g
 
 # on lines where a script tag closes but doesn't open, delete the closing tag and everything before it
 s/.*<\/script>//g
-
-#  delete blank lines
-/^[[:space:]]*$/d
