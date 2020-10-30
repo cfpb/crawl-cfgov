@@ -31,7 +31,7 @@ jobs:
       - name: Commit crawl results back to GitHub
         uses: EndBug/add-and-commit@v5
         with:
-          add: *.log www.consumerfinance.gov
+          add: "*.log www.consumerfinance.gov"
           author_name: Automated
           author_email: actions@users.noreply.github.com
           message: ${{ env.COMMIT_MESSAGE }}
