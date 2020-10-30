@@ -18,22 +18,20 @@ jobs:
 
       - name: Run the crawl script
         run: ./crawl.sh -d 4 https://www.consumerfinance.gov
-        continue-on-error: true
 
       - name: Remove <script> tags and blank lines from crawl results
         run: ./transform_results.sh
         continue-on-error: true
 
-      - name: Prepare COMMIT_MESSAGE variable
+      - name: Prepare commit message
         run: ./generate_summary.sh
-        continue-on-error: true
 
       - name: Commit crawl results back to GitHub
-        uses: EndBug/add-and-commit@v5
-        with:
-          add: "*.log www.consumerfinance.gov"
-          author_name: Automated
-          author_email: actions@users.noreply.github.com
-          message: ${{ env.COMMIT_MESSAGE }}
+        run: |
+          git add .
+          git config user.email actions@users.noreply.github.com
+          git config user.name Automated
+          git commit -F commit.txt
+          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
