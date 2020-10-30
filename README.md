@@ -28,17 +28,31 @@ To get a copy of the consumerfinance.gov archive or run a crawl on your computer
 
 To view the consumerfinance.gov archive, you can browse the history of this repo here on github.com, or clone this repository.
 
-To run a crawl from your computer, `cd` into the root of this project and use the following command: `./crawl.sh`.
-A full crawl usually takes over two hours.
-To modify the parameters of the crawl, such as the target domain or which pages to include, edit `crawl.sh`.
+To run a crawl on your computer, `cd` into the root of this project and use the following command:
+
+```sh
+./crawl.sh https://www.consumerfinance.gov
+```
+
+A full crawl can take several hours. To limit the crawl depth:
+
+```sh
+./crawl.sh -d 4 https://www.consumerfinance.gov
+```
+
+Or, to start the crawl at a specific URL:
+
+```sh
+./crawl.sh https://www.consumerfinance.gov/start/crawl/here/
+```
 
 ## Known issues
 
 The crawl has some constraints and limitations.
-- The results only contain pages that share the same domain: www.consumerfinance.gov
-- Pages may exist on consumerfinance.gov that are not linked to. If so, they will not appear in crawl results.
+- The results intentionally only contain pages that share the same domain.
+- The crawl will not include any pages that are not linked to from any other page reachable from the site root.
 - The crawl records each page based on its url.
-  If we accidentally record a page with url parameters, it counts that as a separate page, which could result in duplication
+  If we accidentally record a page with url parameters, it counts that as a separate page, which could result in duplication.
 - There are some pages on consumerfinance.gov that can only be found by paging through paginated lists of results.
   We try to configure the crawl to find and download all of these pages, but it's possible there will be omissions.
 
