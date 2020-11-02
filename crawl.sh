@@ -62,7 +62,7 @@ time wget \
     --execute robots=off \
     --follow-tags=a \
     --limit-rate=1m \
-    --accept html \
+    --reject '*.css,*.csv,*.CSV,*.doc,*.docx,*.epub,*.gif,*.ico,*.jpg,*.js,*.mp3,*.pdf,*.PDF,*.png,*.pptx,*.tmp,*.txt,*.wav,*.woff,*.woff2,*.xls,*xlsx,*.xml,*.zip' \
     --reject-regex "topics=|authors=|categories=|filter_blog_category=|ext_url=|search_field=|issuer_name=" \
     --recursive \
     --level="$depth" \
