@@ -8,7 +8,7 @@
 #
 # Optionally specify -d depth to limit the crawl depth.
 
-# Fail if anything fails.
+# If a command fails, stop executing this script and return its error code.
 set -e
 
 depth=0

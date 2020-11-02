@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Fail if anything fails.
+# If a command fails, stop executing this script and return its error code.
 set -e
 
 # Generate a summary of the crawl results into commit.txt
