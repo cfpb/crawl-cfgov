@@ -17,7 +17,7 @@ jobs:
         run: rm -r www.consumerfinance.gov
 
       - name: Run the crawl script
-        run: ./crawl.sh -d 4 https://www.consumerfinance.gov
+        run: ./crawl.sh -d 0 https://www.consumerfinance.gov
 
       - name: Remove <script> tags and blank lines from crawl results
         run: ./transform_results.sh
