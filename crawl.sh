@@ -45,10 +45,6 @@ fi
 
 echo "Starting crawl at $url."
 
-if [ $depth -ne 0 ]; then
-    echo "Limiting crawl to depth $depth."
-fi
-
 domain=$url
 domain="${domain#http://}"
 domain="${domain#https://}"
@@ -57,6 +53,17 @@ domain="${domain%%\?*}"
 domain="${domain%%/*}"
 echo "Limiting crawl to domain $domain."
 
+if [ $depth -ne 0 ]; then
+    echo "Limiting crawl to depth $depth."
+fi
+
+# Crawl into a temporary directory to avoid potential unexpected overwriting
+# due to use of --trust-server-names.
+# See https://nvd.nist.gov/vuln/detail/CVE-2010-2252.
+tmp_dir=$(mktemp -d -t wget-$(date +%Y-%m-%d-%H-%M-%S)-XXXXXXXX)
+echo "Saving HTML to $tmp_dir."
+
+pushd "$tmp_dir" > /dev/null
 time wget \
     --domains="$domain" \
     --execute robots=off \
@@ -71,3 +78,11 @@ time wget \
     --no-clobber \
     --rejected-log=rejected.log \
     "$url" 2>&1 | tee wget.log
+popd > /dev/null
+
+# Copy back logs and HTML from temporary directory.
+cp -a "$tmp_dir"/{wget,rejected}.log .
+cp -a "$tmp_dir/$domain/" "./$domain/"
+
+# Clean up temporary directory.
+rm -rf "$tmp_dir"
