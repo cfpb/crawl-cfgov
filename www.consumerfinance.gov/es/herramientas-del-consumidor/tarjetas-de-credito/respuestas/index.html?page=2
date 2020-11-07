@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -423,34 +423,34 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/use-todo-mi-credito-e-hice-un-pago-cuanto-tiempo-pasara-antes-de-que-pueda-usar-la-tarjeta-nuevamente-es-35/" class="hover">Usé todo mi crédito e hice un pago. ¿Cuánto tiempo pasará antes de que pueda usar la tarjeta nuevamente?</a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-fui-a-utilizar-mi-tarjeta-de-credito-me-dijeron-en-la-tienda-que-el-cargo-no-estaba-autorizado-que-significa-eso-que-puedo-hacer-es-32/" class="hover">Cuando fui a utilizar mi tarjeta de crédito, me dijeron en la tienda que el cargo no estaba “autorizado”. ¿Qué significa eso? ¿Qué puedo hacer?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/estuve-de-acuerdo-en-permitir-que-el-emisor-de-mi-tarjeta-me-cobre-un-cargo-por-sobregiro-si-yo-me-paso-de-mi-limite-de-credito-necesitaba-hacer-una-compra-que-me-habria-puesto-sobre-mi-limite-de-credito-y-estaba-dispuesto-a-pagar-el-cargo-por-es-33/" class="hover">Estuve de acuerdo en permitir que el emisor de mi tarjeta me cobre un cargo por sobregiro si yo me paso de mi límite de crédito. Necesitaba hacer una compra que me habría puesto sobre mi límite de crédito y estaba dispuesto a pagar el cargo por sobregiro, pero el emisor de la tarjeta se negó a autorizar el cargo. ¿Pueden hacer eso?</a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/mi-hijo-compro-algo-con-mi-tarjeta-de-credito-sin-mi-permiso-tengo-que-pagarlo-es-27/" class="hover">Mi hijo compró algo con mi tarjeta de crédito sin mi permiso.  ¿Tengo que pagarlo?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/estoy-cansado-de-recibir-correos-sobre-tarjetas-de-credito-que-puedo-hacer-es-7/" class="hover">Estoy cansado de recibir correos sobre tarjetas de crédito. ¿Qué puedo hacer?</a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/puede-un-emisor-de-tarjetas-de-credito-tener-en-cuenta-si-recibo-asistencia-del-gobierno-al-momento-de-decidir-si-emite-una-tarjeta-de-credito-para-mi-es-21/" class="hover">¿Puede un emisor de tarjetas de crédito tener en cuenta si recibo asistencia del gobierno al momento de decidir si emite una tarjeta de crédito para mí?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/recibi-algo-por-correo-que-me-ofrecia-una-tarjeta-de-credito-y-decia-que-podia-dejar-de-recibir-ofertas-preseleccionadas-de-credito-que-significa-esto-es-2/" class="hover">¿Cómo decide una compañía de tarjetas de crédito qué tipo de interés ofrecerme para una tarjeta de crédito?   </a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/puede-un-emisor-de-tarjetas-tener-en-cuenta-mi-edad-al-momento-de-decidir-si-emite-una-tarjeta-de-credito-para-mi-es-20/" class="hover">¿Puede un emisor de tarjetas tener en cuenta mi edad al momento de decidir si emite una tarjeta de crédito para mí?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/he-visto-muchos-anuncios-de-companias-que-ofrecen-consolidar-las-deudas-de-las-tarjetas-de-credito-son-estas-legitimas-es-1859/" class="hover">He visto muchos anuncios de compañías que ofrecen consolidar las deudas de las tarjetas de crédito.  ¿Son éstas legítimas?</a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/mis-hijos-tienen-menos-de-21-anos-de-edad-pero-reciben-invitaciones-para-solicitar-tarjetas-de-credito-como-es-esto-posible-es-12/" class="hover">Mis hijos tienen menos de 21 años de edad, pero reciben invitaciones para solicitar tarjetas de crédito. ¿Cómo es esto posible?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/que-debo-hacer-si-no-puedo-pagar-mis-cuentas-de-tarjeta-de-credito-es-1697/" class="hover">¿Qué debo hacer si no puedo pagar mis facturas de tarjeta de crédito?</a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/por-que-obtuve-un-limite-de-credito-bajo-en-una-tarjeta-de-credito-es-11/" class="hover">¿Por qué obtuve un límite de crédito bajo en una tarjeta de crédito?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/recibi-una-notificacion-de-mi-emisor-de-tarjeta-que-decia-que-cerraria-mi-cuenta-y-que-no-puedo-utilizar-mas-mi-tarjeta-de-credito-pueden-hacer-eso-es-83/" class="hover">Recibí una notificación de mi emisor de tarjeta que decía que cerraría mi cuenta y que no puedo utilizar más mi tarjeta de crédito. ¿Pueden hacer eso?</a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-una-oferta-de-tarjeta-de-credito-pre-seleccionada-es-1/" class="hover">¿Qué es una oferta de tarjeta de crédito pre-seleccionada?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/acabo-de-enterarme-de-que-el-emisor-de-mi-tarjeta-cerro-mi-cuenta-sin-previo-aviso-pueden-hacer-eso-que-puedo-hacer-es-75/" class="hover">Acabo de enterarme de que el emisor de mi tarjeta cerró mi cuenta sin previo aviso. ¿Pueden hacer eso?  ¿Qué puedo hacer?</a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-consolidar-mis-deudas-de-tarjeta-de-credito-de-una-manera-segura-es-1861/" class="hover">¿Qué necesito saber si estoy pensando en consolidar mis deudas de tarjeta de crédito?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/pase-mi-limite-de-credito-y-me-cobraron-un-cargo-por-exceder-el-limite-que-puedo-hacer-es-58/" class="hover">Pasé mi límite de crédito y me cobraron un cargo por exceder el límite. ¿Qué puedo hacer?</a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/como-debo-manejar-los-cargos-del-estado-de-cuenta-mensual-de-mi-tarjeta-de-credito-por-los-servicios-para-los-que-no-me-inscribi-es-1543/" class="hover">¿Cómo debo manejar los cargos del estado de cuenta mensual de mi tarjeta de crédito por servicios para los que no me inscribí?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/por-que-el-emisor-de-mi-tarjeta-de-credito-aumento-el-cargo-para-pagos-atrasados-es-56/" class="hover">¿Por qué el emisor de mi tarjeta de crédito aumentó el cargo por pagos atrasados?</a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/acabo-de-recibir-una-nueva-tarjeta-del-emisor-de-tarjetas-con-un-nuevo-numero-de-cuenta-y-una-carta-que-dice-que-mi-cuenta-habia-sido-comprometida-que-significa-eso-que-debo-hacer-es-89/" class="hover">Acabo de recibir una nueva tarjeta del emisor de tarjetas con un nuevo número de cuenta y una carta que dice que mi cuenta había sido “comprometida”.  ¿Qué significa eso? ¿Qué debo hacer?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

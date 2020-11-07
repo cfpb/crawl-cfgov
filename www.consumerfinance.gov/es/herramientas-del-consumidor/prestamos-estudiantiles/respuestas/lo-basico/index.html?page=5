@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -426,6 +426,18 @@
                 <div class="h3 hover"><a href="/es/obtener-respuestas/que-significa-incumplimiento-en-mis-prestamos-estudiantiles-privados-es-665/" class="hover">¿Qué significa &#34;incumplimiento&#34; en mis préstamos estudiantiles privados?</a></div>
             </article>
             <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/si-soy-el-cosignatario-del-prestamo-de-mi-nietoa-puede-el-prestamista-embargar-mi-cheque-del-seguro-social-si-mi-nietoa-no-puede-pagar-el-prestamo-o-no-lo-paga-es-1707/" class="hover">Si soy el cosignatario del préstamo de mi nieto(a), ¿puede el prestamista embargar mi cheque del Seguro Social si mi nieto(a) no puede pagar el préstamo o no lo paga?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/puede-un-prestamista-de-prestamos-para-estudiantes-considerar-mi-edad-al-momento-de-decidir-si-otorgarme-el-credito-es-693/" class="hover">¿Puede un prestamista de préstamos para estudiantes considerar mi edad al momento de decidir si otorgarme el crédito?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/si-yo-fui-codeudor-de-un-prestamo-para-estudiantes-y-este-ha-entrado-en-mora-que-sucede-es-671/" class="hover">Si yo fui codeudor de un préstamo para estudiantes y éste ha entrado en mora, ¿qué sucede?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-un-cofirmante-prestamo-estudiantil-es-565/" class="hover">¿Qué es un cofirmante en un préstamo estudiantil? </a></div>
+            </article>
+            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/que-debo-hacer-si-fui-perjudicado-por-una-empresa-con-la-cual-el-cfpb-ha-anunciado-un-acuerdo-es-1901/" class="hover">¿Qué debo hacer si fui perjudicado por una empresa con la cual el CFPB ha anunciado un acuerdo?</a></div>
             </article>
             <article>
@@ -439,18 +451,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-podria-el-departamento-de-educacion-de-eeuu-cobrarme-los-pagos-es-653/" class="hover">¿Cómo podría el Departamento de Educación de EE.UU. cobrarme los pagos?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/si-soy-el-cosignatario-del-prestamo-de-mi-nietoa-puede-el-prestamista-embargar-mi-cheque-del-seguro-social-si-mi-nietoa-no-puede-pagar-el-prestamo-o-no-lo-paga-es-1707/" class="hover">Si soy el cosignatario del préstamo de mi nieto(a), ¿puede el prestamista embargar mi cheque del Seguro Social si mi nieto(a) no puede pagar el préstamo o no lo paga?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/puede-un-prestamista-de-prestamos-para-estudiantes-considerar-mi-edad-al-momento-de-decidir-si-otorgarme-el-credito-es-693/" class="hover">¿Puede un prestamista de préstamos para estudiantes considerar mi edad al momento de decidir si otorgarme el crédito?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/si-yo-fui-codeudor-de-un-prestamo-para-estudiantes-y-este-ha-entrado-en-mora-que-sucede-es-671/" class="hover">Si yo fui codeudor de un préstamo para estudiantes y éste ha entrado en mora, ¿qué sucede?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-un-cofirmante-prestamo-estudiantil-es-565/" class="hover">¿Qué es un cofirmante en un préstamo estudiantil? </a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

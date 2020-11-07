@@ -62,12 +62,12 @@
 -->
 <link rel="stylesheet" href="/static/apps/paying-for-college/css/main.2f5dd4d05c0d.css">
     <!--[if lt IE 9]>
-    <link rel="stylesheet" href="/static/css/header.nonresponsive.39ea0817d90a.css"/>
-    <link rel="stylesheet" href="/static/css/footer.nonresponsive.df13dcebe14f.css"/>
+    <link rel="stylesheet" href="/static/css/header.nonresponsive.82ba97bc7595.css"/>
+    <link rel="stylesheet" href="/static/css/footer.nonresponsive.d86554c2eb70.css"/>
     <![endif]-->
     <!--[if gt IE 8]><!-->
-    <link rel="stylesheet" href="/static/css/header.9510f45d8b73.css"/>
-    <link rel="stylesheet" href="/static/css/footer.49b88bd265c0.css"/>
+    <link rel="stylesheet" href="/static/css/header.34960fabae80.css"/>
+    <link rel="stylesheet" href="/static/css/footer.991a68cff843.css"/>
     <!--<![endif]-->
 <!--
     ============
@@ -1397,7 +1397,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             before reviewing your offer.
                         </h2>
                         <form class="verify_form">
-                          <input type="hidden" name="csrfmiddlewaretoken" value="PMRAQ2LVgLe8RC7ZIUAATsMdmP3ukvX2rQS87vyl8pCaDEBDy1chjmg1q0PqBqAd">
+                          <input type="hidden" name="csrfmiddlewaretoken" value="pm9PrQ141UUeyOr21yeJUmHWUZPNrNr0CHDS7xiEM4JZuJBW90FwgNeR7wlR5jic">
                             <div class="verify_school">
                                 Ashford University
                             </div>

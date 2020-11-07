@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -361,12 +361,12 @@
                         <p class="qans">Sí. Digamos que su amiga lo ha nombrado su agente a través de un poder legal (Power of Attorney, o POA por sus siglas en inglés), lo que significa que le ha dado la autoridad sobre sus finanzas. Ella puede ...</p>
                     </article>
                     <article class="question_summary question_summary__full">
-                        <p class="question_title"><a href="/es/obtener-respuestas/cuales-son-algunos-de-los-tipos-de-estafas-mas-comunes-es-2092/" class="kbq">¿Cuáles son algunos de los tipos de estafas más comunes?</a></p>
-                        <p class="qans">Los estafadores siempre están buscando nuevas formas de robar su dinero. Usted puede protegerse si sabe qué buscar. Estafas con el cobro de las deudasLa mayoría de los cobradores de deudas se comunican con usted para cobrar deudas legítimas. Pero ...</p>
-                    </article>
-                    <article class="question_summary question_summary__full">
                         <p class="question_title"><a href="/es/obtener-respuestas/creo-que-fui-enganado-por-alguien-que-prometio-ayudarme-con-mi-prestamo-hipotecario-que-debo-hacer-es-273/" class="kbq">Creo que fui estafado por alguien que prometió ayudarme con mi préstamo hipotecario. ¿Qué debo hacer?</a></p>
                         <p class="qans">Denuncie la estafa. Presente de una queja al CFPB al (855) 411-CFPB (2372), o comunicándose con un asesor de vivienda aprobado por el Departamento de Vivienda y Desarrollo Urbano (HUD).Si usted piensa que pudo haber sido víctima de una estafa ...</p>
+                    </article>
+                    <article class="question_summary question_summary__full">
+                        <p class="question_title"><a href="/es/obtener-respuestas/cuales-son-algunos-de-los-tipos-de-estafas-mas-comunes-es-2092/" class="kbq">¿Cuáles son algunos de los tipos de estafas más comunes?</a></p>
+                        <p class="qans">Los estafadores siempre están buscando nuevas formas de robar su dinero. Usted puede protegerse si sabe qué buscar. Estafas con el cobro de las deudasLa mayoría de los cobradores de deudas se comunican con usted para cobrar deudas legítimas. Pero ...</p>
                     </article>
                     <article class="question_summary question_summary__full">
                         <p class="question_title"><a href="/es/obtener-respuestas/cuales-son-las-estafas-de-modificacion-de-prestamos-hipotecarios-es-272/" class="kbq">¿Cuáles son las estafas de modificación de préstamos hipotecarios?</a></p>

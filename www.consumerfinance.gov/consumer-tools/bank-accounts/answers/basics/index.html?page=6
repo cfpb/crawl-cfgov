@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1443,6 +1443,9 @@
                 <div class="h3 hover"><a href="/ask-cfpb/how-do-i-pay-back-my-personal-line-of-credit-en-911/" class="hover">How do I pay back my Personal Line of Credit?</a></div>
             </article>
             <article>
+                <div class="h3 hover"><a href="/ask-cfpb/if-i-link-my-credit-card-to-my-checking-account-to-cover-overdrafts-can-the-bankcredit-union-charge-me-a-fee-each-time-i-use-it-to-cover-an-overdraft-en-1049/" class="hover">If I link my credit card to my checking account to cover overdrafts, can the bank/credit union charge me a fee each time I use it to cover an overdraft?</a></div>
+            </article>
+            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/i-bounced-a-check-will-this-show-up-on-my-credit-report-en-1059/" class="hover">I bounced a check. Will this show up on my credit report?</a></div>
             </article>
             <article>
@@ -1453,9 +1456,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/what-is-a-personal-line-of-credit-en-901/" class="hover">What is a Personal Line of Credit?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-overdrew-my-account-by-only-one-penny-yet-was-charged-the-full-overdraft-fee-what-can-i-do-about-this-en-1043/" class="hover">I overdrew my account by only one penny yet was charged the full overdraft fee. What can I do about this?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1449,13 +1449,13 @@
                 <div class="h3 hover"><a href="/ask-cfpb/someone-offered-to-write-an-information-request-or-error-dispute-to-my-mortgage-servicer-for-a-fee-can-i-do-this-for-free-en-210/" class="hover">Someone offered to write an information request or error dispute to my mortgage servicer for a fee. Can I do this for free?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-got-a-letter-from-my-mortgage-servicer-about-my-application-for-help-to-prevent-foreclosure-of-my-mortgage-can-you-help-me-understand-some-of-the-terms-en-1807/" class="hover">I got a letter from my mortgage servicer about my application for help to prevent foreclosure of my mortgage. Can you help me understand some of the terms?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/i-recently-declared-bankruptcy-now-my-mortgage-servicer-said-its-not-allowed-to-send-me-a-monthly-mortgage-statement-is-that-correct-en-1937/" class="hover">I recently declared bankruptcy. Now my mortgage servicer said it’s not allowed to send me a monthly mortgage statement. Is that correct?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/if-i-have-been-affected-by-a-natural-disaster-what-should-i-do-in-the-days-immediately-following-it-en-1513/" class="hover">What should I do after a disaster to protect my finances and property?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/i146ve-been-contacted-by-a-mortgage-relief-company-is-there-anything-that-these-companies-have-to-tell-me-en-277/" class="hover">I&#39;ve been contacted by a mortgage relief company. Is there anything that these companies have to tell me?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/my-mortgage-servicer-refuses-to-accept-my-payment-what-can-i-do-en-221/" class="hover">My mortgage servicer refuses to accept my payment. What can I do?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/do-i-have-to-pay-for-someone-to-help-me-modify-my-mortgage-en-260/" class="hover">Do I have to pay for someone to help me modify my mortgage?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

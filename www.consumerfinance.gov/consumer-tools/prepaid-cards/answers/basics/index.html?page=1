@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1428,13 +1428,13 @@
         <section class="results">
             <div class="page-links">
             <article>
+                <div class="h3 hover"><a href="/ask-cfpb/can-i-be-declined-for-a-prepaid-card-en-437/" class="hover">Can I be declined for a prepaid card?</a></div>
+            </article>
+            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/can-i-use-my-prepaid-card-outside-of-the-us-en-501/" class="hover">Can I use my prepaid card outside of the U.S.?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/do-i-need-good-credit-record-to-get-a-prepaid-card-en-393/" class="hover">Do I need a good credit record to get a prepaid card?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/can-i-be-declined-for-a-prepaid-card-en-437/" class="hover">Can I be declined for a prepaid card?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/will-i-be-charged-a-fee-if-i-dont-use-my-prepaid-card-en-473/" class="hover">Will I be charged a fee if I don&#39;t use my prepaid card?</a></div>
@@ -1452,10 +1452,10 @@
                 <div class="h3 hover"><a href="/ask-cfpb/can-i-use-a-prepaid-card-to-build-or-repair-my-credit-history-en-421/" class="hover">Can I use a prepaid card to build or repair my credit history?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/how-long-after-buying-a-prepaid-card-do-i-have-to-wait-until-i-can-start-using-it-en-445/" class="hover">How long after buying a prepaid card do I have to wait until I can start using it?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/what-types-of-fees-do-prepaid-cards-typically-charge-en-2053/" class="hover">What types of fees do prepaid cards typically charge?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/why-do-i-need-to-register-my-prepaid-card-en-439/" class="hover">Why do I need to register my prepaid card?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/will-i-receive-a-monthly-online-or-paper-statement-for-my-prepaid-card-en-509/" class="hover">Will I receive a monthly online or paper statement for my prepaid card?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -341,12 +341,12 @@
                         block__flush-top">
                 <div class="question_list">
                     <article class="question_summary question_summary__full">
-                        <p class="question_title"><a href="/es/obtener-respuestas/necesito-asesoria-o-representacion-legal-como-puedo-encontrar-un-abogado-que-se-especialice-en-las-leyes-sobre-los-adultos-mayores-es-1159/" class="kbq">Necesito asesoría o representación legal. ¿Cómo puedo encontrar un abogado que se especialice en las leyes sobre los adultos mayores?</a></p>
-                        <p class="qans">Los programas legales con fondos federales para personas de 60 años o más (conocidos como programas de servicios legales Título IIIB) pueden ofrecer asistencia legal en asuntos tales como: seguridad del ingreso, atención de la salud, atención a largo ...</p>
-                    </article>
-                    <article class="question_summary question_summary__full">
                         <p class="question_title"><a href="/es/obtener-respuestas/cuando-el-cfpb-utiliza-el-termino-conyuge-o-matrimonio-eso-incluye-a-un-conyuge-del-mismo-sexo-es-1891/" class="kbq">Cuando el CFPB utiliza el término "cónyuge" o "matrimonio", ¿eso incluye a un cónyuge del mismo sexo?</a></p>
                         <p class="qans">Sí. Con respecto a las leyes y reglamentos bajo la jurisdicción del CFPB, inclusive bajo la Ley de Igualdad para la Oportunidad al Crédito, la cual prohíbe la discriminación en base a una serie de puntos, inclusive el estado civil, ...</p>
+                    </article>
+                    <article class="question_summary question_summary__full">
+                        <p class="question_title"><a href="/es/obtener-respuestas/necesito-asesoria-o-representacion-legal-como-puedo-encontrar-un-abogado-que-se-especialice-en-las-leyes-sobre-los-adultos-mayores-es-1159/" class="kbq">Necesito asesoría o representación legal. ¿Cómo puedo encontrar un abogado que se especialice en las leyes sobre los adultos mayores?</a></p>
+                        <p class="qans">Los programas legales con fondos federales para personas de 60 años o más (conocidos como programas de servicios legales Título IIIB) pueden ofrecer asistencia legal en asuntos tales como: seguridad del ingreso, atención de la salud, atención a largo ...</p>
                     </article>
                     <article class="question_summary question_summary__full">
                         <p class="question_title"><a href="/es/obtener-respuestas/acabo-de-iniciar-un-nuevo-negocio-e-intente-obtener-un-prestamo-hipotecario-para-mi-compania-creo-que-el-prestamista-tuvo-un-trato-discriminatorio-en-mi-contra-y-en-contra-de-mi-empresa-que-derechos-tengo-conforme-a-la-ley-es-344/" class="kbq">Acabo de iniciar un nuevo negocio e intenté obtener un préstamo hipotecario para mi compañía. Creo que el prestamista tuvo un trato discriminatorio en mi contra y en contra de mi empresa. ¿Qué derechos tengo conforme a la ley?</a></p>

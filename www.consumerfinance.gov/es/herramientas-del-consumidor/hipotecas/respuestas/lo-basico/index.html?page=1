@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -423,6 +423,21 @@
         <section class="results">
             <div class="page-links">
             <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/para-una-hipoteca-de-tasa-ajustable-arm-cuales-son-el-indice-y-el-margen-y-como-funcionan-es-1949/" class="hover">¿Qué son el índice y el margen de una hipoteca con tasa de interés ajustable (ARM), y cómo funcionan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-cargos-puede-cobrarme-el-prestamista-si-saco-una-heloc-es-249/" class="hover">¿Qué cargos puede cobrarme el prestamista si saco una HELOC?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/tengo-que-comprar-un-seguro-de-propiedad-o-contra-inundaciones-de-mi-prestamista-es-201/" class="hover">¿Tengo que comprar seguro de propiedad o contra inundaciones de mi prestamista?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-documentos-debo-recibir-antes-del-cierre-de-un-prestamo-hipotecario-es-181/" class="hover">¿Qué documentos debo recibir antes del cierre de un préstamo hipotecario?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/necesito-a-un-abogado-o-a-cualquier-otra-persona-que-me-represente-en-el-cierre-de-una-hipoteca-es-177/" class="hover">¿Necesito a un abogado o a cualquier otra persona que me represente en el cierre de una hipoteca?</a></div>
+            </article>
+            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-busco-y-comparo-hipotecas-recibire-informacion-conforme-a-la-nueva-norma-de-divulgacion-know-before-you-owe-es-2009/" class="hover">¿Recibiré las divulgaciones de &#34;Know before you owe&#34; (Saber Antes de Deber) cuando busque una hipoteca?</a></div>
             </article>
             <article>
@@ -436,21 +451,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/escuche-acerca-de-la-nueva-opcion-de-refinanciamiento-de-la-administracion-de-vivienda-federal-con-cargos-reducidos-puede-decirme-algo-mas-al-respecto-es-363/" class="hover">Escuché acerca de la nueva opción de refinanciamiento de la Administración de Vivienda Federal con cargos reducidos. ¿Puede decirme algo más al respecto?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/soy-un-militar-o-veterano-y-he-decidido-comprar-una-vivienda-como-se-si-un-prestamo-va-es-lo-correcto-para-mi-es-296/" class="hover">Soy militar o veterano y he decidido comprar una vivienda. ¿Cómo sé si un préstamo VA es lo correcto para mí?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/como-funciona-la-ejecucion-hipotecaria-es-287/" class="hover">¿Cómo funciona la ejecución hipotecaria (foreclosure)?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/cual-es-la-diferencia-entre-un-prestamo-sobre-el-capital-acumulado-en-la-vivienda-y-una-linea-de-credito-garantizada-por-el-capital-acumulado-en-la-vivienda-es-247/" class="hover">¿Cual es la diferencia entre un préstamo sobre el capital acumulado en la vivienda y una línea de crédito garantizada por el capital acumulado en la vivienda?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/que-costos-tendre-que-pagar-por-obtener-un-prestamo-hipotecario-es-153/" class="hover">¿Qué costos tendré que pagar por obtener un préstamo hipotecario?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-una-tasa-de-interes-fija-o-asegurada-es-143/" class="hover">¿Qué es una tasa de interés fija o asegurada?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

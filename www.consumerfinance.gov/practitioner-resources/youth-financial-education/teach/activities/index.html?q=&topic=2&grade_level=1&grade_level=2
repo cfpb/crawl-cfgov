@@ -23,10 +23,10 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
     <link rel="stylesheet" href="/static/apps/teachers-digital-platform/css/main.d756ad022bc2.css">
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -35,7 +35,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -2071,6 +2071,12 @@
                         </li>
                         <li>
                             <div class="m-form-field m-form-field__checkbox">
+                                <input type="checkbox" class="a-checkbox" aria-label="Competency-based learning" id="teaching-strategy--competency-based-learning" name="teaching_strategy" value="2">
+                                <label class="a-label" for="teaching-strategy--competency-based-learning">Competency-based learning</label>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="m-form-field m-form-field__checkbox">
                                 <input type="checkbox" class="a-checkbox" aria-label="Cooperative learning" id="teaching-strategy--cooperative-learning" name="teaching_strategy" value="3">
                                 <label class="a-label" for="teaching-strategy--cooperative-learning">Cooperative learning</label>
                             </div>
@@ -2276,6 +2282,12 @@
                                 <label class="a-label" for="council-for-economic-education--standard-i-earning-income">Standard I. Earning income</label>
                             </div>
                         </li>
+                        <li>
+                            <div class="m-form-field m-form-field__checkbox">
+                                <input type="checkbox" class="a-checkbox" aria-label="Standard II. Buying goods and services" id="council-for-economic-education--standard-ii-buying-goods-and-services" name="council_for_economic_education" value="2">
+                                <label class="a-label" for="council-for-economic-education--standard-ii-buying-goods-and-services">Standard II. Buying goods and services</label>
+                            </div>
+                        </li>
                     </ul>
                 </fieldset>
             </div>
@@ -2314,6 +2326,12 @@
                     <ul class="m-list m-list__unstyled">
                         <li>
                             <div class="m-form-field m-form-field__checkbox">
+                                <input type="checkbox" class="a-checkbox" aria-label="Spending and saving" id="jump-start-coalition--spending-and-saving" name="jump_start_coalition" value="1">
+                                <label class="a-label" for="jump-start-coalition--spending-and-saving">Spending and saving</label>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="m-form-field m-form-field__checkbox">
                                 <input type="checkbox" class="a-checkbox" aria-label="Employment and income" id="jump-start-coalition--employment-and-income" name="jump_start_coalition" value="3">
                                 <label class="a-label" for="jump-start-coalition--employment-and-income">Employment and income</label>
                             </div>
@@ -2337,9 +2355,9 @@
 <section id="tdp-search-results" class="content_main content__flush-all-on-small content__flush-bottom results" tabindex="-1">
     <a class="u-visually-hidden" id="content_main"></a>
     <div class="results_header">
-            <div class="results_count" data-results-count="15">
+            <div class="results_count" data-results-count="16">
                 <h3>
-                        Showing 15
+                        Showing 16
                         matches
                         out of
                     251 activities
@@ -2374,6 +2392,94 @@
     </div>
         <div class="results_list">
             <ul class="m-list__unstyled">
+                    <li class="u-mb30"><div class="activity">
+    <h3><a class="activity_title-link" href="/practitioner-resources/youth-financial-education/teach/activities/comparing-higher-education-choices/">Comparing higher education choices</a></h3>
+    <p class="meta">
+        <span class="a-date">
+            Updated
+            <span class="datetime">
+                <time class="datetime_date" datetime="2020-11-06">
+                    Nov 06, 2020
+                </time>
+            </span>
+        </span>
+    </p>
+    <p>
+        <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm329.9 449.4l-68.7 63.5-69.3 64.1 27.5 138.5 9.1 45.9c10.1 50.9-18.7 71.9-64 46.5l-164.1-91.8-164.1 91.8c-45.3 25.4-74.1 4.4-64-46.5l9.1-45.9 9.1-45.9 18.4-92.6-69.3-64.1-34.4-31.8-34.4-31.8c-38.1-35.3-27.1-69.1 24.4-75.2l93-11 93.8-11.1L441.3 329l19.6-42.5c21.8-47.2 57.4-47.2 79.1 0l19.6 42.5 59.2 128.2 93.8 11.1 93 11c51.4 6.2 62.4 40.1 24.3 75.3z"/></svg>
+        </span>
+        <span class="activity_for">Ideal for: Middle school (6-8), High school (9-10), High school (11-12)</span>
+    </p>
+    <p class="lead-paragraph u-mb30">Students explore higher education options by comparing similarities and differences between two colleges near where they live.</p>
+    <div class="activity_meta-wrapper">
+        <div>
+            <h4 class="h5">Key information</h4>
+            <div class="layout-row u-mb15">
+                <h5 class="activity_meta-key">Topic:</h5>
+                Earn (Making money), Spend (Paying for college)
+            </div>
+            <div class="layout-row">
+                <h5 class="activity_meta-key">Activity duration:</h5>
+                45-60 minutes
+            </div>
+        </div>
+        <div>
+            <h4 class="h5">Building block</h4>
+            <ul class="m-list__unstyled">
+                    <li>
+                        <span class="a-icon a-icon__large a-icon__space-after">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500.48,100C224.34,99.74.26,323.38,0,599.52S223.38,1099.74,499.52,1100,999.74,876.62,1000,600.48,776.62,100.26,500.48,100ZM839.3,374.39,778.74,606a24,24,0,0,1-41.25,5.53l-45.51-59-13.73-17.8-128.2,98.18-.28,296a49.94,49.94,0,1,1-99.89,0L450.16,633,321.75,534.69,308,552.49l-45.51,59A24,24,0,0,1,221.26,606L160.7,374.4c-6.46-15.71,5-32.52,21.12-33.24H425.5a24,24,0,0,1,15.84,38.48l-51.08,66.23L383,455.32l117,89.62,117-89.63-7.29-9.45-51.08-66.23a24,24,0,0,1,15.84-38.48H818.18C834.28,341.87,845.77,358.68,839.3,374.39Z"/></svg>
+                        </span>
+                        Financial knowledge and decision-making skills
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div></li>
+                    <li class="u-mb30"><div class="activity">
+    <h3><a class="activity_title-link" href="/practitioner-resources/youth-financial-education/teach/activities/exploring-community-colleges/">Exploring community colleges</a></h3>
+    <p class="meta">
+        <span class="a-date">
+            Updated
+            <span class="datetime">
+                <time class="datetime_date" datetime="2020-11-06">
+                    Nov 06, 2020
+                </time>
+            </span>
+        </span>
+    </p>
+    <p>
+        <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm329.9 449.4l-68.7 63.5-69.3 64.1 27.5 138.5 9.1 45.9c10.1 50.9-18.7 71.9-64 46.5l-164.1-91.8-164.1 91.8c-45.3 25.4-74.1 4.4-64-46.5l9.1-45.9 9.1-45.9 18.4-92.6-69.3-64.1-34.4-31.8-34.4-31.8c-38.1-35.3-27.1-69.1 24.4-75.2l93-11 93.8-11.1L441.3 329l19.6-42.5c21.8-47.2 57.4-47.2 79.1 0l19.6 42.5 59.2 128.2 93.8 11.1 93 11c51.4 6.2 62.4 40.1 24.3 75.3z"/></svg>
+        </span>
+        <span class="activity_for">Ideal for: High school (9-10), High school (11-12)</span>
+    </p>
+    <p class="lead-paragraph u-mb30">Students learn about the benefits of community college and consider whether attending community college could be a good option to help them prepare for their future.</p>
+    <div class="activity_meta-wrapper">
+        <div>
+            <h4 class="h5">Key information</h4>
+            <div class="layout-row u-mb15">
+                <h5 class="activity_meta-key">Topic:</h5>
+                Earn (Making money), Spend (Paying for college)
+            </div>
+            <div class="layout-row">
+                <h5 class="activity_meta-key">Activity duration:</h5>
+                45-60 minutes
+            </div>
+        </div>
+        <div>
+            <h4 class="h5">Building block</h4>
+            <ul class="m-list__unstyled">
+                    <li>
+                        <span class="a-icon a-icon__large a-icon__space-after">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500.48,100C224.34,99.74.26,323.38,0,599.52S223.38,1099.74,499.52,1100,999.74,876.62,1000,600.48,776.62,100.26,500.48,100ZM839.3,374.39,778.74,606a24,24,0,0,1-41.25,5.53l-45.51-59-13.73-17.8-128.2,98.18-.28,296a49.94,49.94,0,1,1-99.89,0L450.16,633,321.75,534.69,308,552.49l-45.51,59A24,24,0,0,1,221.26,606L160.7,374.4c-6.46-15.71,5-32.52,21.12-33.24H425.5a24,24,0,0,1,15.84,38.48l-51.08,66.23L383,455.32l117,89.62,117-89.63-7.29-9.45-51.08-66.23a24,24,0,0,1,15.84-38.48H818.18C834.28,341.87,845.77,358.68,839.3,374.39Z"/></svg>
+                        </span>
+                        Financial knowledge and decision-making skills
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div></li>
                     <li class="u-mb30"><div class="activity">
     <h3><a class="activity_title-link" href="/practitioner-resources/youth-financial-education/teach/activities/calculating-numbers-your-paycheck/">Calculating the numbers in your paycheck</a></h3>
     <p class="meta">
@@ -2518,95 +2624,6 @@
         </div>
     </div>
 </div></li>
-                    <li class="u-mb30"><div class="activity">
-    <h3><a class="activity_title-link" href="/practitioner-resources/youth-financial-education/teach/activities/understanding-jobs-teens-taxes/">Understanding jobs, teens, and taxes</a></h3>
-    <p class="meta">
-        <span class="a-date">
-            Updated
-            <span class="datetime">
-                <time class="datetime_date" datetime="2020-07-24">
-                    Jul 24, 2020
-                </time>
-            </span>
-        </span>
-    </p>
-    <p>
-        <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm329.9 449.4l-68.7 63.5-69.3 64.1 27.5 138.5 9.1 45.9c10.1 50.9-18.7 71.9-64 46.5l-164.1-91.8-164.1 91.8c-45.3 25.4-74.1 4.4-64-46.5l9.1-45.9 9.1-45.9 18.4-92.6-69.3-64.1-34.4-31.8-34.4-31.8c-38.1-35.3-27.1-69.1 24.4-75.2l93-11 93.8-11.1L441.3 329l19.6-42.5c21.8-47.2 57.4-47.2 79.1 0l19.6 42.5 59.2 128.2 93.8 11.1 93 11c51.4 6.2 62.4 40.1 24.3 75.3z"/></svg>
-        </span>
-        <span class="activity_for">Ideal for: High school (9-10), High school (11-12)</span>
-    </p>
-    <p class="lead-paragraph u-mb30">Students review Internal Revenue Service webpages and respond to
-questions to explore the relationship between working and taxes.</p>
-    <div class="activity_meta-wrapper">
-        <div>
-            <h4 class="h5">Key information</h4>
-            <div class="layout-row u-mb15">
-                <h5 class="activity_meta-key">Topic:</h5>
-                Earn (Getting paid, Making money, Paying taxes)
-            </div>
-            <div class="layout-row">
-                <h5 class="activity_meta-key">Activity duration:</h5>
-                15-20 minutes
-            </div>
-        </div>
-        <div>
-            <h4 class="h5">Building block</h4>
-            <ul class="m-list__unstyled">
-                    <li>
-                        <span class="a-icon a-icon__large a-icon__space-after">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500.48,100C224.34,99.74.26,323.38,0,599.52S223.38,1099.74,499.52,1100,999.74,876.62,1000,600.48,776.62,100.26,500.48,100ZM839.3,374.39,778.74,606a24,24,0,0,1-41.25,5.53l-45.51-59-13.73-17.8-128.2,98.18-.28,296a49.94,49.94,0,1,1-99.89,0L450.16,633,321.75,534.69,308,552.49l-45.51,59A24,24,0,0,1,221.26,606L160.7,374.4c-6.46-15.71,5-32.52,21.12-33.24H425.5a24,24,0,0,1,15.84,38.48l-51.08,66.23L383,455.32l117,89.62,117-89.63-7.29-9.45-51.08-66.23a24,24,0,0,1,15.84-38.48H818.18C834.28,341.87,845.77,358.68,839.3,374.39Z"/></svg>
-                        </span>
-                        Financial knowledge and decision-making skills
-                    </li>
-            </ul>
-        </div>
-    </div>
-</div></li>
-                    <li class="u-mb30"><div class="activity">
-    <h3><a class="activity_title-link" href="/practitioner-resources/youth-financial-education/teach/activities/exploring-life-after-high-school-science/">Exploring life after high school in science</a></h3>
-    <p class="meta">
-        <span class="a-date">
-            Updated
-            <span class="datetime">
-                <time class="datetime_date" datetime="2020-04-06">
-                    Apr 06, 2020
-                </time>
-            </span>
-        </span>
-    </p>
-    <p>
-        <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm329.9 449.4l-68.7 63.5-69.3 64.1 27.5 138.5 9.1 45.9c10.1 50.9-18.7 71.9-64 46.5l-164.1-91.8-164.1 91.8c-45.3 25.4-74.1 4.4-64-46.5l9.1-45.9 9.1-45.9 18.4-92.6-69.3-64.1-34.4-31.8-34.4-31.8c-38.1-35.3-27.1-69.1 24.4-75.2l93-11 93.8-11.1L441.3 329l19.6-42.5c21.8-47.2 57.4-47.2 79.1 0l19.6 42.5 59.2 128.2 93.8 11.1 93 11c51.4 6.2 62.4 40.1 24.3 75.3z"/></svg>
-        </span>
-        <span class="activity_for">Ideal for: High school (9-10), High school (11-12)</span>
-    </p>
-    <p class="lead-paragraph u-mb30">Students research a career in science on the U.S. Department of Labor-sponsored careeronestop.org website to gain insights on what that career involves and how they might prepare for it.</p>
-    <div class="activity_meta-wrapper">
-        <div>
-            <h4 class="h5">Key information</h4>
-            <div class="layout-row u-mb15">
-                <h5 class="activity_meta-key">Topic:</h5>
-                Earn (Making money)
-            </div>
-            <div class="layout-row">
-                <h5 class="activity_meta-key">Activity duration:</h5>
-                45-60 minutes
-            </div>
-        </div>
-        <div>
-            <h4 class="h5">Building block</h4>
-            <ul class="m-list__unstyled">
-                    <li>
-                        <span class="a-icon a-icon__large a-icon__space-after">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500.48,100C224.34,99.74.26,323.38,0,599.52S223.38,1099.74,499.52,1100,999.74,876.62,1000,600.48,776.62,100.26,500.48,100ZM839.3,374.39,778.74,606a24,24,0,0,1-41.25,5.53l-45.51-59-13.73-17.8-128.2,98.18-.28,296a49.94,49.94,0,1,1-99.89,0L450.16,633,321.75,534.69,308,552.49l-45.51,59A24,24,0,0,1,221.26,606L160.7,374.4c-6.46-15.71,5-32.52,21.12-33.24H425.5a24,24,0,0,1,15.84,38.48l-51.08,66.23L383,455.32l117,89.62,117-89.63-7.29-9.45-51.08-66.23a24,24,0,0,1,15.84-38.48H818.18C834.28,341.87,845.77,358.68,839.3,374.39Z"/></svg>
-                        </span>
-                        Financial knowledge and decision-making skills
-                    </li>
-            </ul>
-        </div>
-    </div>
-</div></li>
             </ul>
         </div>
         <div class="results_footer">
@@ -2628,7 +2645,7 @@ questions to explore the relationship between working and taxes.</p>
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    1 out of 3 total pages
+                    1 out of 4 total pages
                 </span>
             </label>
                         <input type="hidden"
@@ -2645,11 +2662,11 @@ questions to explore the relationship between working and taxes.</p>
                    name="page"
                    type="number"
                    min="1"
-                   max="3"
+                   max="4"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="1">
-            <span class="m-pagination_label"> of 3</span>
+            <span class="m-pagination_label"> of 4</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

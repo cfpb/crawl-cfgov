@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1449,13 +1449,13 @@
                 <div class="h3 hover"><a href="/ask-cfpb/can-a-lender-make-me-provide-documents-like-my-w-2-or-pay-stub-in-order-to-give-me-a-loan-estimate-en-147/" class="hover">Can a lender make me provide documents like my W-2 or pay stub in order to give me a Loan Estimate?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-applied-for-a-loan-modification-or-other-options-to-avoid-foreclosure-but-was-denied-help-my-lender-said-i-didnt-meet-the-qualifications-for-help-can-i-appeal-en-1841/" class="hover">I applied for a loan modification or other options to avoid foreclosure, but was denied help. My lender said I didn’t meet the qualifications for help. Can I appeal?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/i-recently-declared-bankruptcy-now-my-mortgage-servicer-said-its-not-allowed-to-send-me-a-monthly-mortgage-statement-is-that-correct-en-1937/" class="hover">I recently declared bankruptcy. Now my mortgage servicer said it’s not allowed to send me a monthly mortgage statement. Is that correct?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/my-mortgage-lender-told-me-it-was-exempt-from-the-ability-to-repay-mortgage-rule-is-this-true-en-1793/" class="hover">My mortgage lender told me it was exempt from the ability-to-repay mortgage rule. Is this true?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-the-ability-to-repay-rule-why-is-it-important-to-me-en-1787/" class="hover">What is the ability-to-repay rule? Why is it important to me?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/a-mortgage-relief-company-offered-to-help-with-my-mortgage-problems-if-i-paid-them-a-fee-in-advance-should-i-pay-the-fee-en-276/" class="hover">A mortgage relief company offered to help with my mortgage problems if I paid them a fee in advance. Should I pay the fee?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/i146ve-been-contacted-by-a-mortgage-relief-company-is-there-anything-that-these-companies-have-to-tell-me-en-277/" class="hover">I&#39;ve been contacted by a mortgage relief company. Is there anything that these companies have to tell me?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

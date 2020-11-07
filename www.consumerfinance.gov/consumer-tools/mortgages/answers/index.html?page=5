@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.768e173b62c4.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.7260cd3fc54d.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.7260cd3fc54d.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.e77a2208fcbe.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.6fdb299cd8c8.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1431,34 +1431,34 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-an-option-or-payment-option-arm-en-102/" class="hover">What is an option or payment-option ARM?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/what-are-mortgage-origination-services-what-is-an-origination-fee-en-155/" class="hover">What are mortgage origination services? What is an origination fee?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-was-the-national-mortgage-settlement-en-2071/" class="hover">What was the National Mortgage Settlement?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/what-costs-will-i-have-to-pay-as-part-of-taking-out-a-mortgage-loan-en-153/" class="hover">What costs will I have to pay as part of taking out a mortgage loan?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/are-there-any-different-requirements-for-same-sex-spouses-jointly-applying-for-a-va-loan-en-2061/" class="hover">Are there any different requirements for same-sex spouses jointly applying for a VA Loan?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/is-there-any-way-i-can-see-if-there-have-been-disciplinary-actions-against-my-broker-en-134/" class="hover">Is there any way I can see if there have been disciplinary actions against my broker?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-exactly-happens-when-a-mortgage-lender-checks-my-credit-en-2005/" class="hover">What exactly happens when a mortgage lender checks my credit?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-the-difference-between-a-mortgage-broker-and-a-mortgage-lender-en-130/" class="hover">What is the difference between a mortgage broker and a mortgage lender?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-the-total-interest-percentage-tip-on-a-mortgage-en-2001/" class="hover">What is the Total Interest Percentage (TIP) on a mortgage?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/where-can-i-get-a-mortgage-en-129/" class="hover">Where can I get a mortgage?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-demand-feature-what-does-it-mean-if-the-demand-feature-is-checked-off-on-my-closing-disclosure-en-1997/" class="hover">What is a demand feature? What does it mean if the demand feature is checked off on my Closing Disclosure?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/whats-the-difference-between-a-prequalification-letter-and-a-preapproval-letter-en-127/" class="hover">What’s the difference between a prequalification letter and a preapproval letter?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/why-is-the-title-insurance-premium-on-the-loan-estimate-and-closing-disclosure-different-from-the-premium-listed-on-the-paperwork-i-received-from-the-title-insurance-company-am-i-being-charged-more-en-1993/" class="hover">Why is the title insurance premium on the Loan Estimate and Closing Disclosure different from the premium listed on the paperwork I received from the title insurance company? Am I being charged more?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/a-friend-asked-me-to-be-a-co-signer-on-a-mortgage-loan-what-does-that-mean-en-124/" class="hover">A friend asked me to be a co-signer on a mortgage loan. What does that mean?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-information-do-i-have-to-provide-a-lender-in-order-to-receive-a-loan-estimate-en-1987/" class="hover">What information do I have to provide a lender in order to receive a Loan Estimate?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-loan-to-value-ratio-and-how-does-it-relate-to-my-costs-en-121/" class="hover">What is a loan-to-value ratio and how does it relate to my costs?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/with-an-adjustable-rate-mortgage-arm-what-are-rate-caps-and-how-do-they-work-en-1951/" class="hover">With an adjustable-rate mortgage (ARM), what are rate caps and how do they work?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-jumbo-loan-en-116/" class="hover">What is a jumbo loan?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/" class="hover">How does paying down a mortgage work?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-conforming-loan-en-115/" class="hover">What is a conforming loan?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
