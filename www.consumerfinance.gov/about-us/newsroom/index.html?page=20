@@ -3030,7 +3030,7 @@ country. </p>
         Subscribe to get our press releases by email.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_39030098b1ac1a"
+          id="o-form__email-signup_3903c622db529c"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3041,11 +3041,11 @@ country. </p>
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_39030098b1ac1a">
+            <label class="a-label a-label__heading" for="email_3903c622db529c">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_39030098b1ac1a"
+                   id="email_3903c622db529c"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"
