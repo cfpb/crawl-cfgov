@@ -2194,7 +2194,7 @@
         Subscribe to get our press releases by email.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_3903c8fdc407fc"
+          id="o-form__email-signup_39048912dcda6a"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -2205,11 +2205,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_3903c8fdc407fc">
+            <label class="a-label a-label__heading" for="email_39048912dcda6a">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_3903c8fdc407fc"
+                   id="email_39048912dcda6a"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"

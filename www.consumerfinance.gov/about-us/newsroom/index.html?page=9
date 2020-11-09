@@ -2970,7 +2970,7 @@ enhancements to its advisory committee charters. </span></p>
         Subscribe to get our press releases by email.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_3903c3488e337c"
+          id="o-form__email-signup_390486795ee9ee"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -2981,11 +2981,11 @@ enhancements to its advisory committee charters. </span></p>
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_3903c3488e337c">
+            <label class="a-label a-label__heading" for="email_390486795ee9ee">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_3903c3488e337c"
+                   id="email_390486795ee9ee"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"

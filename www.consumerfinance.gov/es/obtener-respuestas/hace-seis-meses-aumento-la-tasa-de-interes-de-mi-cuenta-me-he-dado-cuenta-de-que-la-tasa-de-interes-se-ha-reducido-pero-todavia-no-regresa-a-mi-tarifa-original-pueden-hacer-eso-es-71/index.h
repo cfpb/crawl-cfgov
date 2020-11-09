@@ -425,7 +425,7 @@
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="xCCuP0bWDyF8DF1beKDxT34Mq3BE1uasGjDUVem2GXtC3s6baJZkFGchhALQM7st">
+        <input type="hidden" name="csrfmiddlewaretoken" value="0bYI0B7fYDcO80BMJEv0p4Lyp2DKyJOdh9pj11ZIJWDiZhz0FLxRdiW5onoqskiu">
         <input type="hidden" name="form_id" value="form-user_feedback-0">
         <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/ask-cfpb/six-months-ago-the-interest-rate-on-my-account-was-increased-i-have-noticed-that-the-interest-rate-has-been-reduced-but-is-still-not-going-back-to-my-original-rate-can-they-do-that-en-71/">
         <input type="hidden" name="language" value="es">

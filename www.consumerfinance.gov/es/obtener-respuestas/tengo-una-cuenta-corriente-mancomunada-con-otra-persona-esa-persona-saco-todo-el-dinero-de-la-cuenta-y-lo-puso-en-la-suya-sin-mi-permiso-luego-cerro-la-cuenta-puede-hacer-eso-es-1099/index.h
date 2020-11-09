@@ -427,7 +427,7 @@
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="dwxLUtrgZOfl30M66Qr98yfYiaQtxHDOmdyb0HCm2d3PtNR62PNWUbnt9H0FikVP">
+        <input type="hidden" name="csrfmiddlewaretoken" value="w1F3y8R1jI25I3D4Lc2qbLRjaKb6QNcKNZ6EzyJu41tzzkBiHj4hZZ2Q95WMKoG1">
         <input type="hidden" name="form_id" value="form-user_feedback-0">
         <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/ask-cfpb/i-have-a-joint-checking-account-with-another-person-they-transferred-all-the-money-out-of-the-account-and-into-their-own-private-account-without-my-permission-they-then-closed-the-account-can-they-do-that-en-1099/">
         <input type="hidden" name="language" value="es">
