@@ -1615,7 +1615,7 @@
   <option value="mick-mulvaney">Mick Mulvaney</option>
   <option value="camille-busette">Camille Busette</option>
   <option value="kelly-cochran">Kelly Cochran</option>
-  <option value="kathy-kraninger">Kathy Kraninger</option>
+  <option value="meredith-fuchs">Meredith Fuchs</option>
   <option value="nora-dowd-eisenhower">Nora Dowd Eisenhower</option>
   <option value="david-silberman">David Silberman</option>
   <option value="stephen-agostini">Stephen Agostini</option>
@@ -1624,7 +1624,7 @@
   <option value="marla-blow">Marla Blow</option>
   <option value="peggy-twohig">Peggy Twohig</option>
   <option value="dan-sokolov">Dan Sokolov</option>
-  <option value="meredith-fuchs">Meredith Fuchs</option>
+  <option value="kathy-kraninger">Kathy Kraninger</option>
 </select>
                             </div>
                         </div>
@@ -3007,7 +3007,7 @@
         Subscribe to get our press releases by email.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_390488fe1998b8"
+          id="o-form__email-signup_3905582e7029da"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3018,11 +3018,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_390488fe1998b8">
+            <label class="a-label a-label__heading" for="email_3905582e7029da">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_390488fe1998b8"
+                   id="email_3905582e7029da"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"

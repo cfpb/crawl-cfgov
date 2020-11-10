@@ -1645,6 +1645,7 @@
   <option value="janice-mitchell">Janice Mitchell</option>
   <option value="peter-jackson">Peter Jackson</option>
   <option value="camille-busette">Camille Busette</option>
+  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="marla-blow">Marla Blow</option>
   <option value="victor-zapanta">Victor Zapanta</option>
   <option value="maria-jaramillo">Maria Jaramillo</option>
@@ -1682,7 +1683,6 @@
   <option value="michael-pierce">Michael Pierce</option>
   <option value="nick-rathod">Nick Rathod</option>
   <option value="dennis-slagter">Dennis Slagter</option>
-  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="wei-zhang">Wei Zhang</option>
   <option value="dan-munz">Dan Munz</option>
   <option value="elizabeth-reilly">Elizabeth Reilly</option>
@@ -1872,13 +1872,57 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1309 filtered results</div>
+          <div class="h4 m-notification_message">1310 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-11-27T00:00:00">NOV 27, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/proposed-changes-to-the-remittance-rule-and-an-extension-of-rules-effective-date/">
+                    Proposed changes to the remittance rule and an extension of rule’s effective date
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Updated on August 8, 2013: The remittance rule goes into effect October 28, 2013. Visit the remittance rule page for additional information regarding the rule including the most recent updates. Today we issued a bulletin explaining that we intend to propose certain limited adjustments to our rule on international money transfers, as well as a […]</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=cfpb-web-team">CFPB Web Team</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Money transfers
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2991,56 +3035,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Policy and compliance
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-09-26T00:00:00">SEP 26, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/working-to-help-industry-understand-and-comply-with-the-new-remittance-rule-countries-list-and-webinar/">
-                    Working to help industry understand and comply with the new remittance rule: Countries list and webinar
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Updated on August 8, 2013: The remittance rule goes into effect October 28, 2013. Visit the remittance rule page for additional information regarding the rule including the most recent updates. The rule to implement the consumer protections created by the Dodd-Frank Act for certain electronic transfers of funds to other countries – the remittance rule […]</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=cfpb-web-team">CFPB Web Team</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Money transfers
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -3099,7 +3093,7 @@
         Subscribe to receive our latest blog posts in your inbox.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_390488c47ed672"
+          id="o-form__email-signup_390557e2557a94"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3110,11 +3104,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_390488c47ed672">
+            <label class="a-label a-label__heading" for="email_390557e2557a94">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_390488c47ed672"
+                   id="email_390557e2557a94"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"

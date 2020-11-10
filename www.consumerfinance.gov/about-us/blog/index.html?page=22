@@ -1645,6 +1645,7 @@
   <option value="janice-mitchell">Janice Mitchell</option>
   <option value="peter-jackson">Peter Jackson</option>
   <option value="camille-busette">Camille Busette</option>
+  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="marla-blow">Marla Blow</option>
   <option value="victor-zapanta">Victor Zapanta</option>
   <option value="maria-jaramillo">Maria Jaramillo</option>
@@ -1682,7 +1683,6 @@
   <option value="michael-pierce">Michael Pierce</option>
   <option value="nick-rathod">Nick Rathod</option>
   <option value="dennis-slagter">Dennis Slagter</option>
-  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="wei-zhang">Wei Zhang</option>
   <option value="dan-munz">Dan Munz</option>
   <option value="elizabeth-reilly">Elizabeth Reilly</option>
@@ -1872,13 +1872,67 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1309 filtered results</div>
+          <div class="h4 m-notification_message">1310 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-01-03T00:00:00">JAN 03, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/what-you-need-know-understanding-why-offers-your-credit-score-are-not-all-same/">
+                    What you need to know: Understanding why offers for “your” credit score are not all the same
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>There are many credit scores available to you as a
+consumer as well as to lenders. A credit score you receive may not be the same
+score your lender is using to make a credit decision. Your credit score starts
+with the information in your credit report and may be different depending on
+the data used to calculate it.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=stephanie-brenowitz">Stephanie Brenowitz</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit reports and scores
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3236,70 +3290,6 @@ offered credit repair services.  </p>
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-09-22T00:00:00">SEP 22, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/mailfraud2.original.jpg"
-                     alt="">
-            </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/dont-let-malicious-mail-make-your-money/">
-                    Don’t let malicious mail make off with your money
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Download our new mail fraud placemat to give you, or a
-loved one, helpful reminders of common warning signs of mail fraud.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=naomi-karp">Naomi Karp</a>
-                    and 
-                    <a href="?authors=james-miner">James Miner</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Identity theft and fraud
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=older-americans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Older Americans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial education
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -3358,7 +3348,7 @@ loved one, helpful reminders of common warning signs of mail fraud.</p>
         Subscribe to receive our latest blog posts in your inbox.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_390487ea12f6d8"
+          id="o-form__email-signup_390556825c712e"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3369,11 +3359,11 @@ loved one, helpful reminders of common warning signs of mail fraud.</p>
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_390487ea12f6d8">
+            <label class="a-label a-label__heading" for="email_390556825c712e">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_390487ea12f6d8"
+                   id="email_390556825c712e"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"
