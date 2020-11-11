@@ -1502,10 +1502,10 @@
   <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="compliance">Compliance</option>
   <option value="medical-debt">Medical debt</option>
-  <option value="privacy">Privacy</option>
   <option value="mortgage-origination">Mortgage origination</option>
-  <option value="redlining">Redlining</option>
+  <option value="privacy">Privacy</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="redlining">Redlining</option>
   <option value="civil-penalty-fund">Civil Penalty Fund</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="identity-theft">Identity theft</option>
@@ -1809,6 +1809,8 @@
   <option value="andrew-cohen">Andrew Cohen</option>
   <option value="todd-zywicki">Todd Zywicki</option>
   <option value="lisa-schifferle">Lisa Schifferle</option>
+  <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
 </select>
                             </div>
                         </div>
@@ -1872,13 +1874,71 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1310 filtered results</div>
+          <div class="h4 m-notification_message">1311 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-03-17T00:00:00">MAR 17, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/cfpb-seeks-comment-its-plan-assessing-remittance-rule/">
+                    We are seeking comment on our plan for assessing the remittance rule
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>We have released a plan to assess the effectiveness of the remittance rule and are asking the public for comments and information that would help the assessment.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=scott-fulford">Scott Fulford</a>
+                    and 
+                    <a href="?authors=paul-rothstein">Paul Rothstein</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Money transfers
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Rulemaking
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=regulation-e" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Regulation E
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3198,71 +3258,6 @@ building a strong financial foundation for your new home.</p>
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2017-01-05T00:00:00">JAN 05, 2017</time>
-</span>
-                </span>
-            </div>
-        </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/OA_student_loans_010417_Blog.original.png"
-                     alt="Older Americans student loans illustration">
-            </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/four-tips-help-older-student-loan-borrowers-navigate-common-problems-their-student-loans/">
-                    Four tips to help older student loan borrowers navigate common problems with their student loans
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>As the number of older Americans with student debt has
-quadrupled, older borrowers complain about many problems with lenders, loan
-servicers, and debt collectors that exacerbate their financial challenges.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=stacy-canan">Stacy Canan</a>
-                    and 
-                    <a href="?authors=seth-frotman">Seth Frotman</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Consumer complaints
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=older-americans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Older Americans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=student-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Student loans
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -3321,7 +3316,7 @@ servicers, and debt collectors that exacerbate their financial challenges.</p>
         Subscribe to receive our latest blog posts in your inbox.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_3905566a53fdd2"
+          id="o-form__email-signup_3906206fff5f78"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3332,11 +3327,11 @@ servicers, and debt collectors that exacerbate their financial challenges.</p>
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_3905566a53fdd2">
+            <label class="a-label a-label__heading" for="email_3906206fff5f78">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_3905566a53fdd2"
+                   id="email_3906206fff5f78"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"

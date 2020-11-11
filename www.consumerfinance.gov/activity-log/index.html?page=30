@@ -1475,8 +1475,8 @@
   <option value="auto-loans">Auto loans</option>
   <option value="youth">Youth</option>
   <option value="fair-lending">Fair lending</option>
-  <option value="everyone-has-a-story">Everyone has a story</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="everyone-has-a-story">Everyone has a story</option>
   <option value="discrimination">Discrimination</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="mortgage-closing">Mortgage closing</option>
@@ -1846,6 +1846,8 @@
   <option value="andrew-cohen">Andrew Cohen</option>
   <option value="todd-zywicki">Todd Zywicki</option>
   <option value="lisa-schifferle">Lisa Schifferle</option>
+  <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
 </select>
                             </div>
                         </div>
@@ -1909,7 +1911,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2911 filtered results</div>
+          <div class="h4 m-notification_message">2912 filtered results</div>
       </div>
   </div>
         </div>
@@ -1928,6 +1930,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=op-ed"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 672.8 1200" class="cf-icon-svg"><path d="M80.2 968.7h511.7c16.1 0 29.2 13.1 29.2 29.2v72.1c0 16.1-13.1 29.2-29.2 29.2H80.2c-16.1 0-29.2-13.1-29.2-29.2v-72.1c.1-16.1 13.1-29.2 29.2-29.2zM665.7 615.5l-9-7.1C528.2 508.3 447 331.1 426.3 123.2v-.5c-.1-16.6-13.5-30-30.1-29.9-15.5.1-28.5 12-29.8 27.4V574c43.8 16.6 65.8 65.5 49.2 109.2s-65.5 65.8-109.2 49.2-65.8-65.5-49.2-109.2c8.6-22.7 26.5-40.6 49.2-49.2V119.8c-1.6-16.5-16.3-28.6-32.8-27-15.4 1.5-27.1 14.4-27.1 29.9C226.1 329.8 144 506.6 16.4 607l-1.2 1-8 6.2c-9 6.4-9.6 23.3-1.4 37.5l.6 1 132 228.6c8.2 14.3 28.5 26 45 26h306.8c16.5 0 36.8-11.7 45-26L666.4 654l.6-1c8.3-14.3 7.7-31.2-1.3-37.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Op-ed
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/hearing-directly-from-our-servicemembers/">
+                        <span class="h4 u-mb0">
+                            Hearing Directly from Our Servicemembers
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2011-01-18T00:00:00">JAN 18, 2011</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">

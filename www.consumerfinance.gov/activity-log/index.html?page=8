@@ -1475,8 +1475,8 @@
   <option value="auto-loans">Auto loans</option>
   <option value="youth">Youth</option>
   <option value="fair-lending">Fair lending</option>
-  <option value="everyone-has-a-story">Everyone has a story</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="everyone-has-a-story">Everyone has a story</option>
   <option value="discrimination">Discrimination</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="mortgage-closing">Mortgage closing</option>
@@ -1846,6 +1846,8 @@
   <option value="andrew-cohen">Andrew Cohen</option>
   <option value="todd-zywicki">Todd Zywicki</option>
   <option value="lisa-schifferle">Lisa Schifferle</option>
+  <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
 </select>
                             </div>
                         </div>
@@ -1909,7 +1911,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2911 filtered results</div>
+          <div class="h4 m-notification_message">2912 filtered results</div>
       </div>
   </div>
         </div>
@@ -1928,6 +1930,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/we-are-accepting-applications-our-advisory-board-and-councils-abc/">
+                        <span class="h4 u-mb0">
+                            We are accepting applications for our Advisory Board and Councils (ABC)
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2018-03-19T00:00:00">MAR 19, 2018</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -4005,27 +4028,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2017-09-25T00:00:00">SEP 25, 2017</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/does-your-college-sponsor-affordable-bank-account/">
-                        <span class="h4 u-mb0">
-                            Does your college sponsor an affordable bank account?
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2017-09-22T00:00:00">SEP 22, 2017</time>
 </span>
                 </td>
             </tr>

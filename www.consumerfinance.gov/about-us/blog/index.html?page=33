@@ -1502,10 +1502,10 @@
   <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="compliance">Compliance</option>
   <option value="medical-debt">Medical debt</option>
-  <option value="privacy">Privacy</option>
   <option value="mortgage-origination">Mortgage origination</option>
-  <option value="redlining">Redlining</option>
+  <option value="privacy">Privacy</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="redlining">Redlining</option>
   <option value="civil-penalty-fund">Civil Penalty Fund</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="identity-theft">Identity theft</option>
@@ -1809,6 +1809,8 @@
   <option value="andrew-cohen">Andrew Cohen</option>
   <option value="todd-zywicki">Todd Zywicki</option>
   <option value="lisa-schifferle">Lisa Schifferle</option>
+  <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
 </select>
                             </div>
                         </div>
@@ -1872,13 +1874,75 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1310 filtered results</div>
+          <div class="h4 m-notification_message">1311 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        At the CFPB
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2014-09-19T00:00:00">SEP 19, 2014</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/save-the-date-join-us-for-a-credit-union-advisory-council-meeting-in-washington-dc/">
+                    Save the date: Join us for a Credit Union Advisory Council meeting in Washington, D.C.
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>RSVP to join us for a Credit Union Advisory Council meeting in Washington, D.C., where we’ll discuss overdrafts and consumer complaints.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=delicia-hand">Delicia Hand</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=overdrafts" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Overdrafts
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=credit-union-advisory-council" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit Union Advisory Council
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Consumer complaints
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=credit-unions" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit unions
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3119,56 +3183,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2014-07-17T00:00:00">JUL 17, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/everyone-has-a-story-what-yours/">
-                    Everyone has a story—what’s yours?
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Your stories matter to us. They inspire and inform the work we do. They can help us spot issues in the financial markets, illustrate challenges people are having, uncover insights into the products and services you depend on, and identify and fix problems before they become major issues. The result is a better outcome for everyone – a fair financial marketplace.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=ashley-gordon">Ashley Gordon</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=everyone-has-a-story" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Everyone has a story
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Consumer complaints
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -3227,7 +3241,7 @@
         Subscribe to receive our latest blog posts in your inbox.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_390557793536fc"
+          id="o-form__email-signup_390621cb4fe450"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3238,11 +3252,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_390557793536fc">
+            <label class="a-label a-label__heading" for="email_390621cb4fe450">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_390557793536fc"
+                   id="email_390621cb4fe450"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"

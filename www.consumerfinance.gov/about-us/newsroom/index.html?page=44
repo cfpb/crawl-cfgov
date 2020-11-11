@@ -3057,7 +3057,7 @@
         Subscribe to get our press releases by email.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_390557e4a439fe"
+          id="o-form__email-signup_39062266cfd536"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3068,11 +3068,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_390557e4a439fe">
+            <label class="a-label a-label__heading" for="email_39062266cfd536">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_390557e4a439fe"
+                   id="email_39062266cfd536"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"
