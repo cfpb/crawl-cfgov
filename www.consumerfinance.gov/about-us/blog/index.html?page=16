@@ -3377,7 +3377,7 @@ valuable money lessons over the holidays.</p>
         Subscribe to receive our latest blog posts in your inbox.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_39061fcd228ea2"
+          id="o-form__email-signup_3906eb1a0e9284"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3388,11 +3388,11 @@ valuable money lessons over the holidays.</p>
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_39061fcd228ea2">
+            <label class="a-label a-label__heading" for="email_3906eb1a0e9284">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_39061fcd228ea2"
+                   id="email_3906eb1a0e9284"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"
