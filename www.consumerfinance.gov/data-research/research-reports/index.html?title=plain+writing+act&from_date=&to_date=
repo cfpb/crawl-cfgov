@@ -1476,8 +1476,8 @@
   <option value="mortgages">Mortgages</option>
   <option value="student-loans">Student loans</option>
   <option value="financial-well-being">Financial well-being</option>
-  <option value="supervision">Supervision</option>
   <option value="credit-cards">Credit cards</option>
+  <option value="supervision">Supervision</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="discrimination">Discrimination</option>
   <option value="older-americans">Older Americans</option>
@@ -1511,12 +1511,12 @@
   <option value="prepaid-cards">Prepaid cards</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="bureau-milestones">Bureau milestones</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="overdrafts">Overdrafts</option>
   <option value="reverse-mortgages">Reverse mortgages</option>
   <option value="checking-account">Checking account</option>
-  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="financial-coaching">Financial coaching</option>
   <option value="procurement">Procurement</option>
@@ -1926,6 +1926,18 @@ statutory responsibilities pursuant to the Plain Writing Act of 2010.</p>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/new-report-explores-prevalence-actual-payment-information-consumer-credit-reporting/">
+                        New report explores the prevalence of actual payment information in consumer credit reporting
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-11-12T00:00:00">NOV 12, 2020</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/bureau-adopts-new-procedures-external-peer-review-research/">
                         Bureau adopts new procedures for external peer review of important research
                     </a>
@@ -1944,18 +1956,6 @@ statutory responsibilities pursuant to the Plain Writing Act of 2010.</p>
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2020-07-24T00:00:00">JUL 24, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/report-synthesizes-evidence-based-strategies-build-emergency-savings/">
-                        New report synthesizes evidence-based strategies to build emergency savings
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-17T00:00:00">JUL 17, 2020</time>
 </span>
                 </p>
             </li>

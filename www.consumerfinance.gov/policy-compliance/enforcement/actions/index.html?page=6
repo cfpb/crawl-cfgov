@@ -1648,13 +1648,43 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">268 filtered results</div>
+          <div class="h4 m-notification_message">269 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2016-09-12T00:00:00">SEP 12, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/policy-compliance/enforcement/actions/bridgepoint-education-inc/">
+                    Bridgepoint Education, Inc.
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The CFPB today took action against for-profit college chain Bridgepoint
+Education, Inc. for deceiving students into taking out private student loans
+that cost more than advertised. The Bureau is ordering Bridgepoint to discharge
+all outstanding private loans the institution made to its students and to
+refund loan payments already made by borrowers.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2323,32 +2353,6 @@ allegedly exposing millions of consumers to harassment and deceit.</span><br/></
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2015-12-07T00:00:00">DEC 07, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/policy-compliance/enforcement/actions/collecto/">
-                    Collecto, Inc. d/b/a EOS CCA
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>CFPB filed a federal complaint against EOS CCA (EOS), a Massachusetts debt collection firm, for reporting and collecting on old cellphone debt that consumers disputed and EOS did not verify. <br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2459,6 +2463,18 @@ allegedly exposing millions of consumers to harassment and deceit.</span><br/></
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/consumer-financial-protection-bureau-announces-settlement-debt-collector-credit-reporting-violation/">
+                        Consumer Financial Protection Bureau Announces Settlement with Debt Collector for Credit Reporting Violation
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-11-12T00:00:00">NOV 12, 2020</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/consumer-financial-protection-bureau-files-lawsuit-against-driver-loan-llc-and-its-ceo/">
                         Consumer Financial Protection Bureau Files Lawsuit Against Driver Loan, LLC And Its CEO
                     </a>
@@ -2473,18 +2489,6 @@ allegedly exposing millions of consumers to harassment and deceit.</span><br/></
                     <a class="m-list_link"
                        href="/about-us/newsroom/consumer-financial-protection-bureau-takes-action-against-debt-relief-business-and-its-owner-taking-illegal-advance-fees/">
                         Consumer Financial Protection Bureau Takes Action Against Debt-Relief Business and Its Owner for Taking Illegal Advance Fees
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-05T00:00:00">NOV 05, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/consumer-financial-protection-bureau-issues-no-action-letter-facilitate-consumer-access-small-dollar-loans/">
-                        Consumer Financial Protection Bureau Issues No Action Letter to Facilitate Consumer Access to Small-Dollar Loans
                     </a>
                 </h3>
                 <p class="a-date">

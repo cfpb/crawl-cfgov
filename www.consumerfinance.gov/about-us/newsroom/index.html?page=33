@@ -1688,13 +1688,59 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1332 filtered results</div>
+          <div class="h4 m-notification_message">1333 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2014-08-14T00:00:00">AUG 14, 2014</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/cfpb-shuts-down-usa-discounters-servicemember-fee-scam/">
+                    CFPB Shuts Down USA Discounters’ Servicemember Fee Scam
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p><strong>WASHINGTON, D.C.—</strong> The Consumer Financial Protection Bureau (CFPB) today put an end to a servicemember fee scam run by USA Discounters, Ltd., a company that operates a chain of retail stores near military bases and offers financing for purchases. USA Discounters tricked thousands of servicemembers into paying fees for legal protections servicemembers already had and for certain services that the company failed to provide. The CFPB has obtained more than $350,000 in refunds for servicemembers harmed by this scam, and USA Discounters will pay an additional $50,000 civil penalty.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=servicemembers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Servicemembers
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2859,70 +2905,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2014-06-17T00:00:00">JUN 17, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-federal-partners-and-state-attorneys-general-file-order-requiring-suntrust-to-provide-540-million-in-relief-to-homeowners-for-servicing-wrongs/">
-                    CFPB, Federal Partners, and State Attorneys General File Order Requiring SunTrust to Provide $540 Million in Relief to Homeowners for Servicing Wrongs
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Today, the Consumer Financial Protection Bureau (CFPB), Department of Justice (DOJ), Department of Housing and Urban Development (HUD), and attorneys general in 49 states and the District of Columbia filed a proposed federal court order requiring SunTrust Mortgage, Inc. to provide $500 million in loss-mitigation relief to underwater borrowers. The order also requires SunTrust to pay $40 million to approximately 48,000 consumers who lost their homes to foreclosure and $10 million to the federal government. The order addresses systemic mortgage servicing misconduct, including robo-signing and illegal foreclosure practices. SunTrust must also pay a $418 million penalty, in a parallel mortgage lending filing announced by DOJ today.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=foreclosure" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Foreclosure
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Enforcement
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=deceptive-practices" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Deceptive practices
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2979,7 +2961,7 @@
         Subscribe to get our press releases by email.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_3906ed711a9e1e"
+          id="o-form__email-signup_3907ad3948fc7c"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -2990,11 +2972,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_3906ed711a9e1e">
+            <label class="a-label a-label__heading" for="email_3907ad3948fc7c">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_3906ed711a9e1e"
+                   id="email_3907ad3948fc7c"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"

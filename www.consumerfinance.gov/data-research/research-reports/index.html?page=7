@@ -1476,8 +1476,8 @@
   <option value="mortgages">Mortgages</option>
   <option value="student-loans">Student loans</option>
   <option value="financial-well-being">Financial well-being</option>
-  <option value="supervision">Supervision</option>
   <option value="credit-cards">Credit cards</option>
+  <option value="supervision">Supervision</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="discrimination">Discrimination</option>
   <option value="older-americans">Older Americans</option>
@@ -1511,12 +1511,12 @@
   <option value="prepaid-cards">Prepaid cards</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="bureau-milestones">Bureau milestones</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="overdrafts">Overdrafts</option>
   <option value="reverse-mortgages">Reverse mortgages</option>
   <option value="checking-account">Checking account</option>
-  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="financial-coaching">Financial coaching</option>
   <option value="procurement">Procurement</option>
@@ -1614,13 +1614,55 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">386 filtered results</div>
+          <div class="h4 m-notification_message">387 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        To Congress
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-07-05T00:00:00">JUL 05, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/2017-strategic-sustainability-performance-plan/">
+                    2017 Strategic Sustainability Performance Plan
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The
+Consumer Financial Protection Bureau’s Strategic Sustainability Performance
+Plan (SSPP) provides information on the Bureau’s efforts to improve the environment
+and contribute to federal sustainability goals.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Open government
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2913,73 +2955,6 @@ consumers who carry a balance.</p>
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        Supervisory Highlights
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2017-03-02T00:00:00">MAR 02, 2017</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/supervisory-highlights-consumer-reporting-special-edition/">
-                    Supervisory Highlights Consumer Reporting Special Edition
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>In this issue of <i>Supervisory Highlights</i>,
-we share findings from recent supervisory examination observations in consumer
-reporting. These observations include findings from examinations at consumer
-reporting companies and at companies that furnish information to consumer
-reporting companies.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-credit-reporting-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Credit Reporting Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=financial-service-providers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial service providers
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -3045,6 +3020,18 @@ reporting companies.</p>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/new-report-explores-prevalence-actual-payment-information-consumer-credit-reporting/">
+                        New report explores the prevalence of actual payment information in consumer credit reporting
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-11-12T00:00:00">NOV 12, 2020</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/bureau-adopts-new-procedures-external-peer-review-research/">
                         Bureau adopts new procedures for external peer review of important research
                     </a>
@@ -3063,18 +3050,6 @@ reporting companies.</p>
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2020-07-24T00:00:00">JUL 24, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/report-synthesizes-evidence-based-strategies-build-emergency-savings/">
-                        New report synthesizes evidence-based strategies to build emergency savings
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-17T00:00:00">JUL 17, 2020</time>
 </span>
                 </p>
             </li>
