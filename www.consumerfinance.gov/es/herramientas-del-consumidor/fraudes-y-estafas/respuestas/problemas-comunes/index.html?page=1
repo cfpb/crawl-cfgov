@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -423,9 +423,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/un-vendedor-telefonico-tomo-dinero-de-mi-cuenta-corriente-a-pesar-de-que-no-acepte-comprar-nada-puedo-recuperar-el-dinero-es-1073/" class="hover">Un vendedor telefónico tomó dinero de mi cuenta corriente a pesar de que no acepté comprar nada. ¿Puedo recuperar el dinero?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/emiti-un-cheque-y-la-persona-a-quien-se-lo-di-aumento-su-importe-antes-de-cobrarlo-el-bancola-cooperativa-de-credito-pago-la-suma-mas-alta-en-lugar-de-la-que-yo-habia-escrito-que-puedo-hacer-es-1003/" class="hover">Emití un cheque y la persona a quien se lo di aumentó su importe antes de cobrarlo. El banco/la cooperativa de crédito pagó la suma más alta en lugar de la que yo había escrito. ¿Qué puedo hacer?</a></div>
             </article>
             <article>
@@ -433,6 +430,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/alguien-compro-algo-que-yo-tenia-en-venta-en-linea-y-me-envio-un-cheque-o-giro-por-una-cantidad-mayor-al-precio-del-articulo-me-pidieron-que-les-devuelva-la-diferencia-hay-algun-problema-con-esto-es-997/" class="hover">Alguien compró algo que yo tenía en venta en línea y me envió un cheque o giro por una cantidad mayor al precio del artículo. Me pidieron que les devuelva la diferencia. ¿Hay algún problema con esto?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/un-vendedor-telefonico-tomo-dinero-de-mi-cuenta-corriente-a-pesar-de-que-no-acepte-comprar-nada-puedo-recuperar-el-dinero-es-1073/" class="hover">Un vendedor telefónico tomó dinero de mi cuenta corriente a pesar de que no acepté comprar nada. ¿Puedo recuperar el dinero?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/alguien-me-llamo-y-me-dijo-que-gane-una-beca-y-necesitaba-la-informacion-de-mi-cuenta-para-depositar-el-dinero-sin-embargo-ahora-veo-que-esa-persona-retiro-dinero-que-puedo-hacer-es-1071/" class="hover">Alguien me llamó y me dijo que gané una beca y necesitaba la información de mi cuenta para depositar el dinero. Sin embargo, ahora veo que esa persona retiró dinero. ¿Qué puedo hacer?</a></div>

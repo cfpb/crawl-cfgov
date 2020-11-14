@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -423,25 +423,19 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/vi-un-anuncio-de-una-hipoteca-inversa-sin-pago-por-parte-del-departamento-de-asuntos-de-los-veteranos-va-es-de-verdad-lo-que-anuncia-es-1719/" class="hover">Vi publicidad sobre una hipoteca inversa sin pago del Departamento de Asuntos de los Veteranos (VA, por sus siglas en inglés). ¿Es verdad lo que anuncia?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/que-sucede-si-tengo-una-hipoteca-inversa-y-debo-mudarme-para-ir-a-un-hogar-de-ancianos-o-a-vivir-con-algun-familiar-es-243/" class="hover">¿Qué sucede si tengo una hipoteca inversa y debo mudarme para ir a un hogar de ancianos, o a vivir con algún familiar?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/podran-mis-hijos-o-herederos-retener-mi-vivienda-despues-que-yo-muera-si-tengo-un-prestamo-de-hipoteca-inversa-es-242/" class="hover">¿Podrán mis hijos o herederos retener mi vivienda después que yo muera, si tengo un préstamo de hipoteca inversa?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/que-sucede-si-el-saldo-del-prestamo-de-mi-hipoteca-inversa-crece-hasta-ser-mayor-que-el-valor-de-mi-vivienda-es-1217/" class="hover">¿Qué sucede si el saldo del préstamo de mi hipoteca inversa crece hasta ser mayor que el valor de mi vivienda?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/si-mi-conyuge-muere-o-se-muda-a-un-hogar-de-ancianos-que-ocurre-con-mi-hipoteca-inversa-es-241/" class="hover">Si mi cónyuge muere o se muda a un hogar de ancianos, ¿qué ocurre con mi hipoteca inversa?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/que-debo-hacer-si-no-recibo-un-formulario-de-divulgacion-de-cierre-tres-dias-antes-del-cierre-de-mi-hipoteca-es-1911/" class="hover">¿Qué debo hacer si no recibo un formulario de divulgación de cierre tres días antes del cierre de mi hipoteca?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/el-administrador-de-mi-prestamo-me-ofrecio-una-hipoteca-de-apreciacion-compartida-como-medio-de-modificacion-que-significa-eso-es-270/" class="hover">El administrador de mi préstamo me ofreció una hipoteca de apreciación compartida como medio de modificación. ¿Qué significa eso?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-debo-hacer-si-encuentro-un-error-en-uno-de-mis-documentos-de-cierre-del-prestamo-hipotecario-es-1917/" class="hover">¿Qué debo hacer si encuentro un error en uno de mis documentos de cierre del préstamo hipotecario?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-hago-si-mi-vivienda-queda-da%C3%B1ada-o-destruida-o-si-no-puedo-hacer-mis-pagos-luego-de-un-desastre-es-1521/" class="hover">¿Qué hago si mi vivienda queda dañada o destruida, o si no puedo hacer mis pagos luego de un desastre?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/si-pierdo-mi-vivienda-en-una-ejecucion-hipotecaria-puedo-volver-a-comprar-una-vivienda-que-efecto-tendra-una-ejecucion-hipotecaria-en-mi-informe-de-credito-es-326/" class="hover">Si pierdo mi vivienda en una ejecución hipotecaria, ¿puedo volver a comprar una vivienda? ¿Qué efecto tendrá una ejecución hipotecaria en mi informe de crédito?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/tanto-mi-conyuge-como-yo-somos-integrantes-de-las-fuerzas-militares-o-veteranos-y-ambos-somos-elegibles-para-prestamos-para-la-vivienda-de-la-va-podemos-usar-uno-de-nuestros-prestamos-para-comprar-una-vivienda-vacacional-o-una-propiedad-para-es-305/" class="hover">Tanto mi cónyuge como yo somos integrantes de las Fuerzas Armadas o veteranos y ambos somos elegibles para préstamos para vivienda de la VA. ¿Podemos usar uno de nuestros préstamos para comprar una vivienda vacacional o una propiedad para alquilarla como inversión?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/recibi-una-carta-de-mi-administrador-de-hipoteca-acerca-de-mi-solicitud-de-ayuda-para-prevenir-la-ejecucion-hipotecaria-de-mi-prestamo-puede-usted-ayudarme-a-entender-algunos-de-los-terminos-es-1807/" class="hover">Recibí una carta de mi proveedor de servicios hipotecarios acerca de mi solicitud de ayuda para prevenir la ejecución hipotecaria de mi préstamo. ¿Puede ayudarme a entender algunos de los términos?</a></div>
@@ -451,6 +445,12 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/el-administrador-de-mi-prestamo-hipotecario-no-ha-respondido-a-mi-notificacion-de-error-ni-a-mi-solicitud-de-informacion-que-puedo-hacer-es-211/" class="hover">El administrador de mi préstamo hipotecario no ha respondido a una notificación de error o solicitud de información que le envié. ¿Qué puedo hacer?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/alguien-se-ofrecio-a-escribirle-una-solicitud-de-informacion-o-una-disputa-por-error-a-mi-administrador-hipotecario-de-mi-parte-a-cambio-de-pago-monetario-puedo-hacer-esto-gratis-es-210/" class="hover">Alguien se ofreció a escribirme una solicitud de información o una disputa por error para mi administrador hipotecario a cambio de un pago monetario. ¿Puedo hacer esto gratis?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/me-dijeron-que-yo-era-demasiado-joven-para-obtener-un-prestamo-hipotecario-esto-es-posible-es-345/" class="hover">Me dijeron que yo era demasiado joven para obtener un préstamo hipotecario. ¿Es esto posible?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

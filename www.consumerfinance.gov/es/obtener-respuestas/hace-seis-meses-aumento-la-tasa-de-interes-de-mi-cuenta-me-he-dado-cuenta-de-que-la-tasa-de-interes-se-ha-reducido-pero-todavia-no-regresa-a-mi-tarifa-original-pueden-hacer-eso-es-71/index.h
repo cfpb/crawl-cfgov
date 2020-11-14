@@ -7,30 +7,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>
-    Hace seis meses aumentó la tasa de interés de mi cuenta. Me he dado cuenta de que la tasa de interés se ha reducido, pero todavía no regresa a mi tarifa original. ¿Pueden hacer eso?
-</title>
+    <title>Hace seis meses aumentó la tasa de interés de mi cuenta. Me he dado cuenta de que la tasa de interés se ha reducido, pero todavía no regresa a mi tarifa original. ¿Pueden hacer eso?</title>
     <meta name="description"
-          content="
-    A un emisor de tarjeta que aumenta su tasa de interés generalmente se le exige que revise su tasa por lo menos una vez cada seis meses para determinar si las razones para el aumento de la ...
-">
+          content="A un emisor de tarjeta que aumenta su tasa de interés generalmente se le exige que revise su tasa por lo menos una vez cada seis meses para determinar si ...">
     <link rel="canonical" href="https://www.consumerfinance.gov/es/obtener-respuestas/hace-seis-meses-aumento-la-tasa-de-interes-de-mi-cuenta-me-he-dado-cuenta-de-que-la-tasa-de-interes-se-ha-reducido-pero-todavia-no-regresa-a-mi-tarifa-original-pueden-hacer-eso-es-71/">
-    <meta property="og:title" content="
-    Hace seis meses aumentó la tasa de interés de mi cuenta. Me he dado cuenta de que la tasa de interés se ha reducido, pero todavía no regresa a mi tarifa original. ¿Pueden hacer eso?
-">
+    <meta property="og:title" content="Hace seis meses aumentó la tasa de interés de mi cuenta. Me he dado cuenta de que la tasa de interés se ha reducido, pero todavía no regresa a mi tarifa original. ¿Pueden hacer eso?">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.consumerfinance.gov/es/obtener-respuestas/hace-seis-meses-aumento-la-tasa-de-interes-de-mi-cuenta-me-he-dado-cuenta-de-que-la-tasa-de-interes-se-ha-reducido-pero-todavia-no-regresa-a-mi-tarifa-original-pueden-hacer-eso-es-71/">
         <meta property="og:image" content="https://files.consumerfinance.gov/f/images/ask-cfpb-social-credit-cards.original.png">
         <meta property="twitter:image" content="https://files.consumerfinance.gov/f/images/ask-cfpb-social-credit-cards.original.png">
             <meta name="twitter:card" content="summary_large_image">
     <meta property="og:description"
-          content="">
+          content="A un emisor de tarjeta que aumenta su tasa de interés generalmente se le exige que revise su tasa por lo menos una vez cada seis meses para determinar si ...">
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -425,7 +419,7 @@
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="vU0fBfxHjPYu5z4SB1CKZE28xKD8twagYCDDbX6KGbtwAQZjxjU1sDgvfRaWHsGk">
+        <input type="hidden" name="csrfmiddlewaretoken" value="XOWXFASfiIwphEtnewKQCC8pad46DaKeLaTYjF56ZNQTwG52kSH8RU6VlKUWPdN7">
         <input type="hidden" name="form_id" value="form-user_feedback-0">
         <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/ask-cfpb/six-months-ago-the-interest-rate-on-my-account-was-increased-i-have-noticed-that-the-interest-rate-has-been-reduced-but-is-still-not-going-back-to-my-original-rate-can-they-do-that-en-71/">
         <input type="hidden" name="language" value="es">

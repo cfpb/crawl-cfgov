@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1431,13 +1431,13 @@
                 <div class="h3 hover"><a href="/ask-cfpb/what-is-a-government-benefit-card-en-409/" class="hover">What is a government benefit card?</a></div>
             </article>
             <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-the-difference-between-a-prepaid-card-a-credit-card-and-a-debit-card-en-433/" class="hover">What is the difference between a prepaid card, a credit card, and a debit card?</a></div>
+            </article>
+            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/if-my-employer-offers-me-a-payroll-card-do-i-have-to-accept-it-en-407/" class="hover">If my employer offers me a payroll card, do I have to accept it?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/how-do-i-shop-for-buy-a-prepaid-card-en-395/" class="hover">How do I shop for and buy a prepaid card?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-the-difference-between-a-prepaid-card-a-credit-card-and-a-debit-card-en-433/" class="hover">What is the difference between a prepaid card, a credit card, and a debit card?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/is-the-money-on-my-prepaid-card-fdic-insured-en-529/" class="hover">Is the money on my prepaid card FDIC-insured?</a></div>

@@ -60,14 +60,14 @@
     Unless adding a significant amount of CSS that is specific to a single page or section of the site,
     all new styles should be added to cfgov/v1/unprocessed/css/main.less.
 -->
-<link rel="stylesheet" href="/static/apps/paying-for-college/css/main.2f5dd4d05c0d.css">
+<link rel="stylesheet" href="/static/apps/paying-for-college/css/main.cd699864de9c.css">
     <!--[if lt IE 9]>
-    <link rel="stylesheet" href="/static/css/header.nonresponsive.82ba97bc7595.css"/>
-    <link rel="stylesheet" href="/static/css/footer.nonresponsive.d86554c2eb70.css"/>
+    <link rel="stylesheet" href="/static/css/header.nonresponsive.dfd7091aa89e.css"/>
+    <link rel="stylesheet" href="/static/css/footer.nonresponsive.1a9f27d37479.css"/>
     <![endif]-->
     <!--[if gt IE 8]><!-->
-    <link rel="stylesheet" href="/static/css/header.34960fabae80.css"/>
-    <link rel="stylesheet" href="/static/css/footer.991a68cff843.css"/>
+    <link rel="stylesheet" href="/static/css/header.375d2b41692d.css"/>
+    <link rel="stylesheet" href="/static/css/footer.591837a75046.css"/>
     <!--<![endif]-->
 <!--
     ============
@@ -1397,7 +1397,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             before reviewing your offer.
                         </h2>
                         <form class="verify_form">
-                          <input type="hidden" name="csrfmiddlewaretoken" value="ODWbCPy2r0ppNZd6rLly1HKr8IO64HsShlzzcx75OmUrig8xn3DPuGYOQPlUiDYW">
+                          <input type="hidden" name="csrfmiddlewaretoken" value="tLdCJe2WaIHRxSF788zEb22U4rtZmX4xh7aDnjfNRN1lMUhMeuwWqk0qfYjPy07q">
                             <div class="verify_school">
                                 Ashford University
                             </div>

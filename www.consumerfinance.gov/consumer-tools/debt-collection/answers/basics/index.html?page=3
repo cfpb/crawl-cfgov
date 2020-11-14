@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1428,6 +1428,15 @@
         <section class="results">
             <div class="page-links">
             <article>
+                <div class="h3 hover"><a href="/ask-cfpb/should-i-get-a-payday-loan-if-i-need-money-now-en-1583/" class="hover">Should I get a payday loan if I need money now?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/how-might-a-private-student-lender-collect-payments-from-me-en-667/" class="hover">How might a private student lender collect payments from me?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-happens-if-i-default-on-a-federal-student-loan-en-663/" class="hover">What happens if I default on a federal student loan?</a></div>
+            </article>
+            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/can-a-creditor-refer-my-account-to-collection-agency-before-debt-is-due-do-i-have-to-be-told-before-debt-turn-in-to-collections-en-1539/" class="hover">Can a creditor refer my account  to a collection agency before my debt is due? Do I have to be told before a debt is turned in to collections? </a></div>
             </article>
             <article>
@@ -1441,15 +1450,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/what-is-a-debt-collector-and-why-are-they-contacting-me-en-330/" class="hover">What is a debt collector and why are they contacting me?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/should-i-get-a-payday-loan-if-i-need-money-now-en-1583/" class="hover">Should I get a payday loan if I need money now?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/how-might-a-private-student-lender-collect-payments-from-me-en-667/" class="hover">How might a private student lender collect payments from me?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-happens-if-i-default-on-a-federal-student-loan-en-663/" class="hover">What happens if I default on a federal student loan?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/what-should-i-do-when-a-debt-collector-contacts-me-en-1695/" class="hover">What should I do when a debt collector contacts me?</a></div>

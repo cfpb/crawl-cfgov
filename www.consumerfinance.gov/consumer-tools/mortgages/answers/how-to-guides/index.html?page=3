@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1428,18 +1428,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-should-i-do-if-i-find-an-error-in-one-of-my-mortgage-closing-documents-en-1917/" class="hover">What should I do if I find an error in one of my mortgage closing documents?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-think-i146ve-been-scammed-by-someone-promising-to-help-me-with-my-mortgage-loan-what-should-i-do-en-273/" class="hover">I think I&#39;ve been scammed by someone promising to help me with my mortgage loan. What should I do?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/how-can-i-tell-who-owns-my-mortgage-en-214/" class="hover">How can I tell who owns my mortgage?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-disagree-with-my-mortgage-servicer-about-the-amount-it-says-that-i-owe-what-can-i-do-en-212/" class="hover">I disagree with my mortgage servicer about the amount it says that I owe. What can I do?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/what-should-i-do-if-i-dont-understand-one-of-my-mortgage-closing-documents-en-1913/" class="hover">What should I do if I don’t understand one of my mortgage closing documents?</a></div>
             </article>
             <article>
@@ -1456,6 +1444,18 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/someone-offered-to-write-an-information-request-or-error-dispute-to-my-mortgage-servicer-for-a-fee-can-i-do-this-for-free-en-210/" class="hover">Someone offered to write an information request or error dispute to my mortgage servicer for a fee. Can I do this for free?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/if-i-have-been-affected-by-a-natural-disaster-what-should-i-do-in-the-days-immediately-following-it-en-1513/" class="hover">What should I do after a disaster to protect my finances and property?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/my-mortgage-servicer-refuses-to-accept-my-payment-what-can-i-do-en-221/" class="hover">My mortgage servicer refuses to accept my payment. What can I do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-should-i-do-if-get-tax-bill-from-city-county-saying-mortgage-servicer-did-not-pay-my-taxes-en-218/" class="hover">What should I do if I get a tax bill from the city or county saying that my mortgage servicer did not pay my taxes?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-should-i-do-if-i-find-an-error-in-one-of-my-mortgage-closing-documents-en-1917/" class="hover">What should I do if I find an error in one of my mortgage closing documents?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

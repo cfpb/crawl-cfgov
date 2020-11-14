@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -423,18 +423,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/no-estoy-casadoa-pero-quiero-presentar-una-solicitud-conjunta-de-hipoteca-o-prestamo-con-garantia-hipotecaria-junto-con-otra-persona-podemos-ser-tratados-de-forma-distinta-a-solicitantes-conjuntos-que-esten-casados-es-357/" class="hover">No estoy casado(a), pero quiero presentar una solicitud conjunta de hipoteca o préstamo con garantía hipotecaria, junto con otra persona. ¿Podemos ser tratados de forma distinta a los solicitantes conjuntos que estén casados?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/estoy-casadoa-o-estuve-casadoa-y-estoy-solicitando-una-hipoteca-o-prestamo-con-garantia-hipotecaria-a-mi-nombre-un-prestamista-o-corredor-me-puede-preguntar-acerca-de-mi-conyuge-o-ex-conyuge-es-352/" class="hover">Estoy casado o estuve casado, y estoy solicitando una hipoteca o préstamo con garantía hipotecaria a mi nombre. ¿Puede un prestamista o corredor preguntarme acerca de mi cónyuge o excónyuge?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/acabo-de-iniciar-un-nuevo-negocio-e-intente-obtener-un-prestamo-hipotecario-para-mi-compania-creo-que-el-prestamista-tuvo-un-trato-discriminatorio-en-mi-contra-y-en-contra-de-mi-empresa-que-derechos-tengo-conforme-a-la-ley-es-344/" class="hover">Acabo de iniciar un nuevo negocio e intenté obtener un préstamo hipotecario para mi compañía. Creo que el prestamista tuvo un trato discriminatorio en mi contra y en contra de mi empresa. ¿Qué derechos tengo conforme a la ley?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/una-compania-de-ayuda-hipotecaria-se-ha-comunicado-conmigo-que-tipo-de-informacion-me-deberia-comunicar-es-277/" class="hover">Una compañía de ayuda hipotecaria se ha comunicado conmigo. ¿Qué información debería darme?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/una-compania-de-ayuda-hipotecaria-me-ofrecio-asistencia-con-mis-problemas-hipotecarios-si-les-pago-por-adelantado-debo-hacer-ese-pago-es-276/" class="hover">Una compañía de ayuda hipotecaria me ofreció asistencia con mis problemas hipotecarios si les pago por adelantado. ¿Debo hacer ese pago?</a></div>
             </article>
             <article>
@@ -451,6 +439,18 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/en-el-cierre-del-prestamo-hipotecario-tengo-que-firmar-aunque-no-me-gusten-los-terminos-del-mismo-es-185/" class="hover">En el cierre del préstamo hipotecario, ¿tengo que firmar aunque no me gusten los términos del mismo?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/recibi-una-estimacion-de-prestamo-actualizada-de-mi-prestamista-que-muestra-una-mayor-tasa-de-interes-y-gastos-de-cierre-mas-altos-que-quiere-decir-esto-es-1991/" class="hover">Recibí una Estimación del Préstamo actualizada de mi prestamista que muestra una mayor tasa de interés y gastos de cierre más altos. ¿Qué quiere decir esto?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/mi-prestamista-o-corredor-dijo-que-mi-conyuge-tenia-que-firmar-conjuntamente-conmigo-mi-prestamo-hipotecario-esto-es-cierto-es-359/" class="hover">Mi prestamista o corredor dijo que mi cónyuge tenía que firmar conjuntamente conmigo mi préstamo hipotecario. ¿Esto es cierto?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/me-divorcie-y-mi-prestamista-cancelo-mi-linea-de-credito-hipotecario-mi-prestamista-puede-hacer-eso-es-358/" class="hover">Me divorcié y mi prestamista canceló mi línea de crédito hipotecario. ¿Mi prestamista puede hacer eso?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/una-persona-que-contrate-para-ayudarme-con-la-hipoteca-me-aconsejo-dejar-de-pagar-mi-prestamo-hipotecario-para-entonces-calificar-para-una-modificacion-de-prestamo-tengo-que-hacer-esto-es-275/" class="hover">Una persona que contraté para ayudarme con la hipoteca me aconsejó dejar de pagar mi préstamo hipotecario para entonces calificar para una modificación de préstamo. ¿Tengo que hacer esto?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

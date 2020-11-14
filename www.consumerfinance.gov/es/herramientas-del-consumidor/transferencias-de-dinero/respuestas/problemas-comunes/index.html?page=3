@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -421,13 +421,13 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/oi-que-muchos-estafadores-utilizan-transferencias-electronicas-de-dinero-para-robar-el-dinero-de-la-gente-esto-es-verdad-como-puedo-protegerme-es-1743/" class="hover">Oí que muchos estafadores utilizan transferencias electrónicas de dinero para robar el dinero de la gente. ¿Es esto verdad? ¿Cómo puedo protegerme?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/le-pedi-a-una-compania-que-transfiriera-dinero-a-otro-pais-pero-no-me-dio-informacion-acerca-de-las-tarifas-y-tasas-de-cambio-por-que-es-1735/" class="hover">Le pedí a una compañía que transfiriera dinero a otro país, pero no me dio información acerca de las tarifas y tasas de cambio. ¿Por qué?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/puedo-cancelar-una-transferencia-de-dinero-es-1737/" class="hover">¿Puedo cancelar una transferencia de dinero?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/envie-dinero-al-extranjero-y-mi-recibo-incluye-tres-numeros-de-telefono-para-llamar-en-caso-de-un-problema-a-cual-debo-llamar-es-1763/" class="hover">Envié dinero al extranjero y mi recibo incluye tres números de teléfono para llamar en caso de un problema. ¿A cuál debo llamar?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/envie-dinero-a-un-amigo-en-otro-pais-pero-la-cantidad-recibida-fue-menor-que-la-que-envie-que-puedo-hacer-es-1745/" class="hover">Envié dinero a un amigo en otro país, pero la cantidad recibida fue menor que la que envié. ¿Qué puedo hacer?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

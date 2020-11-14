@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1428,15 +1428,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-should-i-think-about-before-applying-for-reverse-mortgage-en-228/" class="hover">What should I think about before applying for a reverse mortgage loan and what should I ask a reverse mortgage counselor?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/can-anyone-apply-for-a-reverse-mortgage-loan-en-227/" class="hover">Can anyone take out a reverse mortgage loan?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-happens-my-reverse-mortgage-when-i-die-en-2096/" class="hover">What happens to my reverse mortgage when I die?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/can-my-partner-family-or-dependents-if-i-have-a-reverse-mortgage-en-1213/" class="hover">Can my partner, family, or dependents live in my home if I have a reverse mortgage?</a></div>
             </article>
             <article>
@@ -1453,6 +1444,15 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/what-are-appraisals-and-why-do-i-need-to-look-at-them-en-167/" class="hover">What are appraisals and why do I need to look at them?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/can-i-use-a-reverse-mortgage-loan-to-buy-a-home-en-238/" class="hover">Can I use a reverse mortgage loan to buy a home?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/when-do-i-have-to-pay-back-a-reverse-mortgage-loan-en-236/" class="hover">When do I have to pay back a reverse mortgage loan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/do-i-have-to-use-an-estate-planning-service-or-pay-to-find-a-reverse-mortgage-en-229/" class="hover">Do I have to use an estate planning service or pay to find a reverse mortgage?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/what-is-a-higher-priced-mortgage-loan-en-1797/" class="hover">What is a “higher-priced mortgage loan?”</a></div>

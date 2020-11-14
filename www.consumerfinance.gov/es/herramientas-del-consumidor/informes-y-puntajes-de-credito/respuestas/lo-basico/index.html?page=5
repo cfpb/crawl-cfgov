@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -423,10 +423,7 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/las-cuentas-de-tarjetas-de-credito-conjuntas-con-mi-conyuge-afectan-mi-puntaje-de-credito-es-1289/" class="hover">¿Las cuentas de tarjetas de crédito conjuntas con mi cónyuge afectan mi puntaje de crédito?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-puede-un-emisor-de-tarjetas-mirar-mi-informe-de-credito-es-3/" class="hover">¿Cuándo puede un emisor de tarjetas mirar mi informe de crédito?</a></div>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-obtener-una-copia-de-mi-informe-de-credito-es-5/" class="hover">¿Cómo puedo obtener una copia de mi informe de crédito?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-encontrar-a-un-asesor-de-credito-es-1351/" class="hover">¿Cómo puedo encontrar a un asesor de crédito?</a></div>
@@ -442,6 +439,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-disputar-un-error-en-mi-informe-de-credito-es-314/" class="hover">¿Cómo puedo disputar un error en mi informe de crédito?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-puede-un-emisor-de-tarjetas-mirar-mi-informe-de-credito-es-3/" class="hover">¿Cuándo puede un emisor de tarjetas mirar mi informe de crédito?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/se-puede-danar-mi-puntaje-de-credito-si-no-pago-una-parte-de-la-factura-en-disputa-es-66/" class="hover">¿Se puede dañar mi puntaje de crédito si no pago una parte de la factura en disputa?</a></div>

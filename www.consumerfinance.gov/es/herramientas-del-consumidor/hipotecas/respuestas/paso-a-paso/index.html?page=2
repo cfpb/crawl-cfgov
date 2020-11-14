@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -423,12 +423,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-saber-el-monto-maximo-de-prestamo-para-un-prestamo-de-la-fha-en-mi-condado-es-1963/" class="hover">¿Cómo puedo saber el monto máximo de préstamo para un préstamo de la FHA en mi condado?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-obtener-un-estado-de-cuenta-electronico-de-mi-hipoteca-cada-cierto-tiempo-es-1877/" class="hover">¿Cómo puedo obtener un estado de cuenta electrónico de mi hipoteca cada cierto tiempo?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/estoy-por-cerrar-mi-prestamo-hipotecario-que-cosas-debo-hacer-antes-durante-y-despues-de-realizar-el-cierre-de-la-hipoteca-es-1907/" class="hover">Estoy por cerrar mi préstamo hipotecario. ¿Qué cosas debo hacer antes, durante y después de realizar el cierre de la hipoteca?</a></div>
             </article>
             <article>
@@ -436,6 +430,12 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-saber-si-puedo-comprar-una-casa-y-sacar-un-credito-hipotecario-es-118/" class="hover">¿Cómo puedo saber si puedo comprar una casa y sacar un crédito hipotecario?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-saber-el-monto-maximo-de-prestamo-para-un-prestamo-de-la-fha-en-mi-condado-es-1963/" class="hover">¿Cómo puedo saber el monto máximo de préstamo para un préstamo de la FHA en mi condado?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-obtener-un-estado-de-cuenta-electronico-de-mi-hipoteca-cada-cierto-tiempo-es-1877/" class="hover">¿Cómo puedo obtener un estado de cuenta electrónico de mi hipoteca cada cierto tiempo?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/que-debo-hacer-si-no-entiendo-uno-de-mis-documentos-de-cierre-del-prestamo-hipotecario-es-1913/" class="hover">¿Qué debo hacer si no entiendo uno de mis documentos de cierre del préstamo hipotecario?</a></div>

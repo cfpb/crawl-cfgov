@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1431,6 +1431,12 @@
         <section class="results">
             <div class="page-links">
             <article>
+                <div class="h3 hover"><a href="/ask-cfpb/my-credit-card-statement-now-has-a-credit-score-what-does-this-mean-en-1863/" class="hover">My credit card statement now has a credit score. What does this mean?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/will-i-damage-my-credit-score-if-i-do-not-pay-a-portion-of-my-bill-that-i-am-disputing-en-66/" class="hover">Will I damage my credit score if I do not pay a portion of my bill that I am disputing?</a></div>
+            </article>
+            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/if-my-spouse-has-a-bad-credit-score-does-it-affect-my-credit-score-en-1291/" class="hover">If my spouse has a bad credit score, does it affect my credit score?</a></div>
             </article>
             <article>
@@ -1452,13 +1458,7 @@
                 <div class="h3 hover"><a href="/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/" class="hover">How do I dispute an error on my credit report?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/my-credit-card-statement-now-has-a-credit-score-what-does-this-mean-en-1863/" class="hover">My credit card statement now has a credit score. What does this mean?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/will-i-damage-my-credit-score-if-i-do-not-pay-a-portion-of-my-bill-that-i-am-disputing-en-66/" class="hover">Will I damage my credit score if I do not pay a portion of my bill that I am disputing?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/when-can-a-credit-card-company-look-at-my-credit-reports-en-3/" class="hover">When can a credit card company look at my credit reports?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/if-i-have-a-bad-credit-score-will-it-affect-my-fiances-score-if-we-get-married-en-1283/" class="hover">If I have a bad credit score, will it affect my fiancé&#39;s score if we get married?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1428,34 +1428,34 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-are-discount-points-and-lender-credits-and-how-do-they-work-en-136/" class="hover">What are (discount) points and lender credits and how do they work?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-the-difference-between-a-mortgage-interest-rate-and-an-apr-en-135/" class="hover">What is the difference between a mortgage interest rate and an APR?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-are-some-of-the-financial-considerations-when-thinking-about-buying-or-renting-a-home-en-119/" class="hover">What are some of the financial considerations when thinking about buying or renting a home?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-the-difference-between-a-fixed-rate-and-adjustable-rate-mortgage-arm-loan-en-100/" class="hover">What is the difference between a fixed-rate and adjustable-rate mortgage (ARM) loan?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/how-much-does-it-cost-to-receive-a-loan-estimate-en-2003/" class="hover">How much does it cost to receive a Loan Estimate?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-mortgage-insurance-and-how-does-it-work-en-1953/" class="hover">What is mortgage insurance and how does it work?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/if-i-am-considering-an-adjustable-rate-mortgage-arm-what-should-i-look-out-for-in-the-fine-print-en-1947/" class="hover">If I am considering an adjustable-rate mortgage (ARM), what should I look out for in the fine print?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/on-a-mortgage-whats-the-difference-between-my-principal-and-interest-payment-and-my-total-monthly-payment-en-1941/" class="hover">On a mortgage, what’s the difference between my principal and interest payment and my total monthly payment?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/im-about-to-close-on-a-mortgage-what-are-the-key-steps-i-can-expect-in-the-mortgage-closing-process-en-1905/" class="hover">I’m about to close on a mortgage. What are the key steps I can expect in the mortgage closing process?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/i-heard-about-the-new-federal-housing-authority-refinancing-option-with-reduced-fees-can-you-tell-me-more-about-it-en-363/" class="hover">I heard about the new Federal Housing Authority refinancing option with reduced fees. Can you tell me more about it?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i146ve-heard-about-something-called-the-hope153-hotline-what146s-that-en-263/" class="hover">I&#39;ve heard about something called the HOPE(TM) Hotline. What&#39;s that?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-fees-can-my-lender-charge-if-i-take-out-a-heloc-en-249/" class="hover">What fees can my lender charge if I take out a HELOC?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-the-difference-between-a-home-equity-loan-and-a-home-equity-line-of-credit-en-247/" class="hover">What is the difference between a Home Equity Loan and a Home Equity Line of Credit?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/do-i-need-an-attorney-or-anyone-else-to-represent-me-when-closing-on-a-mortgage-en-177/" class="hover">Do I need an attorney or anyone else to represent me when closing on a mortgage?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-required-mortgage-closing-services-can-i-shop-for-en-154/" class="hover">What required mortgage closing services can I shop for?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/how-do-mortgage-lenders-calculate-monthly-payments-en-1965/" class="hover">How do mortgage lenders calculate monthly payments?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/for-an-adjustable-rate-mortgage-arm-what-are-the-index-and-margin-and-how-do-they-work-en-1949/" class="hover">For an adjustable-rate mortgage (ARM), what are the index and margin, and how do they work?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-are-late-fees-on-a-mortgage-en-1927/" class="hover">What are late fees on a mortgage?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-am-a-servicemember-or-veteran-will-i-be-able-to-get-a-conventional-or-va-mortgage-on-a-manufactured-home-en-302/" class="hover">I am a servicemember or veteran. Will I be able to get a conventional or VA mortgage on a manufactured home?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

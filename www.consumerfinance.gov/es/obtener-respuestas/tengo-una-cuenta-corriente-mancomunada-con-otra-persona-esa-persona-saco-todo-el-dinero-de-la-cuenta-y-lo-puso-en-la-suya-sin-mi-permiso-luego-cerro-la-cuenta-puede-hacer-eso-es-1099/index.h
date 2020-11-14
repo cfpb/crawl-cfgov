@@ -7,30 +7,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>
-    Tengo una cuenta corriente mancomunada con otra persona. Esa persona sacó todo el dinero de la cuenta y lo puso en la suya sin mi permiso. Luego cerró la cuenta. ¿Puede hacer eso?
-</title>
+    <title>Tengo una cuenta corriente mancomunada con otra persona. Esa persona sacó todo el dinero de la cuenta y lo puso en la suya sin mi permiso. Luego cerró la cuenta. ¿Puede hacer eso?</title>
     <meta name="description"
-          content="
-    Cualquiera de las personas en la cuenta conjunta tiene el derecho de transferir fondos o cerrarla. Consulte el acuerdo de su cuenta para saber si eso aplica a su caso. Las leyes estatales también pueden ...
-">
+          content="Cualquiera de las&amp;nbsp;personas en la cuenta conjunta tiene el derecho de transferir fondos o cerrarla. Consulte el acuerdo de su cuenta para saber si eso ...">
     <link rel="canonical" href="https://www.consumerfinance.gov/es/obtener-respuestas/tengo-una-cuenta-corriente-mancomunada-con-otra-persona-esa-persona-saco-todo-el-dinero-de-la-cuenta-y-lo-puso-en-la-suya-sin-mi-permiso-luego-cerro-la-cuenta-puede-hacer-eso-es-1099/">
-    <meta property="og:title" content="
-    Tengo una cuenta corriente mancomunada con otra persona. Esa persona sacó todo el dinero de la cuenta y lo puso en la suya sin mi permiso. Luego cerró la cuenta. ¿Puede hacer eso?
-">
+    <meta property="og:title" content="Tengo una cuenta corriente mancomunada con otra persona. Esa persona sacó todo el dinero de la cuenta y lo puso en la suya sin mi permiso. Luego cerró la cuenta. ¿Puede hacer eso?">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://www.consumerfinance.gov/es/obtener-respuestas/tengo-una-cuenta-corriente-mancomunada-con-otra-persona-esa-persona-saco-todo-el-dinero-de-la-cuenta-y-lo-puso-en-la-suya-sin-mi-permiso-luego-cerro-la-cuenta-puede-hacer-eso-es-1099/">
         <meta property="og:image" content="https://files.consumerfinance.gov/f/images/ask-cfpb-social-bank-accounts-and-services.original.png">
         <meta property="twitter:image" content="https://files.consumerfinance.gov/f/images/ask-cfpb-social-bank-accounts-and-services.original.png">
             <meta name="twitter:card" content="summary_large_image">
     <meta property="og:description"
-          content="">
+          content="Cualquiera de las&amp;nbsp;personas en la cuenta conjunta tiene el derecho de transferir fondos o cerrarla. Consulte el acuerdo de su cuenta para saber si eso ...">
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -427,9 +421,9 @@
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="rzxHPeQ470EI3z2NSMkRd8e7pXownxbxUha5pWp7um9KyQXeO4C8G7su74VkBtHB">
+        <input type="hidden" name="csrfmiddlewaretoken" value="a2Vwf7xPakyL40MJ7gcxTdA2KrKJLAVnYoSxTcKGRpSfj2oodC9P8vyyVYAzXDYg">
         <input type="hidden" name="form_id" value="form-user_feedback-0">
-        <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/es/herramientas-del-consumidor/cuentas-bancarias/respuestas/problemas-comunes/">
+        <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/ask-cfpb/i-have-a-joint-checking-account-with-another-person-they-transferred-all-the-money-out-of-the-account-and-into-their-own-private-account-without-my-permission-they-then-closed-the-account-can-they-do-that-en-1099/">
         <input type="hidden" name="language" value="es">
         <div class="o-form_group">
             <h3>

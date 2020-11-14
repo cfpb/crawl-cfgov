@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1443,12 +1443,6 @@
                 <div class="h3 hover"><a href="/ask-cfpb/if-i-co-signed-for-a-student-loan-and-it-has-gone-into-default-what-happens-en-671/" class="hover">If I co-signed for a student loan and it has gone into default, what happens?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-want-to-apply-for-a-student-loan-can-a-creditor-ask-me-about-my-children-or-dependents-or-about-the-children-or-dependents-of-my-co-signer-en-711/" class="hover">I want to apply for a student loan.  Can a creditor ask me about my children or dependents or about the children or dependents of my co-signer?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-am-married-or-was-previously-married-and-i-am-applying-for-my-own-student-loan-can-a-creditor-ask-me-about-my-spouse-or-former-spouse-en-705/" class="hover">I am married or was previously married, and I am applying for my own student loan.  Can a creditor ask me about my spouse or former spouse?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/my-creditor-said-that-my-spouse-had-to-co-sign-my-student-loan-agreement-is-this-right-en-715/" class="hover">My creditor said that my spouse had to co-sign my student loan agreement.  Is this right?</a></div>
             </article>
             <article>
@@ -1456,6 +1450,12 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/if-i-am-married-can-a-creditor-turn-down-my-application-for-a-student-loan-in-my-own-name-en-703/" class="hover">If I am married, can a creditor turn down my application for a student loan in my own name?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-applied-for-a-student-loan-but-my-lender-denied-my-application-i-think-that-the-lender-discriminated-against-me-what-are-my-rights-under-the-law-en-689/" class="hover">I applied for a student loan but my lender denied my application.  I think that the lender discriminated against me.  What are my rights under the law?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-want-to-apply-for-a-student-loan-can-a-creditor-ask-me-about-my-children-or-dependents-or-about-the-children-or-dependents-of-my-co-signer-en-711/" class="hover">I want to apply for a student loan.  Can a creditor ask me about my children or dependents or about the children or dependents of my co-signer?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

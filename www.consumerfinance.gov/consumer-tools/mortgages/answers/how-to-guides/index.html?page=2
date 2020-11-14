@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1428,19 +1428,19 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/im-about-to-close-on-a-mortgage-what-should-i-do-before-during-and-after-the-mortgage-closing-en-1907/" class="hover">I’m about to close on a mortgage. What should I do before, during, and after the mortgage closing?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/how-can-i-determine-how-long-it-will-take-me-to-pay-off-my-mortgage-loan-en-175/" class="hover">How can I determine how long it will take me to pay off my mortgage loan?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i146m-in-the-military-active-guard-reserve-or-a-veteran-and-i146m-considering-buying-a-home-how-do-i-know-if-i146m-eligible-for-a-va-guaranteed-loan-en-294/" class="hover">I&#39;m in the military (active, Guard, Reserve) or a veteran and I&#39;m considering buying a home. How do I know if I&#39;m eligible for a VA-guaranteed loan?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/how-do-i-tell-if-i-have-a-fixed-or-adjustable-rate-mortgage-en-196/" class="hover">How do I tell if I have a fixed or adjustable rate mortgage?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/how-can-i-figure-out-if-i-can-afford-to-buy-a-home-and-take-out-a-mortgage-en-118/" class="hover">How can I figure out if I can afford to buy a home and take out a mortgage?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/how-can-i-find-the-loan-limit-for-a-conforming-loan-in-my-county-en-1961/" class="hover">How can I find the loan limit for a conforming loan in my county?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/im-about-to-close-on-a-mortgage-what-should-i-do-before-during-and-after-the-mortgage-closing-en-1907/" class="hover">I’m about to close on a mortgage. What should I do before, during, and after the mortgage closing?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/how-can-i-determine-how-long-it-will-take-me-to-pay-off-my-mortgage-loan-en-175/" class="hover">How can I determine how long it will take me to pay off my mortgage loan?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/if-i-cant-pay-my-mortgage-loan-what-are-my-options-en-268/" class="hover">If I can&#39;t pay my mortgage loan, what are my options?</a></div>

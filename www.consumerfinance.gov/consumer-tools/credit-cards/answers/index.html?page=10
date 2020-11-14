@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1434,9 +1434,6 @@
                 <div class="h3 hover"><a href="/ask-cfpb/what-is-the-difference-between-a-prepaid-card-a-credit-card-and-a-debit-card-en-433/" class="hover">What is the difference between a prepaid card, a credit card, and a debit card?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/when-can-a-credit-card-company-look-at-my-credit-reports-en-3/" class="hover">When can a credit card company look at my credit reports?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/my-credit-card-statement-now-has-a-credit-score-what-does-this-mean-en-1863/" class="hover">My credit card statement now has a credit score. What does this mean?</a></div>
             </article>
             <article>
@@ -1446,10 +1443,10 @@
                 <div class="h3 hover"><a href="/ask-cfpb/will-i-damage-my-credit-score-if-i-do-not-pay-a-portion-of-my-bill-that-i-am-disputing-en-66/" class="hover">Will I damage my credit score if I do not pay a portion of my bill that I am disputing?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/if-i-link-my-credit-card-to-my-checking-account-to-cover-overdrafts-can-the-bankcredit-union-charge-me-a-fee-each-time-i-use-it-to-cover-an-overdraft-en-1049/" class="hover">If I link my credit card to my checking account to cover overdrafts, can the bank/credit union charge me a fee each time I use it to cover an overdraft?</a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/when-can-a-credit-card-company-look-at-my-credit-reports-en-3/" class="hover">When can a credit card company look at my credit reports?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-an-unauthorized-use-of-a-credit-card-en-26/" class="hover">What is an unauthorized use of a credit card? </a></div>
+                <div class="h3 hover"><a href="/ask-cfpb/if-i-link-my-credit-card-to-my-checking-account-to-cover-overdrafts-can-the-bankcredit-union-charge-me-a-fee-each-time-i-use-it-to-cover-an-overdraft-en-1049/" class="hover">If I link my credit card to my checking account to cover overdrafts, can the bank/credit union charge me a fee each time I use it to cover an overdraft?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/what-are-my-rights-under-the-military-lending-act-en-1783/" class="hover">What are my rights under the Military Lending Act?</a></div>
@@ -1459,6 +1456,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/will-my-credit-score-be-damaged-by-card-issuers-getting-my-name-from-a-credit-reporting-agency-and-sending-me-an-offer-en-4/" class="hover">Will my credit score be damaged by card issuers getting my name from a credit reporting agency and sending me an offer?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-an-unauthorized-use-of-a-credit-card-en-26/" class="hover">What is an unauthorized use of a credit card? </a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

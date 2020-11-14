@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1437,6 +1437,12 @@
                 <div class="h3 hover"><a href="/ask-cfpb/i-filed-for-bankruptcy-how-long-will-that-appear-on-credit-reports-en-325/" class="hover">I filed for bankruptcy. How long will that appear on credit reports?</a></div>
             </article>
             <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-should-i-do-if-there-is-an-error-on-a-minor-childs-credit-report-or-evidence-of-identity-theft-en-1867/" class="hover">What should I do if there is an error on a minor child’s credit report or evidence of identity theft?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-receive-numerous-credit-card-offers-in-the-mail-will-these-offers-damage-my-credit-score-en-1335/" class="hover">I receive numerous credit card offers in the mail. Will these offers damage my credit score?</a></div>
+            </article>
+            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/ive-been-looking-for-a-job-what-do-employers-see-when-they-do-credit-checks-and-background-checks-en-1823/" class="hover">I’ve been looking for a job. What do employers see when they do credit checks and background checks?</a></div>
             </article>
             <article>
@@ -1444,12 +1450,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/i-got-my-free-credit-reports-but-they-do-not-include-my-credit-scores-can-i-get-my-credit-score-for-free-too-en-6/" class="hover">I got my free credit reports, but they do not include my credit scores. Can I get my credit score for free too?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-should-i-do-if-there-is-an-error-on-a-minor-childs-credit-report-or-evidence-of-identity-theft-en-1867/" class="hover">What should I do if there is an error on a minor child’s credit report or evidence of identity theft?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-receive-numerous-credit-card-offers-in-the-mail-will-these-offers-damage-my-credit-score-en-1335/" class="hover">I receive numerous credit card offers in the mail. Will these offers damage my credit score?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/could-late-rent-payments-or-problems-with-a-landlord-be-in-my-credit-report-en-1815/" class="hover">Could late rent payments or problems with a landlord be in my credit report?</a></div>

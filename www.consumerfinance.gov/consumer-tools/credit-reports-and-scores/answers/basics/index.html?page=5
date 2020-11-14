@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1431,9 +1431,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/ask-cfpb/if-i-have-a-bad-credit-score-will-it-affect-my-fiances-score-if-we-get-married-en-1283/" class="hover">If I have a bad credit score, will it affect my fiancé&#39;s score if we get married?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/ask-cfpb/should-i-request-credit-reports-for-my-children-en-1271/" class="hover">Should I request credit reports for my children?</a></div>
             </article>
             <article>
@@ -1447,6 +1444,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/when-should-i-review-my-credit-report-en-312/" class="hover">When should I review my credit report?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/when-can-a-credit-card-company-look-at-my-credit-reports-en-3/" class="hover">When can a credit card company look at my credit reports?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/ask-cfpb/do-joint-credit-card-accounts-with-my-spouse-affect-my-credit-score-en-1289/" class="hover">Do joint credit card accounts with my spouse affect my credit score?</a></div>

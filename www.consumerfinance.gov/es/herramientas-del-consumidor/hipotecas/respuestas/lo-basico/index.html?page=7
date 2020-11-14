@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.83a2c0bc27f9.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.a8d81a6d4357.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.a8d81a6d4357.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -423,15 +423,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/pueden-mi-pareja-familia-o-dependientes-vivir-en-mi-hogar-si-tengo-una-hipoteca-inversa-es-1213/" class="hover">¿Pueden mi pareja, familia, o dependientes vivir en mi hogar si tengo una hipoteca inversa?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/todos-los-prestamistas-de-hipotecas-inversas-ofrecen-los-mismos-tipos-de-prestamos-es-1211/" class="hover">¿Todos los prestamistas de hipotecas inversas ofrecen los mismos tipos de préstamos?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/cuanto-costaria-un-prestamo-de-hipoteca-inversa-en-237/" class="hover">¿Cuánto costaría un préstamo de hipoteca inversa?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/puedo-usar-un-prestamo-de-hipoteca-inversa-para-comprar-una-vivienda-es-238/" class="hover">¿Puedo usar un préstamo de hipoteca inversa para comprar una vivienda?</a></div>
             </article>
             <article>
@@ -451,6 +442,15 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/que-debo-tener-en-cuenta-antes-de-solicitar-una-hipoteca-inversa-y-que-debo-preguntarle-a-un-asesor-de-hipotecas-inversas-es-228/" class="hover">¿Qué debo tener en cuenta antes de solicitar una hipoteca inversa y qué debo preguntarle a un asesor de hipotecas inversas?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-una-multa-por-prepago-es-1957/" class="hover">¿Qué es una multa por pago anticipado?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/si-quiero-que-se-tome-en-cuenta-la-pension-alimenticia-o-la-manutencion-de-los-hijos-que-recibo-en-mi-solicitud-de-hipoteca-o-prestamo-con-garantia-hipotecaria-un-prestamista-o-corredor-tiene-que-considerar-esos-ingresos-es-354/" class="hover">Si quiero que se tome en cuenta la pensión alimenticia o la manutención de los hijos que recibo, en mi solicitud de hipoteca o préstamo con garantía hipotecaria, ¿tiene un prestamista o corredor que considerar esos ingresos?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/pueden-mi-pareja-familia-o-dependientes-vivir-en-mi-hogar-si-tengo-una-hipoteca-inversa-es-1213/" class="hover">¿Pueden mi pareja, familia, o dependientes vivir en mi hogar si tengo una hipoteca inversa?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
