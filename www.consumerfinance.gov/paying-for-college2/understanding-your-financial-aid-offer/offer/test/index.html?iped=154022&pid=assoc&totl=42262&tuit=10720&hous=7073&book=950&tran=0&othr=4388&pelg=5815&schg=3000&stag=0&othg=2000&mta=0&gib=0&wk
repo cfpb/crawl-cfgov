@@ -1397,7 +1397,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             before reviewing your offer.
                         </h2>
                         <form class="verify_form">
-                          <input type="hidden" name="csrfmiddlewaretoken" value="tLdCJe2WaIHRxSF788zEb22U4rtZmX4xh7aDnjfNRN1lMUhMeuwWqk0qfYjPy07q">
+                          <input type="hidden" name="csrfmiddlewaretoken" value="L4SVfXkb9upGXovtlgbpbMPUWt9huFAC9PnHLJmT9jxXTlNuZkD7kqA4dj3dy9sB">
                             <div class="verify_school">
                                 Ashford University
                             </div>

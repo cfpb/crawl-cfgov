@@ -1359,7 +1359,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
               <p>With your help, you can help us design a tool that makes that process a little bit less daunting &ndash; helping families make smarter choices about student debt.</p>
               <form method="post" id="feedback-container">
                   <label for="id_message"><span class="demi">Enter your comments here</span></label>
-                                  <input type="hidden" name="csrfmiddlewaretoken" value="u6KACl8fNOBodN15ttUbBF96oy2UlKTtisHBgql6uTVSsPDKzPRtQX7Cz5SKxNWm">
+                                  <input type="hidden" name="csrfmiddlewaretoken" value="WR9cKNTil9jRZ4bYFbo99h6aa1FPGybKkCEYgzV0lYr8V1tZjfQRiVRkrRzLK23J">
                   <span class="pfc-feedback"><textarea name="message" cols="40" rows="10" required id="id_message">
 </textarea></span>
                   <p><button>Submit your feedback</button></p>

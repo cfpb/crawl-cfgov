@@ -3074,7 +3074,7 @@ channels to the broader financial system, which triggered its collapse.</p>
         Subscribe to get our press releases by email.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_39087e1a3a8e5a"
+          id="o-form__email-signup_390945e229c0f2"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3085,11 +3085,11 @@ channels to the broader financial system, which triggered its collapse.</p>
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_39087e1a3a8e5a">
+            <label class="a-label a-label__heading" for="email_390945e229c0f2">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_39087e1a3a8e5a"
+                   id="email_390945e229c0f2"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"
