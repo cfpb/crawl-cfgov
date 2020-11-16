@@ -23,9 +23,9 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.1ba5ae034448.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.4e60cb13d1fb.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.4e60cb13d1fb.css" as="style">
+    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.9ad3d6800691.css"><![endif]-->
+    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.d10f3932fda0.css"><!--<![endif]-->
+    <link rel="preload" href="/static/css/main.d10f3932fda0.css" as="style">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1461,8 +1461,8 @@
   <option value="bureau-milestones">Bureau milestones</option>
   <option value="research">Research</option>
   <option value="deceptive-practices">Deceptive practices</option>
-  <option value="academic-research-council">Academic Research Council</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
+  <option value="academic-research-council">Academic Research Council</option>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="auto-loans">Auto loans</option>
   <option value="access-to-credit">Access to credit</option>
@@ -1478,8 +1478,8 @@
   <option value="partnerships">Partnerships</option>
   <option value="cfpb-in-traditional-chinese">CFPB in Traditional Chinese</option>
   <option value="supervision">Supervision</option>
-  <option value="cfpb-in-korean">CFPB in Korean</option>
   <option value="financial-service-providers">Financial service providers</option>
+  <option value="cfpb-in-korean">CFPB in Korean</option>
   <option value="retirement">Retirement</option>
   <option value="homebuying">Homebuying</option>
   <option value="discrimination">Discrimination</option>
@@ -1496,9 +1496,9 @@
   <option value="credit-union-advisory-council">Credit Union Advisory Council</option>
   <option value="credit-unions">Credit unions</option>
   <option value="project-catalyst">Project Catalyst</option>
+  <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="community-banks">Community banks</option>
   <option value="debit-cards">Debit cards</option>
-  <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="compliance">Compliance</option>
   <option value="medical-debt">Medical debt</option>
@@ -1812,6 +1812,8 @@
   <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="austin-mueller">Austin Mueller</option>
+  <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
+  <option value="elena-babinecz">Elena Babinecz</option>
 </select>
                             </div>
                         </div>
@@ -1875,13 +1877,83 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1312 filtered results</div>
+          <div class="h4 m-notification_message">1313 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2014-02-05T00:00:00">FEB 05, 2014</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/whats-the-deal-with-health-care-credit-cards-four-things-you-should-know/">
+                    What’s the deal with health care credit cards? Four things you should know
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Recently, many patients facing medical procedures have seen their health care providers suggest deferred interest rate credit cards as a payment option. Unfortunately, health care providers don’t always explain how these deferred interest credit cards work. We want to make sure that you get the facts you need.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=nora-dowd-eisenhower">Nora Dowd Eisenhower</a>
+                    and 
+                    <a href="?authors=beverly-yang">Beverly Yang</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=older-americans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Older Americans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit reports and scores
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=medical-debt" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Medical debt
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit cards
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=deceptive-practices" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Deceptive practices
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3184,50 +3256,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        At the CFPB
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2013-12-02T00:00:00">DEC 02, 2013</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/save-the-date-dallas-texas/">
-                    Save the date, Dallas, Texas!
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Join us for a field hearing in Dallas, Texas on arbitration. The hearing will take place on Thursday, December 12 at 11 a.m. CST. The event will feature remarks from CFPB Director Richard Cordray, as well as testimony from consumer groups, industry representatives, and members of the public. The field hearing will take place at: […]</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=zixta-q-martinez">Zixta Q Martinez</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=arbitration" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Arbitration
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -3286,7 +3314,7 @@
         Subscribe to receive our latest blog posts in your inbox.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_390a1151182e26"
+          id="o-form__email-signup_1"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3297,11 +3325,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_390a1151182e26">
+            <label class="a-label a-label__heading" for="email_1">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_390a1151182e26"
+                   id="email_1"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"
