@@ -26,7 +26,73 @@ To get a copy of the consumerfinance.gov archive or run a crawl on your computer
 
 ## Usage
 
+### Exploring the archive
+
 To view the consumerfinance.gov archive, you can browse the history of this repo here on github.com, or clone this repository.
+
+#### Performing basic searches in a browser
+
+GitHub.com's search functionality can be used to perform basic searches for words or phrases.
+For example,
+[searching for "reverse  mortgage"](https://github.com/cfpb/crawl-cfgov/search?q=%22reverse+mortgage%22)
+returns all pages containing that term.
+Unfortunately, although GitHub does provide the ability to
+[customize search results](https://docs.github.com/en/free-pro-team@latest/github/searching-for-information-on-github/searching-code),
+it only supports basic querying and filtering.
+Advanced searches can be more easily performed locally using shell commands after cloning this repository.
+
+#### Using shell commands to search locally
+
+Once this repository has been cloned locally, the common shell command `grep` can be used for common searches.
+For example, to list all instances of the case-insensitive phrase "reverse mortgage":
+
+```sh
+grep -ri "reverse mortgage" www.consumerfinance.gov
+```
+
+To list only matching filenames, use the `-l` option:
+
+```sh
+grep -ril "reverse mortgage" www.consumerfinance.gov
+```
+
+You may want to also sort the results alphabetically:
+
+```sh
+grep -ril "reverse mortgage" www.consumerfinance.gov | sort
+```
+
+Versions of `grep` with support for extended regular expressions allow additional searches.
+For example, to find all occurrences of a GovDelivery code like `USCFPB_12345`:
+
+```sh
+grep -rE 'USCFPB_[0-9]+' www.consumerfinance.gov
+```
+
+The results of a `grep` search can be piped to tools like `sed` to do further processing.
+
+For example, let's say you want to check the value of all `aria-label` attributes on Spanish pages:
+
+```sh
+# Ggenerate a list of Spanish pages, using the presence of "Un sitio web"
+# in the site header to distinguish them from English pages.
+grep -rl "Un sitio web" www.consumerfinance.gov > spanish-pages.txt
+
+# Grep only those files again to find all aria-label attributes.
+cat spanish-pages.txt | xargs grep aria-label > spanish-aria-labels.txt
+
+# Used sed to extract the list of aria-labels, and show a sorted list of unique values.
+cat spanish-aria-labels.txt | sed -n 's/^.*aria-label="\([^"]*\)".*$/\1/p' | sort | uniq
+```
+
+Command line tools like
+[`grep`](https://linux.die.net/man/1/grep)
+and
+[`sed`](https://linux.die.net/man/1/sed)
+are very complex (and can vary depending on operating system),
+so reading their documentation can be helpful in creating searches.
+
+### Running the crawler locally
 
 To run a crawl on your computer, `cd` into the root of this project and use the following command:
 
