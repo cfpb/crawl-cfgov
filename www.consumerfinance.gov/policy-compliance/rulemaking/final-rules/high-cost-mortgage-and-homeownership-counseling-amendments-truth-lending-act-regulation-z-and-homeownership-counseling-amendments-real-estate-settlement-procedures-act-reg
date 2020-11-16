@@ -1471,7 +1471,7 @@
         Sign up for updates about our rulemaking.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_39090e42b12ffe"
+          id="o-form__email-signup_3909dcf16d19b6"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -1482,11 +1482,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_39090e42b12ffe">
+            <label class="a-label a-label__heading" for="email_3909dcf16d19b6">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_39090e42b12ffe"
+                   id="email_3909dcf16d19b6"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"

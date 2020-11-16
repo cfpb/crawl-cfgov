@@ -1443,7 +1443,7 @@
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="ssJ2vYJjSkQczHuGTdSlkq1r6ru5DtyMQdeO1KL1S9YtvEMHxhk3t4MBnho1HXqL">
+        <input type="hidden" name="csrfmiddlewaretoken" value="FXBxNgFOEyvOUkhIpNjgYohuA6uHfnzKzpxi1LROBe4ALY6Hn4zSnGxRyUka6WR9">
         <input type="hidden" name="form_id" value="form-content-5">
         <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/about-us/blog/dads-have-money-lessons-to-share-too/">
         <input type="hidden" name="language" value="en">
@@ -1529,7 +1529,7 @@
         Subscribe for email updates on new consumer resources and guides for older adults and their families.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_390946dc8c4bd4"
+          id="o-form__email-signup_390a0fff6a1b38"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -1540,11 +1540,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_390946dc8c4bd4">
+            <label class="a-label a-label__heading" for="email_390a0fff6a1b38">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_390946dc8c4bd4"
+                   id="email_390a0fff6a1b38"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"

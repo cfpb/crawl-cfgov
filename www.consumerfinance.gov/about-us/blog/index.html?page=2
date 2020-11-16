@@ -3262,7 +3262,7 @@
         Subscribe to receive our latest blog posts in your inbox.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_390936ee82d360"
+          id="o-form__email-signup_390a000c89f99c"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -3273,11 +3273,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_390936ee82d360">
+            <label class="a-label a-label__heading" for="email_390a000c89f99c">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_390936ee82d360"
+                   id="email_390a000c89f99c"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"
