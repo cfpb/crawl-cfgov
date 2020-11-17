@@ -22,7 +22,7 @@ jobs:
       - name: Run the crawl script
         run: ./crawl.sh -d 0 https://${{ env.DOMAIN }}
 
-      - name: Remove <script> tags and blank lines from crawl results
+      - name: Simplify crawled HTML to prevent extraneous diffs
         run: ./transform_results.sh ${{ env.DOMAIN }}
         continue-on-error: true
 
