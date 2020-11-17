@@ -22,8 +22,8 @@ jobs:
       - name: Run the crawl script
         run: ./crawl.sh -d 0 https://${{ env.DOMAIN }}
 
-      - name: Simplify crawled HTML to prevent extraneous diffs
-        run: ./transform_results.sh ${{ env.DOMAIN }}
+      - name: Simplify crawled HTML to prevent unimportant diffs
+        run: postprocessing/transform_results.sh ${{ env.DOMAIN }}
         continue-on-error: true
 
       - name: Prepare files for git commit
