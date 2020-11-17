@@ -74,7 +74,7 @@ The results of a `grep` search can be piped to tools like `sed` to do further pr
 For example, let's say you want to check the value of all `aria-label` attributes on Spanish pages:
 
 ```sh
-# Ggenerate a list of Spanish pages, using the presence of "Un sitio web"
+# Generate a list of Spanish pages, using the presence of "Un sitio web"
 # in the site header to distinguish them from English pages.
 grep -rl "Un sitio web" www.consumerfinance.gov > spanish-pages.txt
 
