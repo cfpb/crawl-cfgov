@@ -26,7 +26,7 @@ sed_command=sed
 # On MacOS, try to use GNU sed if installed to avoid warnings.
 # https://stackoverflow.com/q/4247068
 gsed_exists=0
-type zgsed > /dev/null 2>&1 || gsed_exists=$?
+type gsed > /dev/null 2>&1 || gsed_exists=$?
 if [ "$gsed_exists" -eq 0 ]; then
     sed_command=gsed
 fi

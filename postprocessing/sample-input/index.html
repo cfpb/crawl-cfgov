@@ -13,6 +13,11 @@
         </script>
         foo<script> //Some
         console.log("script")</script>bar
+
+        <link rel="stylesheet" href="/static/main.css">
+        <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/main.css"><!--<![endif]-->
+
+        <link rel="preload" href="/static/css/main.css" as="style">
   </head>
 
   <body>
