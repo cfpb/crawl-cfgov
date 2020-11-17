@@ -21,7 +21,7 @@ cp -R "$sample_input" "$tmp_dir"
 copied_sample_input="$tmp_dir/sample-input"
 
 # Run postprocessing script on sample input.
-eval "$transform_script" "$copied_sample_input"
+`$transform_script $copied_sample_input`
 
 # Compare output to expected output.
 diff_result=0
