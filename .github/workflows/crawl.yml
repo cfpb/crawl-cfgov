@@ -33,7 +33,7 @@ jobs:
           git add ${{ env.DOMAIN }}
 
       - name: Prepare commit message
-        run: ./generate_summary.sh ${{ env.DOMAIN }}
+        run: ./generate_summary.sh ${{ env.DOMAIN }} > commit.txt
 
       - name: Commit crawl results back to GitHub
         run: |
