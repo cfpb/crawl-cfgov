@@ -13,7 +13,7 @@ The archive of consumerfinance.gov is contained in the `www.consumerfinance.gov`
 It contains an HTML download of each page it crawls.
 The archive does not download any CSS, JavaScript, or images associated with the pages.
 It also does not contain any PDF, CSV, or other supplementary files linked from consumerfinance.gov.
-The HTML is modified before being archived to remove `<script>` tags, since these are usually minified and would not be useful for analysis.
+The HTML is [simplified](./postprocessing/) before being archived to prevent unimportant diffs.
 
 ## Dependencies
 

@@ -17,14 +17,17 @@ if [ -z "$crawl_root" ]; then
 fi
 
 # Apply any sed scripts that live in the sed subdirectory.
-sed_root=sed
-sed_scripts=( $(find "$sed_root" -type f -name \*.sed) )
+cwd=`dirname "$0"`
+sed_root="$cwd/sed"
+sed_scripts=( $(find "$sed_root" -type f -name \*.sed | sort) )
 
 sed_command=sed
 
 # On MacOS, try to use GNU sed if installed to avoid warnings.
 # https://stackoverflow.com/q/4247068
-if type gsed > /dev/null; then
+gsed_exists=0
+type zgsed > /dev/null 2>&1 || gsed_exists=$?
+if [ "$gsed_exists" -eq 0 ]; then
     sed_command=gsed
 fi
 
