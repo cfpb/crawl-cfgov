@@ -1427,77 +1427,10 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 145 results  within bank accounts</p>
+        <p class="results-message">Showing 0 results  within bank accounts</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/how-long-can-i-borrow-funds-with-a-personal-line-of-credit-en-909/" class="hover">How long can I borrow funds with a Personal Line of Credit?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-should-i-look-for-when-shopping-for-a-personal-line-of-credit-en-905/" class="hover">What should I look for when shopping for a Personal Line of Credit?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/how-much-do-529-plans-cost-en-2080/" class="hover">How much do 529 plans cost?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/when-the-cfpb-uses-the-term-spouse-or-marriage-does-that-include-a-same-sex-spouse-en-1891/" class="hover">When the CFPB uses the term “spouse” or “marriage,” does that include a same-sex spouse?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-fiduciary-en-1769/" class="hover">What is a fiduciary?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-went-to-my-bank-or-credit-union-and-was-told-that-money-had-been-taken-out-of-my-account-using-a-power-of-attorney-poa-i-never-signed-what-can-i-do-en-1153/" class="hover">I went to my bank or credit union and was told that money had been taken out of my account using a power of attorney (POA) I never signed. What can I do?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-power-of-attorney-poa-en-1149/" class="hover">What is a power of attorney (POA)?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-would-like-to-be-able-to-have-my-friend-or-family-member-help-with-my-bill-paying-and-banking-what-are-my-options-en-1145/" class="hover">I would like to be able to have my friend or family member help with my bill-paying and banking. What are my options?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/can-i-withdraw-money-from-sdp-while-i-am-in-the-combat-zone-en-1141/" class="hover">Can I withdraw money from my Military Savings Deposit Program (SDP) while I am in the combat zone?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/how-can-i-put-money-in-a-military-savings-deposit-program-sdp-account-en-1137/" class="hover">How can I put money in a Military Savings Deposit Program SDP account?</a></div>
-            </article>
             <div class="block block__sub">
-    <nav class="m-pagination"
-         role="navigation"
-         aria-label="Pagination">
-        <a class="a-btn m-pagination_btn-prev" href="?page=2">
-<span class="a-btn_icon a-btn_icon__on-left"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"></path></svg></span>
-            Previous
-        </a>
-        <a class="a-btn m-pagination_btn-next" href="?page=4">Next
-            <span class="a-btn_icon a-btn_icon__on-right"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
-</a>
-        <form class="m-pagination_form" action="">
-            <label for="m-pagination_current-page-0">
-                <span class="m-pagination_label">
-                    Page
-                </span>
-                <span class="u-visually-hidden">
-                    3 out of 15 total pages
-                </span>
-            </label>
-            <input id="m-pagination_current-page-0"
-                   class="m-pagination_current-page"
-                   name="page"
-                   type="number"
-                   min="1"
-                   max="15"
-                   pattern="[0-9]*"
-                   inputmode="numeric"
-                   value="3">
-            <span class="m-pagination_label"> of 15</span>
-            <button class="a-btn
-                           a-btn__link
-                           m-pagination_btn-submit"
-                    type="submit">
-                Go
-            </button>
-        </form>
-    </nav>
             </div>
         </section>
         <p class="ask-search-link h4">
