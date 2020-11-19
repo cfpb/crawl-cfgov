@@ -23,9 +23,8 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.9ad3d6800691.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.d10f3932fda0.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.d10f3932fda0.css" as="style">
+    <!--[if lt IE 10]><![endif]-->
+    <!--[if gt IE 9]><!--><!--<![endif]-->
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1424,10 +1423,77 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 0 results within basics</p>
+        <p class="results-message">Showing 73 results within basics</p>
         <section class="results">
             <div class="page-links">
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-should-i-know-about-the-differences-between-leasing-and-buying-a-vehicle-en-815/" class="hover">What should I know about the differences between leasing and buying a vehicle?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-loan-to-value-ratio-in-an-auto-loan-en-769/" class="hover">What is a loan-to-value ratio in an auto loan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-finance-and-insurance-fi-department-en-747/" class="hover">What is a Finance and Insurance (F&amp;I) department?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-buy-rate-for-an-auto-loan-en-727/" class="hover">What is a buy rate for an auto loan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-should-i-do-if-i-think-that-a-lender-or-auto-dealer-discriminated-against-me-in-my-auto-loan-application-such-as-by-denying-my-application-or-charging-me-a-higher-interest-rate-en-1171/" class="hover">What should I do if I think that a lender or auto dealer discriminated against me in my auto loan application, such as by denying my application or charging me a higher interest rate?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/if-i-cant-make-my-auto-loan-payments-will-my-vehicle-be-repossessed-en-857/" class="hover">If I can’t make my auto loan payments, will my vehicle be repossessed?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/do-i-have-to-negotiate-my-vehicle-purchase-at-the-same-time-as-i-negotiate-how-much-i-get-for-my-trade-in-or-the-terms-of-a-loan-from-the-dealer-en-809/" class="hover">Do I have to negotiate my vehicle purchase at the same time as I negotiate how much I get for my trade-in or the terms of a loan from the dealer?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-are-debt-cancellation-or-debt-suspension-products-offered-with-an-auto-loan-en-803/" class="hover">What are debt cancellation or debt suspension products offered with an auto loan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-are-manufacturer-incentives-en-783/" class="hover">What are manufacturer incentives?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-owe-more-on-my-current-loan-than-my-current-vehicle-is-worth-what-do-i-need-to-know-if-i-buy-a-new-vehicle-en-779/" class="hover">I owe more on my current loan than my current vehicle is worth. What do I need to know if I buy a new vehicle?</a></div>
+            </article>
             <div class="block block__sub">
+    <nav class="m-pagination"
+         role="navigation"
+         aria-label="Pagination">
+        <a class="a-btn m-pagination_btn-prev" href="?page=3">
+<span class="a-btn_icon a-btn_icon__on-left"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"></path></svg></span>
+            Previous
+        </a>
+        <a class="a-btn m-pagination_btn-next" href="?page=5">Next
+            <span class="a-btn_icon a-btn_icon__on-right"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
+</a>
+        <form class="m-pagination_form" action="">
+            <label for="m-pagination_current-page-0">
+                <span class="m-pagination_label">
+                    Page
+                </span>
+                <span class="u-visually-hidden">
+                    4 out of 8 total pages
+                </span>
+            </label>
+            <input id="m-pagination_current-page-0"
+                   class="m-pagination_current-page"
+                   name="page"
+                   type="number"
+                   min="1"
+                   max="8"
+                   pattern="[0-9]*"
+                   inputmode="numeric"
+                   value="4">
+            <span class="m-pagination_label"> of 8</span>
+            <button class="a-btn
+                           a-btn__link
+                           m-pagination_btn-submit"
+                    type="submit">
+                Go
+            </button>
+        </form>
+    </nav>
             </div>
         </section>
     </div>

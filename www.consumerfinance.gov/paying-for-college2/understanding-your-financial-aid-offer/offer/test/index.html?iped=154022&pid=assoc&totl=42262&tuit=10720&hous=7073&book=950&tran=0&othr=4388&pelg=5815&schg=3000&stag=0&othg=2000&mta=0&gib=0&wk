@@ -60,7 +60,6 @@
     Unless adding a significant amount of CSS that is specific to a single page or section of the site,
     all new styles should be added to cfgov/v1/unprocessed/css/main.less.
 -->
-<link rel="stylesheet" href="/static/apps/paying-for-college/css/main.cd699864de9c.css">
     <!--[if lt IE 9]>
     <link rel="stylesheet" href="/static/css/header.nonresponsive.dfd7091aa89e.css"/>
     <link rel="stylesheet" href="/static/css/footer.nonresponsive.1a9f27d37479.css"/>
@@ -1397,7 +1396,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             before reviewing your offer.
                         </h2>
                         <form class="verify_form">
-                          <input type="hidden" name="csrfmiddlewaretoken" value="aDf9gEl6Pv3uSptBxAGcO2XBHtZZPloRdUSLTdo9vyznEzlQuj1RredtVY80BrYm">
+                          <input type="hidden" name="csrfmiddlewaretoken" value="SWSsq2Ou0lhTx6OzY7CPgKOk8XF9ZyVxkS21wvwQ9dPRBZzJCQsbVpVoCZ0YUJzp">
                             <div class="verify_school">
                                 Ashford University
                             </div>

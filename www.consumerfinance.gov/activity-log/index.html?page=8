@@ -23,9 +23,8 @@
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
-    <!--[if lt IE 10]><link rel="stylesheet" href="/static/css/main.ie.9ad3d6800691.css"><![endif]-->
-    <!--[if gt IE 9]><!--><link rel="stylesheet" href="/static/css/main.d10f3932fda0.css"><!--<![endif]-->
-    <link rel="preload" href="/static/css/main.d10f3932fda0.css" as="style">
+    <!--[if lt IE 10]><![endif]-->
+    <!--[if gt IE 9]><!--><!--<![endif]-->
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1529,14 +1528,14 @@
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="housing-counselor">Housing counselor</option>
   <option value="sbrefa">SBREFA</option>
+  <option value="regulation-z">Regulation Z</option>
   <option value="add-on-products">Add-on products</option>
   <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="financial-wellness-in-workplace">Financial wellness in the workplace</option>
   <option value="foia">FOIA</option>
-  <option value="regulation-z">Regulation Z</option>
+  <option value="regulation-m">Regulation M</option>
   <option value="native-communities">Native communities</option>
   <option value="libraries">Libraries</option>
-  <option value="regulation-m">Regulation M</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
   <option value="cfpb-in-tagalog">CFPB in Tagalog</option>
@@ -1916,7 +1915,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2919 filtered results</div>
+          <div class="h4 m-notification_message">2921 filtered results</div>
       </div>
   </div>
         </div>
@@ -1935,6 +1934,48 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/introducing-our-new-bureau-seal/">
+                        <span class="h4 u-mb0">
+                            Introducing our new Bureau seal
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2018-03-30T00:00:00">MAR 30, 2018</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/no-fear-act-annual-report-fiscal-year-2017/">
+                        <span class="h4 u-mb0">
+                            No FEAR Act annual report for fiscal year 2017
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2018-03-29T00:00:00">MAR 29, 2018</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3991,48 +4032,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2017-10-04T00:00:00">OCT 04, 2017</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/not-sure-how-talk-money-your-kids-start-playing-your-strengths/">
-                        <span class="h4 u-mb0">
-                            Not sure how to talk money with your kids? Start by playing to your strengths
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2017-10-03T00:00:00">OCT 03, 2017</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/7-factors-determine-your-mortgage-interest-rate/">
-                        <span class="h4 u-mb0">
-                            Seven factors that determine your mortgage interest rate
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2017-09-29T00:00:00">SEP 29, 2017</time>
 </span>
                 </td>
             </tr>
