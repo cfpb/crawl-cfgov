@@ -70,7 +70,7 @@ time wget \
     --follow-tags=a \
     --limit-rate=1m \
     --reject '*.css,*.csv,*.CSV,*.do,*.doc,*.docx,*.epub,*.gif,*.ico,*.jpg,*.js,*.mp3,*.pdf,*.PDF,*.png,*.pptx,*.py,*.R,*.sas,*.sps,*.tmp,*.txt,*.wav,*.woff,*.woff2,*.xls,*xlsx,*.xml,*.zip' \
-    --reject-regex "topics=|authors=|categories=|filter_blog_category=|ext_url=|search_field=|issuer_name=|filter1_topics=" \
+    --reject-regex "topics=|authors=|categories=|filter_blog_category=|ext_url=|search_field=|issuer_name=|filter1_topics=|q=|topic=|grade_level=" \
     --recursive \
     --level="$depth" \
     --trust-server-names \
