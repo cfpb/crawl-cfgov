@@ -415,7 +415,7 @@
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="9myG8Na3IwBOT2XQQ98qenYx2vbCsRj59Ti1XWl04mgr1Fvx8qNlS4qvXiwK6e1y">
+        <input type="hidden" name="csrfmiddlewaretoken" value="">
         <input type="hidden" name="form_id" value="form-user_feedback-0">
         <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/ask-cfpb/can-my-credit-card-company-charge-me-a-fee-for-using-a-convenience-check-if-the-interest-rate-on-the-check-is-zero-percent-en-52/">
         <input type="hidden" name="language" value="es">

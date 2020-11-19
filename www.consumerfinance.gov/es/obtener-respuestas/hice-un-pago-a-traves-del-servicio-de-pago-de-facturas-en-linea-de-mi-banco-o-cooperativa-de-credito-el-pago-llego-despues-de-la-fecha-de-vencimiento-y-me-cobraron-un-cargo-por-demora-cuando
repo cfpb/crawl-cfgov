@@ -419,7 +419,7 @@
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="btBx9dvK4y3AePIzQz98DOX0MdeTy9JCb0lSYmGHqoIdmsgg8QO3hvpYH0z1cwr5">
+        <input type="hidden" name="csrfmiddlewaretoken" value="">
         <input type="hidden" name="form_id" value="form-user_feedback-0">
         <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/ask-cfpb/i-made-a-payment-through-my-bank-or-credit-unions-online-bill-pay-service-the-payment-arrived-after-the-due-date-and-i-was-charged-a-late-fee-when-should-my-bill-pay-payment-have-arrived-en-1125/">
         <input type="hidden" name="language" value="es">

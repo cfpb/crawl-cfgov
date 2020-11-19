@@ -423,7 +423,7 @@
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="U45PPvy40AXU3vWJ6NWA5hyL5le0L9I4UBPaEEJ1mqCxb8uqo4BvJY0J08z8pwqx">
+        <input type="hidden" name="csrfmiddlewaretoken" value="">
         <input type="hidden" name="form_id" value="form-user_feedback-0">
         <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/es/obtener-respuestas/como-puedo-conseguir-dinero-rapidamente-despues-de-depositar-un-cheque-en-mi-cuenta-de-cheques-que-es-un-deposito-en-retencion-es-1023/">
         <input type="hidden" name="language" value="es">

@@ -421,7 +421,7 @@
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="ijRdQNIz9O0zhj98ogWGRSqvgHRmn3TqiQByFWTwvEFcpWHPGxBBvzStbucu1qBT">
+        <input type="hidden" name="csrfmiddlewaretoken" value="">
         <input type="hidden" name="form_id" value="form-user_feedback-0">
         <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/ask-cfpb/a-person-i-hired-to-help-with-my-mortgage-advised-me-to-stop-making-payments-on-my-mortgage-loan-so-i-could-qualify-for-a-loan-modification-do-i-have-to-do-this-en-275/">
         <input type="hidden" name="language" value="es">

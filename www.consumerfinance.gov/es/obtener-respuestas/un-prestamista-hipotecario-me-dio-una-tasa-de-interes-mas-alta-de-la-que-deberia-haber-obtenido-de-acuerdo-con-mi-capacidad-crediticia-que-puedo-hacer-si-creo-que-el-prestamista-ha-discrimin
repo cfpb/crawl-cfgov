@@ -426,7 +426,7 @@
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="8xdykrtccRcGRs8K2QUb5vffZzqbhKdT84XT9AE9yHRjZ5Grk7z6JcHdUmLjV7Vm">
+        <input type="hidden" name="csrfmiddlewaretoken" value="">
         <input type="hidden" name="form_id" value="form-user_feedback-0">
         <input type="hidden" name="referrer" value="http://www.consumerfinance.gov/ask-cfpb/a-mortgage-lender-gave-me-a-higher-interest-rate-than-i-should-have-gotten-based-on-my-creditworthiness-what-can-i-do-if-i-think-the-lender-discriminated-against-me-en-343/">
         <input type="hidden" name="language" value="es">

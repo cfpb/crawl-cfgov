@@ -1433,7 +1433,7 @@ complaint to the CFPB <a href="/complaint/">online</a> or by calling
       </div>
   </div>
         </div>
-        <input type="hidden" name="csrfmiddlewaretoken" value="6YOdctpTLapzl4fiwxS7YZTCPIDsfMub6vyy1CAQ704ctHNZOOx2CGlAKvYAT9cE">
+        <input type="hidden" name="csrfmiddlewaretoken" value="">
         <input type="hidden" name="form_id" value="form-user_feedback-0">
         <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/consumer-tools/money-transfers/answers/common-issues/">
         <input type="hidden" name="language" value="en">
