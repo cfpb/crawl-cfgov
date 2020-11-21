@@ -1647,13 +1647,67 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">269 filtered results</div>
+          <div class="h4 m-notification_message">271 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2015-12-17T00:00:00">DEC 17, 2015</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/policy-compliance/enforcement/actions/d-and-d-marketing-inc-dba-t3leads-grigor-demirchyan-and-marina-demirchyan/">
+                    D and D Marketing, Inc., d/b/a T3Leads, Grigor Demirchyan, and Marina Demirchyan
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p><span>CFPB took separate actions against T3Leads and
+individuals that resold sensitive personal data to lenders and debt collectors,
+allegedly exposing millions of consumers to harassment and deceit.</span><br/></p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2015-12-16T00:00:00">DEC 16, 2015</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/policy-compliance/enforcement/actions/ezcorp/">
+                    EZCORP, Inc.,Texas EZPAWN, L.P.,Texas  EZMONEY, L.P. et al.
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>CFPB took action against EZCORP, Inc., a small-dollar lender, for illegal debt collection practices. <br/></p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2252,58 +2306,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2015-07-08T00:00:00">JUL 08, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/policy-compliance/enforcement/actions/jp-morgan-chase-debt-collection/">
-                    Chase Bank, USA N.A. and Chase BankCard Services, Inc.
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Bureau and Attorneys General in 47 states and the District of Columbia took action against JPMorgan Chase for selling bad credit card debt and illegally robo-signing court documents.<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2015-07-01T00:00:00">JUL 01, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/policy-compliance/enforcement/actions/intersections/">
-                    Intersections, Inc.
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>CFPB took action against two credit card add-on product vendors – Affinion Group Holdings, Inc., Affinion’s affiliated companies, and Intersections Inc. – for unfairly charging consumers for credit card add-on benefits they did not receive.<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2414,36 +2416,36 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/consumer-financial-protection-bureau-settles-us-equity-advantage-inc-and-owner-robert-m-steenbergh-deceptive-sales-practices/">
+                        Consumer Financial Protection Bureau Settles with U.S. Equity Advantage, Inc. and Its Owner, Robert M. Steenbergh, for Deceptive Sales Practices
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-11-20T00:00:00">NOV 20, 2020</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
+                       href="/about-us/newsroom/consumer-financial-protection-bureau-sues-debt-settlement-company-fdatr-inc-and-owners-dean-tucci-and-kenneth-wayne-halverson/">
+                        Consumer Financial Protection Bureau Sues Debt Settlement Company FDATR, Inc., and Owners Dean Tucci and Kenneth Wayne Halverson
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-11-20T00:00:00">NOV 20, 2020</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/consumer-financial-protection-bureau-announces-settlement-debt-collector-credit-reporting-violation/">
                         Consumer Financial Protection Bureau Announces Settlement with Debt Collector for Credit Reporting Violation
                     </a>
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2020-11-12T00:00:00">NOV 12, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/consumer-financial-protection-bureau-files-lawsuit-against-driver-loan-llc-and-its-ceo/">
-                        Consumer Financial Protection Bureau Files Lawsuit Against Driver Loan, LLC And Its CEO
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-05T00:00:00">NOV 05, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/consumer-financial-protection-bureau-takes-action-against-debt-relief-business-and-its-owner-taking-illegal-advance-fees/">
-                        Consumer Financial Protection Bureau Takes Action Against Debt-Relief Business and Its Owner for Taking Illegal Advance Fees
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-05T00:00:00">NOV 05, 2020</time>
 </span>
                 </p>
             </li>

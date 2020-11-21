@@ -1450,6 +1450,11 @@
                             Amarillo National Bank
                     </option>
                     <option 
+                        value="Axiom Bank, National Association"
+                        >
+                            Axiom Bank, National Association
+                    </option>
+                    <option 
                         value="Bank of George"
                         >
                             Bank of George
@@ -1483,11 +1488,6 @@
                         value="EVOLVE BANK &amp; TRUST"
                         >
                             EVOLVE BANK &amp; TRUST
-                    </option>
-                    <option 
-                        value="Axiom Bank, National Association"
-                        >
-                            Axiom Bank, National Association
                     </option>
                     <option 
                         value="American Express Travel Related Services Company, Inc"
@@ -2147,7 +2147,7 @@
     <div class="results_header">
             <div class="results_count">
                 <h3>Showing
-                    2544 total products
+                    2545 total products
                 </h3>
             </div>
     </div>
