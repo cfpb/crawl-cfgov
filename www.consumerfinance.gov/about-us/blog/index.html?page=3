@@ -1454,8 +1454,8 @@
   <option value="data">Data</option>
   <option value="parents">Parents</option>
   <option value="banking">Banking</option>
-  <option value="saving">Saving</option>
   <option value="fair-lending">Fair lending</option>
+  <option value="saving">Saving</option>
   <option value="mortgage-closing">Mortgage closing</option>
   <option value="bureau-milestones">Bureau milestones</option>
   <option value="research">Research</option>
@@ -1471,13 +1471,13 @@
   <option value="prepaid-cards">Prepaid cards</option>
   <option value="personnel">Personnel</option>
   <option value="cfpb-in-tagalog">CFPB in Tagalog</option>
+  <option value="financial-service-providers">Financial service providers</option>
   <option value="cfpb-in-simplified-chinese">CFPB in Simplified Chinese</option>
   <option value="cfpb-in-vietnamese">CFPB in Vietnamese</option>
   <option value="checking-account">Checking account</option>
   <option value="partnerships">Partnerships</option>
   <option value="cfpb-in-traditional-chinese">CFPB in Traditional Chinese</option>
   <option value="supervision">Supervision</option>
-  <option value="financial-service-providers">Financial service providers</option>
   <option value="cfpb-in-korean">CFPB in Korean</option>
   <option value="retirement">Retirement</option>
   <option value="homebuying">Homebuying</option>
@@ -1706,6 +1706,7 @@
   <option value="logan-herman">Logan Herman</option>
   <option value="brian-stone">Brian Stone</option>
   <option value="keo-chea">Keo Chea</option>
+  <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
   <option value="ganessa-stout">Ganessa Stout</option>
@@ -1811,10 +1812,9 @@
   <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="austin-mueller">Austin Mueller</option>
-  <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
-  <option value="elena-babinecz">Elena Babinecz</option>
   <option value="brian-fu">Brian Fu</option>
   <option value="charmain-bogue">Charmain Bogue</option>
+  <option value="elena-babinecz">Elena Babinecz</option>
 </select>
                             </div>
                         </div>
@@ -1878,13 +1878,61 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1314 filtered results</div>
+          <div class="h4 m-notification_message">1315 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-06-23T00:00:00">JUN 23, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/receive-your-unemployment-benefits-options-vi/">
+                    Quý vị được chọn cách nhận tiền trợ cấp thất nghiệp
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Nếu quý vị nộp đơn xin trợ cấp thất nghiệp thông qua tiểu bang, có nhiều cách để quý vị nhận tiền. Việc đưa ra quyết định có hiểu biết về các lựa chọn này có thể giúp quý vị tận dụng được tiền của mình.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=sangeetha-malaiyandi">Sangeetha Malaiyandi</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-vietnamese" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Vietnamese
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=banking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Banking
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3153,44 +3201,6 @@
                 <a href="/about-us/blog/?topics=cfpb-in-korean" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     CFPB in Korean
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-05-19T00:00:00">MAY 19, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/credit-card-debt-during-coronavirus-relief-options-tips-zh-simplified/">
-                    新冠病毒大流行期间信用卡债务的: 救济方法和建议
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>如果您因为新冠病毒的大流行而未能支付信用卡账单，请致电您的信用卡公司询问经济援助相关内容。我们为您提供提问内容和救济方案方面的建议。</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-simplified-chinese" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Simplified Chinese
                 </a>
             </li>
     </ul>
