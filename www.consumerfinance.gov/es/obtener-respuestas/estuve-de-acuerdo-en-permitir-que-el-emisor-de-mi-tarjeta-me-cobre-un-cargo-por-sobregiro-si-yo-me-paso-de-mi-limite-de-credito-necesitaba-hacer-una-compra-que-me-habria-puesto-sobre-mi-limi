@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.caa9610f5438.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ab0e4d754f28.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -304,7 +304,7 @@
     <div class="block
                 block__flush-top
                 block__sub">
-                <time datetime='2016-08-03' class="answer-edited-date">actualizado AUG 03, 2016</time>
+                <time datetime='2016-08-03' class="answer-edited-date">revisado: AUG 03, 2016</time>
         <h1>
             Estuve de acuerdo en permitir que el emisor de mi tarjeta me cobre un cargo por sobregiro si yo me paso de mi límite de crédito. Necesitaba hacer una compra que me habría puesto sobre mi límite de crédito y estaba dispuesto a pagar el cargo por sobregiro, pero el emisor de la tarjeta se negó a autorizar el cargo. ¿Pueden hacer eso?
         </h1>

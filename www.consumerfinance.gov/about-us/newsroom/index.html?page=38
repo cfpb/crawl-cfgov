@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.caa9610f5438.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ab0e4d754f28.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -260,9 +260,9 @@
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-1-item "
     data-js-hook=behavior_flyout-menu>
-    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children" data-js-hook="behavior_flyout-menu_trigger" href="/consumer-tools/">
+    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children" data-js-hook="behavior_flyout-menu_trigger" href="/rules-policy/">
 <div aria-level="2" role="heading">
-        Consumer Tools
+        Rules &amp; Policy
         <span class="o-mega-menu_content-link-icon-post o-mega-menu_content-1-link-icon-post"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
 <span class="o-mega-menu_content-link-icon-closed o-mega-menu_content-1-link-icon-closed"><svg class="cf-icon-svg" viewbox="0 0 988.2 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.1 967.2c-17.3 0-33.8-6.8-46-19L18.6 518.6c-25.1-25.6-24.8-66.8.8-91.9 25.3-24.8 65.8-24.8 91.1 0l383.6 383.6 383.6-383.6c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L540.1 948.1c-12.2 12.2-28.7 19.1-46 19.1z"></path></svg></span>
 <span class="o-mega-menu_content-link-icon-open o-mega-menu_content-1-link-icon-open"><svg class="cf-icon-svg" viewbox="0 0 988.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M923.6 967.6c-17.3 0-33.8-6.8-46-19L494.1 565 110.5 948.5c-25.6 25.1-66.8 24.8-91.9-.8-24.8-25.3-24.8-65.8 0-91.1l429.5-429.5c25.4-25.4 66.5-25.4 91.9 0l429.6 429.5c25.4 25.4 25.4 66.5.1 91.9-12.3 12.3-28.8 19.1-46.1 19.1z"></path></svg></span>
@@ -282,11 +282,374 @@
                     o-mega-menu_content-overview-heading o-mega-menu_content-2-overview-heading ">
             <a class="o-mega-menu_content-overview-link o-mega-menu_content-2-overview-link 
                         "
-               href="/consumer-tools/">
-                Consumer Tools Overview
+               href="/rules-policy/">
+                Rules &amp; Policy Overview
             </a>
         </div>
         <div class="o-mega-menu_content-lists o-mega-menu_content-2-lists ">
+    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
+        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
+            <ul
+                aria-label="Rules & Policy"
+                >
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/rules-policy/final-rules/"
+       >
+        Final Rules
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/rules-policy/regulations/"
+       >
+        Interactive Regulations
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
+        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
+            <ul
+                aria-label="Rules & Policy"
+                >
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/rules-policy/rules-under-development/"
+       >
+        Rules Under Development
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/rules-policy/notice-opportunities-comment/"
+       >
+        Notices and Opportunities to Comment
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/rules-policy/regulatory-agenda/"
+       >
+        Regulatory Agenda
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
+        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
+            <ul
+                aria-label="Rules & Policy"
+                >
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/rules-policy/innovation/"
+       >
+        Innovation
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/rules-policy/taskforce-federal-consumer-financial-law/"
+       >
+        Taskforce on Federal Consumer Financial Law
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/rules-policy/advisory-committees/"
+       >
+        Advisory Committees
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-1-item "
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children" data-js-hook="behavior_flyout-menu_trigger" href="/enforcement/">
+<div aria-level="2" role="heading">
+        Enforcement
+        <span class="o-mega-menu_content-link-icon-post o-mega-menu_content-1-link-icon-post"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
+<span class="o-mega-menu_content-link-icon-closed o-mega-menu_content-1-link-icon-closed"><svg class="cf-icon-svg" viewbox="0 0 988.2 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.1 967.2c-17.3 0-33.8-6.8-46-19L18.6 518.6c-25.1-25.6-24.8-66.8.8-91.9 25.3-24.8 65.8-24.8 91.1 0l383.6 383.6 383.6-383.6c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L540.1 948.1c-12.2 12.2-28.7 19.1-46 19.1z"></path></svg></span>
+<span class="o-mega-menu_content-link-icon-open o-mega-menu_content-1-link-icon-open"><svg class="cf-icon-svg" viewbox="0 0 988.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M923.6 967.6c-17.3 0-33.8-6.8-46-19L494.1 565 110.5 948.5c-25.6 25.1-66.8 24.8-91.9-.8-24.8-25.3-24.8-65.8 0-91.1l429.5-429.5c25.4-25.4 66.5-25.4 91.9 0l429.6 429.5c25.4 25.4 25.4 66.5.1 91.9-12.3 12.3-28.8 19.1-46.1 19.1z"></path></svg></span>
+</div>
+</a>
+<div class="o-mega-menu_content o-mega-menu_content-2 "
+     aria-expanded="false"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu_content-alt-trigger o-mega-menu_content-2-alt-trigger "
+            data-js-hook="behavior_flyout-menu_trigger">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
+        Back
+    </button>
+    <div class="o-mega-menu_content-wrapper o-mega-menu_content-2-wrapper ">
+        <div class="o-mega-menu_content-overview o-mega-menu_content-2-overview 
+                    o-mega-menu_content-overview-heading o-mega-menu_content-2-overview-heading ">
+            <a class="o-mega-menu_content-overview-link o-mega-menu_content-2-overview-link 
+                        "
+               href="/enforcement/">
+                Enforcement Overview
+            </a>
+        </div>
+        <div class="o-mega-menu_content-lists o-mega-menu_content-2-lists ">
+    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
+        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
+            <ul
+                aria-label="Enforcement"
+                >
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/enforcement/actions/"
+       >
+        Enforcement Actions
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/enforcement/payments-harmed-consumers/enforcement-database/"
+       >
+        Enforcement Database
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/enforcement/petitions/"
+       >
+        Petitions to Modify or Set Aside
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
+        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
+            <ul
+                aria-label="Enforcement"
+                >
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/enforcement/warning-letters/"
+       >
+        Warning Letters
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/enforcement/payments-harmed-consumers/"
+       >
+        Payments to Harmed Consumers
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/enforcement/information-industry-whistleblowers/"
+       >
+        Industry Whistleblowers
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-1-item "
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children" data-js-hook="behavior_flyout-menu_trigger" href="/compliance/">
+<div aria-level="2" role="heading">
+        Compliance
+        <span class="o-mega-menu_content-link-icon-post o-mega-menu_content-1-link-icon-post"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
+<span class="o-mega-menu_content-link-icon-closed o-mega-menu_content-1-link-icon-closed"><svg class="cf-icon-svg" viewbox="0 0 988.2 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.1 967.2c-17.3 0-33.8-6.8-46-19L18.6 518.6c-25.1-25.6-24.8-66.8.8-91.9 25.3-24.8 65.8-24.8 91.1 0l383.6 383.6 383.6-383.6c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L540.1 948.1c-12.2 12.2-28.7 19.1-46 19.1z"></path></svg></span>
+<span class="o-mega-menu_content-link-icon-open o-mega-menu_content-1-link-icon-open"><svg class="cf-icon-svg" viewbox="0 0 988.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M923.6 967.6c-17.3 0-33.8-6.8-46-19L494.1 565 110.5 948.5c-25.6 25.1-66.8 24.8-91.9-.8-24.8-25.3-24.8-65.8 0-91.1l429.5-429.5c25.4-25.4 66.5-25.4 91.9 0l429.6 429.5c25.4 25.4 25.4 66.5.1 91.9-12.3 12.3-28.8 19.1-46.1 19.1z"></path></svg></span>
+</div>
+</a>
+<div class="o-mega-menu_content o-mega-menu_content-2 "
+     aria-expanded="false"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu_content-alt-trigger o-mega-menu_content-2-alt-trigger "
+            data-js-hook="behavior_flyout-menu_trigger">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
+        Back
+    </button>
+    <div class="o-mega-menu_content-wrapper o-mega-menu_content-2-wrapper ">
+        <div class="o-mega-menu_content-overview o-mega-menu_content-2-overview 
+                    o-mega-menu_content-overview-heading o-mega-menu_content-2-overview-heading ">
+            <a class="o-mega-menu_content-overview-link o-mega-menu_content-2-overview-link 
+                        "
+               href="/compliance/">
+                Compliance Overview
+            </a>
+        </div>
+        <div class="o-mega-menu_content-lists o-mega-menu_content-2-lists ">
+    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
+        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
+            <ul
+                aria-label="Compliance"
+                >
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/compliance/compliance-resources/"
+       >
+        Compliance Resources
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/compliance/advisory-opinion-program/"
+       >
+        Pilot Advisory Opinion Program
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
+        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
+            <ul
+                aria-label="Compliance"
+                >
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/compliance/supervision-examinations/"
+       >
+        Supervision and Examinations
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/compliance/supervisory-highlights/"
+       >
+        Supervisory Highlights
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/compliance/supervisory-guidance/"
+       >
+        Supervisory Guidance
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
+        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
+            <ul
+                aria-label="Compliance"
+                >
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/compliance/registration-and-submission-programs/"
+       >
+        Registration &amp; Submission Programs
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/compliance/amicus/"
+       >
+        Amicus Program
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-1-item "
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children" data-js-hook="behavior_flyout-menu_trigger" href="#">
+<div aria-level="2" role="heading">
+        Consumer Education
+        <span class="o-mega-menu_content-link-icon-post o-mega-menu_content-1-link-icon-post"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
+<span class="o-mega-menu_content-link-icon-closed o-mega-menu_content-1-link-icon-closed"><svg class="cf-icon-svg" viewbox="0 0 988.2 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.1 967.2c-17.3 0-33.8-6.8-46-19L18.6 518.6c-25.1-25.6-24.8-66.8.8-91.9 25.3-24.8 65.8-24.8 91.1 0l383.6 383.6 383.6-383.6c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L540.1 948.1c-12.2 12.2-28.7 19.1-46 19.1z"></path></svg></span>
+<span class="o-mega-menu_content-link-icon-open o-mega-menu_content-1-link-icon-open"><svg class="cf-icon-svg" viewbox="0 0 988.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M923.6 967.6c-17.3 0-33.8-6.8-46-19L494.1 565 110.5 948.5c-25.6 25.1-66.8 24.8-91.9-.8-24.8-25.3-24.8-65.8 0-91.1l429.5-429.5c25.4-25.4 66.5-25.4 91.9 0l429.6 429.5c25.4 25.4 25.4 66.5.1 91.9-12.3 12.3-28.8 19.1-46.1 19.1z"></path></svg></span>
+</div>
+</a>
+<div class="o-mega-menu_content o-mega-menu_content-2 "
+     aria-expanded="false"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu_content-alt-trigger o-mega-menu_content-2-alt-trigger "
+            data-js-hook="behavior_flyout-menu_trigger">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
+        Back
+    </button>
+    <div class="o-mega-menu_content-wrapper o-mega-menu_content-2-wrapper ">
+        <div class="o-mega-menu_content-lists o-mega-menu_content-2-lists ">
+    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
+        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
+            <ul
+                aria-label="Consumer Education"
+                >
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/consumer-tools/"
+       >
+        Consumer Resources Overview
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/consumer-tools/educator-tools/"
+       >
+        Educator Tools Overview
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/coronavirus/"
+       >
+        Coronavirus Resources
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/data-research/consumer-complaints/"
+       >
+        Consumer Complaint Database
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
     <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
         <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
             <div role="heading"
@@ -425,79 +788,6 @@
             </ul>
         </div>
     </div>
-    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
-            <div role="heading"
-                 aria-level="3"
-                 aria-label="Guides"
-                 class="h5
-                    o-mega-menu_group-heading
-                    "
-                 id="guides-menu">
-                 Guides
-            </div>
-            <ul
-                aria-labelledby="guides-menu"
-                >
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/owning-a-home/"
-       >
-        Buying a House
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/consumer-tools/getting-an-auto-loan/"
-       >
-        Getting an Auto Loan
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/consumer-tools/managing-someone-elses-money/"
-       >
-        Managing Someone Else&#39;s Money
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/consumer-tools/money-as-you-grow/"
-       >
-        Money as You Grow
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/consumer-tools/military-financial-lifecycle/"
-       >
-        Navigating the Military Financial Lifecycle
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/paying-for-college/"
-       >
-        Paying for College
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/consumer-tools/retirement/"
-       >
-        Planning for Retirement
-    </a>
-</li>
-            </ul>
-        </div>
-    </div>
             <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
                 <div class="o-mega-menu_content-list o-mega-menu_content-2-list 
                             o-mega-menu_content-list__featured o-mega-menu_content-2-list__featured ">
@@ -510,9 +800,9 @@
                         <li class="o-mega-menu_content-item o-mega-menu_content-2-item 
                                     o-mega-menu_content-item__has-icon o-mega-menu_content-2-item__has-icon ">
                             <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-                                href="/coronavirus/">
+                                href="/consumer-tools/">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 969.7 1200" class="cf-icon-svg"><path d="M843.8 592.5l94.6-87.5c52.5-48.5 37.3-95.1-33.7-103.6l-128-15.2-129-15.3-81.5-176.6-27-58.5c-30-64.9-79-64.9-108.9 0l-27 58.5L322 371l-129.1 15.3-128 15.2c-71 8.4-86.1 55-33.6 103.6l47.3 43.7 47.3 43.7 95.4 88.3L196 808.2l-12.6 63.2-12.6 63.2c-13.9 70.1 25.7 98.9 88.1 64l225.9-126.4 225.9 126.4c62.4 34.9 102 6.1 88.1-64l-12.6-63.2-37.9-190.7 95.5-88.2z"/></svg>
-                                <span><span class="a-link_text">Protect your finances during the coronavirus pandemic</span></span>
+                                <span><span class="a-link_text">Explore guides to help you plan for big financial goals</span></span>
                             </a>
                         </li>
                     </ul>
@@ -529,9 +819,9 @@
                             <a class="a-link
                                       o-mega-menu_content-link o-mega-menu_content-2-link 
                                       "
-                            href="/ask-cfpb/">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 609.9 1200" class="cf-icon-svg"><path d="M397.5 989.9H209.2c-8.3 0-15 6.7-15 15 0 4.6 2.1 9 5.8 11.8 60.8 47.3 146 47.3 206.8 0 6.5-5.1 7.7-14.5 2.6-21-2.9-3.7-7.2-5.8-11.9-5.8zM585.9 312.7C520.4 157.5 341.6 84.8 186.4 150.3 73.4 197.9-.1 308.7 0 431.4c0 106.3 52.5 177.8 90.9 229.9 17.3 23.5 36.9 50.2 36.9 63.1v65.4c0 33.1 26.9 60 60 60h234.3c33.1 0 60-26.9 60-60v-65.5c0-12.9 19.6-39.6 36.9-63.1 38.3-52.2 90.9-123.6 90.9-229.9.1-40.7-8.1-81.1-24-118.6zM422.1 724.5V790H187.8v-65.5c0-77.8-127.8-143.9-127.8-293 0-135.3 109.7-244.9 244.9-244.9s244.9 109.6 244.9 244.9c.1 149.1-127.7 215.2-127.7 293zM422.1 890.3H187.8c-16.6 0-30 13.4-30 30s13.4 30 30 30h234.3c16.6 0 30-13.4 30-30s-13.4-30-30-30z"/></svg>
-                                <span><span class="a-link_text">Ask CFPB: Find answers to your money topic questions</span></span>
+                            href="/complaint/">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M755.1 263.9H70c-38.6.1-69.9 31.4-70 70v459.5c.1 38.6 31.4 69.9 70 70h268.4l56.9 91.2c8.7 14 23 14 31.8 0l56.9-91.2h271.1c38.6-.1 69.9-31.4 70-70V333.9c-.1-38.7-31.4-69.9-70-70zm-375 132.5c0-17.9 14.6-32.5 32.5-32.5s32.5 14.6 32.5 32.5v204.2c0 17.9-14.6 32.5-32.5 32.5s-32.5-14.6-32.5-32.5V396.4zm32.5 364.4c-24.6 0-44.6-20-44.6-44.6s20-44.6 44.6-44.6 44.6 20 44.6 44.6c-.1 24.6-20 44.6-44.6 44.6z"/></svg>
+                                <span><span class="a-link_text">Submit a Complaint</span></span>
                             </a>
                         </li>
                         <li class="o-mega-menu_content-item o-mega-menu_content-2-item 
@@ -546,229 +836,20 @@
                         </li>
                         <li class="o-mega-menu_content-item o-mega-menu_content-2-item 
                                     o-mega-menu_content-item__has-icon o-mega-menu_content-2-item__has-icon ">
-                            <a class="a-link
-                                      o-mega-menu_content-link o-mega-menu_content-2-link 
-                                      "
-                            href="/complaint/">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M755.1 263.9H70c-38.6.1-69.9 31.4-70 70v459.5c.1 38.6 31.4 69.9 70 70h268.4l56.9 91.2c8.7 14 23 14 31.8 0l56.9-91.2h271.1c38.6-.1 69.9-31.4 70-70V333.9c-.1-38.7-31.4-69.9-70-70zm-375 132.5c0-17.9 14.6-32.5 32.5-32.5s32.5 14.6 32.5 32.5v204.2c0 17.9-14.6 32.5-32.5 32.5s-32.5-14.6-32.5-32.5V396.4zm32.5 364.4c-24.6 0-44.6-20-44.6-44.6s20-44.6 44.6-44.6 44.6 20 44.6 44.6c-.1 24.6-20 44.6-44.6 44.6z"/></svg>
-                                <span><span class="a-link_text">Submit a Complaint</span></span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-1-item "
-    data-js-hook=behavior_flyout-menu>
-    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children" data-js-hook="behavior_flyout-menu_trigger" href="#">
-<div aria-level="2" role="heading">
-        Practitioner Resources
-        <span class="o-mega-menu_content-link-icon-post o-mega-menu_content-1-link-icon-post"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
-<span class="o-mega-menu_content-link-icon-closed o-mega-menu_content-1-link-icon-closed"><svg class="cf-icon-svg" viewbox="0 0 988.2 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.1 967.2c-17.3 0-33.8-6.8-46-19L18.6 518.6c-25.1-25.6-24.8-66.8.8-91.9 25.3-24.8 65.8-24.8 91.1 0l383.6 383.6 383.6-383.6c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L540.1 948.1c-12.2 12.2-28.7 19.1-46 19.1z"></path></svg></span>
-<span class="o-mega-menu_content-link-icon-open o-mega-menu_content-1-link-icon-open"><svg class="cf-icon-svg" viewbox="0 0 988.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M923.6 967.6c-17.3 0-33.8-6.8-46-19L494.1 565 110.5 948.5c-25.6 25.1-66.8 24.8-91.9-.8-24.8-25.3-24.8-65.8 0-91.1l429.5-429.5c25.4-25.4 66.5-25.4 91.9 0l429.6 429.5c25.4 25.4 25.4 66.5.1 91.9-12.3 12.3-28.8 19.1-46.1 19.1z"></path></svg></span>
-</div>
-</a>
-<div class="o-mega-menu_content o-mega-menu_content-2 "
-     aria-expanded="false"
-     role="navigation"
-     data-js-hook="behavior_flyout-menu_content">
-    <button class="o-mega-menu_content-alt-trigger o-mega-menu_content-2-alt-trigger "
-            data-js-hook="behavior_flyout-menu_trigger">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
-        Back
-    </button>
-    <div class="o-mega-menu_content-wrapper o-mega-menu_content-2-wrapper ">
-        <div class="o-mega-menu_content-lists o-mega-menu_content-2-lists ">
-    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
-            <div role="heading"
-                 aria-level="3"
-                 aria-label="Populations Served"
-                 class="h5
-                    o-mega-menu_group-heading
-                    "
-                 id="populations-served-menu">
-                 Populations Served
-            </div>
-            <ul
-                aria-labelledby="populations-served-menu"
-                >
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/adult-financial-education/"
-       >
-        Adult Financial Education
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/economically-vulnerable/"
-       >
-        Economically Vulnerable Consumers
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/resources-for-older-adults/"
-       >
-        Older Adults &amp; their Families
-    </a>
-</li>
-            </ul>
-        </div>
-    </div>
-    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
-            <div role="heading"
-                 aria-level="3"
-                 aria-label="Populations Served continued"
-                 class="h5
-                    o-mega-menu_group-heading
-                    o-mega-menu_group-heading__hidden"
-                 id="populations-served-continued-menu">
-                 Populations Served
-            </div>
-            <ul
-                aria-labelledby="populations-served-continued-menu"
-                >
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/servicemembers/"
-       >
-        Servicemembers &amp; Veterans
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/students/"
-       >
-        Students &amp; Student Loan Borrowers
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/youth-financial-education/"
-       >
-        Youth Financial Education
-    </a>
-</li>
-            </ul>
-        </div>
-    </div>
-    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
-            <div role="heading"
-                 aria-level="3"
-                 aria-label="Programs"
-                 class="h5
-                    o-mega-menu_group-heading
-                    "
-                 id="programs-menu">
-                 Programs
-            </div>
-            <ul
-                aria-labelledby="programs-menu"
-                >
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/employers/"
-       >
-        Employer Resources
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/financial-coaching/"
-       >
-        Financial Coaching
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/financial-well-being-resources/"
-       >
-        Financial Well-Being Resources
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/library-resources/"
-       >
-        Resources for Libraries
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/resources-for-tax-preparers/"
-       >
-        Resources for Tax Preparers
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/resources-youth-employment-programs/"
-       >
-        Resources for Youth Employment Programs
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/practitioner-resources/your-money-your-goals/"
-       >
-        Your Money, Your Goals
-    </a>
-</li>
-            </ul>
-        </div>
-    </div>
-            <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-                <div class="o-mega-menu_content-list o-mega-menu_content-2-list 
-                            o-mega-menu_content-list__featured o-mega-menu_content-2-list__featured ">
-                    <div role="heading"
-                         aria-level="3"
-                         class="h5 o-mega-menu_group-heading">
-                        Featured
-                    </div>
-                    <ul aria-label="Featured">
-                        <li class="o-mega-menu_content-item o-mega-menu_content-2-item 
-                                    o-mega-menu_content-item__has-icon o-mega-menu_content-2-item__has-icon ">
-                            <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-                                href="/data-research/research-reports/financial-well-being-america/">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 969.7 1200" class="cf-icon-svg"><path d="M843.8 592.5l94.6-87.5c52.5-48.5 37.3-95.1-33.7-103.6l-128-15.2-129-15.3-81.5-176.6-27-58.5c-30-64.9-79-64.9-108.9 0l-27 58.5L322 371l-129.1 15.3-128 15.2c-71 8.4-86.1 55-33.6 103.6l47.3 43.7 47.3 43.7 95.4 88.3L196 808.2l-12.6 63.2-12.6 63.2c-13.9 70.1 25.7 98.9 88.1 64l225.9-126.4 225.9 126.4c62.4 34.9 102 6.1 88.1-64l-12.6-63.2-37.9-190.7 95.5-88.2z"/></svg>
-                                <span><span class="a-link_text">Explore financial well-being survey results</span></span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
-                    <div role="heading"
-                         aria-level="3"
-                         class="h5 o-mega-menu_group-heading">
-                        Additional Resources
-                    </div>
-                    <ul aria-label="Additional Resources">
-                        <li class="o-mega-menu_content-item o-mega-menu_content-2-item 
-                                    o-mega-menu_content-item__has-icon o-mega-menu_content-2-item__has-icon ">
                             <a class="a-link o-mega-menu_content-link o-mega-menu_content-2-link a-link__icon" href="https://pueblo.gpo.gov/CFPBPubs/CFPBPubs.php">
 <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path><path d="M123.8 768.6h394.8v50H123.8zM123.8 644h394.8v50H123.8zM123.8 519.5h394.8v50H123.8z"></path><circle cx="194" cy="382.3" r="60"></circle></svg>
 <span><span class="a-link_text">Order free brochures</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></span>
 </a>
+                        </li>
+                        <li class="o-mega-menu_content-item o-mega-menu_content-2-item 
+                                    o-mega-menu_content-item__has-icon o-mega-menu_content-2-item__has-icon ">
+                            <a class="a-link
+                                      o-mega-menu_content-link o-mega-menu_content-2-link 
+                                      "
+                            href="/ask-cfpb/">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 609.9 1200" class="cf-icon-svg"><path d="M397.5 989.9H209.2c-8.3 0-15 6.7-15 15 0 4.6 2.1 9 5.8 11.8 60.8 47.3 146 47.3 206.8 0 6.5-5.1 7.7-14.5 2.6-21-2.9-3.7-7.2-5.8-11.9-5.8zM585.9 312.7C520.4 157.5 341.6 84.8 186.4 150.3 73.4 197.9-.1 308.7 0 431.4c0 106.3 52.5 177.8 90.9 229.9 17.3 23.5 36.9 50.2 36.9 63.1v65.4c0 33.1 26.9 60 60 60h234.3c33.1 0 60-26.9 60-60v-65.5c0-12.9 19.6-39.6 36.9-63.1 38.3-52.2 90.9-123.6 90.9-229.9.1-40.7-8.1-81.1-24-118.6zM422.1 724.5V790H187.8v-65.5c0-77.8-127.8-143.9-127.8-293 0-135.3 109.7-244.9 244.9-244.9s244.9 109.6 244.9 244.9c.1 149.1-127.7 215.2-127.7 293zM422.1 890.3H187.8c-16.6 0-30 13.4-30 30s13.4 30 30 30h234.3c16.6 0 30-13.4 30-30s-13.4-30-30-30z"/></svg>
+                                <span><span class="a-link_text">Browse Ask CFPB</span></span>
+                            </a>
                         </li>
                     </ul>
                 </div>
@@ -817,6 +898,22 @@
        href="/data-research/research-reports/"
        >
         Research &amp; Reports
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/enforcement/payments-harmed-consumers/"
+       >
+        Payments to Harmed Consumers
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/enforcement/payments-harmed-consumers/enforcement-database/"
+       >
+        Enforcement Database
     </a>
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
@@ -891,22 +988,6 @@
         Prepaid Account Agreements
     </a>
 </li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/data-research/cfpb-research-conference/"
-       >
-        CFPB Research Conference
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/data-research/cfpb-researchers/"
-       >
-        CFPB Researchers
-    </a>
-</li>
             </ul>
         </div>
     </div>
@@ -936,9 +1017,9 @@
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-1-item "
     data-js-hook=behavior_flyout-menu>
-    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children" data-js-hook="behavior_flyout-menu_trigger" href="/policy-compliance/">
+    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children o-mega-menu_content-link__current o-mega-menu_content-1-link__current" data-js-hook="behavior_flyout-menu_trigger" href="#">
 <div aria-level="2" role="heading">
-        Policy &amp; Compliance
+        News
         <span class="o-mega-menu_content-link-icon-post o-mega-menu_content-1-link-icon-post"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
 <span class="o-mega-menu_content-link-icon-closed o-mega-menu_content-1-link-icon-closed"><svg class="cf-icon-svg" viewbox="0 0 988.2 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.1 967.2c-17.3 0-33.8-6.8-46-19L18.6 518.6c-25.1-25.6-24.8-66.8.8-91.9 25.3-24.8 65.8-24.8 91.1 0l383.6 383.6 383.6-383.6c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L540.1 948.1c-12.2 12.2-28.7 19.1-46 19.1z"></path></svg></span>
 <span class="o-mega-menu_content-link-icon-open o-mega-menu_content-1-link-icon-open"><svg class="cf-icon-svg" viewbox="0 0 988.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M923.6 967.6c-17.3 0-33.8-6.8-46-19L494.1 565 110.5 948.5c-25.6 25.1-66.8 24.8-91.9-.8-24.8-25.3-24.8-65.8 0-91.1l429.5-429.5c25.4-25.4 66.5-25.4 91.9 0l429.6 429.5c25.4 25.4 25.4 66.5.1 91.9-12.3 12.3-28.8 19.1-46.1 19.1z"></path></svg></span>
@@ -954,34 +1035,34 @@
         Back
     </button>
     <div class="o-mega-menu_content-wrapper o-mega-menu_content-2-wrapper ">
-        <div class="o-mega-menu_content-overview o-mega-menu_content-2-overview 
-                    o-mega-menu_content-overview-heading o-mega-menu_content-2-overview-heading ">
-            <a class="o-mega-menu_content-overview-link o-mega-menu_content-2-overview-link 
-                        "
-               href="/policy-compliance/">
-                Policy &amp; Compliance Overview
-            </a>
-        </div>
         <div class="o-mega-menu_content-lists o-mega-menu_content-2-lists ">
     <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
         <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
             <ul
-                aria-label="Policy & Compliance"
+                aria-label="News"
                 >
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/policy-compliance/rulemaking/"
+       href="/about-us/newsroom/?categories=press-release"
        >
-        Rulemaking
+        Press Releases
     </a>
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/policy-compliance/innovation/"
+       href="/about-us/newsroom/?categories=op-ed&amp;categories=speech"
        >
-        Innovation
+        Speeches &amp; Op-eds
+    </a>
+</li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/about-us/newsroom/?categories=testimony"
+       >
+        Testimony
     </a>
 </li>
             </ul>
@@ -990,157 +1071,8 @@
     <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
         <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
             <ul
-                aria-label="Policy & Compliance"
+                aria-label="News"
                 >
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/policy-compliance/guidance/"
-       >
-        Compliance &amp; Guidance
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/policy-compliance/enforcement/"
-       >
-        Enforcement
-    </a>
-</li>
-            </ul>
-        </div>
-    </div>
-    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
-            <ul
-                aria-label="Policy & Compliance"
-                >
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/policy-compliance/notice-opportunities-comment/"
-       >
-        Notices &amp; Opportunities to Comment
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/policy-compliance/amicus/"
-       >
-        Amicus Program
-    </a>
-</li>
-            </ul>
-        </div>
-    </div>
-            <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-                <div class="o-mega-menu_content-list o-mega-menu_content-2-list 
-                            o-mega-menu_content-list__featured o-mega-menu_content-2-list__featured ">
-                    <div role="heading"
-                         aria-level="3"
-                         class="h5 o-mega-menu_group-heading">
-                        Featured
-                    </div>
-                    <ul aria-label="Featured">
-                        <li class="o-mega-menu_content-item o-mega-menu_content-2-item 
-                                    o-mega-menu_content-item__has-icon o-mega-menu_content-2-item__has-icon ">
-                            <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-                                href="/policy-compliance/guidance/">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 969.7 1200" class="cf-icon-svg"><path d="M843.8 592.5l94.6-87.5c52.5-48.5 37.3-95.1-33.7-103.6l-128-15.2-129-15.3-81.5-176.6-27-58.5c-30-64.9-79-64.9-108.9 0l-27 58.5L322 371l-129.1 15.3-128 15.2c-71 8.4-86.1 55-33.6 103.6l47.3 43.7 47.3 43.7 95.4 88.3L196 808.2l-12.6 63.2-12.6 63.2c-13.9 70.1 25.7 98.9 88.1 64l225.9-126.4 225.9 126.4c62.4 34.9 102 6.1 88.1-64l-12.6-63.2-37.9-190.7 95.5-88.2z"/></svg>
-                                <span><span class="a-link_text">Resources to help you comply</span></span>
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-1-item "
-    data-js-hook=behavior_flyout-menu>
-    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children o-mega-menu_content-link__current o-mega-menu_content-1-link__current" data-js-hook="behavior_flyout-menu_trigger" href="/about-us/">
-<div aria-level="2" role="heading">
-        About Us
-        <span class="o-mega-menu_content-link-icon-post o-mega-menu_content-1-link-icon-post"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
-<span class="o-mega-menu_content-link-icon-closed o-mega-menu_content-1-link-icon-closed"><svg class="cf-icon-svg" viewbox="0 0 988.2 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.1 967.2c-17.3 0-33.8-6.8-46-19L18.6 518.6c-25.1-25.6-24.8-66.8.8-91.9 25.3-24.8 65.8-24.8 91.1 0l383.6 383.6 383.6-383.6c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L540.1 948.1c-12.2 12.2-28.7 19.1-46 19.1z"></path></svg></span>
-<span class="o-mega-menu_content-link-icon-open o-mega-menu_content-1-link-icon-open"><svg class="cf-icon-svg" viewbox="0 0 988.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M923.6 967.6c-17.3 0-33.8-6.8-46-19L494.1 565 110.5 948.5c-25.6 25.1-66.8 24.8-91.9-.8-24.8-25.3-24.8-65.8 0-91.1l429.5-429.5c25.4-25.4 66.5-25.4 91.9 0l429.6 429.5c25.4 25.4 25.4 66.5.1 91.9-12.3 12.3-28.8 19.1-46.1 19.1z"></path></svg></span>
-</div>
-</a>
-<div class="o-mega-menu_content o-mega-menu_content-2 "
-     aria-expanded="false"
-     role="navigation"
-     data-js-hook="behavior_flyout-menu_content">
-    <button class="o-mega-menu_content-alt-trigger o-mega-menu_content-2-alt-trigger "
-            data-js-hook="behavior_flyout-menu_trigger">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
-        Back
-    </button>
-    <div class="o-mega-menu_content-wrapper o-mega-menu_content-2-wrapper ">
-        <div class="o-mega-menu_content-overview o-mega-menu_content-2-overview 
-                    o-mega-menu_content-overview-heading o-mega-menu_content-2-overview-heading ">
-            <a class="o-mega-menu_content-overview-link o-mega-menu_content-2-overview-link 
-                        "
-               href="/about-us/">
-                About Us Overview
-            </a>
-        </div>
-        <div class="o-mega-menu_content-lists o-mega-menu_content-2-lists ">
-    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
-            <ul
-                aria-label="About Us"
-                >
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/about-us/the-bureau/"
-       >
-        The Bureau
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/about-us/budget-strategy/"
-       >
-        Budget &amp; Strategy
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/about-us/payments-harmed-consumers/"
-       >
-        Payments to Harmed Consumers
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/about-us/diversity-and-inclusion/"
-       >
-        Diversity &amp; Inclusion
-    </a>
-</li>
-            </ul>
-        </div>
-    </div>
-    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
-            <ul
-                aria-label="About Us"
-                >
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/activity-log/"
-       >
-        Recent Updates
-    </a>
-</li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
@@ -1151,74 +1083,18 @@
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link o-mega-menu_content-link__current o-mega-menu_content-2-link__current "
-       href="/about-us/newsroom/"
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
+       href="/about-us/blog/?categories=directors-notebook"
        >
-        Newsroom
+        Director’s Notebook
     </a>
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item "
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/about-us/events/"
+       href="/activity-log/"
        >
-        Events
-    </a>
-</li>
-            </ul>
-        </div>
-    </div>
-    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
-            <ul
-                aria-label="About Us"
-                >
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/about-us/careers/"
-       >
-        Careers
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/about-us/doing-business-with-us/"
-       >
-        Doing Business With Us
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/about-us/advisory-committees/"
-       >
-        Advisory Committees
-    </a>
-</li>
-            </ul>
-        </div>
-    </div>
-    <div class="o-mega-menu_content-list-group o-mega-menu_content-2-list-group ">
-        <div class="o-mega-menu_content-list o-mega-menu_content-2-list ">
-            <ul
-                aria-label="About Us"
-                >
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/about-us/contact-us/"
-       >
-        Contact Us
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item "
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link "
-       href="/about-us/taskforce-federal-consumer-financial-law/"
-       >
-        Taskforce on Federal Consumer Financial Law
+        Recent Updates
     </a>
 </li>
             </ul>
@@ -1566,6 +1442,7 @@
   <option value="redlining">Redlining</option>
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="foia">FOIA</option>
+  <option value="private-education-loan-ombudsman">Private Education Loan Ombudsman</option>
   <option value="small-dollar-loans_1">small dollar loans</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="libraries">Libraries</option>
@@ -1582,9 +1459,9 @@
   <option value="interstate-land-sales-act">Interstate Land Sales Act</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="bank">bank</option>
-  <option value="cfpb-ombudsman">CFPB Ombudsman</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="fair-credit-billing-act">Fair Credit Billing Act</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="procurement">Procurement</option>
   <option value="regulation-n">Regulation N</option>
 </select>
@@ -1662,6 +1539,51 @@
                     </div>
             </div>
         </div>
+        <div class="content-l_col
+                    content-l_col-1-2">
+            <div class="o-form_group">
+                <fieldset class="o-form_fieldset">
+                    <legend class="a-legend">
+                        Archived items
+                    </legend>
+                    <ul class="m-list m-list__unstyled" role="group">
+    <li class="m-form-field m-form-field__radio">
+        <input class="a-radio"
+               type="radio"
+               value="include"
+               id="filter_archived_include"
+               name="archived"
+               checked>
+        <label class="a-label"  for="filter_archived_include">
+            Show all items (default)
+        </label>
+    </li>
+    <li class="m-form-field m-form-field__radio">
+        <input class="a-radio"
+               type="radio"
+               value="exclude"
+               id="filter_archived_exclude"
+               name="archived"
+               >
+        <label class="a-label"  for="filter_archived_exclude">
+            Exclude archived items
+        </label>
+    </li>
+    <li class="m-form-field m-form-field__radio">
+        <input class="a-radio"
+               type="radio"
+               value="only"
+               id="filter_archived_only"
+               name="archived"
+               >
+        <label class="a-label"  for="filter_archived_only">
+            Show only archived items
+        </label>
+    </li>
+                    </ul>
+                </fieldset>
+            </div>
+        </div>
             <div class="content-l_col
                         content-l_col-1
                         m-btn-group">
@@ -1687,13 +1609,60 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1339 filtered results</div>
+          <div class="h4 m-notification_message">1340 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.4 1200" class="cf-icon-svg"><path d="M181.8 721.7c18 17.9 39.3 32.2 62.7 42.2 24.4 10.4 50.6 15.7 77.1 15.6 27.3 0 52.9-5.2 76.7-15.6 23.2-10 44.4-24.3 62.3-42.2 36.6-37 57.1-87 57-139l.7-283.4c.2-26.5-5-52.7-15.2-77.1-19.6-47.4-56.9-85.3-104.1-105.6-23.8-10.4-49.4-15.6-76.7-15.6-26.5-.2-52.8 5.1-77.1 15.6-47.5 20.2-85.4 58.1-105.6 105.6a194.63 194.63 0 0 0-15.6 77.1v283.4c-.1 26.3 5.2 52.3 15.6 76.4 9.9 23.3 24.3 44.6 42.2 62.6z"/><path d="M612.4 469.9c-16.6 0-30 13.4-30 30v82.7c.2 70.3-27.5 137.8-76.9 187.7-49.5 50.2-114.9 77.9-184.3 77.9s-134.8-27.7-184.3-77.9c-49.4-50-77.1-117.5-76.9-187.7v-82.7c0-16.6-13.4-30-30-30s-30 13.4-30 30v82.7c-.1 86 33.8 168.6 94.2 229.8 29.2 29.7 63.8 53.5 102.1 70 30.2 13 62.2 21.3 95 24.3v129.4h-151c-16.6 0-30 13.4-30 30s13.4 30 30 30h362c16.6 0 30-13.4 30-30s-13.4-30-30-30h-151V906.8c32.7-3.1 64.8-11.3 95-24.3 38.2-16.5 72.9-40.3 102.1-70 60.4-61.3 94.2-143.8 94.1-229.9v-82.7c-.1-16.6-13.6-30-30.1-30z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Speech
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2013-11-20T00:00:00">NOV 20, 2013</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/director-cordray-remarks-at-the-know-before-you-owe-mortgage-field-hearing/">
+                    Director Cordray Remarks at the “Know Before You Owe” Mortgage Field Hearing
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Prepared Remarks of Richard Cordray Director of the Consumer Financial Protection Bureau “Know Before You Owe” Mortgage Field Hearing  Boston, MA November 20, 2013 The dream of having a place of one’s own has long been part of our American way of life. For many people today, even after all the heartache we have experienced […]</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=richard-cordray">Richard Cordray</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -1714,9 +1683,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/consumer-financial-protection-bureau-takes-action-against-payday-lender-for-robo-signing/">
+                <a class="" href="/about-us/newsroom/consumer-financial-protection-bureau-takes-action-against-payday-lender-for-robo-signing/">
                     Consumer Financial Protection Bureau Takes Action Against Payday Lender For Robo-Signing
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Cash America to Refund up to $14 Million for Robo-Signing and Illegally Overcharging Servicemembers Washington, D.C. – The Consumer Financial Protection Bureau (CFPB) today took its first enforcement action against a payday lender by ordering Cash America International, Inc. to refund consumers for robo-signing court documents in debt collection lawsuits. The CFPB also found that […]</p>
@@ -1760,9 +1732,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-finalizes-know-before-you-owe-mortgage-forms/">
+                <a class="" href="/about-us/newsroom/cfpb-finalizes-know-before-you-owe-mortgage-forms/">
                     CFPB Finalizes “Know Before You Owe” Mortgage Forms
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>New Forms Improve Consumer Understanding, Aid Comparison Shopping, and Help Prevent Surprises Washington, D.C. – The Consumer Financial Protection Bureau (CFPB) is issuing a rule today requiring easier-to-use mortgage disclosure forms that clearly lay out the terms of a mortgage for a homebuyer. The new “Know Before You Owe” mortgage forms will replace the existing […]</p>
@@ -1806,9 +1781,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/camille-busette-remarks-at-the-navigating-the-market-press-call/">
+                <a class="" href="/about-us/newsroom/camille-busette-remarks-at-the-navigating-the-market-press-call/">
                     Camille Busette Remarks at the Navigating the Market Press Call
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Welcome to this call to discuss a new report from the Consumer Financial Protection Bureau on financial education. I’m Camille Busette, Assistant Director of the Office of Financial Education here at the CFPB. By way of background, the Consumer Financial Protection is a federal agency created in 2011 in response to the financial crisis. The […]</p>
@@ -1850,9 +1828,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/director-cordray-remarks-at-the-navigating-the-market-press-call/">
+                <a class="" href="/about-us/newsroom/director-cordray-remarks-at-the-navigating-the-market-press-call/">
                     Director Cordray Remarks at the Navigating the Market Press Call
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Thank you for joining us on this call.  Today we are talking about financial education, which is a topic that I believe is of the utmost importance for the future of our economy and our country.  The Consumer Financial Protection Bureau is releasing a study that analyzes the amount of money spent to educate consumers about financial products and, for comparison, the amount spent trying to influence consumers’ decisions about financial products.  While it is not surprising that we found that financial education programs are significantly outspent by financial marketing, the gap between the two is nonetheless staggering.</p>
@@ -1894,9 +1875,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/the-cfpb-finds-financial-education-programs-are-significantly-outspent-by-financial-marketing/">
+                <a class="" href="/about-us/newsroom/the-cfpb-finds-financial-education-programs-are-significantly-outspent-by-financial-marketing/">
                     The CFPB Finds Financial Education Programs are Significantly Outspent by Financial Marketing
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p><strong>WASHINGTON, D.C.</strong> — Today, the Consumer Financial Protection Bureau published a report analyzing the amount of money spent on providing financial education to consumers and the amount spent trying to influence consumers’ decisions about financial products. The report found that for every dollar put towards financial education, $25 is spent on financial marketing, which can make it difficult for consumers to find objective information.</p>
@@ -1940,9 +1924,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/student-loan-ombudsman-rohit-chopra-before-the-federal-reserve-bank-of-st-louis/">
+                <a class="" href="/about-us/newsroom/student-loan-ombudsman-rohit-chopra-before-the-federal-reserve-bank-of-st-louis/">
                     Prepared Remarks by Rohit Chopra Before the Federal Reserve Bank of St. Louis
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Thank you to President Jim Bullard and everyone at the Federal Reserve Bank of St. Louis for inviting me to speak today on the impact of rising student debt on the balance sheets of young American households.  As the name of St. Louis Fed’s Center indicates, household financial stability is a key ingredient to the health of our economy and financial system. First, I will outline some of the distressing debt and wage trends among young Americans.  I will then discuss some of the striking structural similarities between the mortgage and student loan markets, particularly in the years leading up to the crisis.  Finally, I will argue that we must resist the temptation to address these concerns solely through an education policy lens, when, in fact, they may require very significant attention from financial regulators and the financial services industry.</p>
@@ -1990,9 +1977,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/the-cfpb-takes-action-against-mortgage-insurer-to-end-illegal-kickbacks-to-lenders/">
+                <a class="" href="/about-us/newsroom/the-cfpb-takes-action-against-mortgage-insurer-to-end-illegal-kickbacks-to-lenders/">
                     The CFPB Takes Action Against Mortgage Insurer to End Illegal Kickbacks to Lenders
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Republic Mortgage Insurance Corporation to Pay $100,000 Fine and Halt Illegal Activity WASHINGTON, DC — The Consumer Financial Protection Bureau (CFPB) today took action against Republic Mortgage Insurance Corporation (RMIC), for allegedly paying illegal kickbacks to mortgage lenders in exchange for business. The CFPB filed a complaint and proposed consent order against RMIC to stop […]</p>
@@ -2036,9 +2026,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/director-cordray-remarks-at-the-cfpb-auto-finance-forum/">
+                <a class="" href="/about-us/newsroom/director-cordray-remarks-at-the-cfpb-auto-finance-forum/">
                     Director Cordray Remarks at the CFPB Auto Finance Forum
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Thank you all for joining us today. We have convened interested parties to discuss what has indeed become a much-talked-about issue – discrimination that can occur in auto lending. Cars and trucks can quite literally take consumers to new opportunities. Maybe the destination is a new job. Or maybe the goal is to save time spent commuting – either to work longer or to have extra time for themselves or their families. For those who live in rural or suburban areas, a vehicle is almost a basic necessity to get around. Every year, millions of American families buy cars and trucks for all these reasons and more, and this market is very important to our economy.</p>
@@ -2086,9 +2079,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/the-cfpb-and-city-of-columbus-team-up-to-help-local-consumers-with-questions-and-complaints/">
+                <a class="" href="/about-us/newsroom/the-cfpb-and-city-of-columbus-team-up-to-help-local-consumers-with-questions-and-complaints/">
                     The CFPB and City of Columbus Team Up to Help Local Consumers with Questions and Complaints
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Columbus Consumers Can Call 311 to Connect with the CFPB About Financial Issues WASHINGTON, D.C. — Today, the Consumer Financial Protection Bureau (CFPB) and the City of Columbus announced a partnership to connect consumers with the CFPB to ask questions and submit complaints about financial products and services. Columbus consumers can now dial the Mayor’s […]</p>
@@ -2126,9 +2122,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/written-testimony-of-director-cordray-before-the-senate-committee-on-banking-housing-and-urban-development/">
+                <a class="" href="/about-us/newsroom/written-testimony-of-director-cordray-before-the-senate-committee-on-banking-housing-and-urban-development/">
                     Written Testimony of Director Cordray Before the Senate Committee on Banking, Housing and Urban Affairs
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Chairman Johnson, Ranking Member Crapo, and Members of the Committee, thank you for inviting me to testify today about the fourth Semi-Annual Report of the Consumer Financial Protection Bureau.  Since we opened our doors just over two years ago, the Bureau has been focused on making consumer financial markets work better for the American people, and helping them improve their financial lives.  </p>
@@ -2218,9 +2217,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-launches-tool-to-help-consumers-find-housing-counselors/">
+                <a class="" href="/about-us/newsroom/cfpb-launches-tool-to-help-consumers-find-housing-counselors/">
                     CFPB Launches Tool to Help Consumers Find Housing Counselors
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Today, the Consumer Financial Protection Bureau (CFPB) launched a tool to help consumers find local housing counseling agencies to answer their questions or address their concerns. The Bureau is releasing the tool in advance of the January 2014 effective dates for its mortgage rules. The Bureau also published guidance for lenders on how to provide mortgage applicants with a list of local homeownership counseling organizations.</p>
@@ -2264,9 +2266,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-takes-action-against-castle-cooke-for-steering-consumers-into-costlier-mortgages/">
+                <a class="" href="/about-us/newsroom/cfpb-takes-action-against-castle-cooke-for-steering-consumers-into-costlier-mortgages/">
                     CFPB Takes Action Against Castle &amp; Cooke For Steering Consumers Into Costlier Mortgages
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Company to Pay $9 Million in Restitution and $4 Million in Civil Penalties Update November 13, 2013: A copy of the final order can be found at https://files.consumerfinance.gov/f/201311_cfpb_final-order_castle-cooke.pdf WASHINGTON, D.C. — The Consumer Financial Protection Bureau (CFPB) today announced a proposed consent order in its enforcement action against Castle &amp; Cooke Mortgage, LLC, for allegedly […]</p>
@@ -2310,9 +2315,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-begins-accepting-payday-loan-complaints/">
+                <a class="" href="/about-us/newsroom/cfpb-begins-accepting-payday-loan-complaints/">
                     CFPB Begins Accepting Payday Loan Complaints
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>The Consumer Financial Protection Bureau (CFPB) is now accepting complaints from borrowers encountering problems with payday loans. Payday loans, also known as “cash advances” or “check loans,” are often short-term, small dollar loans, generally for $500 or less.</p>
@@ -2356,9 +2364,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-considers-debt-collection-rules/">
+                <a class="" href="/about-us/newsroom/cfpb-considers-debt-collection-rules/">
                     CFPB Considers Debt Collection Rules
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>The Consumer Financial Protection Bureau (CFPB) today took the first step toward considering consumer protection rules for the debt collection market. Through its Advance Notice of Proposed Rulemaking (ANPR), the Bureau is collecting information on a wide array of issues, including the accuracy of information used by debt collectors, how to ensure consumers know their rights, and the communication tactics collectors employ to recover debts. The Bureau also announced today that it will begin adding consumer complaints about debt collections to its public Consumer Complaint Database.</p>
@@ -2396,9 +2407,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/director-cordray-remarks-at-the-debt-collection-advance-notice-of-proposed-rulemaking-press-call/">
+                <a class="" href="/about-us/newsroom/director-cordray-remarks-at-the-debt-collection-advance-notice-of-proposed-rulemaking-press-call/">
                     Director Cordray Remarks at the Debt Collection Advance Notice of Proposed Rulemaking Press Call
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Today, the Consumer Financial Protection Bureau is taking an important step to better protect consumers from harmful debt collection practices.  We are publishing an Advance Notice of Proposed Rulemaking asking consumers for feedback about their experiences with debt collections and asking the industry for information about their practices.  We want to hear how we can better protect consumers and bring greater accountability to this multi-billion-dollar industry without hamstringing legitimate debt collection activities.</p>
@@ -2440,9 +2454,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-and-st-louis-team-up-to-help-local-consumers-with-questions-and-complaints/">
+                <a class="" href="/about-us/newsroom/cfpb-and-st-louis-team-up-to-help-local-consumers-with-questions-and-complaints/">
                     CFPB and St. Louis Team Up to Help Local Consumers with Questions and Complaints
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Today, the Consumer Financial Protection Bureau (CFPB) and the City of St. Louis, Missouri announced a partnership to connect consumers with the CFPB to ask questions and submit complaints about financial products and services. St. Louis consumers can now dial the Citizens’ Service Bureau (314-622-4800) to be connected with the CFPB when they have financial issues.</p>
@@ -2480,9 +2497,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/director-richard-cordray-remarks-on-managing-someone-elses-money/">
+                <a class="" href="/about-us/newsroom/director-richard-cordray-remarks-on-managing-someone-elses-money/">
                     Director Richard Cordray Remarks on Release of Managing Someone Else’s Money Guides
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Thank you for joining us today.  As we say frequently, the mission of the Consumer Financial Protection Bureau is to help build a better, more sustainable consumer financial marketplace.  An essential element to such a marketplace is educated consumers making informed decisions.</p>
@@ -2524,9 +2544,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/nora-dowd-eisenhower-remarks-on-release-of-managing-someone-elses-money-guides/">
+                <a class="" href="/about-us/newsroom/nora-dowd-eisenhower-remarks-on-release-of-managing-someone-elses-money-guides/">
                     Nora Dowd Eisenhower Remarks on Release of Managing Someone Else’s Money Guides
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Today, we are releasing the Managing Someone Else’s Money guides to help Americans of all ages better understand their responsibilities if they are called on to manage the finances of someone they love because their loved one is no longer able to do so.</p>
@@ -2564,9 +2587,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-releases-guides-for-managing-someone-elses-money/">
+                <a class="" href="/about-us/newsroom/cfpb-releases-guides-for-managing-someone-elses-money/">
                     CFPB Releases Guides For Managing Someone Else’s Money
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Today, the Consumer Financial Protection Bureau (CFPB) published four guides to help financial caregivers, particularly those who handle the finances of older Americans, carry out their duties and responsibilities in managing someone else’s money.</p>
@@ -2604,9 +2630,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-launches-education-campaign-about-new-international-money-transfer-protections/">
+                <a class="" href="/about-us/newsroom/cfpb-launches-education-campaign-about-new-international-money-transfer-protections/">
                     CFPB Launches Education Campaign About New International Money Transfer Protections
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Multilingual Multimedia Campaign Focuses on Transparency and New Protections WASHINGTON, D.C. — The Consumer Financial Protection Bureau (CFPB) is launching a nationwide multimedia campaign to inform consumers who send money internationally about new protections that go into effect today. The protections are contained in a rule that was finalized earlier this year. “Knowing how the […]</p>
@@ -2644,9 +2673,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/director-cordray-remarks-at-the-mortgage-bankers-association-annual-convention/">
+                <a class="" href="/about-us/newsroom/director-cordray-remarks-at-the-mortgage-bankers-association-annual-convention/">
                     Director Cordray Remarks at the Mortgage Bankers Association Annual Convention
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Thank you for asking me to come and speak to the convention. Those of you here today represent the single biggest consumer financial market in our nation and also in the history of the world, with the mortgage market topping $10 trillion.</p>
@@ -2688,9 +2720,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/el-cfpb-lanza-campana-educativa-sobre-nuevas-medidas-de-proteccion-para-transferencias-internacionales-de-dinero/">
+                <a class="" href="/about-us/newsroom/el-cfpb-lanza-campana-educativa-sobre-nuevas-medidas-de-proteccion-para-transferencias-internacionales-de-dinero/">
                     El CFPB Lanza Campaña Educativa Sobre Nuevas Medidas de Protección para Transferencias Internacionales de Dinero
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>La campaña se centra en la transparencia y las nuevas medidas de protección WASHINGTON, D.C.— La Oficina para la Protección Financiera del Consumidor (CFPB, por sus siglas en inglés) está lanzando una campaña multimedia a nivel nacional para informar a los consumidores que envían dinero al exterior sobre las nuevas medidas de protección que entran […]</p>
@@ -2728,9 +2763,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-files-suit-against-borders-borders-plc-for-paying-illegal-real-estate-kickbacks/">
+                <a class="" href="/about-us/newsroom/cfpb-files-suit-against-borders-borders-plc-for-paying-illegal-real-estate-kickbacks/">
                     CFPB Files Suit Against Borders &amp; Borders, PLC for Paying Illegal Real Estate Kickbacks
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>The Consumer Financial Protection Bureau today filed a lawsuit in federal district court against a Kentucky law firm, Borders &amp; Borders, PLC, and its principals, for illegally paying kickbacks for real estate settlement referrals through a network of shell companies.</p>
@@ -2768,57 +2806,16 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/federal-financial-regulators-proposing-joint-standards-for-assessing-diversity-policies-and-practices-of-regulated-entities-pursuant-to-section-342-of-the-dodd-frank-act/">
+                <a class="" href="/about-us/newsroom/federal-financial-regulators-proposing-joint-standards-for-assessing-diversity-policies-and-practices-of-regulated-entities-pursuant-to-section-342-of-the-dodd-frank-act/">
                     Federal Financial Regulators Proposing Joint Standards for Assessing Diversity Policies and Practices of Regulated Entities Pursuant to Section 342 of the Dodd-Frank Act
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Six federal financial regulatory agencies are proposing joint standards for assessing the diversity policies and practices of the institutions they regulate.  </p>
                 </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.4 1200" class="cf-icon-svg"><path d="M181.8 721.7c18 17.9 39.3 32.2 62.7 42.2 24.4 10.4 50.6 15.7 77.1 15.6 27.3 0 52.9-5.2 76.7-15.6 23.2-10 44.4-24.3 62.3-42.2 36.6-37 57.1-87 57-139l.7-283.4c.2-26.5-5-52.7-15.2-77.1-19.6-47.4-56.9-85.3-104.1-105.6-23.8-10.4-49.4-15.6-76.7-15.6-26.5-.2-52.8 5.1-77.1 15.6-47.5 20.2-85.4 58.1-105.6 105.6a194.63 194.63 0 0 0-15.6 77.1v283.4c-.1 26.3 5.2 52.3 15.6 76.4 9.9 23.3 24.3 44.6 42.2 62.6z"/><path d="M612.4 469.9c-16.6 0-30 13.4-30 30v82.7c.2 70.3-27.5 137.8-76.9 187.7-49.5 50.2-114.9 77.9-184.3 77.9s-134.8-27.7-184.3-77.9c-49.4-50-77.1-117.5-76.9-187.7v-82.7c0-16.6-13.4-30-30-30s-30 13.4-30 30v82.7c-.1 86 33.8 168.6 94.2 229.8 29.2 29.7 63.8 53.5 102.1 70 30.2 13 62.2 21.3 95 24.3v129.4h-151c-16.6 0-30 13.4-30 30s13.4 30 30 30h362c16.6 0 30-13.4 30-30s-13.4-30-30-30h-151V906.8c32.7-3.1 64.8-11.3 95-24.3 38.2-16.5 72.9-40.3 102.1-70 60.4-61.3 94.2-143.8 94.1-229.9v-82.7c-.1-16.6-13.6-30-30.1-30z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Speech
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2013-10-23T00:00:00">OCT 23, 2013</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/director-cordray-remarks-at-the-financial-literacy-and-education-commission-meeting/">
-                    Director Cordray Remarks at the Financial Literacy and Education Commission Meeting
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Thank you all for joining us here today.  It has long been ingrained in the fabric of our country that if you work hard, study well, and act responsibly, you can get ahead in life.  In fact, that is why all of us are here—to help ensure that idea remains true.  Benjamin Franklin once said, “An investment in knowledge always pays the best interest.”  From a young age, we impress upon our children that education can be an important milestone on the pathway to opportunity.  That has been true in my own life, and I am sure it is true for many people here in this room.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=richard-cordray">Richard Cordray</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=financial-education" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial education
-                </a>
-            </li>
-    </ul>
-</div>
         </div>
     </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
@@ -2866,6 +2863,17 @@
     <aside class="o-prefooter">
     <div class="block
                 block__flush-top
+                ">
+<div class="m-related-links">
+        <header class="m-slug-header">
+            <h2 class="a-heading">
+                Looking for older materials?
+            </h2>
+        </header>
+    <p>The Bureau archives blogs, press releases, reports, and other materials that are more than two years old. Archived materials are available on the Bureau’s website and can be located in search results; however, these older materials may not represent the most recent relevant information.</p>
+</div>
+    </div>
+    <div class="block
                 ">
 <div class="o-email-signup">
     <header class="m-slug-header">
@@ -2982,13 +2990,13 @@
 </a>
             <ul class="o-footer_nav-list m-list">
                     <li class="m-list_item">
-                        <a class="m-list_link" href="/about-us/contact-us/">
-                            Contact Us
+                        <a class="m-list_link" href="/about-us/">
+                            About Us
                         </a>
                     </li>
                     <li class="m-list_item">
-                        <a class="m-list_link" href="/about-us/newsroom/">
-                            Newsroom
+                        <a class="m-list_link" href="/about-us/contact-us/">
+                            Contact Us
                         </a>
                     </li>
                     <li class="m-list_item">
@@ -2997,7 +3005,12 @@
                         </a>
                     </li>
                     <li class="m-list_item">
-                        <a class="m-list_link" href="/policy-compliance/enforcement/information-industry-whistleblowers/">
+                        <a class="m-list_link" href="/about-us/events/">
+                            Events
+                        </a>
+                    </li>
+                    <li class="m-list_item">
+                        <a class="m-list_link" href="/enforcement/information-industry-whistleblowers/">
                             Industry Whistleblowers
                         </a>
                     </li>
