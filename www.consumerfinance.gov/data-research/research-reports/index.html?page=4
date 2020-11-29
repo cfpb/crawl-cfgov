@@ -2762,9 +2762,12 @@ for calendar year 2017.</p>
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/consumer-insights-paying-bills/">
+                <a class="" href="/data-research/research-reports/consumer-insights-paying-bills/">
                     Consumer insights on paying bills
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>This report describes
