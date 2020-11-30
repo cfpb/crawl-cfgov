@@ -1892,9 +1892,12 @@ sólida para su nuevo hogar.</p>
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/cfpb-ombudsmans-office-2018-annual-report/">
+                <a class="" href="/about-us/blog/cfpb-ombudsmans-office-2018-annual-report/">
                     CFPB Ombudsman’s Office 2018 Annual Report
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>The CFPB Ombudsman’s Office shares its FY2018 Annual Report</p>
