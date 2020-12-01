@@ -1835,9 +1835,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/esta-comprando-una-vivienda-el-primer-paso-es-revisar-su-credito/">
+                <a class="" href="/about-us/blog/esta-comprando-una-vivienda-el-primer-paso-es-revisar-su-credito/">
                     ¿Está comprando una vivienda? El primer paso es revisar su crédito
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Revisar su crédito es el primer paso para construir una base financiera
