@@ -1303,12 +1303,12 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
-                       href="/about-us/newsroom/cfpb-issues-proposed-rule-escrow-exemptions-high-priced-mortgage-loans/">
-                        Consumer Financial Protection Bureau Issues Proposed Rule on Escrow Exemptions for Certain High-Priced Mortgage Loans
+                       href="/about-us/newsroom/consumer-financial-protection-bureau-multiple-states-enter-settlement-nationstar-mortgage-llc-unlawful-servicing-practices/">
+                        Consumer Financial Protection Bureau and Multiple States Enter into Settlement with Nationstar Mortgage, LLC for Unlawful Servicing Practices
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-02T00:00:00">JUL 02, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-07T00:00:00">DEC 07, 2020</time>
 </span>
                 </p>
             </li>
