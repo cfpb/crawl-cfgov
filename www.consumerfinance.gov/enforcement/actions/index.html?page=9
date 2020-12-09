@@ -1427,9 +1427,9 @@
                                 </label>
                                 <select name="topics" id="o-filterable-list-controls_topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
   <option value="enforcement">Enforcement</option>
+  <option value="debt-collection">Debt collection</option>
   <option value="mortgages">Mortgages</option>
   <option value="credit-cards">Credit cards</option>
-  <option value="debt-collection">Debt collection</option>
   <option value="add-on-products">Add-on products</option>
   <option value="payday-loans">Payday loans</option>
   <option value="small-dollar-loans">Small-dollar loans</option>
@@ -1539,13 +1539,39 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">275 filtered results</div>
+          <div class="h4 m-notification_message">276 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2015-02-12T00:00:00">FEB 12, 2015</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/flagship-financial/">
+                    Flagship Financial Group, LLC
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>CFPB took action against three reverse mortgage lenders, All Financial Services, Flagship Financial Group and American Preferred Lending, for misleading consumers with advertisements implying U.S. government approval of their products.<br/></p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2173,32 +2199,6 @@ advertisements implying U.S. government approval of their products. </p>
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2014-07-29T00:00:00">JUL 29, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/colfax-capital-corporation-culver-capital-llc-ronald-wilson-william-collins/">
-                    Colfax Capital Corporation, Culver Capital, LLC, Ronald Wilson, and William Collins
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>CFPB and 13 state attorneys general obtained approximately $92 million in debt relief from Colfax Capital Corporation and Culver Capital, LLC, also collectively known as “Rome Finance,” for about 17,000 U.S. servicemembers and other consumers harmed by the company’s predatory lending scheme.<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2216,7 +2216,7 @@ advertisements implying U.S. government approval of their products. </p>
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    9 out of 11 total pages
+                    9 out of 12 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -2224,11 +2224,11 @@ advertisements implying U.S. government approval of their products. </p>
                    name="page"
                    type="number"
                    min="1"
-                   max="11"
+                   max="12"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="9">
-            <span class="m-pagination_label"> of 11</span>
+            <span class="m-pagination_label"> of 12</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"
@@ -2309,6 +2309,18 @@ advertisements implying U.S. government approval of their products. </p>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/consumer-financial-protection-bureau-settles-debt-collector-engaging-deceptive-debt-collection-practices-three-states/">
+                        Consumer Financial Protection Bureau Settles with Debt Collector for Engaging in Deceptive Debt Collection Practices in Three States
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-08T00:00:00">DEC 08, 2020</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/consumer-financial-protection-bureau-multiple-states-enter-settlement-nationstar-mortgage-llc-unlawful-servicing-practices/">
                         Consumer Financial Protection Bureau and Multiple States Enter into Settlement with Nationstar Mortgage, LLC for Unlawful Servicing Practices
                     </a>
@@ -2327,18 +2339,6 @@ advertisements implying U.S. government approval of their products. </p>
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2020-12-04T00:00:00">DEC 04, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/consumer-financial-protection-bureau-sues-dmb-financial-llc-allegedly-violating-telemarketing-sales-rule-and-consumer-financial-protection-act/">
-                        Consumer Financial Protection Bureau Sues DMB Financial, LLC for Allegedly Violating the Telemarketing Sales Rule and Consumer Financial Protection Act
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-12-01T00:00:00">DEC 01, 2020</time>
 </span>
                 </p>
             </li>
