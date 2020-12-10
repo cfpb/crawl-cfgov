@@ -1418,7 +1418,6 @@
   <option value="privacy">Privacy</option>
   <option value="youth-employment">Youth employment</option>
   <option value="electronic-payments">Electronic payments</option>
-  <option value="udaaps_1">UDAAPs</option>
   <option value="partnerships">Partnerships</option>
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="cfpb-ombudsman">CFPB Ombudsman</option>
@@ -1429,10 +1428,9 @@
   <option value="native-communities">Native communities</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="virtual-currency">Virtual currency</option>
-  <option value="deposits">deposits</option>
   <option value="hmda">HMDA</option>
-  <option value="remittances">remittances</option>
   <option value="sbrefa">SBREFA</option>
+  <option value="udaaps_1">UDAAPs</option>
   <option value="homebuying">Homebuying</option>
 </select>
                             </div>
@@ -2076,14 +2074,7 @@ administer the Fair Debt Collection Practices Act (“FDCPA”).</span></p>
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p><span>In this issue of <i>Supervisory Highlights</i>,
-we report examination findings </span><span>in the areas of automobile loan servicing, deposits, mortgage servicing,
-and remittances that were generally completed between June 2018 and November 2018.
-The report does not impose any new or different legal requirements, and all
-violations described in the report are based only on those specific facts and
-circumstances noted during those examinations.</span><span> </span><span>As in past editions, this
-report includes information about recent public enforcement actions that were a
-result, at least in part, of our supervisory work. </span></p>
+                    <p>In this issue of <i>Supervisory Highlights</i>, we report examination findings in the areas of automobile loan servicing, deposits, mortgage servicing, and remittances that were generally completed between June 2018 and November 2018. The report does not impose any new or different legal requirements, and all violations described in the report are based only on those specific facts and circumstances noted during those examinations. As in past editions, this report includes information about recent public enforcement actions that were a result, at least in part, of our supervisory work. </p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
@@ -2098,18 +2089,6 @@ result, at least in part, of our supervisory work. </span></p>
                 <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Supervision
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=deposits" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    deposits
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=udaaps_1" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    UDAAPs
                 </a>
             </li>
             <li class="tags_tag">
@@ -2128,12 +2107,6 @@ result, at least in part, of our supervisory work. </span></p>
                 <a href="/data-research/research-reports/?topics=auto-loans" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Auto loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=remittances" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    remittances
                 </a>
             </li>
             <li class="tags_tag">

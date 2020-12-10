@@ -1418,7 +1418,6 @@
   <option value="privacy">Privacy</option>
   <option value="youth-employment">Youth employment</option>
   <option value="electronic-payments">Electronic payments</option>
-  <option value="udaaps_1">UDAAPs</option>
   <option value="partnerships">Partnerships</option>
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="cfpb-ombudsman">CFPB Ombudsman</option>
@@ -1429,10 +1428,9 @@
   <option value="native-communities">Native communities</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="virtual-currency">Virtual currency</option>
-  <option value="deposits">deposits</option>
   <option value="hmda">HMDA</option>
-  <option value="remittances">remittances</option>
   <option value="sbrefa">SBREFA</option>
+  <option value="udaaps_1">UDAAPs</option>
   <option value="homebuying">Homebuying</option>
 </select>
                             </div>

@@ -1456,7 +1456,6 @@
   <option value="regulation-n">Regulation N</option>
   <option value="regulation-o">Regulation O</option>
   <option value="regulation-p">Regulation P</option>
-  <option value="regulation-z">Regulation Z</option>
   <option value="rulemaking">Rulemaking</option>
   <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="student-loans">Student loans</option>
@@ -2017,33 +2016,27 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=regulation-z" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Regulation Z
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
                 <a href="/rules-policy/final-rules/?topics=mortgage-origination" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Mortgage origination
                 </a>
             </li>
             <li class="tags_tag">
+                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+            <li class="tags_tag">
                 <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Truth in Lending Act (TILA)
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Rulemaking
                 </a>
             </li>
     </ul>
@@ -2241,21 +2234,15 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
                 <a href="/rules-policy/final-rules/?topics=disasters-and-emergencies" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Disasters and emergencies
                 </a>
             </li>
             <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=regulation-z" class="tags_link">
+                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Regulation Z
+                    Mortgages
                 </a>
             </li>
             <li class="tags_tag">

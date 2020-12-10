@@ -1328,8 +1328,8 @@
   <option value="consumer-complaints">Consumer complaints</option>
   <option value="financial-well-being">Financial well-being</option>
   <option value="cfpb-en-espanol">CFPB en español</option>
-  <option value="rulemaking">Rulemaking</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
+  <option value="rulemaking">Rulemaking</option>
   <option value="credit-cards">Credit cards</option>
   <option value="enforcement">Enforcement</option>
   <option value="debt-collection">Debt collection</option>
@@ -1368,7 +1368,6 @@
   <option value="discrimination">Discrimination</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="arbitration">Arbitration</option>
-  <option value="managing-debt">Managing debt</option>
   <option value="cfpb-ombudsman">CFPB Ombudsman</option>
   <option value="innovation">Innovation</option>
   <option value="money-transfers">Money transfers</option>
@@ -1392,7 +1391,6 @@
   <option value="civil-penalty-fund">Civil Penalty Fund</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
-  <option value="identity-theft">Identity theft</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
   <option value="procurement">Procurement</option>
   <option value="native-communities">Native communities</option>
@@ -1410,11 +1408,8 @@
   <option value="virtual-currency">Virtual currency</option>
   <option value="add-on-products">Add-on products</option>
   <option value="libraries">Libraries</option>
-  <option value="reports">reports</option>
   <option value="call-for-evidence">Call for evidence</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
-  <option value="youth-in-foster-care">Youth in foster care</option>
-  <option value="young-consumers">Young consumers</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
 </select>
                             </div>
@@ -1465,9 +1460,9 @@
   <option value="hector-ortiz">Hector Ortiz</option>
   <option value="kent-markus">Kent Markus</option>
   <option value="davida-farrar">Davida Farrar</option>
+  <option value="leslie-jones">Leslie Jones</option>
   <option value="grady-hedgespeth">Grady Hedgespeth</option>
   <option value="bryan-a-schneider">Bryan A. Schneider</option>
-  <option value="leslie-jones">Leslie Jones</option>
   <option value="dan-quan">Dan Quan</option>
   <option value="sangeetha-malaiyandi">Sangeetha Malaiyandi</option>
   <option value="dubis-correal">Dubis Correal</option>
@@ -1502,6 +1497,7 @@
   <option value="patricia-mccoy">Patricia McCoy</option>
   <option value="jonah-kaplan">Jonah Kaplan</option>
   <option value="jim-rice">Jim Rice</option>
+  <option value="kris-andreassen">Kris Andreassen</option>
   <option value="diane-thompson">Diane Thompson</option>
   <option value="jessica-russell">Jessica Russell</option>
   <option value="maggie-anderson">Maggie Anderson</option>
@@ -1510,7 +1506,6 @@
   <option value="cfpb-students-team">CFPB Students Team</option>
   <option value="damion-english">Damion English</option>
   <option value="sartaj-alag">Sartaj Alag</option>
-  <option value="kris-andreassen">Kris Andreassen</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
   <option value="jill-wheeler">Jill Wheeler</option>
@@ -1522,6 +1517,7 @@
   <option value="paul-kantwill">Paul Kantwill</option>
   <option value="christopher-carroll">Christopher Carroll</option>
   <option value="sergei-kulaev">Sergei Kulaev</option>
+  <option value="lyn-haralson">Lyn Haralson</option>
   <option value="angela-peoples">Angela Peoples</option>
   <option value="meredith-fuchs">Meredith Fuchs</option>
   <option value="david-gragan">David Gragan</option>
@@ -1536,6 +1532,7 @@
   <option value="gene-koo">Gene Koo</option>
   <option value="olivia-calderon">Olivia Calderon</option>
   <option value="jeff-ehrlich">Jeff Ehrlich</option>
+  <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="j-frank-vespa-papaleo">J Frank Vespa-Papaleo</option>
   <option value="david-sieminski">David Sieminski</option>
   <option value="lissan-anfune">Lissan Anfune</option>
@@ -1543,9 +1540,7 @@
   <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="miesha-davis">Miesha Davis</option>
   <option value="max-bentovim">Max Bentovim</option>
-  <option value="lyn-haralson">Lyn Haralson</option>
   <option value="paul-mondor">Paul Mondor</option>
-  <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
   <option value="chris-dangelo">Chris DAngelo</option>
@@ -1655,6 +1650,7 @@
   <option value="james-wylie">James Wylie</option>
   <option value="gregory-evans">Gregory Evans</option>
   <option value="eric-wang">Eric Wang</option>
+  <option value="jennifer-leach">Jennifer Leach</option>
   <option value="whitney-patross">Whitney Patross</option>
   <option value="heather-m-brown">Heather M. Brown</option>
   <option value="anthony-vail">Anthony Vail</option>
@@ -1669,7 +1665,6 @@
   <option value="nicholas-tremper">Nicholas Tremper</option>
   <option value="daniel-grodzicki">Daniel Grodzicki</option>
   <option value="kristin-wong">Kristin Wong</option>
-  <option value="jennifer-leach">Jennifer Leach</option>
   <option value="ken-brevoort">Ken Brevoort</option>
   <option value="vanessa-krueger">Vanessa Krueger</option>
   <option value="alex-plunkett">Alex Plunkett</option>
@@ -2369,8 +2364,7 @@ natural disasters are reported in consumers’ credit reports. </p>
 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>Ease some of the holiday stress and fears about overspending by creating
-a holiday spending plan.</p>
+                    <p>Ease some of the holiday stress and fears about overspending by creating a holiday spending plan.</p>
                 </div>
                 <div class="o-post-preview_byline-group">
                     By 
@@ -2383,12 +2377,6 @@ a holiday spending plan.</p>
                 <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Financial well-being
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=managing-debt" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Managing debt
                 </a>
             </li>
     </ul>
