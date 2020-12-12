@@ -1450,10 +1450,10 @@
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="foia">FOIA</option>
   <option value="private-education-loan-ombudsman">Private Education Loan Ombudsman</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="libraries">Libraries</option>
   <option value="financial-wellness-in-workplace">Financial wellness in the workplace</option>
-  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="homebuying">Homebuying</option>
   <option value="regulation-p">Regulation P</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
@@ -1611,13 +1611,123 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1349 filtered results</div>
+          <div class="h4 m-notification_message">1351 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-09-27T00:00:00">SEP 27, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/cfpb-complaint-snapshot-spotlights-money-transfer-complaints/">
+                    CFPB Complaint Snapshot Spotlights Money Transfer Complaints
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Bureau Marks Over One Million Consumer Complaints Handled</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=consumer-complaints" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Consumer complaints
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=money-transfers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Money transfers
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=bureau-milestones" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Bureau milestones
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-09-26T00:00:00">SEP 26, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/cfpb-fines-titlemax-parent-company-9-million-luring-consumers-more-costly-loans/">
+                    CFPB Fines Titlemax Parent Company $9 Million for Luring Consumers Into More Costly Loans
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Lender Also Illegally Exposed Borrowers’ Debt Information to Employers, Friends, and Family </p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=payday-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Payday loans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=civil-penalty-fund" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Civil Penalty Fund
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2982,91 +3092,6 @@ collection practices.</p>
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-07-22T00:00:00">JUL 22, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/agencies-issue-proposal-method-adjust-thresholds-exempting-certain-consumer-credit-and-lease-transactions/">
-                    Agencies Issue Proposal on Method to Adjust Thresholds for Exempting Certain Consumer Credit and Lease Transactions
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>The Federal Reserve Board and the Consumer Financial Protection Bureau (CFPB) today issued a proposal detailing the method that will be used to adjust the thresholds for exempting certain consumer credit and lease transactions from the Truth in Lending Act and Consumer Leasing Act.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-07-22T00:00:00">JUL 22, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/agencies-issue-proposal-method-adjust-threshold-exempting-small-loans-special-appraisal-requirements/">
-                    Agencies Issue Proposal on Method to Adjust Threshold for Exempting Small Loans from Special Appraisal Requirements 
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>The Consumer Financial Protection Bureau (CFPB), the
-Federal Reserve Board, and the Office of the Comptroller of the Currency (OCC)
-today issued a proposal detailing the method that will be used to make annual
-inflation adjustments to the threshold for exempting small loans from higher
-priced mortgage loan appraisal requirements.</p>
-                </div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -3084,7 +3109,7 @@ priced mortgage loan appraisal requirements.</p>
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    20 out of 54 total pages
+                    20 out of 55 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -3092,11 +3117,11 @@ priced mortgage loan appraisal requirements.</p>
                    name="page"
                    type="number"
                    min="1"
-                   max="54"
+                   max="55"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="20">
-            <span class="m-pagination_label"> of 54</span>
+            <span class="m-pagination_label"> of 55</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"
@@ -3399,9 +3424,10 @@ priced mortgage loan appraisal requirements.</p>
     <!--[if gt IE 8]><!-->
     <link rel="stylesheet"
           href="//fast.fonts.net/t/1.css?apiType=css&projectid=44e8c964-4684-44c6-a6e3-3f3da8787b50"
-          media="none"
-          onload="media='all'">
-    <noscript><link rel="stylesheet" href="//fast.fonts.net/t/1.css?apiType=css&projectid=44e8c964-4684-44c6-a6e3-3f3da8787b50">
+          media="print"
+          onload="this.media='all'">
+    <noscript>
+      <link rel="stylesheet" href="//fast.fonts.net/t/1.css?apiType=css&projectid=44e8c964-4684-44c6-a6e3-3f3da8787b50">
     </noscript>
     <!--<![endif]-->
 </body>

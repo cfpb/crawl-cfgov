@@ -1424,9 +1424,9 @@
   <option value="cfpb-in-tagalog">CFPB in Tagalog</option>
   <option value="behavioral-economics">Behavioral economics</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="cfpb-in-vietnamese">CFPB in Vietnamese</option>
   <option value="youth-employment">Youth employment</option>
-  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="regulation-p">Regulation P</option>
   <option value="regulation-o">Regulation O</option>
   <option value="hmda">HMDA</option>
@@ -1489,8 +1489,8 @@
   <option value="kent-markus">Kent Markus</option>
   <option value="corey-stone">Corey Stone</option>
   <option value="dan-quan">Dan Quan</option>
-  <option value="dan-sokolov">Dan Sokolov</option>
   <option value="dubis-correal">Dubis Correal</option>
+  <option value="dan-sokolov">Dan Sokolov</option>
   <option value="peggy-twohig">Peggy Twohig</option>
   <option value="nicole-shea">Nicole Shea</option>
   <option value="yuliya-rzad">Yuliya Rzad</option>
@@ -1507,9 +1507,9 @@
   <option value="serena-villalba">Serena Villalba</option>
   <option value="leslie-jones">Leslie Jones</option>
   <option value="gary-stein">Gary Stein</option>
+  <option value="jonah-kaplan">Jonah Kaplan</option>
   <option value="davida-farrar">Davida Farrar</option>
   <option value="eric-goldberg">Eric Goldberg</option>
-  <option value="jonah-kaplan">Jonah Kaplan</option>
   <option value="stuart-ishimaru">Stuart Ishimaru</option>
   <option value="lindsay-bacon">Lindsay Bacon</option>
   <option value="cfpb-consumer-response-team">CFPB Consumer Response Team</option>
@@ -1518,10 +1518,10 @@
   <option value="patricia-mccoy">Patricia McCoy</option>
   <option value="elizabeth-vale">Elizabeth Vale</option>
   <option value="grady-hedgespeth">Grady Hedgespeth</option>
+  <option value="melissa-yu">Melissa Yu</option>
   <option value="lois-greisman">Lois Greisman</option>
   <option value="brian-johnson">Brian Johnson</option>
   <option value="adebukola-dada">Adebukola Dada</option>
-  <option value="melissa-yu">Melissa Yu</option>
   <option value="jim-rice">Jim Rice</option>
   <option value="diane-thompson">Diane Thompson</option>
   <option value="jessica-russell">Jessica Russell</option>
@@ -1537,12 +1537,14 @@
   <option value="anthony-camilli">Anthony Camilli</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
+  <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="bryan-a-schneider">Bryan A. Schneider</option>
   <option value="michael-herndon">Michael Herndon</option>
-  <option value="cora-hume">Cora Hume</option>
   <option value="gene-koo">Gene Koo</option>
+  <option value="cora-hume">Cora Hume</option>
   <option value="patricia-mcclung">Patricia McClung</option>
   <option value="rich-williams">Rich Williams</option>
+  <option value="olivia-calderon">Olivia Calderon</option>
   <option value="christopher-carroll">Christopher Carroll</option>
   <option value="sergei-kulaev">Sergei Kulaev</option>
   <option value="angela-peoples">Angela Peoples</option>
@@ -1553,8 +1555,6 @@
   <option value="peter-jackson">Peter Jackson</option>
   <option value="marla-blow">Marla Blow</option>
   <option value="victor-zapanta">Victor Zapanta</option>
-  <option value="olivia-calderon">Olivia Calderon</option>
-  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="jeff-ehrlich">Jeff Ehrlich</option>
   <option value="j-frank-vespa-papaleo">J Frank Vespa-Papaleo</option>
   <option value="david-sieminski">David Sieminski</option>
@@ -1569,7 +1569,7 @@
   <option value="lyn-haralson">Lyn Haralson</option>
   <option value="max-bentovim">Max Bentovim</option>
   <option value="valentin-mihalache">Valentin Mihalache</option>
-  <option value="susan-m-bernard">Susan M. Bernard</option>
+  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="lora-mccray">Lora McCray</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
@@ -1577,15 +1577,16 @@
   <option value="mechel-glass">Mechel Glass</option>
   <option value="ren-essene">Ren Essene</option>
   <option value="david-friend">David Friend</option>
+  <option value="wei-zhang">Wei Zhang</option>
   <option value="julian-alcazar">Julian Alcazar</option>
   <option value="william-shelton">William Shelton</option>
   <option value="michael-salemi">Michael Salemi</option>
-  <option value="wei-zhang">Wei Zhang</option>
   <option value="will-sealy">Will Sealy</option>
   <option value="susan-stocks">Susan Stocks</option>
   <option value="david-cassidy">David Cassidy</option>
   <option value="deborah-morris">Deborah Morris</option>
   <option value="beverly-yang">Beverly Yang</option>
+  <option value="sunaena-lehil">Sunaena Lehil</option>
   <option value="ana-mahony">Ana Mahony</option>
   <option value="michael-pierce">Michael Pierce</option>
   <option value="nick-rathod">Nick Rathod</option>
@@ -1593,7 +1594,6 @@
   <option value="dan-munz">Dan Munz</option>
   <option value="elizabeth-reilly">Elizabeth Reilly</option>
   <option value="alejandra-lopez-fernandini">Alejandra Lopez-Fernandini</option>
-  <option value="sunaena-lehil">Sunaena Lehil</option>
   <option value="aissa-canchola">Aissa Canchola</option>
   <option value="melissa-knoll">Melissa Knoll</option>
   <option value="brian-kreiswirth">Brian Kreiswirth</option>
@@ -1606,13 +1606,13 @@
   <option value="flavio-cumpiano">Flavio Cumpiano</option>
   <option value="thomas-conkling">Thomas Conkling</option>
   <option value="brian-lavin">Brian Lavin</option>
-  <option value="cfpb">CFPB</option>
   <option value="kristen-evans">Kristen Evans</option>
   <option value="matt-cameron">Matt Cameron</option>
   <option value="andy-cohen">Andy Cohen</option>
   <option value="paul-watkins">Paul Watkins</option>
   <option value="brian-stone">Brian Stone</option>
   <option value="logan-herman">Logan Herman</option>
+  <option value="cfpb">CFPB</option>
   <option value="keo-chea">Keo Chea</option>
   <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
@@ -1643,7 +1643,6 @@
   <option value="cfpb-research-team">CFPB Research Team</option>
   <option value="noah-kunin">Noah Kunin</option>
   <option value="ori-lev">Ori Lev</option>
-  <option value="dennis-slagter">Dennis Slagter</option>
   <option value="richard-lepley">Richard Lepley</option>
   <option value="tim-massad">Tim Massad</option>
   <option value="kimberly-miller">Kimberly Miller</option>
@@ -1652,6 +1651,7 @@
   <option value="leonard-kennedy">Leonard Kennedy</option>
   <option value="terri-carson">Terri Carson</option>
   <option value="wally-adeyemo">Wally Adeyemo</option>
+  <option value="dennis-slagter">Dennis Slagter</option>
   <option value="nani-coloretti">Nani Coloretti</option>
   <option value="kori-schulman">Kori Schulman</option>
   <option value="stephen-agostini">Stephen Agostini</option>
@@ -1697,34 +1697,34 @@
   <option value="judith-ricks">Judith Ricks</option>
   <option value="jennifer-leach">Jennifer Leach</option>
   <option value="kathy-kraninger">Kathy Kraninger</option>
-  <option value="ryan-sandler">Ryan Sandler</option>
   <option value="anita-chen">Anita Chen</option>
+  <option value="ryan-sandler">Ryan Sandler</option>
   <option value="daniel-grodzicki">Daniel Grodzicki</option>
-  <option value="jeremy-tobacman">Jeremy Tobacman</option>
   <option value="eva-nagypal">Éva Nagypál</option>
-  <option value="charles-romeo">Charles Romeo</option>
+  <option value="jeremy-tobacman">Jeremy Tobacman</option>
   <option value="catherine-razeto">Catherine Razeto</option>
-  <option value="jason-dietrich">Jason Dietrich</option>
-  <option value="karl-schneider">Karl Schneider</option>
+  <option value="charles-romeo">Charles Romeo</option>
   <option value="chris-stocks">Chris Stocks</option>
+  <option value="karl-schneider">Karl Schneider</option>
+  <option value="jason-dietrich">Jason Dietrich</option>
   <option value="nhu-han-duong">Nhu-Han Duong</option>
   <option value="andrew-cohen">Andrew Cohen</option>
   <option value="kristin-wong">Kristin Wong</option>
   <option value="heather-m-brown">Heather M. Brown</option>
   <option value="todd-zywicki">Todd Zywicki</option>
   <option value="tom-pahl">Tom Pahl</option>
-  <option value="james-marrone">James Marrone</option>
   <option value="susan-carter">Susan Carter</option>
+  <option value="james-marrone">James Marrone</option>
   <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="jason-brown">Jason Brown</option>
-  <option value="albert-chang">Albert Chang</option>
   <option value="jennifer-lassiter">Jennifer Lassiter</option>
-  <option value="austin-mueller">Austin Mueller</option>
-  <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
+  <option value="albert-chang">Albert Chang</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
+  <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
+  <option value="austin-mueller">Austin Mueller</option>
   <option value="elena-babinecz">Elena Babinecz</option>
-  <option value="brian-fu">Brian Fu</option>
   <option value="charmain-bogue">Charmain Bogue</option>
+  <option value="brian-fu">Brian Fu</option>
   <option value="office-of-enforcement">Office of Enforcement</option>
 </select>
                             </div>
@@ -1834,7 +1834,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2938 filtered results</div>
+          <div class="h4 m-notification_message">2941 filtered results</div>
       </div>
   </div>
         </div>
@@ -1853,6 +1853,69 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-warns-financial-institutions-about-potential-mortgage-lending-reporting-failures/">
+                        <span class="h4 u-mb0">
+                            CFPB Warns Financial Institutions About Potential Mortgage Lending Reporting Failures
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2016-10-27T00:00:00">OCT 27, 2016</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/join-2017-your-money-your-goals-cohort/">
+                        <span class="h4 u-mb0">
+                            Join the 2017 Your Money, Your Goals Cohort
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2016-10-27T00:00:00">OCT 27, 2016</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/monthly-complaint-report-vol-16/">
+                        <span class="h4 u-mb0">
+                            Monthly Complaint Report, Vol. 16
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2016-10-25T00:00:00">OCT 25, 2016</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3891,69 +3954,6 @@
 </span>
                 </td>
             </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/save-date-sacramento-calif/">
-                        <span class="h4 u-mb0">
-                            Save the date, Sacramento, Calif.!
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2016-07-15T00:00:00">JUL 15, 2016</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/consumers-count-five-years-standing-you/">
-                        <span class="h4 u-mb0">
-                            Consumers Count: Five years standing up for you
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2016-07-14T00:00:00">JUL 14, 2016</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/consumer-financial-protection-bureau-orders-santander-bank-pay-10-million-fine-illegal-overdraft-practices/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Orders Santander Bank to Pay $10 Million Fine for Illegal Overdraft Practices
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2016-07-14T00:00:00">JUL 14, 2016</time>
-</span>
-                </td>
-            </tr>
         </tbody>
     </table>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
@@ -4170,9 +4170,10 @@
     <!--[if gt IE 8]><!-->
     <link rel="stylesheet"
           href="//fast.fonts.net/t/1.css?apiType=css&projectid=44e8c964-4684-44c6-a6e3-3f3da8787b50"
-          media="none"
-          onload="media='all'">
-    <noscript><link rel="stylesheet" href="//fast.fonts.net/t/1.css?apiType=css&projectid=44e8c964-4684-44c6-a6e3-3f3da8787b50">
+          media="print"
+          onload="this.media='all'">
+    <noscript>
+      <link rel="stylesheet" href="//fast.fonts.net/t/1.css?apiType=css&projectid=44e8c964-4684-44c6-a6e3-3f3da8787b50">
     </noscript>
     <!--<![endif]-->
 </body>

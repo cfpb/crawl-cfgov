@@ -1538,13 +1538,41 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">277 filtered results</div>
+          <div class="h4 m-notification_message">278 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2016-09-27T00:00:00">SEP 27, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/flurish-inc-db-lendup/">
+                    Flurish, Inc., d/b/a LendUp
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Today the CFPB took action
+against online lender Flurish, Inc., doing business as LendUp, for failing to
+deliver the promised benefits of its products.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2233,32 +2261,6 @@ Fomichev on April 21, 2016 and T3Leads and two other individuals in December
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2016-02-23T00:00:00">FEB 23, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/solomon-and-solomon/">
-                    Solomon & Solomon, P.C.
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>The Consumer Financial Protection Bureau took two separate actions against Citibank for illegal debt sales and debt collection practices. This action is against both Citibank and two debt collection law firms it used that falsified court documents filed in debt collection cases in New Jersey state courts.<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2619,9 +2621,10 @@ Fomichev on April 21, 2016 and T3Leads and two other individuals in December
     <!--[if gt IE 8]><!-->
     <link rel="stylesheet"
           href="//fast.fonts.net/t/1.css?apiType=css&projectid=44e8c964-4684-44c6-a6e3-3f3da8787b50"
-          media="none"
-          onload="media='all'">
-    <noscript><link rel="stylesheet" href="//fast.fonts.net/t/1.css?apiType=css&projectid=44e8c964-4684-44c6-a6e3-3f3da8787b50">
+          media="print"
+          onload="this.media='all'">
+    <noscript>
+      <link rel="stylesheet" href="//fast.fonts.net/t/1.css?apiType=css&projectid=44e8c964-4684-44c6-a6e3-3f3da8787b50">
     </noscript>
     <!--<![endif]-->
 </body>
