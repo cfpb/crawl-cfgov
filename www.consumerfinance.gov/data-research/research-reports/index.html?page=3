@@ -3078,6 +3078,52 @@ the Dodd-Frank Act.</p>
     <p>The Bureau archives blogs, press releases, reports, and other materials that are more than two years old. Archived materials are available on the Bureau’s website and can be located in search results; however, these older materials may not represent the most recent relevant information.</p>
 </div>
     </div>
+    <div class="block
+                ">
+<div class="o-email-signup">
+    <header class="m-slug-header">
+        <h2 class="a-heading ">
+            Email updates
+        </h2>
+    </header>
+    <p>
+        Sign up for updates from the CFPB’s Office of Research.
+    </p>
+    <form class="o-form o-form__email-signup"
+          id="o-form__email-signup_1"
+          method="POST"
+          action="/subscriptions/new/"
+          enctype="application/x-www-form-urlencoded">
+  <div class="m-notification m-notification__default">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm50.3 770.7c0 27.6-22.4 50-50 50s-50-22.4-50-50V547.3c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6zm-50-439.1c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7 71.7 32.1 71.7 71.7-32.1 71.7-71.7 71.7z"/></svg>
+      <div class="m-notification_content"
+          >
+      </div>
+  </div>
+        <div class="m-form-field">
+            <label class="a-label a-label__heading" for="email_1">
+                Email address
+            </label>
+            <input class="a-text-input a-text-input__full"
+                   id="email_1"
+                   name="email"
+                   type="email"
+                   placeholder="mail@example.com"
+                   required>
+        </div>
+        <div class="m-btn-group">
+            <button class="a-btn">Sign up</button>
+            <a class="a-btn a-btn__link a-btn__secondary"
+               href="/privacy/research-email-privacy-act-statement/"
+               target="_blank"
+               rel="noopener noreferrer">
+                See Privacy Act statement
+            </a>
+        </div>
+        <input type="hidden" name="code" value="USCFPB_124">
+    </form>
+</div>
+    </div>
             <div class="block">
 <div class="m-related-posts
     ">
@@ -3095,6 +3141,18 @@ the Dodd-Frank Act.</p>
                m-list
                m-list__unstyled
                m-list__spaced">
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
+                       href="/about-us/blog/credit-card-debt-fell-even-consumers-having-financial-difficulties-before-pandemic/">
+                        Credit card debt fell even for consumers who were having financial difficulties before the pandemic
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-17T00:00:00">DEC 17, 2020</time>
+</span>
+                </p>
+            </li>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
@@ -3116,18 +3174,6 @@ the Dodd-Frank Act.</p>
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2020-08-28T00:00:00">AUG 28, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/what-to-consider-when-sharing-your-financial-data/">
-                        What to consider when sharing your financial data
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-24T00:00:00">JUL 24, 2020</time>
 </span>
                 </p>
             </li>
