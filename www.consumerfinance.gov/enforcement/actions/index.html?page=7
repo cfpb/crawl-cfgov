@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.ab0e4d754f28.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.3996efa6d3cc.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1183,8 +1183,7 @@
     <!--<![endif]-->
 </header>
     <main class="content content__1-3"
-          id="main"
-          lang="en">
+          id="main">
 <div class="wrapper content_wrapper ">
     <aside class="content_sidebar content__flush-top-on-small
     content__flush-sides-on-small
@@ -1272,9 +1271,10 @@
     <div class="content_main content__flush-top-on-small
      content__flush-bottom"
          id="content_main">
-    <div class="block
+            <div class="block
                 block__flush-top
-                block__flush-top">
+                block__flush-top"
+        >
     <h1>Enforcement actions</h1>
     <div class="lead-paragraph">
         <p>When we take an enforcement action against an entity or person we believe has violated the law, we will post court documents and other related materials here.</p>
@@ -1516,9 +1516,9 @@
             <div class="content-l_col
                         content-l_col-1
                         m-btn-group">
-                <input class="a-btn"
-                       type="submit"
-                       value="Apply filters">
+                <button class="a-btn" type="submit">
+                    Apply filters
+                </button>
                 <a class="a-btn a-btn__link a-btn__warning"
                    href="/enforcement/actions/">
                     Clear filters
@@ -1538,13 +1538,39 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">278 filtered results</div>
+          <div class="h4 m-notification_message">279 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2016-02-23T00:00:00">FEB 23, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/citibank-department-stores-national-bank-citifinancial-servicing/">
+                    Citibank, N.A., Department Stores National Bank, and CitiFinancial Servicing, LLC
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Consumer Financial Protection Bureau took two separate actions against Citibank for illegal debt sales and debt collection practices. This action is against both Citibank and two debt collection law firms it used that falsified court documents filed in debt collection cases in New Jersey state courts.<br/></p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2171,32 +2197,6 @@ allegedly exposing millions of consumers to harassment and deceit.</span><br/></
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2015-07-30T00:00:00">JUL 30, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/residential-credit-solutions/">
-                    Residential Credit Solutions, Inc.
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>CFPB took action against Residential Credit Solutions, Inc. for blocking consumers’ attempts to save their homes from foreclosure.<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2307,6 +2307,18 @@ allegedly exposing millions of consumers to harassment and deceit.</span><br/></
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/consumer-financial-protection-bureau-settles-with-mortgage-servicer-for-illegal-practices-that-impeded-borrowers-attempts-to-avoid-foreclosure/">
+                        Consumer Financial Protection Bureau Settles with Mortgage Servicer for Illegal Practices that Impeded Borrowers’ Attempts to Avoid Foreclosure
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-18T00:00:00">DEC 18, 2020</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/consumer-financial-protection-bureau-sues-debt-collector-bounceback-inc/">
                         Consumer Financial Protection Bureau Sues Debt Collector BounceBack, Inc.
                     </a>
@@ -2325,18 +2337,6 @@ allegedly exposing millions of consumers to harassment and deceit.</span><br/></
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2020-12-08T00:00:00">DEC 08, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/consumer-financial-protection-bureau-multiple-states-enter-settlement-nationstar-mortgage-llc-unlawful-servicing-practices/">
-                        Consumer Financial Protection Bureau and Multiple States Enter into Settlement with Nationstar Mortgage, LLC for Unlawful Servicing Practices
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-12-07T00:00:00">DEC 07, 2020</time>
 </span>
                 </p>
             </li>

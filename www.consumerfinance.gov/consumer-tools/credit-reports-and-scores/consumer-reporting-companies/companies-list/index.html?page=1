@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.ab0e4d754f28.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.3996efa6d3cc.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1186,8 +1186,7 @@
     <!--<![endif]-->
 </header>
     <main class="content content__1-3"
-          id="main"
-          lang="en">
+          id="main">
             <div class="content_wrapper">
     <nav class="breadcrumbs" aria-label="Breadcrumbs">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
@@ -1264,9 +1263,10 @@
     <div class="content_main content__flush-top-on-small
      content__flush-bottom"
          id="content_main">
-    <div class="block
+            <div class="block
                 block__flush-top
-                block__flush-top">
+                block__flush-top"
+        >
     <h1>List of consumer reporting companies</h1>
     <div class="lead-paragraph">
         <p>Use this list to help you take advantage of your right to review the information in your consumer reports, and dispute possible inaccuracies with companies as needed.<br/></p>
@@ -1280,9 +1280,10 @@
             </li>
         </ul>
     </div>
-    <div class="block
+            <div class="block
                 block__flush-top
-                ">
+                "
+        >
 <div class="o-full-width-text-group">
             <div class="m-full-width-text">
                 <h4>Market areas included on this list</h4><p></p><h5>Nationwide consumer reporting companies</h5><p>There are three big nationwide providers of consumer reports: Equifax, TransUnion, and Experian. Their reports contain information about your payment history, how much credit you have and use, and other inquiries and information. </p><h5>Employment screening</h5><p>Employment screening companies provide verification information such as credit history, employment, salary and education and professional license verification to employers and others.</p><h5>Tenant screening</h5><p>Tenant screening companies provide reports to landlords and residential real estate management companies. If you are applying as a tenant for a residential property a tenant screening report with negative information in it, such as past due rent, could result in a rejected lease application or a lease with tough conditions. </p><h5>Check and bank screening</h5><p>Check and bank screening companies collect and report data on checking account applications, openings, and closures as well as check screening services like check verification.</p><h5>Personal property insurance</h5><p>Personal property insurance reporting companies collect and report information on consumers’ home, auto, and personal property.</p><h5>Medical</h5><p>Medical consumer reporting companies share information on your medical data if you authorized the release of your medical records to an insurance company.</p><h5>Low-income and subprime</h5><p>Low-income and subprime reporting companies provide consumer information to companies that market and sell products and services specifically to lower-income consumers and credit applicants with impaired credit records.</p><h5>Supplementary reports</h5><p>The information that some consumer reporting companies sell is used to supplement other data, such as the credit data the nationwide consumer reporting companies sell about you. This information can include public records and ID verification data to help firms manage credit and fraud risks.</p><h5>Utilities</h5><p>These companies collect information associated with telecommunications, pay TV, and utility (electric, gas, water) services to help companies in these industries manage customer relations. </p><h5>Retail</h5><p>These companies collect information related to retail product return and exchange fraud and abuse.</p><h5>Gaming</h5><p>These companies share consumer data associated with check cashing settlement services to assist gaming establishments such as casinos and racetracks with risk management.</p><p></p>
@@ -1493,9 +1494,9 @@
             <div class="content-l_col
                         content-l_col-1
                         m-btn-group">
-                <input class="a-btn"
-                       type="submit"
-                       value="Apply filters">
+                <button class="a-btn" type="submit">
+                    Apply filters
+                </button>
                 <a class="a-btn a-btn__link a-btn__warning"
                    href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/">
                     Clear filters

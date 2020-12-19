@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.ab0e4d754f28.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.3996efa6d3cc.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1182,13 +1182,13 @@
     <!--<![endif]-->
 </header>
     <main class="content content__2-1 content__bleedbar"
-          id="main"
-          lang="en">
+          id="main">
 <div class="wrapper content_wrapper">
-    <div class="content_main "><section lang="en">
-    <div class="block
+    <div class="content_main "><section >
+            <div class="block
                 block__flush-top
-                block__flush-top">
+                block__flush-top"
+        >
     <h1>Blog</h1>
     </div>
             <div class="block block__flush-top">
@@ -1782,9 +1782,9 @@
             <div class="content-l_col
                         content-l_col-1
                         m-btn-group">
-                <input class="a-btn"
-                       type="submit"
-                       value="Apply filters">
+                <button class="a-btn" type="submit">
+                    Apply filters
+                </button>
                 <a class="a-btn a-btn__link a-btn__warning"
                    href="/about-us/blog/">
                     Clear filters
@@ -3137,9 +3137,10 @@
         </section>
     </div>
     <aside class="content_sidebar o-sidebar-content">
-    <div class="block
+            <div class="block
                 block__flush-top
-                ">
+                "
+        >
 <div class="m-related-links">
         <header class="m-slug-header">
             <h2 class="a-heading">
@@ -3149,8 +3150,9 @@
     <p>The Bureau archives blogs, press releases, reports, and other materials that are more than two years old. Archived materials are available on the Bureau’s website and can be located in search results; however, these older materials may not represent the most recent relevant information.</p>
 </div>
     </div>
-    <div class="block
-                ">
+            <div class="block
+                "
+        >
 <div class="o-email-signup">
     <header class="m-slug-header">
         <h2 class="a-heading ">

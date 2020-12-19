@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.ab0e4d754f28.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.3996efa6d3cc.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1182,11 +1182,11 @@
     <!--<![endif]-->
 </header>
     <main class="content content__2-1 content__bleedbar"
-          id="main"
-          lang="en">
-    <div class="block
+          id="main">
+        <div class="block
                 block__flush-top
-                block__flush-top block__flush-bottom">
+                block__flush-top block__flush-bottom"
+        >
 <section class="m-hero m-hero__overlay">
     <div class="m-hero_wrapper wrapper">
         <div class="m-hero_text">
@@ -1230,7 +1230,7 @@
 </section>
     </div>
 <div class="wrapper content_wrapper">
-    <div class="content_main "><section lang="en">
+    <div class="content_main "><section >
             <div class="block block__flush-top">
 <section class="o-featured-content-module
                 o-featured-content-module__center">
@@ -1250,8 +1250,9 @@
         </div>
 </section>
             </div>
-    <div class="block
-                ">
+            <div class="block
+                "
+        >
 <div class="o-info-unit-group" id="get-started" >
     <h2>Get started
     </h2>
@@ -1318,9 +1319,10 @@
     </div>
 </div>
     </div>
-    <div class="block
+            <div class="block
                 block__padded-top block__border-top
-                ">
+                "
+        >
 <div class="o-info-unit-group" id="understand-your-situation" >
     <h2>Understand your situation
     </h2>
@@ -1369,9 +1371,10 @@
     </div>
 </div>
     </div>
-    <div class="block
+            <div class="block
                 block__padded-top block__border-top
-                ">
+                "
+        >
 <div class="o-info-unit-group" id="take-action" >
     <h2>Take action
     </h2>
@@ -1420,15 +1423,17 @@
         </section>
     </div>
     <aside class="content_sidebar o-sidebar-content">
-    <div class="block
+            <div class="block
                 block__flush-top
-                ">
+                "
+        >
 <div class="m-reusable-text-snippet">
     <h3>About us</h3><p>We're the Consumer Financial Protection Bureau (CFPB), a U.S. government agency that makes sure banks, lenders, and other financial companies treat you fairly.</p><p><a href="/about-us/the-bureau/">Learn how the CFPB can help you</a></p>
 </div>
     </div>
-    <div class="block
-                ">
+            <div class="block
+                "
+        >
 <div class="m-related-links">
         <header class="m-slug-header">
             <h2 class="a-heading">
@@ -1441,8 +1446,9 @@
 (855) 729-2372</span></b><span></span></p>
 </div>
     </div>
-    <div class="block
-                ">
+            <div class="block
+                "
+        >
 <div class="m-related-links">
         <header class="m-slug-header">
             <h2 class="a-heading">
@@ -1456,8 +1462,9 @@
         </ul>
 </div>
     </div>
-    <div class="block
-                ">
+            <div class="block
+                "
+        >
 <div class="m-related-links">
         <header class="m-slug-header">
             <h2 class="a-heading">
@@ -1467,8 +1474,9 @@
     <p>Ways to receive your money (PDF)</p><p><a class="a-link a-link__icon" href="/documents/5422/cfpb_adult-fin-ed_ways-to-receive-your-money.pdf"><span class="a-link_text">English</span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>  |  <a class="a-link a-link__icon" href="/documents/5424/cfpb_adult-fin-ed_ways-to-receive-your-money_es.pdf"><span class="a-link_text">Spanish</span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a></p>
 </div>
     </div>
-    <div class="block
-                ">
+            <div class="block
+                "
+        >
 <div class="m-related-links">
         <header class="m-slug-header">
             <h2 class="a-heading">
@@ -1483,8 +1491,9 @@
         </ul>
 </div>
     </div>
-    <div class="block
-                ">
+            <div class="block
+                "
+        >
 <div class="m-reusable-text-snippet">
     <header class="m-slug-header">
        <h2 class="a-heading">

@@ -31,7 +31,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.ab0e4d754f28.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.3996efa6d3cc.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1188,10 +1188,9 @@
     <!--<![endif]-->
 </header>
     <main class="content "
-          id="main"
-          lang="en">
+          id="main">
 <div class="wrapper content_wrapper">
-    <div class="content_main content__1-3"><section lang="en">
+    <div class="content_main content__1-3"><section >
 <div class="content_wrapper search_form">
     <div class="block block__sub search_intro">
         <h1>

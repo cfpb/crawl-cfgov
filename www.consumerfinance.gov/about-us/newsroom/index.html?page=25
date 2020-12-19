@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.ab0e4d754f28.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.3996efa6d3cc.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1183,8 +1183,7 @@
     <!--<![endif]-->
 </header>
     <main class="content content__1-3"
-          id="main"
-          lang="en">
+          id="main">
 <div class="wrapper content_wrapper ">
     <aside class="content_sidebar content__flush-top-on-small
     content__flush-sides-on-small
@@ -1394,8 +1393,8 @@
   <option value="research">Research</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
-  <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="foreclosure">Foreclosure</option>
+  <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="academic-research-council">Academic Research Council</option>
   <option value="financial-well-being">Financial well-being</option>
   <option value="innovation">Innovation</option>
@@ -1417,10 +1416,10 @@
   <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="mortgage-closing">Mortgage closing</option>
+  <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="regulation-e">Regulation E</option>
   <option value="arbitration">Arbitration</option>
   <option value="credit-unions">Credit unions</option>
-  <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="overdrafts">Overdrafts</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="electronic-payments">Electronic payments</option>
@@ -1589,9 +1588,9 @@
             <div class="content-l_col
                         content-l_col-1
                         m-btn-group">
-                <input class="a-btn"
-                       type="submit"
-                       value="Apply filters">
+                <button class="a-btn" type="submit">
+                    Apply filters
+                </button>
                 <a class="a-btn a-btn__link a-btn__warning"
                    href="/about-us/newsroom/">
                     Clear filters
@@ -1611,13 +1610,117 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1352 filtered results</div>
+          <div class="h4 m-notification_message">1354 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2015-10-28T00:00:00">OCT 28, 2015</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/cfpb-orders-servicemember-auto-loan-company-to-pay-3-28-million-for-illegal-debt-collection-tactics/">
+                    CFPB Orders Servicemember Auto Loan Company to Pay $3.28 Million for Illegal Debt Collection Tactics
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Bureau Sued Auto Lender Earlier This Year for Deception and Threats to Contact Commanding Officers WASHINGTON, D.C. – Today the Consumer Financial Protection Bureau (CFPB) filed an administrative order against Security National Automotive Acceptance Company (SNAAC), an auto lender specializing in loans to servicemembers, for engaging in illegal debt collection practices. The order requires the […]</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=auto-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Auto loans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=servicemembers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Servicemembers
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2015-10-27T00:00:00">OCT 27, 2015</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/cfpb-monthly-complaint-snapshot-spotlights-credit-card-complaints/">
+                    CFPB Monthly Complaint Snapshot Spotlights Credit Card Complaints
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Report Also Includes In-Depth Look at Consumer Complaints in the Chicago Metro Area WASHINGTON, D.C. – Today, the Consumer Financial Protection Bureau (CFPB) released its latest monthly consumer complaints snapshot, which highlights credit card complaints. Consumers’ most frequent credit card-related complaints were about incurring late fees and credit report problems due to confusing payment processing […]</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=consumer-complaints" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Consumer complaints
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit cards
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2788,104 +2891,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2015-09-17T00:00:00">SEP 17, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/cfpb-releases-new-owning-a-home-tools-to-help-consumers-shop-for-a-mortgage/">
-                    CFPB Releases New Tools as Part of Know Before You Owe Mortgage Initiative
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Tools Provide Additional Shopping Help for Consumers as New Mortgage Disclosure Rule Takes Effect WASHINGTON, D.C. — Today the Consumer Financial Protection Bureau (CFPB) is releasing new online tools as part of its Know Before You Owe initiative aimed at helping consumers navigate the mortgage process. The tools provide an interactive, step-by-step overview of the […]</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=mortgage-closing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage closing
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2015-09-17T00:00:00">SEP 17, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/press-kit-for-know-before-you-owe-mortgage-disclosures/">
-                    Press Kit for the Know Before You Owe Mortgage Disclosure Rule
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>The Dodd-Frank Wall Street Reform and Consumer Protection Act directed the CFPB to combine certain federal mortgage disclosures that consumers receive when taking out a mortgage. In November 2013, after extensive testing of the new forms, the CFPB finalized the combined, easier-to-understand new Know Before You Owe mortgage disclosures, the Loan Estimate and Closing Disclosure. […]</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=mortgage-closing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage closing
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2929,9 +2934,10 @@
     </div>
             </div>
     <aside class="o-prefooter">
-    <div class="block
+            <div class="block
                 block__flush-top
-                ">
+                "
+        >
 <div class="m-related-links">
         <header class="m-slug-header">
             <h2 class="a-heading">
@@ -2941,8 +2947,9 @@
     <p>The Bureau archives blogs, press releases, reports, and other materials that are more than two years old. Archived materials are available on the Bureau’s website and can be located in search results; however, these older materials may not represent the most recent relevant information.</p>
 </div>
     </div>
-    <div class="block
-                ">
+            <div class="block
+                "
+        >
 <div class="o-email-signup">
     <header class="m-slug-header">
         <h2 class="a-heading ">
