@@ -1387,8 +1387,8 @@
   <option value="partnerships">Partnerships</option>
   <option value="credit-unions">Credit unions</option>
   <option value="credit-card-act">Credit CARD Act</option>
-  <option value="financial-coaching">Financial coaching</option>
   <option value="regulation-e">Regulation E</option>
+  <option value="financial-coaching">Financial coaching</option>
   <option value="retirement">Retirement</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
@@ -1835,7 +1835,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2955 filtered results</div>
+          <div class="h4 m-notification_message">2958 filtered results</div>
       </div>
   </div>
         </div>
@@ -1854,6 +1854,69 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/hit-or-myth/">
+                        <span class="h4 u-mb0">
+                            Hit or myth?
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2013-02-21T00:00:00">FEB 21, 2013</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/student-debt-and-schools/">
+                        <span class="h4 u-mb0">
+                            Student debt and schools
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2013-02-21T00:00:00">FEB 21, 2013</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/help-stop-the-student-debt-domino-effect/">
+                        <span class="h4 u-mb0">
+                            Help stop the student debt domino effect
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2013-02-21T00:00:00">FEB 21, 2013</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3889,69 +3952,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2012-10-25T00:00:00">OCT 25, 2012</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=op-ed"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 672.8 1200" class="cf-icon-svg"><path d="M80.2 968.7h511.7c16.1 0 29.2 13.1 29.2 29.2v72.1c0 16.1-13.1 29.2-29.2 29.2H80.2c-16.1 0-29.2-13.1-29.2-29.2v-72.1c.1-16.1 13.1-29.2 29.2-29.2zM665.7 615.5l-9-7.1C528.2 508.3 447 331.1 426.3 123.2v-.5c-.1-16.6-13.5-30-30.1-29.9-15.5.1-28.5 12-29.8 27.4V574c43.8 16.6 65.8 65.5 49.2 109.2s-65.5 65.8-109.2 49.2-65.8-65.5-49.2-109.2c8.6-22.7 26.5-40.6 49.2-49.2V119.8c-1.6-16.5-16.3-28.6-32.8-27-15.4 1.5-27.1 14.4-27.1 29.9C226.1 329.8 144 506.6 16.4 607l-1.2 1-8 6.2c-9 6.4-9.6 23.3-1.4 37.5l.6 1 132 228.6c8.2 14.3 28.5 26 45 26h306.8c16.5 0 36.8-11.7 45-26L666.4 654l.6-1c8.3-14.3 7.7-31.2-1.3-37.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Op-ed
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/financially-empowering-stay-at-home-partners/">
-                        <span class="h4 u-mb0">
-                            Financially Empowering Stay-at-Home Partners
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2012-10-25T00:00:00">OCT 25, 2012</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=op-ed"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 672.8 1200" class="cf-icon-svg"><path d="M80.2 968.7h511.7c16.1 0 29.2 13.1 29.2 29.2v72.1c0 16.1-13.1 29.2-29.2 29.2H80.2c-16.1 0-29.2-13.1-29.2-29.2v-72.1c.1-16.1 13.1-29.2 29.2-29.2zM665.7 615.5l-9-7.1C528.2 508.3 447 331.1 426.3 123.2v-.5c-.1-16.6-13.5-30-30.1-29.9-15.5.1-28.5 12-29.8 27.4V574c43.8 16.6 65.8 65.5 49.2 109.2s-65.5 65.8-109.2 49.2-65.8-65.5-49.2-109.2c8.6-22.7 26.5-40.6 49.2-49.2V119.8c-1.6-16.5-16.3-28.6-32.8-27-15.4 1.5-27.1 14.4-27.1 29.9C226.1 329.8 144 506.6 16.4 607l-1.2 1-8 6.2c-9 6.4-9.6 23.3-1.4 37.5l.6 1 132 228.6c8.2 14.3 28.5 26 45 26h306.8c16.5 0 36.8-11.7 45-26L666.4 654l.6-1c8.3-14.3 7.7-31.2-1.3-37.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Op-ed
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/debt-deja-vu-for-students/">
-                        <span class="h4 u-mb0">
-                            Debt Déjà Vu for Students
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2012-10-25T00:00:00">OCT 25, 2012</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/live-from-seattle-wa/">
-                        <span class="h4 u-mb0">
-                            Live from Seattle, WA!
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2012-10-24T00:00:00">OCT 24, 2012</time>
 </span>
                 </td>
             </tr>

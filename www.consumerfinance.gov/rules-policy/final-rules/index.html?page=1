@@ -1525,7 +1525,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">99 filtered results</div>
+          <div class="h4 m-notification_message">98 filtered results</div>
       </div>
   </div>
         </div>
@@ -2740,7 +2740,7 @@
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>The Bureau is amending the official commentary that interprets the requirements of the Bureau’s Regulation Z (Truth in Lending) to reflect a change in the asset-size threshold for certain creditors to qualify for an exemption to the requirement to establish an escrow account for a higher-priced mortgage loan based on the annual percentage change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) for the 12-month period ending in November.<br/></p>
+                    <p>The Bureau is amending the official commentary that interprets the requirements of the Bureau’s Regulation Z (Truth in Lending) to reflect a change in the asset-size threshold for certain creditors to qualify for an exemption to the requirement to establish an escrow account for a higher-priced mortgage loan based on the annual percentage change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W) for the 12-month period ending in November.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
@@ -2749,12 +2749,6 @@
                 <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
                 </a>
             </li>
             <li class="tags_tag">
@@ -2767,6 +2761,12 @@
                 <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Rulemaking
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgage servicing
                 </a>
             </li>
     </ul>
@@ -2796,7 +2796,7 @@
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>The CFPB is issuing a final rule amending the official commentary that interprets the requirements of the Bureau&#x27;s Regulation C (Home Mortgage Disclosure) to reflect the asset-size exemption threshold for banks, savings associations, and credit unions based on the annual percentage change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W). <br/></p>
+                    <p>The Bureau of Consumer Financial Protection (Bureau) is issuing a final rule amending the official commentary that interprets the requirements of the Bureau&#x27;s Regulation C (Home Mortgage Disclosure) to reflect the asset-size exemption threshold for banks, savings associations, and credit unions based on the annual percentage change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers (CPI-W).</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
@@ -2977,24 +2977,24 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
-                       href="/about-us/newsroom/consumer-financial-protection-bureau-settles-with-remittance-transfer-provider-for-remittance-transfer-rule-violations/">
-                        Consumer Financial Protection Bureau Settles with Remittance Transfer Provider for Remittance Transfer Rule Violations
+                       href="/about-us/newsroom/consumer-financial-protection-bureau-settles-with-student-loan-servicers-discover-bank-the-student-loan-corporation-and-discover-products-inc-for-violating-a-bureau-consent-order-and-other-unlawful-practices/">
+                        Consumer Financial Protection Bureau Settles with Student Loan Servicers Discover Bank, The Student Loan Corporation, and Discover Products, Inc. for Violating a Bureau Consent Order and Other Unlawful Practices
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-12-21T00:00:00">DEC 21, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-22T00:00:00">DEC 22, 2020</time>
 </span>
                 </p>
             </li>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
-                       href="/about-us/newsroom/consumer-financial-protection-bureau-issues-final-rule-on-consumer-disclosures-related-to-debt-collection/">
-                        Consumer Financial Protection Bureau Issues Final Rule on Consumer Disclosures Related to Debt Collection
+                       href="/about-us/newsroom/consumer-financial-protection-bureau-settles-with-santander-consumer-usa-inc-for-credit-reporting-violations-in-connection-with-its-auto-loans/">
+                        Consumer Financial Protection Bureau Settles with Santander Consumer USA Inc. for Credit Reporting Violations in Connection with Its Auto Loans
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-12-18T00:00:00">DEC 18, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-22T00:00:00">DEC 22, 2020</time>
 </span>
                 </p>
             </li>
