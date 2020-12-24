@@ -1352,8 +1352,8 @@
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="personnel">Personnel</option>
   <option value="access-to-credit">Access to credit</option>
-  <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="cfpb-en-espanol">CFPB en español</option>
+  <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="auto-loans">Auto loans</option>
   <option value="youth">Youth</option>
   <option value="fair-lending">Fair lending</option>
@@ -1492,8 +1492,8 @@
   <option value="dan-sokolov">Dan Sokolov</option>
   <option value="dubis-correal">Dubis Correal</option>
   <option value="peggy-twohig">Peggy Twohig</option>
-  <option value="nicole-shea">Nicole Shea</option>
   <option value="yuliya-rzad">Yuliya Rzad</option>
+  <option value="nicole-shea">Nicole Shea</option>
   <option value="sarah-bainton-kahn">Sarah Bainton Kahn</option>
   <option value="jenefer-duane">Jenefer Duane</option>
   <option value="hector-ortiz">Hector Ortiz</option>
@@ -1538,6 +1538,7 @@
   <option value="damion-english">Damion English</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="sartaj-alag">Sartaj Alag</option>
+  <option value="scott-fulford">Scott Fulford</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
   <option value="patrick-brick">Patrick Brick</option>
@@ -1558,7 +1559,6 @@
   <option value="sangeetha-malaiyandi">Sangeetha Malaiyandi</option>
   <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="victor-zapanta">Victor Zapanta</option>
-  <option value="scott-fulford">Scott Fulford</option>
   <option value="maria-jaramillo">Maria Jaramillo</option>
   <option value="marla-blow">Marla Blow</option>
   <option value="gene-koo">Gene Koo</option>
@@ -1566,6 +1566,7 @@
   <option value="jeff-ehrlich">Jeff Ehrlich</option>
   <option value="j-frank-vespa-papaleo">J Frank Vespa-Papaleo</option>
   <option value="david-sieminski">David Sieminski</option>
+  <option value="christa-gibbs">Christa Gibbs</option>
   <option value="brian-stone">Brian Stone</option>
   <option value="lissan-anfune">Lissan Anfune</option>
   <option value="mick-mulvaney">Mick Mulvaney</option>
@@ -1573,6 +1574,7 @@
   <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="miesha-davis">Miesha Davis</option>
   <option value="max-bentovim">Max Bentovim</option>
+  <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="paul-mondor">Paul Mondor</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="lora-mccray">Lora McCray</option>
@@ -1607,8 +1609,8 @@
   <option value="john-mcnamara">John McNamara</option>
   <option value="kristen-evans">Kristen Evans</option>
   <option value="tim-lambert">Tim Lambert</option>
-  <option value="christa-gibbs">Christa Gibbs</option>
   <option value="will-sealy">Will Sealy</option>
+  <option value="eva-nagypal">Éva Nagypál</option>
   <option value="thomas-conkling">Thomas Conkling</option>
   <option value="matt-cameron">Matt Cameron</option>
   <option value="melissa-knoll">Melissa Knoll</option>
@@ -1616,7 +1618,6 @@
   <option value="logan-herman">Logan Herman</option>
   <option value="cfpb">CFPB</option>
   <option value="keo-chea">Keo Chea</option>
-  <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
@@ -1712,7 +1713,6 @@
   <option value="nhu-han-duong">Nhu-Han Duong</option>
   <option value="leonard-kennedy">Leonard Kennedy</option>
   <option value="jeremy-tobacman">Jeremy Tobacman</option>
-  <option value="eva-nagypal">Éva Nagypál</option>
   <option value="charles-romeo">Charles Romeo</option>
   <option value="catherine-razeto">Catherine Razeto</option>
   <option value="colleen-tressler">Colleen Tressler</option>
@@ -1835,7 +1835,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2958 filtered results</div>
+          <div class="h4 m-notification_message">2961 filtered results</div>
       </div>
   </div>
         </div>
@@ -1854,6 +1854,69 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-takes-action-against-citibank-student-loan-servicing-failures-harmed-borrowers/">
+                        <span class="h4 u-mb0">
+                            CFPB Takes Action Against Citibank For Student Loan Servicing Failures That Harmed Borrowers
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2017-11-21T00:00:00">NOV 21, 2017</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/identification-language-preference-uniform-residential-loan-application/">
+                        <span class="h4 u-mb0">
+                            Identification of language preference on the Uniform Residential Loan Application
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2017-11-20T00:00:00">NOV 20, 2017</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/cfpb-sends-letters-financial-institution-ceos-encouraging-more-consumer-control-over-payment-methods/">
+                        <span class="h4 u-mb0">
+                            CFPB sends letters to financial institution CEO’s encouraging more consumer control over payment methods
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2017-11-20T00:00:00">NOV 20, 2017</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3889,69 +3952,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2017-08-04T00:00:00">AUG 04, 2017</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/denied-bank-account-heres-what-you-should-know/">
-                        <span class="h4 u-mb0">
-                            Denied for a bank account? Here’s what you should know
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2017-08-02T00:00:00">AUG 02, 2017</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-takes-action-against-jpmorgan-chase-failures-related-checking-account-screening-information/">
-                        <span class="h4 u-mb0">
-                            CFPB Takes Action Against JPMorgan Chase for Failures Related to Checking Account Screening Information
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2017-08-02T00:00:00">AUG 02, 2017</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=report"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Report
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/data-research/research-reports/monthly-complaint-report-vol-25/">
-                        <span class="h4 u-mb0">
-                            Monthly Complaint Report, Vol. 25
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2017-08-01T00:00:00">AUG 01, 2017</time>
 </span>
                 </td>
             </tr>

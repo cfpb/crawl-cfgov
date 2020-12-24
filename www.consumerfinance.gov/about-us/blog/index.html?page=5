@@ -1326,8 +1326,8 @@
   <option value="students">Students</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="consumer-complaints">Consumer complaints</option>
-  <option value="financial-well-being">Financial well-being</option>
   <option value="cfpb-en-espanol">CFPB en español</option>
+  <option value="financial-well-being">Financial well-being</option>
   <option value="rulemaking">Rulemaking</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="credit-cards">Credit cards</option>
@@ -1346,8 +1346,8 @@
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="academic-research-council">Academic Research Council</option>
-  <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="auto-loans">Auto loans</option>
+  <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="access-to-credit">Access to credit</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="open-government">Open government</option>
@@ -1381,12 +1381,12 @@
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="community-banks">Community banks</option>
   <option value="debit-cards">Debit cards</option>
+  <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="compliance">Compliance</option>
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="privacy">Privacy</option>
-  <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="redlining">Redlining</option>
   <option value="civil-penalty-fund">Civil Penalty Fund</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
@@ -1468,9 +1468,9 @@
   <option value="dubis-correal">Dubis Correal</option>
   <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
+  <option value="yuliya-rzad">Yuliya Rzad</option>
   <option value="elizabeth-warren">Elizabeth Warren</option>
   <option value="nicole-shea">Nicole Shea</option>
-  <option value="yuliya-rzad">Yuliya Rzad</option>
   <option value="lora-mccray">Lora McCray</option>
   <option value="cfpb">CFPB</option>
   <option value="sarah-bainton-kahn">Sarah Bainton Kahn</option>
@@ -1510,6 +1510,7 @@
   <option value="damion-english">Damion English</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="sartaj-alag">Sartaj Alag</option>
+  <option value="scott-fulford">Scott Fulford</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
   <option value="patrick-brick">Patrick Brick</option>
@@ -1531,19 +1532,20 @@
   <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="marla-blow">Marla Blow</option>
   <option value="victor-zapanta">Victor Zapanta</option>
-  <option value="scott-fulford">Scott Fulford</option>
   <option value="maria-jaramillo">Maria Jaramillo</option>
   <option value="gene-koo">Gene Koo</option>
   <option value="olivia-calderon">Olivia Calderon</option>
   <option value="jeff-ehrlich">Jeff Ehrlich</option>
   <option value="j-frank-vespa-papaleo">J Frank Vespa-Papaleo</option>
   <option value="david-sieminski">David Sieminski</option>
+  <option value="christa-gibbs">Christa Gibbs</option>
   <option value="brian-stone">Brian Stone</option>
   <option value="lissan-anfune">Lissan Anfune</option>
   <option value="meina-banh">Meina Banh</option>
   <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="miesha-davis">Miesha Davis</option>
   <option value="max-bentovim">Max Bentovim</option>
+  <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="paul-mondor">Paul Mondor</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
@@ -1579,15 +1581,14 @@
   <option value="john-mcnamara">John McNamara</option>
   <option value="kristen-evans">Kristen Evans</option>
   <option value="tim-lambert">Tim Lambert</option>
-  <option value="christa-gibbs">Christa Gibbs</option>
   <option value="will-sealy">Will Sealy</option>
+  <option value="eva-nagypal">Éva Nagypál</option>
   <option value="thomas-conkling">Thomas Conkling</option>
   <option value="matt-cameron">Matt Cameron</option>
   <option value="melissa-knoll">Melissa Knoll</option>
   <option value="flavio-cumpiano">Flavio Cumpiano</option>
   <option value="logan-herman">Logan Herman</option>
   <option value="keo-chea">Keo Chea</option>
-  <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
@@ -1681,7 +1682,6 @@
   <option value="nhu-han-duong">Nhu-Han Duong</option>
   <option value="leonard-kennedy">Leonard Kennedy</option>
   <option value="jeremy-tobacman">Jeremy Tobacman</option>
-  <option value="eva-nagypal">Éva Nagypál</option>
   <option value="charles-romeo">Charles Romeo</option>
   <option value="catherine-razeto">Catherine Razeto</option>
   <option value="colleen-tressler">Colleen Tressler</option>
@@ -1804,13 +1804,175 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1328 filtered results</div>
+          <div class="h4 m-notification_message">1331 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-05-15T00:00:00">MAY 15, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/beware-coronavirus-related-scams-vi/">
+                    Cảnh giác với những trò lừa đảo liên quan đến dịch coronavirus
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Nhận biết và ngăn chặn gian lận và lừa đảo trong đại dịch coronavirus.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=erin-scheithe">Erin Scheithe</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-vietnamese" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Vietnamese
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=older-americans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Older Americans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=people-with-disabilities" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    People with disabilities
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-05-15T00:00:00">MAY 15, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/beware-coronavirus-related-scams-ko/">
+                    코로나바이러스 감염증 관련 사기를 주의하세요
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>코로나바이러스 팬데믹 기간 동안 사기를 미리 알고 예방하세요.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=erin-scheithe">Erin Scheithe</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-korean" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Korean
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=older-americans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Older Americans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=people-with-disabilities" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    People with disabilities
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-05-15T00:00:00">MAY 15, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/beware-coronavirus-related-scams-zh-traditional/">
+                    當心與冠狀病毒有關的騙局
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>在冠狀病毒大流行期間辨別和預防詐欺和騙局。</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=erin-scheithe">Erin Scheithe</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-traditional-chinese" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Traditional Chinese
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=older-americans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Older Americans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=people-with-disabilities" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    People with disabilities
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2947,213 +3109,6 @@
                 <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Equal Credit Opportunity Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=diversity-and-inclusion" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Diversity and inclusion
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-04-27T00:00:00">APR 27, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/credit-access-minority-women-owned-businesses-ko/">
-                    소수 민족 및 여성 소유 비즈니스의 신용에 대한 공정하고 공평한 접근의 중요성
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>금융소비자보호국(CFPB: Consumer Financial Protection Bureau)은 CARES 법에 따라 코로나 바이러스(COVID-19) 전염병 기간 동안 신용을 신청하는 여성 및 소수 민족 소유 비즈니스에 대한 대출을 포함하여 대출 차별에 대응할 책임이 있습니다.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=patrice-alexander-ficklin">Patrice Alexander Ficklin</a>, 
-                    <a href="?authors=grady-hedgespeth">Grady Hedgespeth</a>, 
-                    and 
-                    <a href="?authors=lora-mccray">Lora McCray</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Equal Credit Opportunity Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-korean" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Korean
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=diversity-and-inclusion" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Diversity and inclusion
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-04-27T00:00:00">APR 27, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/credit-access-minority-women-owned-businesses-vi/">
-                    Tầm quan trọng của quyền tiếp cận công bằng và bình đẳng với khoản vay dành cho các doanh nghiệp do người dân tộc thiểu số và phụ nữ làm chủ
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Cục có trách nhiệm giải quyết tình trạng phân biệt đối xử trong hoạt động cho vay, bao gồm việc cho các doanh nghiệp do phụ nữ và người dân tộc thiểu số làm chủ vay, áp dụng cho khoản vay trong bối cảnh dịch bệnh COVID-19 theo Đạo Luật Hỗ Trợ, Cứu Trợ và An Ninh Kinh Tế Đối Phó Vi-rút Corona (CARES).</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=patrice-alexander-ficklin">Patrice Alexander Ficklin</a>, 
-                    <a href="?authors=grady-hedgespeth">Grady Hedgespeth</a>, 
-                    and 
-                    <a href="?authors=lora-mccray">Lora McCray</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Equal Credit Opportunity Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-vietnamese" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Vietnamese
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=diversity-and-inclusion" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Diversity and inclusion
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-04-27T00:00:00">APR 27, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/credit-access-minority-women-owned-businesses-zh-simplified/">
-                    为少数族裔和女性所拥有的企业公平、公正地获得信贷的重要性
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>该局有责任处理贷款歧视问题，包括贷款给女性和少数族裔所拥有的企业，这些企业在新冠肺炎 (COVID-19) 大流行期间根据 CARES 法案申请借贷。</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=patrice-alexander-ficklin">Patrice Alexander Ficklin</a>, 
-                    <a href="?authors=grady-hedgespeth">Grady Hedgespeth</a>, 
-                    and 
-                    <a href="?authors=lora-mccray">Lora McCray</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Equal Credit Opportunity Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-simplified-chinese" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Simplified Chinese
                 </a>
             </li>
             <li class="tags_tag">

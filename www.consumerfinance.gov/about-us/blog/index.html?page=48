@@ -1326,8 +1326,8 @@
   <option value="students">Students</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="consumer-complaints">Consumer complaints</option>
-  <option value="financial-well-being">Financial well-being</option>
   <option value="cfpb-en-espanol">CFPB en español</option>
+  <option value="financial-well-being">Financial well-being</option>
   <option value="rulemaking">Rulemaking</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="credit-cards">Credit cards</option>
@@ -1346,8 +1346,8 @@
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="academic-research-council">Academic Research Council</option>
-  <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="auto-loans">Auto loans</option>
+  <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="access-to-credit">Access to credit</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="open-government">Open government</option>
@@ -1381,12 +1381,12 @@
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="community-banks">Community banks</option>
   <option value="debit-cards">Debit cards</option>
+  <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="compliance">Compliance</option>
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="privacy">Privacy</option>
-  <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="redlining">Redlining</option>
   <option value="civil-penalty-fund">Civil Penalty Fund</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
@@ -1468,9 +1468,9 @@
   <option value="dubis-correal">Dubis Correal</option>
   <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
+  <option value="yuliya-rzad">Yuliya Rzad</option>
   <option value="elizabeth-warren">Elizabeth Warren</option>
   <option value="nicole-shea">Nicole Shea</option>
-  <option value="yuliya-rzad">Yuliya Rzad</option>
   <option value="lora-mccray">Lora McCray</option>
   <option value="cfpb">CFPB</option>
   <option value="sarah-bainton-kahn">Sarah Bainton Kahn</option>
@@ -1510,6 +1510,7 @@
   <option value="damion-english">Damion English</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="sartaj-alag">Sartaj Alag</option>
+  <option value="scott-fulford">Scott Fulford</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
   <option value="patrick-brick">Patrick Brick</option>
@@ -1531,19 +1532,20 @@
   <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="marla-blow">Marla Blow</option>
   <option value="victor-zapanta">Victor Zapanta</option>
-  <option value="scott-fulford">Scott Fulford</option>
   <option value="maria-jaramillo">Maria Jaramillo</option>
   <option value="gene-koo">Gene Koo</option>
   <option value="olivia-calderon">Olivia Calderon</option>
   <option value="jeff-ehrlich">Jeff Ehrlich</option>
   <option value="j-frank-vespa-papaleo">J Frank Vespa-Papaleo</option>
   <option value="david-sieminski">David Sieminski</option>
+  <option value="christa-gibbs">Christa Gibbs</option>
   <option value="brian-stone">Brian Stone</option>
   <option value="lissan-anfune">Lissan Anfune</option>
   <option value="meina-banh">Meina Banh</option>
   <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="miesha-davis">Miesha Davis</option>
   <option value="max-bentovim">Max Bentovim</option>
+  <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="paul-mondor">Paul Mondor</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
@@ -1579,15 +1581,14 @@
   <option value="john-mcnamara">John McNamara</option>
   <option value="kristen-evans">Kristen Evans</option>
   <option value="tim-lambert">Tim Lambert</option>
-  <option value="christa-gibbs">Christa Gibbs</option>
   <option value="will-sealy">Will Sealy</option>
+  <option value="eva-nagypal">Éva Nagypál</option>
   <option value="thomas-conkling">Thomas Conkling</option>
   <option value="matt-cameron">Matt Cameron</option>
   <option value="melissa-knoll">Melissa Knoll</option>
   <option value="flavio-cumpiano">Flavio Cumpiano</option>
   <option value="logan-herman">Logan Herman</option>
   <option value="keo-chea">Keo Chea</option>
-  <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
@@ -1681,7 +1682,6 @@
   <option value="nhu-han-duong">Nhu-Han Duong</option>
   <option value="leonard-kennedy">Leonard Kennedy</option>
   <option value="jeremy-tobacman">Jeremy Tobacman</option>
-  <option value="eva-nagypal">Éva Nagypál</option>
   <option value="charles-romeo">Charles Romeo</option>
   <option value="catherine-razeto">Catherine Razeto</option>
   <option value="colleen-tressler">Colleen Tressler</option>
@@ -1804,13 +1804,187 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1328 filtered results</div>
+          <div class="h4 m-notification_message">1331 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
+</span>
+                            <span class="m-meta-header_separator">|</span>
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-05-09T00:00:00">MAY 09, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/new-hamp-enhancements-will-help-military-homeowners/">
+                    New HAMP enhancements will help military homeowners
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>This post also appears on the Department of the Treasury blog. Our military families make many sacrifices for our nation, and not just when a servicemember goes into combat. Military families also face challenges when a servicemember receives orders for a Permanent Change of Station (PCS) move to another base, and the family has to […]</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=tim-massad">Tim Massad</a>
+                    and 
+                    <a href="?authors=holly-petraeus">Holly Petraeus</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Servicemembers
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        At the CFPB
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-04-30T00:00:00">APR 30, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/continuing-our-promise-of-diversity/">
+                    Continuing our promise of diversity
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Today is my first day as the Director of the Office of Minority and Women Inclusion at the CFPB. I’m coming to the CFPB after serving nine years at the U.S. Equal Employment Opportunity Commission (Commission). There I worked to protect the public from unlawful discrimination and harassment in all work situations.</p>
+<p>I came to the CFPB because I know this is a place that shares those same values. Here we have a team that understands that to help all consumers we need to have a wide range of perspectives in-house. Our Office of Minority and Women Inclusion will work to ensure that diversity and inclusion are more than just considerations; they are defining standards for the work we do.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=stuart-ishimaru">Stuart Ishimaru</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=personnel" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Personnel
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=discrimination" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Discrimination
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-04-26T00:00:00">APR 26, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/accountability-in-military-education/">
+                    Accountability in military education
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>On April 27th, the President signs an executive order instructing several departments to take steps to ensure that servicemembers, veterans and their families can get information they need about the schools where they spend their education benefits. His directive also strengthens oversight and accountability of the schools that offer educational programs to the military. We applaud this effort.</p><p><a href="/blog/accountability-in-military-education/">Read more from Holly Petraeus</a> about the need for this executive order and our work on military education issues.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=holly-petraeus">Holly Petraeus</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=student-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Student loans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=students" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Students
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Servicemembers
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3070,154 +3244,6 @@
                 <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Consumer complaints
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-03-01T00:00:00">MAR 01, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/advancing-consumer-interests/">
-                    Advancing consumers’ interests
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Today we are expanding our consumer response system to take consumer complaints on checking and savings accounts. These accounts play a critical role in the lives of most Americans, but they can also be a source of great frustration. Since last year, we have helped consumers bring concerns about credit cards and mortgages to the attention of their financial institutions. Adding deposit accounts is an important step.</p>
-<p><a href="https://help.consumerfinance.gov/app/bankaccountorservice/ask">Submit a complaint about a checking or savings account.</a></p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=richard-cordray">Richard Cordray</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Consumer complaints
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=checking-account" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Checking account
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-02-29T00:00:00">FEB 29, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/notice-about-possibly-malicious-emails/">
-                    Notice about possibly malicious emails
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Today, the CFPB has learned that businesses have received emails that falsely purport to originate from the CFPB. These emails contain the subject line “Consumer complaint regarding your Company.” They direct recipients to respond to consumer complaints filed against them. The CFPB did not send or direct anyone to send these emails. These emails may […]</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=chris-willey">Chris Willey</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Identity theft and fraud
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-02-24T00:00:00">FEB 24, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/set-a-goal-and-start-a-savings-habit/">
-                    Set a goal and start a savings habit
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>At the Consumer Financial Protection Bureau, we believe in empowering American Consumers to make informed financial decisions. We want you to have the information you need to get what you want out of the financial products and services available to you.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=camille-busette">Camille Busette</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial education
                 </a>
             </li>
     </ul>
