@@ -1693,14 +1693,14 @@
                             Regions Bank
                     </option>
                     <option 
-                        value="Del Norte Credit Union"
-                        >
-                            Del Norte Credit Union
-                    </option>
-                    <option 
                         value="Transportation Federal Credit Union"
                         >
                             Transportation Federal Credit Union
+                    </option>
+                    <option 
+                        value="Del Norte Credit Union"
+                        >
+                            Del Norte Credit Union
                     </option>
                     <option 
                         value="FIRST FINANCIAL BANK, NATIONAL ASSOCIATION"
@@ -2122,7 +2122,7 @@
                 <dt>Other relevant parties</dt>
                 <dd>Big Sandy Superstore - Parent; Burger Lounge; Cornhuskers - Papa...</dd>
                 <dt>Current status</dt>
-                <dd>Active</dd>
+                <dd>Withdrawn</dd>
             </dl>
         </div>
         <div class="content-l_col content-l_col-1-2">
@@ -2153,7 +2153,7 @@
                 <dt>Program manager</dt>
                 <dd>Instant Financial</dd>
                 <dt>Other relevant parties</dt>
-                <dd>24-7 Intouch Corporate; Absolute Wireless (Sprint); Albor Restaurant...</dd>
+                <dd>Big Sandy Superstore - Parent; Burger Lounge; Cornhuskers - Papa...</dd>
                 <dt>Current status</dt>
                 <dd>Active</dd>
             </dl>
@@ -2219,7 +2219,7 @@
                 <dt>Program manager</dt>
                 <dd>Instant Financial</dd>
                 <dt>Other relevant parties</dt>
-                <dd>Bloomin&#39; Brands, Inc.; Food Dudes Delivery, LLC; Lettuce Entertain You...</dd>
+                <dd>Bloomin&#39; Brands, Inc.; Food Dudes Delivery, LLC Parent Location; Lettuce...</dd>
                 <dt>Current status</dt>
                 <dd>Active</dd>
             </dl>
