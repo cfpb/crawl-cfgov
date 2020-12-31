@@ -1391,8 +1391,8 @@
   <option value="compliance">Compliance</option>
   <option value="auto-loans">Auto loans</option>
   <option value="research">Research</option>
-  <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+  <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="academic-research-council">Academic Research Council</option>
@@ -1611,13 +1611,145 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1359 filtered results</div>
+          <div class="h4 m-notification_message">1362 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-03-24T00:00:00">MAR 24, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/media-advisory-cfpb-resources-consumers-during-covid-19-pandemic/">
+                    Media Advisory: Consumer Financial Protection Bureau Resources for Consumers During COVID-19 Pandemic
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Bureau has recently released several resources to help consumers take steps to protect their finances during the COVID-19 pandemic, including how to avoid financial scams and submit complaints to the Bureau.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-03-22T00:00:00">MAR 22, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/agencies-provide-additional-information-encourage-financial-institutions-work-borrowers-affected-covid-19/">
+                    Agencies Provide Additional Information to Encourage Financial Institutions  to Work with Borrowers Affected by COVID-19
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The federal financial institution regulatory agencies and the state banking regulators issued an interagency statement encouraging financial institutions to work constructively with borrowers affected by COVID-19 and providing additional information regarding loan modifications.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=banking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Banking
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=access-to-credit" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Access to credit
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-03-20T00:00:00">MAR 20, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/cfpb-releases-2019-administration-fair-debt-collection-practices-act-report/">
+                    Consumer Financial Protection Bureau Releases Report on 2019 Administration of the Fair Debt Collection Practices Act
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Consumer Financial Protection Bureau released the annual report to Congress on the administration of the Fair Debt Collection Practices Act (FDCPA).</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=fair-debt-collection-practices-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Fair Debt Collection Practices Act
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=debt-collection" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Debt collection
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2601,144 +2733,6 @@
                     By 
                     <a href="?authors=kathleen-l-kraninger">Kathleen L. Kraninger</a>
                 </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-12-10T00:00:00">DEC 10, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/kraninger-marks-first-year-director-consumer-financial-protection-bureau/">
-                    Kraninger Marks First Year as Director of the Consumer Financial Protection Bureau
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Consumer Financial Protection Bureau Director Kathleen L. Kraninger marks first year.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=bureau-milestones" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Bureau milestones
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-12-03T00:00:00">DEC 03, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-issues-notice-proposed-rulemaking-remittance-rule/">
-                    Consumer Financial Protection Bureau Issues Notice of Proposed Rulemaking on Remittance Rule
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>The Consumer Financial Protection Bureau (Bureau) issued a Notice of Proposed Rulemaking (NPRM) relating to the Remittance Rule (Rule).</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=credit-unions" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit unions
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-12-03T00:00:00">DEC 03, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-announces-panels-for-cfpb-ftc-accuracy-in-consumer-reporting-workshop/">
-                    CFPB Announces Panels for CFPB-FTC Workshop on Accuracy in Consumer Reporting
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>CFPB announced the panels for its December 10, 2019 workshop, cohosted with the Federal Trade Commission (FTC), to examine issues affecting the accuracy of traditional credit reports.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=fair-credit-reporting-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Credit Reporting Act
-                </a>
-            </li>
-    </ul>
-</div>
         </div>
     </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">

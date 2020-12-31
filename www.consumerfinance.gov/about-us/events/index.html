@@ -1263,14 +1263,180 @@
     <p>Visit our <a href="/about-us/events/archive-past-events/">events archive</a> to view recordings of past events.</p>
     </div>
             <div class="block block__flush-top">
-  <div class="m-notification m-notification__default m-notification__visible">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm50.3 770.7c0 27.6-22.4 50-50 50s-50-22.4-50-50V547.3c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6zm-50-439.1c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7 71.7 32.1 71.7 71.7-32.1 71.7-71.7 71.7z"/></svg>
+    <div class="o-filterable-list">
+    <div id="o-filterable-list-controls" class="o-filterable-list-controls">
+<div data-qa-hook="expandable"
+     class="o-expandable
+            o-expandable__padded
+            o-expandable__background
+            o-expandable__border">
+    <button class="o-expandable_header o-expandable_target" type="button">
+        <span class="h4 o-expandable_header-left o-expandable_label">
+            Filter upcoming events
+        </span>
+        <span class="o-expandable_header-right o-expandable_link">
+            <span class="o-expandable_cue o-expandable_cue-open">
+                <span class="u-visually-hidden-on-mobile
+                            ">
+                    Show
+                    filters
+                </span>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
+            </span>
+            <span class="o-expandable_cue o-expandable_cue-close">
+                <span class="u-visually-hidden-on-mobile
+                             ">
+                    Hide
+                    filters
+                </span>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h527.1c27.6 0 50 22.4 50 50s-22.4 50-50 50z"/></svg>
+            </span>
+        </span>
+    </button>
+    <div class="o-expandable_content
+                ">
+    <form method="get" action=".">
+        <div class="content-l">
+        <div class="content-l_col
+                    content-l_col-2-3">
+            <div class="content-l">
+                    <div class="content-l_col
+                                content-l_col-1-2">
+                        <div class="o-form_group">
+                            <div class="m-form-field">
+                                <label class="a-label a-label__heading"
+                                       for="o-filterable-list-controls_topics">
+                                    Topic
+                                </label>
+                                <select name="topics" id="o-filterable-list-controls_topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
+  <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
+  <option value="reports">reports</option>
+</select>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="content-l_col
+                                content-l_col-1">
+                        <div class="o-form_group">
+                            <fieldset class="o-form_fieldset">
+                                <legend class="a-legend">
+                                    Date range
+                                </legend>
+                                <div class="content-l">
+                                    <div class="content-l_col
+                                                content-l_col-1-2">
+                                        <div class="m-form-field">
+                                            <label class="a-label a-label__heading"
+                                                   for="o-filterable-list-controls_from-date">
+                                                From:
+                                            </label>
+                                            <input type="date" name="from_date" class="a-text-input a-text-input__full" placeholder="mm/dd/yyyy" data-type="date" id="o-filterable-list-controls_from-date">
+                                        </div>
+                                    </div>
+                                    <div class="content-l_col
+                                                content-l_col-1-2">
+                                        <div class="m-form-field">
+                                            <label class="a-label a-label__heading"
+                                                   for="o-filterable-list-controls_to-date">
+                                                To:
+                                            </label>
+                                            <input type="date" name="to_date" class="a-text-input a-text-input__full" placeholder="mm/dd/yyyy" data-type="date" id="o-filterable-list-controls_to-date">
+                                        </div>
+                                    </div>
+                                </div>
+                            </fieldset>
+                        </div>
+                    </div>
+            </div>
+        </div>
+            <div class="content-l_col
+                        content-l_col-1
+                        m-btn-group">
+                <button class="a-btn" type="submit">
+                    Apply filters
+                </button>
+                <a class="a-btn a-btn__link a-btn__warning"
+                   href="/about-us/events/">
+                    Clear filters
+                </a>
+            </div>
+        </div>
+    </form>
+    </div>
+</div>
+    </div>
+        <div class="o-filterable-list_notification
+                    block
+                    block__padded
+                    block__sub
+                    u-hidden">
+  <div class="m-notification m-notification__success m-notification__visible">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">There are currently no upcoming events.</div>
-              <div class="m-notification_explanation">Upcoming events will appear here when they are scheduled.</div>
+          <div class="h4 m-notification_message">1 filtered result</div>
       </div>
   </div>
+        </div>
+            <section class="o-filterable-list_results
+                            block
+                            block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    On
+                        <span class="datetime"><time class="datetime_date" datetime="2021-01-05T13:00:00-0500">JAN 05, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+                <time class="calendar-icon"
+                      data-month="Jan"
+                      data-day="5"
+                      datetime="Tue 05 Jan 2021 01:00:00 PM EST"
+                      aria-hidden="true">
+                </time>
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/events/2021-release-of-the-taskforce-on-federal-consumer-financial-law-report/">
+                    January 5, 2021 Release of the Taskforce on Federal Consumer Financial Law Report
+                </a>
+            </h3>
+                    <div class="o-post-preview_subtitle">
+                            Held via WebEx
+                     -
+                    <span class="datetime"><time class="datetime_date" datetime="2021-01-05T13:00:00-0500">JAN 05, 2021</time>
+    <span class="datetime_divider">@</span>
+    <time class="datetime_time" datetime="2021-01-05T13:00:00-0500">
+        01:00 PM EST
+    </time>
+</span>
+                    </div>
+                <div class="o-post-preview_description">
+                    <p>On January 5, 2021, the Bureau will host an event to share the findings, analyses, and recommendations of the Taskforce on Federal Consumer Financial Law, followed by facilitated questions and answers with the CFPB’s Consumer Advisory Board Chair, Eric Kaplan.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/events/?topics=taskforce-on-federal-consumer-financial-law" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Taskforce on Federal Consumer Financial Law
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/events/?topics=reports" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    reports
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+            </section>
+    </div>
             </div>
     </div>
 </div>

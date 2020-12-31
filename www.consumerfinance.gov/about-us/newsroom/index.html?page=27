@@ -1391,8 +1391,8 @@
   <option value="compliance">Compliance</option>
   <option value="auto-loans">Auto loans</option>
   <option value="research">Research</option>
-  <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+  <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="academic-research-council">Academic Research Council</option>
@@ -1611,13 +1611,154 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1359 filtered results</div>
+          <div class="h4 m-notification_message">1362 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2015-07-23T00:00:00">JUL 23, 2015</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/cfpb-takes-action-against-student-financial-aid-services-inc-for-illegal-recurring-billing-scheme/">
+                    CFPB Takes Action Against Student Financial Aid Services, Inc. for Illegal Recurring Billing Scheme
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Company to Pay $5.2 Million For Illegally Billing Over 100,000 Consumers WASHINGTON, D.C. – Today the Consumer Financial Protection Bureau filed a complaint and proposed consent order in federal court against Student Financial Aid Services, Inc. for illegal sales and billing practices. The Bureau alleges that the company, which until recently operated FAFSA.com, lured in […]</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=student-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Student loans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2015-07-22T00:00:00">JUL 22, 2015</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/meredith-fuchs-named-acting-deputy-director-of-the-consumer-financial-protection-bureau/">
+                    Meredith Fuchs Named Acting Deputy Director of the Consumer Financial Protection Bureau
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>WASHINGTON, D.C. – The Consumer Financial Protection Bureau (CFPB) today announced that Meredith Fuchs will serve as Acting Deputy Director when Deputy Director Steve Antonakes departs the agency at the end of July. Antonakes currently serves as both Deputy Director for the Bureau and Associate Director for the Division of Supervision, Enforcement, and Fair Lending. […]</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=personnel" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Personnel
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2015-07-22T00:00:00">JUL 22, 2015</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/cfpb-orders-discover-bank-to-pay-18-5-million-for-illegal-student-loan-servicing-practices/">
+                    CFPB Orders Discover Bank to Pay $18.5 Million for Illegal Student Loan Servicing Practices
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Discover’s Illegal Servicing Practices Affected Private Student Loan Borrowers Transferred from Citibank WASHINGTON, D.C. — Today the Consumer Financial Protection Bureau (CFPB) took action against Discover Bank and its affiliates for illegal private student loan servicing practices. The CFPB found that Discover overstated the minimum amounts due on billing statements and denied consumers information they […]</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=student-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Student loans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2686,148 +2827,6 @@
             </li>
     </ul>
 </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2015-06-17T00:00:00">JUN 17, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/cfpb-takes-action-against-servicemember-auto-lender-for-aggressive-debt-collection-tactics/">
-                    CFPB Takes Action Against Servicemember Auto Lender for Aggressive Debt Collection Tactics
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Auto Loan Company Misled Servicemembers About Consequences of Nonpayment WASHINGTON, D.C. — Today the Consumer Financial Protection Bureau (CFPB) sued an auto loan company, Security National Automotive Acceptance Company, for aggressive debt collection tactics against servicemembers. In a complaint filed in federal court, the CFPB alleges that the company used a combination of illegal threats […]</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=auto-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Auto loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=servicemembers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Servicemembers
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Enforcement
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2015-06-10T00:00:00">JUN 10, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/cfpb-to-oversee-nonbank-auto-finance-companies/">
-                    CFPB to Oversee Nonbank Auto Finance Companies
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Bureau Publishes Exam Procedures for Supervised Companies in $900 Billion Market</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=supervision" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=auto-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Auto loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2015-06-09T00:00:00">JUN 09, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/agencies-issue-final-standards-for-assessing-diversity-policies-and-practices-of-regulated-entities/">
-                    Agencies Issue Final Standards for Assessing Diversity Policies and Practices of Regulated Entities
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Joint Release: Board of Governors of the Federal Reserve System Consumer Financial Protection Bureau Federal Deposit Insurance Corporation National Credit Union Administration Office of the Comptroller of the Currency Securities and Exchange Commission Federal agencies today issued a final interagency policy statement establishing joint standards for assessing the diversity policies and practices of the entities […]</p>
-                </div>
         </div>
     </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">

@@ -1361,8 +1361,8 @@
   <option value="everyone-has-a-story">Everyone has a story</option>
   <option value="discrimination">Discrimination</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
-  <option value="academic-research-council">Academic Research Council</option>
   <option value="compliance">Compliance</option>
+  <option value="academic-research-council">Academic Research Council</option>
   <option value="mortgage-closing">Mortgage closing</option>
   <option value="parents">Parents</option>
   <option value="saving">Saving</option>
@@ -1371,8 +1371,8 @@
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="financial-service-providers">Financial service providers</option>
   <option value="innovation">Innovation</option>
-  <option value="prepaid-cards">Prepaid cards</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+  <option value="prepaid-cards">Prepaid cards</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="money-transfers">Money transfers</option>
@@ -1835,7 +1835,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2961 filtered results</div>
+          <div class="h4 m-notification_message">2964 filtered results</div>
       </div>
   </div>
         </div>
@@ -1854,6 +1854,69 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/our-first-enforcement-action-against-a-payday-lender/">
+                        <span class="h4 u-mb0">
+                            Our first enforcement action against a payday lender
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2013-11-20T00:00:00">NOV 20, 2013</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/live-from-boston/">
+                        <span class="h4 u-mb0">
+                            Live from Boston!
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2013-11-20T00:00:00">NOV 20, 2013</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=testimony"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 984.4 1200" class="cf-icon-svg"><path d="M400.7 674.5c-10.9-19.7-25.1-37.4-42-52.3-16.7-14.7-35.8-26.4-56.4-34.8-.5-.2-1.1-.4-1.6-.5-55-21.7-117-17-168.1 12.7 8.5-15.2 18.7-29.5 30.2-42.7 24.3-27.7 55.1-51.2 91.5-69.8 27.5-14.1 58.1-24.6 91-31.2 27.2-4.7 45.5-30.6 40.8-57.8s-30.6-45.5-57.8-40.8c-.9.2-1.8.3-2.7.5-41.9 8.4-81.2 22-116.9 40.2-47.7 24.4-88.5 55.7-121.2 92.9-32.7 37.4-57.2 81.2-71.8 128.7-15 47.7-19.2 99-12.6 152.3l.2 1.5.3 1.5c.2.9.4 1.8.5 2.8.2 1.2.5 2.4.7 3.6.2 1 .4 1.9.6 2.9l.9 4.2c.1.6.3 1.2.4 1.8.4 1.7.8 3.5 1.2 5.2l.1.4c7.2 28.5 17.8 53.4 31.7 74.5 17.4 26.4 37.7 47.5 60.9 63.3 22.8 15.7 48.6 26.6 75.7 32 26.9 5.5 54.5 6.2 81.6 2 26.3-3.8 51.5-13.1 74-27.2 21.8-13.6 40.7-31.2 55.8-52 15-20.8 26-44.3 32.4-69.2 6.7-25.8 7.7-52.6 3.1-78.8-3.5-23.1-11.1-45.4-22.5-65.9zM981.6 740.5c-6.9-45.8-29.6-87.7-64.4-118.4-16.7-14.7-35.8-26.4-56.4-34.8-.5-.2-1.1-.4-1.6-.5-55.1-21.7-117-17-168.2 12.7 8.5-15.2 18.7-29.5 30.2-42.7 24.3-27.7 55.1-51.2 91.5-69.8 27.5-14.1 58.1-24.6 91-31.2 26.9-6.2 43.7-33 37.5-59.9-5.9-25.9-31.1-42.6-57.2-38.1-41.9 8.4-81.2 22-116.9 40.2-47.7 24.4-88.5 55.7-121.2 92.9-32.7 37.4-57.2 81.2-71.9 128.7-14.9 47.7-19.2 99-12.6 152.3l.2 1.5.3 1.5c.2.9.4 1.8.5 2.8.2 1.2.5 2.4.7 3.6.2 1 .4 1.9.6 2.9l.9 4.2c.1.6.3 1.2.4 1.8.4 1.7.8 3.5 1.2 5.2l.1.4c7.2 28.5 17.8 53.4 31.7 74.5 17.4 26.4 37.7 47.5 60.9 63.3 22.8 15.7 48.6 26.6 75.7 32 26.9 5.5 54.5 6.2 81.6 2 26.3-3.8 51.5-13.1 74-27.2 21.8-13.6 40.7-31.2 55.8-52 15-20.8 26-44.3 32.4-69.2 6.8-25.6 7.8-52.5 3.2-78.7z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Testimony
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/hollister-k-petraeus-before-the-u-s-senate-committee-on-commerce-science-transportation/">
+                        <span class="h4 u-mb0">
+                            Hollister K. Petraeus Before the U.S. Senate Committee on Commerce, Science &amp; Transportation
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2013-11-20T00:00:00">NOV 20, 2013</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3889,69 +3952,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2013-09-04T00:00:00">SEP 04, 2013</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/steven-antonakes-named-deputy-director-of-the-consumer-financial-protection-bureau/">
-                        <span class="h4 u-mb0">
-                            Steven Antonakes Named Deputy Director of the Consumer Financial Protection Bureau
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2013-09-04T00:00:00">SEP 04, 2013</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/save-the-date-banking-on-campus/">
-                        <span class="h4 u-mb0">
-                            Save the date: Banking on Campus
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2013-08-29T00:00:00">AUG 29, 2013</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/reserve-la-cita-acompanenos-para-una-reunion-de-la-junta-consultiva-de-consumidores-en-itta-bena-mississippi/">
-                        <span class="h4 u-mb0">
-                            Reserve la cita: Acompáñenos para una reunión de la Junta Consultiva de Consumidores en Itta Bena, Mississippi
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2013-08-28T00:00:00">AUG 28, 2013</time>
 </span>
                 </td>
             </tr>
