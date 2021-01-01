@@ -1356,23 +1356,23 @@
   <option value="research">Research</option>
   <option value="financial-education">Financial education</option>
   <option value="debt-collection">Debt collection</option>
-  <option value="mortgages">Mortgages</option>
   <option value="student-loans">Student loans</option>
   <option value="financial-well-being">Financial well-being</option>
+  <option value="mortgages">Mortgages</option>
   <option value="credit-cards">Credit cards</option>
   <option value="supervision">Supervision</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="discrimination">Discrimination</option>
   <option value="older-americans">Older Americans</option>
   <option value="students">Students</option>
-  <option value="personnel">Personnel</option>
   <option value="servicemembers">Servicemembers</option>
+  <option value="personnel">Personnel</option>
   <option value="access-to-credit">Access to credit</option>
   <option value="enforcement">Enforcement</option>
   <option value="fair-lending">Fair lending</option>
   <option value="banking">Banking</option>
-  <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="youth">Youth</option>
+  <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="auto-loans">Auto loans</option>
   <option value="credit-card-act">Credit CARD Act</option>
@@ -1398,10 +1398,10 @@
   <option value="bureau-milestones">Bureau milestones</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="overdrafts">Overdrafts</option>
+  <option value="financial-coaching">Financial coaching</option>
   <option value="reverse-mortgages">Reverse mortgages</option>
   <option value="checking-account">Checking account</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
-  <option value="financial-coaching">Financial coaching</option>
   <option value="procurement">Procurement</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="retirement">Retirement</option>
@@ -1540,13 +1540,79 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">389 filtered results</div>
+          <div class="h4 m-notification_message">390 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Industry and markets
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2014-09-17T00:00:00">SEP 17, 2014</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/data-research/research-reports/using-publicly-available-information-to-proxy-for-unidentified-race-and-ethnicity/">
+                    Using publicly available information to proxy for unidentified race and ethnicity
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    We ensure that lenders are complying with fair lending laws and are addressing discrimination across the consumer credit industry. 
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=discrimination" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Discrimination
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Access to credit
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=auto-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Auto loans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=fair-lending" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Fair lending
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2800,66 +2866,6 @@
                 <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Credit reports and scores
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        Supervisory Highlights
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2014-01-30T00:00:00">JAN 30, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/data-research/research-reports/supervisory-highlights-winter-2013/">
-                    Supervisory Highlights: Winter 2013
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    Our mission is to help ensure a financial services marketplace that operates in accordance with federal consumer financial law and works well for both consumers and businesses that serve them.
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=enforcement" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Enforcement
                 </a>
             </li>
     </ul>

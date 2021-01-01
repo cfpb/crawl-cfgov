@@ -1335,8 +1335,8 @@
   <option value="consumer-complaints">Consumer complaints</option>
   <option value="credit-cards">Credit cards</option>
   <option value="debt-collection">Debt collection</option>
-  <option value="students">Students</option>
   <option value="student-loans">Student loans</option>
+  <option value="students">Students</option>
   <option value="rulemaking">Rulemaking</option>
   <option value="servicemembers">Servicemembers</option>
   <option value="banking">Banking</option>
@@ -1387,8 +1387,8 @@
   <option value="partnerships">Partnerships</option>
   <option value="credit-unions">Credit unions</option>
   <option value="credit-card-act">Credit CARD Act</option>
-  <option value="regulation-e">Regulation E</option>
   <option value="financial-coaching">Financial coaching</option>
+  <option value="regulation-e">Regulation E</option>
   <option value="retirement">Retirement</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
@@ -1835,7 +1835,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2964 filtered results</div>
+          <div class="h4 m-notification_message">2965 filtered results</div>
       </div>
   </div>
         </div>
@@ -1854,6 +1854,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-launches-public-inquiry-into-student-loan-servicing-practices/">
+                        <span class="h4 u-mb0">
+                            CFPB Launches Public Inquiry Into Student Loan Servicing Practices
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2015-05-14T00:00:00">MAY 14, 2015</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3926,27 +3947,6 @@
                     <a href="/about-us/blog/save-the-date-join-us-for-the-winter-2015-consumer-advisory-board-meeting-in-washington-dc/">
                         <span class="h4 u-mb0">
                             Save the date: Join us for the Winter 2015 Consumer Advisory Board meeting in Washington, DC
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2015-02-03T00:00:00">FEB 03, 2015</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-takes-action-to-shut-down-sham-credit-card/">
-                        <span class="h4 u-mb0">
-                            CFPB Takes Action to Shut Down Sham Credit Card
                         </span>
                     </a>
                 </td>
