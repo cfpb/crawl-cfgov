@@ -1500,7 +1500,7 @@
                             content__flush-bottom">
                     <div class="app-container">
                         <div class="app"><section class="college-costs_tool-section college-costs_tool-section__school-search" id="college-costs_school-search" data-tool-section="school-info">
-    <div class="school-search_start">
+    <div class="school-search_start" id="school-search_what-school">
         <h2>School & living situation</h2>
         <p>Start with the school you’re considering, plus the program and other info about your situation. Refer to your financial aid offer if you're not sure.</p>
         <label class="a-label a-label__heading u-mb15" for="search__school-input">
@@ -1513,12 +1513,18 @@
                    class="a-text-input"
                    autocomplete="off">
         </p>
+        <div class="a-form-alert a-form-alert__error" data-state-based-visibility="school-required" role="alert">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"/></svg>
+          <span class="a-form-alert_text">
+              Please enter the school you are considering.
+          </span>
+        </div>
     </div>
     <div id="search-results">
         <ul></ul>
     </div>
     <div class="school-search_additional-info">
-        <div class="block block__sub program-question">
+        <div class="block block__sub program-question" id="school-search_program-type">
             <h3 class="h4">Select your program type</h3>
   <div class="m-notification m-notification__default m-notification__visible">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm50.3 770.7c0 27.6-22.4 50-50 50s-50-22.4-50-50V547.3c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6zm-50-439.1c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7 71.7 32.1 71.7 71.7-32.1 71.7-71.7 71.7z"/></svg>
@@ -1527,6 +1533,12 @@
               <div class="m-notification_explanation">If you are entering or continuing an accelerated degree program (a bachelor’s followed by a master’s in the same subject), choose the program type covered by this financial aid offer.</div>
       </div>
   </div>
+            <div class="a-form-alert a-form-alert__error" data-state-based-visibility="type-required" role="alert">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"/></svg>
+              <span class="a-form-alert_text">
+                  Please select your program type.
+              </span>
+            </div>
             <div class="m-form-field m-form-field__radio ">
     <input class="a-radio"
            type="radio"
@@ -1592,7 +1604,7 @@
             </select>
           </div>
         </div>
-        <div class="block block__sub program-question">
+        <div class="block block__sub program-question" id="school-search_program-length">
             <h3 class="h4">How long do you expect your program to take?</h3>
             <div class="undergrad-content">
   <div class="m-notification m-notification__default m-notification__visible">
@@ -1602,6 +1614,12 @@
               <div class="m-notification_explanation">Though 4 years is considered the standard length of bachelor’s degrees, <a class="external-link a-link a-link__icon" href="https://nces.ed.gov/fastfacts/display.asp?id=569" rel="noreferrer noopener" target="_blank"><span class="a-link_text">data</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a> suggests that over half of students take longer.</div>
       </div>
   </div>
+            </div>
+            <div class="a-form-alert a-form-alert__error" data-state-based-visibility="length-required" role="alert">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"/></svg>
+              <span class="a-form-alert_text">
+                  Please select your program length.
+              </span>
             </div>
             <div class="m-form-field m-form-field__radio ">
     <input class="a-radio"
@@ -1676,8 +1694,14 @@
     </label>
 </div>
         </div>
-        <div class="block block__sub program-question" data-state-based-visibility="control-nonprivate">
+        <div class="block block__sub program-question" id="school-search_program-rate" data-state-based-visibility="control-nonprivate">
             <h3 class="h4">Which tuition rate will apply to you?</h3>
+            <div class="a-form-alert a-form-alert__error" data-state-based-visibility="rate-required" role="alert">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"/></svg>
+              <span class="a-form-alert_text">
+                  Please select which tuition rate will apply to you.
+              </span>
+            </div>
             <div class="m-form-field m-form-field__radio ">
     <input class="a-radio"
            type="radio"
@@ -1704,8 +1728,14 @@
 </div>
             <!-- TODO: add option for N/A -- all students pay the same rate OR hide this question if N/A -->
         </div>
-        <div class="block block__sub program-question">
+        <div class="block block__sub program-question" id="school-search_program-housing">
             <h3 class="h4">Where do you plan to live while in school?</h3>
+            <div class="a-form-alert a-form-alert__error" data-state-based-visibility="housing-required" role="alert">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"/></svg>
+              <span class="a-form-alert_text">
+                  Please select where you plan to live while in school.
+              </span>
+            </div>
             <div class="m-form-field m-form-field__radio ">
     <input class="a-radio"
            type="radio"
@@ -1743,18 +1773,24 @@
     </label>
 </div>
         </div>
-        <div class="block block__sub program-question undergrad-content">
+        <div class="block block__sub program-question undergrad-content" id="school-search_program-dependency">
             <h3 class="h4">Are you considered a dependent or independent student?</h3>
             <p><a class="link-external a-link a-link__icon" href="https://studentaid.gov/help/view-sar"><span class="a-link_text">Check your Student Aid Report (SAR)</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a> if you’re not sure.</p>
+            <div class="a-form-alert a-form-alert__error" data-state-based-visibility="dependency-required" role="alert">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"/></svg>
+              <span class="a-form-alert_text">
+                  Please select whether you are considered a dependent or independent student.
+              </span>
+            </div>
             <div class="m-form-field m-form-field__radio ">
     <input class="a-radio"
            type="radio"
            value="dependent"
-           id="program-student-type-radio_dependent"
-           name="programStudentType"
+           id="program-dependency-radio_dependent"
+           name="programDependency"
            >
     <label class="a-label"
-           for="program-student-type-radio_dependent">
+           for="program-dependency-radio_dependent">
         Dependent
     </label>
 </div>
@@ -1762,15 +1798,33 @@
     <input class="a-radio"
            type="radio"
            value="independent"
-           id="program-student-type-radio_independent"
-           name="programStudentType"
+           id="program-dependency-radio_independent"
+           name="programDependency"
            >
     <label class="a-label"
-           for="program-student-type-radio_independent">
+           for="program-dependency-radio_independent">
         Independent
     </label>
 </div>
         </div>
+    </div>
+    <div data-state-based-visibility="school-fields-errors">
+  <div class="m-notification m-notification__error m-notification__visible">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm261.8 692.2c19.4 19.6 19.3 51.3-.3 70.7-19.5 19.3-50.9 19.3-70.4 0L499.6 676.6 308 868.1c-19.6 19.4-51.3 19.3-70.7-.3-19.3-19.5-19.3-50.9 0-70.4l191.6-191.5-191.6-191.6c-19.3-19.8-18.9-51.4.9-70.7 19.4-18.9 50.4-18.9 69.8 0l191.6 191.5 191.5-191.5c19.6-19.4 51.3-19.3 70.7.3 19.3 19.5 19.3 50.9 0 70.4L570.3 605.9l191.5 191.5z"/></svg>
+      <div class="m-notification_content"
+          >
+          <div class="h4 m-notification_message">Form is incomplete</div>
+              <div class="m-notification_explanation">Please make selections for the following fields on this page:
+            <ul class="m-list m-list__links">
+            <div data-state-based-visibility="school-required"><li class="m-list_item"><a class="a-link m-list_link" href="#school-search_what-school" data-gtm_ignore="true">What school are you considering?</a></li></div>
+            <div data-state-based-visibility="type-required"><li class="m-list_item"><a class="a-link m-list_link" href="#school-search_program-type" data-gtm_ignore="true">Select your program type</a></li></div>
+            <div data-state-based-visibility="length-required"><li class="m-list_item"><a class="a-link m-list_link" href="#school-search_program-length" data-gtm_ignore="true">How long do you expect your program to take?</a></li></div>
+            <div data-state-based-visibility="rate-required"><li class="m-list_item"><a class="a-link m-list_link" href="#school-search_program-rate" data-gtm_ignore="true">Which tuition rate will apply to you?</a></li></div>
+            <div data-state-based-visibility="housing-required"><li class="m-list_item"><a class="a-link m-list_link" href="#school-search_program-housing" data-gtm_ignore="true">Where do you plan to live while in school?</a></li></div>
+            <div data-state-based-visibility="dependency-required"><li class="m-list_item"><a class="a-link m-list_link" href="#school-search_program-dependency" data-gtm_ignore="true">Are you considered a dependent or independent student?</a></li></div>
+            </ul></div>
+      </div>
+  </div>
     </div>
 </section>  <section class="college-costs_tool-section college-costs_tool-section__costs" data-tool-section="costs">
     <h2>This year's costs</h2>

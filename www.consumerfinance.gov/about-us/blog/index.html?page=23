@@ -1508,9 +1508,9 @@
   <option value="paul-rothstein">Paul Rothstein</option>
   <option value="cfpb-students-team">CFPB Students Team</option>
   <option value="damion-english">Damion English</option>
-  <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="sartaj-alag">Sartaj Alag</option>
   <option value="scott-fulford">Scott Fulford</option>
+  <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
   <option value="patrick-brick">Patrick Brick</option>
@@ -1925,11 +1925,6 @@ with you our fifth annual report, which I delivered to Director Cordray. </p>
                 </span>
             </div>
         </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/cfpb_data_agg_BLOG.original.png"
-                     alt="">
-            </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
                 <a class="" href="/about-us/blog/technology-changing-how-people-access-their-financial-records-share-your-story/">
@@ -2006,11 +2001,6 @@ from you. Make your voice heard.<br/></p>
                 </span>
             </div>
         </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/4tipsVAhomeLoan_Blog.original.png"
-                     alt="">
-            </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
                 <a class="" href="/about-us/blog/veterans-day-complaint-review-va-home-loan-refinancing/">
@@ -2122,11 +2112,6 @@ their service. <br/></p>
                 </span>
             </div>
         </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/cfpb_ecoa_blog.original.png"
-                     alt="">
-            </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
                 <a class="" href="/about-us/blog/what-you-need-know-about-equal-credit-opportunity-act-and-how-it-can-help-you-know-your-rights/">
@@ -2185,11 +2170,6 @@ what ECOA is and how it protects you.</p>
                 </span>
             </div>
         </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/cfpb_ecoa_blog.original.png"
-                     alt="">
-            </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
                 <a class="" href="/about-us/blog/what-you-need-know-about-equal-credit-opportunity-act-and-how-it-can-help-you-why-it-was-passed-and-what-it/">
@@ -2406,15 +2386,15 @@ you know that October is conflict resolution month?</p>
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Policy and compliance
-</span>
-                            <span class="m-meta-header_separator">|</span>
-                        <span class="m-meta-header_category">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
         <span class="u-visually-hidden">Category:</span>
         Info for consumers
+</span>
+                            <span class="m-meta-header_separator">|</span>
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
 </span>
                 <span class="m-meta-header_separator">|</span>
             </div>
@@ -2522,15 +2502,15 @@ tribal staff and organizations that serve native communities.</p>
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Policy and compliance
-</span>
-                            <span class="m-meta-header_separator">|</span>
-                        <span class="m-meta-header_category">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
         <span class="u-visually-hidden">Category:</span>
         Info for consumers
+</span>
+                            <span class="m-meta-header_separator">|</span>
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
 </span>
                 <span class="m-meta-header_separator">|</span>
             </div>
@@ -2583,15 +2563,15 @@ contactados para recibir dinero tras acuerdo de compensación.</p>
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Policy and compliance
-</span>
-                            <span class="m-meta-header_separator">|</span>
-                        <span class="m-meta-header_category">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
         <span class="u-visually-hidden">Category:</span>
         Info for consumers
+</span>
+                            <span class="m-meta-header_separator">|</span>
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
 </span>
                 <span class="m-meta-header_separator">|</span>
             </div>
@@ -2603,11 +2583,6 @@ contactados para recibir dinero tras acuerdo de compensación.</p>
                 </span>
             </div>
         </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/prepaid_blog.original.png"
-                     alt="">
-            </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
                 <a class="" href="/about-us/blog/weve-issued-new-rule-help-protect-consumers-using-prepaid-accounts/">
@@ -2790,11 +2765,6 @@ their money into a savings wallet doubled uptake of the wallet. </p>
                 </span>
             </div>
         </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/federal_register_notice_081716.original.png"
-                     alt="">
-            </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
                 <a class="" href="/about-us/blog/were-compiling-list-companies-offering-free-credit-scores/">
@@ -2838,15 +2808,15 @@ Federal Register notice.<br/></p>
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Policy and compliance
-</span>
-                            <span class="m-meta-header_separator">|</span>
-                        <span class="m-meta-header_category">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
         <span class="u-visually-hidden">Category:</span>
         Info for consumers
+</span>
+                            <span class="m-meta-header_separator">|</span>
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
 </span>
                 <span class="m-meta-header_separator">|</span>
             </div>
@@ -2913,11 +2883,6 @@ money from the settlement.</p>
                 </span>
             </div>
         </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/original_images/20160927_Blog_1million.gif"
-                     alt="">
-            </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
                 <a class="" href="/about-us/blog/what-happens-you-counts/">
@@ -2966,11 +2931,6 @@ the U.S. – tell us about the financial marketplace</p>
                 </span>
             </div>
         </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/student_overpayment_blog.original.png"
-                     alt="">
-            </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
                 <a class="" href="/about-us/blog/you-have-right-pay-your-student-loan-fast-you-can-without-penalty/">
@@ -3081,11 +3041,6 @@ offered credit repair services.  </p>
                 </span>
             </div>
         </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/mailfraud2.original.jpg"
-                     alt="">
-            </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
                 <a class="" href="/about-us/blog/dont-let-malicious-mail-make-your-money/">
