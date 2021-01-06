@@ -1426,6 +1426,7 @@
   <option value="cfpb-en-espanol">CFPB en español</option>
   <option value="financial-wellness-in-workplace">Financial wellness in the workplace</option>
   <option value="native-communities">Native communities</option>
+  <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="hmda">HMDA</option>
@@ -1540,13 +1541,61 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">390 filtered results</div>
+          <div class="h4 m-notification_message">391 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Industry and markets
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2013-05-08T00:00:00">MAY 08, 2013</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/data-research/research-reports/student-loan-affordability/">
+                    Student loan affordability
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    This report analyzes and discusses public comments submitted in response to a Request for Information Regarding an Initiative to Promote Student Loan Affordability published in the Federal Register in February 2013 (Docket ID: CFPB-2013-004). 
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Student loans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=students" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Students
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2698,54 +2747,6 @@
                 <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Open government
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        Industry and markets
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-07-19T00:00:00">JUL 19, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/data-research/research-reports/private-student-loans-report/">
-                    Private Student Loans Report
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Dodd-Frank Wall Street Reform and Consumer Protection Act requires the Director of the Consumer Financial Protection Bureau and the Secretary of Education to submit a report on private student loans.
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Student loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
                 </a>
             </li>
     </ul>

@@ -1426,6 +1426,7 @@
   <option value="cfpb-en-espanol">CFPB en español</option>
   <option value="financial-wellness-in-workplace">Financial wellness in the workplace</option>
   <option value="native-communities">Native communities</option>
+  <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="hmda">HMDA</option>
@@ -1540,13 +1541,52 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">390 filtered results</div>
+          <div class="h4 m-notification_message">391 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        To Congress
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2019-11-15T00:00:00">NOV 15, 2019</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/financial-report-fiscal-year-2019/">
+                    Financial report fiscal year 2019
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p><span>The financial report provides readers with the summary results of the BCFP’s operational activity and it is the principal statement of our accountability to the American people, the United States Congress, and the President of the United States. </span><br/></p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Open government
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2951,45 +2991,6 @@ inclusive manner for employees and applicants.</p>
                 <a href="/data-research/research-reports/?topics=data" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Data
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        To Congress
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-05-10T00:00:00">MAY 10, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/bureau-independent-audit-selected-operations-and-budget-fy2018/">
-                    Bureau of Consumer Financial Protection Independent Audit of Selected Operations and Budget, Fiscal Year 2018
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>In accordance with the Dodd-Frank Act, the CFPB orders an annual independent audit of the operations and budget of the Bureau. The purpose of this audit is to provide objective analyses to improve program performance and operations, reduce costs, facilitate decision-making, and contribute to public accountability.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Open government
                 </a>
             </li>
     </ul>
