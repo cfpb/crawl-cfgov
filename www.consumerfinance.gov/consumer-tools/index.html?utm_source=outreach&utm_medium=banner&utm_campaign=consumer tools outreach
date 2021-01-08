@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.3996efa6d3cc.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1238,16 +1238,12 @@
                 "
         >
 <div class="o-info-unit-group" id="educational-tools-you-can-use" >
-    <h2>Educational tools you can use
-    </h2>
+<h2>Educational tools you can use</h2>
     <h3>Guides for financial decisions</h3><p>Our guides help you understand and plan for big financial goals.<br/></p>
     <div class="content-l">
         <div class="content-l_col content-l_col-1-2">
 <div class="m-info-unit">
-            <div class="m-info-unit_heading-text">
-                <h3>
-</h3>
-            </div><div class="m-info-unit_content">
+    <div class="m-info-unit_content">
             <ul class="m-list m-list__links u-mt15">
                 <li class="m-list_item">
                     <a class="m-list_link" href="/owning-a-home/">Buying a house</a>
@@ -1265,15 +1261,12 @@
                     <a class="m-list_link" href="/consumer-tools/money-as-you-grow/">Money as You Grow</a>
                 </li>
             </ul>
-        </div>
+    </div>
 </div>
         </div>
         <div class="content-l_col content-l_col-1-2">
 <div class="m-info-unit">
-            <div class="m-info-unit_heading-text">
-                <h3>
-</h3>
-            </div><div class="m-info-unit_content">
+    <div class="m-info-unit_content">
             <ul class="m-list m-list__links u-mt15">
                 <li class="m-list_item">
                     <a class="m-list_link" href="/consumer-tools/military-financial-lifecycle/">Navigating the military financial lifecycle</a>
@@ -1285,7 +1278,7 @@
                     <a class="m-list_link" href="/consumer-tools/retirement/">Planning for retirement</a>
                 </li>
             </ul>
-        </div>
+    </div>
 </div>
         </div>
     </div>
@@ -1299,10 +1292,7 @@
     <div class="content-l">
         <div class="content-l_col content-l_col-1-3">
 <div class="m-info-unit">
-            <div class="m-info-unit_heading-text">
-                <h3>
-</h3>
-            </div><div class="m-info-unit_content">
+    <div class="m-info-unit_content">
             <ul class="m-list m-list__links u-mt15">
                 <li class="m-list_item">
                     <a class="m-list_link" href="/consumer-tools/auto-loans/">Auto loans</a>
@@ -1317,15 +1307,12 @@
                     <a class="m-list_link" href="/consumer-tools/credit-reports-and-scores/">Credit reports and scores</a>
                 </li>
             </ul>
-        </div>
+    </div>
 </div>
         </div>
         <div class="content-l_col content-l_col-1-3">
 <div class="m-info-unit">
-            <div class="m-info-unit_heading-text">
-                <h3>
-</h3>
-            </div><div class="m-info-unit_content">
+    <div class="m-info-unit_content">
             <ul class="m-list m-list__links u-mt15">
                 <li class="m-list_item">
                     <a class="m-list_link" href="/consumer-tools/debt-collection/">Debt collection</a>
@@ -1340,15 +1327,12 @@
                     <a class="m-list_link" href="/consumer-tools/mortgages/">Mortgages</a>
                 </li>
             </ul>
-        </div>
+    </div>
 </div>
         </div>
         <div class="content-l_col content-l_col-1-3">
 <div class="m-info-unit">
-            <div class="m-info-unit_heading-text">
-                <h3>
-</h3>
-            </div><div class="m-info-unit_content">
+    <div class="m-info-unit_content">
             <ul class="m-list m-list__links u-mt15">
                 <li class="m-list_item">
                     <a class="m-list_link" href="/consumer-tools/payday-loans/">Payday loans</a>
@@ -1366,7 +1350,7 @@
                     <a class="m-list_link" href="/consumer-tools/student-loans/">Student loans</a>
                 </li>
             </ul>
-        </div>
+    </div>
 </div>
         </div>
     </div>
@@ -1376,41 +1360,38 @@
                 "
         >
 <div class="o-info-unit-group" id="take-action" >
-    <h2>Take action
-    </h2>
+<h2>Take action</h2>
     <div class="content-l">
         <div class="content-l_col content-l_col-1-2">
 <div class="m-info-unit">
         <a class="m-info-unit_heading-link" href="/complaint/">
 <div class="m-info-unit_heading-text">
-<h3>Submit a complaint
-</h3>
+<h3>Submit a complaint</h3>
 </div>
 </a><div class="m-info-unit_content">
-            <p>Having trouble with a financial product or service? If you've already tried reaching out to the company and still have an issue, you can submit a complaint. Tell us about your issue—we'll forward it to the company and work to get you a response, generally within 15 days.<br/></p>
+        <p>Having trouble with a financial product or service? If you've already tried reaching out to the company and still have an issue, you can submit a complaint. Tell us about your issue—we'll forward it to the company and work to get you a response, generally within 15 days.<br/></p>
             <ul class="m-list m-list__links u-mt15">
                 <li class="m-list_item">
                     <a class="m-list_link" href="/complaint/">Start a complaint</a>
                 </li>
             </ul>
-        </div>
+    </div>
 </div>
         </div>
         <div class="content-l_col content-l_col-1-2">
 <div class="m-info-unit">
         <a class="m-info-unit_heading-link" href="/consumer-tools/financial-well-being/">
 <div class="m-info-unit_heading-text">
-<h3>Get your financial well-being score
-</h3>
+<h3>Get your financial well-being score</h3>
 </div>
 </a><div class="m-info-unit_content">
-            <p>Our researchers developed 10 questions to help you measure where you are financially—without doing math or gathering any account information. Once you answer the questions, you’ll get information and resources to help you with day-to-day money management and long-term goals.</p>
+        <p>Our researchers developed 10 questions to help you measure where you are financially—without doing math or gathering any account information. Once you answer the questions, you’ll get information and resources to help you with day-to-day money management and long-term goals.</p>
             <ul class="m-list m-list__links u-mt15">
                 <li class="m-list_item">
                     <a class="m-list_link" href="/consumer-tools/financial-well-being/">Start the questionnaire</a>
                 </li>
             </ul>
-        </div>
+    </div>
 </div>
         </div>
     </div>
@@ -1424,14 +1405,12 @@
         <div class="content-l_col content-l_col-1">
 <div class="m-info-unit m-info-unit__inline">
         <a class="m-info-unit_heading-link" href="/consumer-tools/everyone-has-a-story/">
-<div class="m-info-unit_image m-info-unit_image__square" style="background-image: url( 'https://files.consumerfinance.gov/f/images/Square_Kathi.original.jpg' );">
-</div>
+<img alt="" class="m-info-unit_image m-info-unit_image__square" src="https://files.consumerfinance.gov/f/images/Square_Kathi.original.jpg"/>
 <div class="m-info-unit_heading-text">
-<h3>Tell your story
-</h3>
+<h3>Tell your story</h3>
 </div>
 </a><div class="m-info-unit_content">
-            <p>We want to hear about your experiences with money and financial services. Your stories help us understand what’s happening in people’s financial lives so that we can better serve you.</p>
+        <p>We want to hear about your experiences with money and financial services. Your stories help us understand what’s happening in people’s financial lives so that we can better serve you.</p>
             <ul class="m-list m-list__links u-mt15">
                 <li class="m-list_item">
                     <a class="m-list_link" href="/consumer-tools/everyone-has-a-story/">Explore stories</a>
@@ -1440,7 +1419,7 @@
                     <a class="m-list_link" href="/your-story/">Submit your story</a>
                 </li>
             </ul>
-        </div>
+    </div>
 </div>
         </div>
     </div>

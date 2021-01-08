@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.3996efa6d3cc.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -1693,14 +1693,14 @@
                             Regions Bank
                     </option>
                     <option 
-                        value="Transportation Federal Credit Union"
-                        >
-                            Transportation Federal Credit Union
-                    </option>
-                    <option 
                         value="Del Norte Credit Union"
                         >
                             Del Norte Credit Union
+                    </option>
+                    <option 
+                        value="Transportation Federal Credit Union"
+                        >
+                            Transportation Federal Credit Union
                     </option>
                     <option 
                         value="FIRST FINANCIAL BANK, NATIONAL ASSOCIATION"
@@ -2042,138 +2042,6 @@
     <div class="results_list">
 <article class="results_item">
     <h4 class="h3">
-      <a href="detail/49591">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Worldwide Staffing Resources. Inc</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(32).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(32).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/49591">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/50181">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Health Management Solutions; The Daniel Group; Yusa Corporation; Superior...</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(151).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(151).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50181">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/50858">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Perseverance Staffing LLC; Moore Advanced Inc</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_08_19_2015(23).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_08_19_2015(23).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50858">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/50987">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Girl Scouts of the Sierra Nevada-Contractor</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(350).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(350).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50987">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
       <a href="detail/50836">Global Cash Card Visa Payroll Card</a>
     </h4>
     <div class="content-l">
@@ -2207,7 +2075,7 @@
 </article>
 <article class="results_item">
     <h4 class="h3">
-      <a href="detail/50868">Global Cash Card Visa Payroll Card</a>
+      <a href="detail/50950">Global Cash Card Visa Payroll Card</a>
     </h4>
     <div class="content-l">
         <div class="content-l_col content-l_col-1-2">
@@ -2219,7 +2087,7 @@
                 <dt>Program manager</dt>
                 <dd>Global Cash Card, Inc.</dd>
                 <dt>Other relevant parties</dt>
-                <dd>Global Cash Card DDA- 417047</dd>
+                <dd>Rodgers Insurance Agency Inc - Contractor</dd>
                 <dt>Current status</dt>
                 <dd>Active</dd>
             </dl>
@@ -2227,310 +2095,13 @@
         <div class="content-l_col content-l_col-1-2">
             <h5 class="h4 u-mb5">Download most recent agreement files</h5>
             <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(279).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(279).zip
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(451).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(451).zip
                 </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
             </p>
             <div class="block block__sub">
                 <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50868">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/50915">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>LG Home Solutions LLC - Contractor; Refs on the Run LLC; In Depth Events...</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(307).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(307).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50915">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/50149">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Ruth&#39;s Chris Steak House</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(147).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(147).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50149">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/49562">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Shenandoah Growers Inc; Steven Scott Management Inc; Work USA Inc; Valley...</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(11).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(11).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/49562">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/50947">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Prime Team Services Inc</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(450).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(450).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50947">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/50995">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>TechEZ - Contractor</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(354).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(354).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50995">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/50833">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Payday Personnel LLC</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(267).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(267).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50833">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/49696">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Lunch Mony. Inc</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(418).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(418).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/49696">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/49619">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>DRM.Inc</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(52).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(52).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/49619">View all agreements for Global Cash Card Visa Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/50792">Global Cash Card Visa Payroll Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Global Cash Card, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Best Employment Solutions LLC; Sunshine Ace Hardware Inc; ARR Roofing dba...</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(246).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(246).zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50792">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            <p><a href="detail/50950">View all agreements for Global Cash Card Visa Payroll Card</a></p>
             </div>
         </div>
     </div>
@@ -2570,7 +2141,7 @@
 </article>
 <article class="results_item">
     <h4 class="h3">
-      <a href="detail/49552">Global Cash Card Visa Payroll Card</a>
+      <a href="detail/49604">Global Cash Card Visa Payroll Card</a>
     </h4>
     <div class="content-l">
         <div class="content-l_col content-l_col-1-2">
@@ -2582,7 +2153,7 @@
                 <dt>Program manager</dt>
                 <dd>Global Cash Card, Inc.</dd>
                 <dt>Other relevant parties</dt>
-                <dd>Centinela Skilled Nursing Wellness Centre West LLC; Upper Deck Staffing...</dd>
+                <dd>AC Moore</dd>
                 <dt>Current status</dt>
                 <dd>Active</dd>
             </dl>
@@ -2590,20 +2161,20 @@
         <div class="content-l_col content-l_col-1-2">
             <h5 class="h4 u-mb5">Download most recent agreement files</h5>
             <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(4).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(4).zip
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(42).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(42).zip
                 </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
             </p>
             <div class="block block__sub">
                 <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/49552">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            <p><a href="detail/49604">View all agreements for Global Cash Card Visa Payroll Card</a></p>
             </div>
         </div>
     </div>
 </article>
 <article class="results_item">
     <h4 class="h3">
-      <a href="detail/49539">Global Cash Card Visa Payroll Card</a>
+      <a href="detail/50833">Global Cash Card Visa Payroll Card</a>
     </h4>
     <div class="content-l">
         <div class="content-l_col content-l_col-1-2">
@@ -2615,7 +2186,7 @@
                 <dt>Program manager</dt>
                 <dd>Global Cash Card, Inc.</dd>
                 <dt>Other relevant parties</dt>
-                <dd>Granada Rehabilitation and Wellness Center LP</dd>
+                <dd>Payday Personnel LLC</dd>
                 <dt>Current status</dt>
                 <dd>Active</dd>
             </dl>
@@ -2623,20 +2194,20 @@
         <div class="content-l_col content-l_col-1-2">
             <h5 class="h4 u-mb5">Download most recent agreement files</h5>
             <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_08_19_2015(13).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_08_19_2015(13).zip
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(267).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(267).zip
                 </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
             </p>
             <div class="block block__sub">
                 <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/49539">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            <p><a href="detail/50833">View all agreements for Global Cash Card Visa Payroll Card</a></p>
             </div>
         </div>
     </div>
 </article>
 <article class="results_item">
     <h4 class="h3">
-      <a href="detail/49652">Global Cash Card Visa Payroll Card</a>
+      <a href="detail/50181">Global Cash Card Visa Payroll Card</a>
     </h4>
     <div class="content-l">
         <div class="content-l_col content-l_col-1-2">
@@ -2648,7 +2219,7 @@
                 <dt>Program manager</dt>
                 <dd>Global Cash Card, Inc.</dd>
                 <dt>Other relevant parties</dt>
-                <dd>McLaren Healthcare Corporation; McLaren Healthcare Corporation- International</dd>
+                <dd>Health Management Solutions; The Daniel Group; Yusa Corporation; Superior...</dd>
                 <dt>Current status</dt>
                 <dd>Active</dd>
             </dl>
@@ -2656,20 +2227,20 @@
         <div class="content-l_col content-l_col-1-2">
             <h5 class="h4 u-mb5">Download most recent agreement files</h5>
             <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(73).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(73).zip
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(151).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(151).zip
                 </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
             </p>
             <div class="block block__sub">
                 <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/49652">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            <p><a href="detail/50181">View all agreements for Global Cash Card Visa Payroll Card</a></p>
             </div>
         </div>
     </div>
 </article>
 <article class="results_item">
     <h4 class="h3">
-      <a href="detail/50148">Global Cash Card Visa Payroll Card</a>
+      <a href="detail/50831">Global Cash Card Visa Payroll Card</a>
     </h4>
     <div class="content-l">
         <div class="content-l_col content-l_col-1-2">
@@ -2681,7 +2252,7 @@
                 <dt>Program manager</dt>
                 <dd>Global Cash Card, Inc.</dd>
                 <dt>Other relevant parties</dt>
-                <dd>Ivan Smith Furniture</dd>
+                <dd>Unity EMS Inc</dd>
                 <dt>Current status</dt>
                 <dd>Active</dd>
             </dl>
@@ -2689,13 +2260,442 @@
         <div class="content-l_col content-l_col-1-2">
             <h5 class="h4 u-mb5">Download most recent agreement files</h5>
             <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(146).zip"><span class="a-link_text">
-                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(146).zip
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(265).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(265).zip
                 </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
             </p>
             <div class="block block__sub">
                 <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/50148">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            <p><a href="detail/50831">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/50987">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Girl Scouts of the Sierra Nevada-Contractor</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(350).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(350).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/50987">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/49064">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Universal Forest Products</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_07_13_2010(3).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_07_13_2010(3).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/49064">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/49082">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Attic Angel Community</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_08_19_2015(3).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_08_19_2015(3).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/49082">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/49591">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Worldwide Staffing Resources. Inc</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(32).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(32).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/49591">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/49559">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, In.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Sterling Park Health Care Center Inc</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(9).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(9).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/49559">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/50789">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Concerto Healthcare</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(244).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(244).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/50789">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/50909">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Anueyou Global Corp</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(302).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(302).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/50909">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/50791">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Employment Solutions Staffing Inc- Contractor</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(455).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(455).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/50791">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/50792">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Best Employment Solutions LLC; Sunshine Ace Hardware Inc; ARR Roofing dba...</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(246).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(246).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/50792">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/50816">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Oddello Industries LLC; Medical Solutions LLC; MNBSB LLC; Sanctuary...</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(258).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(258).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/50816">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/49642">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Mulebone - Stone Group Inc</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(379).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(379).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/49642">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/49645">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Source 4 Solutions LLC</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(68).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(68).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/49645">View all agreements for Global Cash Card Visa Payroll Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/50703">Global Cash Card Visa Payroll Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Payroll</dd>
+                <dt>Program manager</dt>
+                <dd>Global Cash Card, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>U.M. Cohen Inc - Contractor</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Global_Cash_Card_Visa_Payroll_Card_04_01_2019(426).zip"><span class="a-link_text">
+                    Global_Cash_Card_Visa_Payroll_Card_04_01_2019(426).zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/50703">View all agreements for Global Cash Card Visa Payroll Card</a></p>
             </div>
         </div>
     </div>
