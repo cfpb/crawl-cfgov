@@ -1550,7 +1550,6 @@
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
   <option value="chris-dangelo">Chris DAngelo</option>
-  <option value="mechel-glass">Mechel Glass</option>
   <option value="ren-essene">Ren Essene</option>
   <option value="david-friend">David Friend</option>
   <option value="julian-alcazar">Julian Alcazar</option>
@@ -1574,12 +1573,12 @@
   <option value="alejandra-lopez-fernandini">Alejandra Lopez-Fernandini</option>
   <option value="brian-lavin">Brian Lavin</option>
   <option value="matthew-burton">Matthew Burton</option>
-  <option value="aissa-canchola">Aissa Canchola</option>
   <option value="andy-cohen">Andy Cohen</option>
   <option value="brian-kreiswirth">Brian Kreiswirth</option>
   <option value="michele-scarbrough">Michele Scarbrough</option>
   <option value="john-mcnamara">John McNamara</option>
   <option value="kristen-evans">Kristen Evans</option>
+  <option value="aissa-canchola">Aissa Canchola</option>
   <option value="tim-lambert">Tim Lambert</option>
   <option value="will-sealy">Will Sealy</option>
   <option value="eva-nagypal">Éva Nagypál</option>
@@ -1588,6 +1587,7 @@
   <option value="melissa-knoll">Melissa Knoll</option>
   <option value="flavio-cumpiano">Flavio Cumpiano</option>
   <option value="logan-herman">Logan Herman</option>
+  <option value="mechel-glass">Mechel Glass</option>
   <option value="keo-chea">Keo Chea</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
@@ -1804,13 +1804,78 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1331 filtered results</div>
+          <div class="h4 m-notification_message">1332 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Data, research, and reports
+</span>
+                            <span class="m-meta-header_separator">|</span>
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2018-11-05T00:00:00">NOV 05, 2018</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/new-financial-education-resources-help-teachers-bring-youth-financial-capability-classroom/">
+                    New financial education resources to help teachers bring youth financial capability into the classroom
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The new “Teaching the Building Blocks&quot; provides teachers with activities and resources that help integrate the Building Blocks of Youth Financial Education into their curriculum.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=lyn-haralson">Lyn Haralson</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=youth" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Youth
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=financial-education" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Financial education
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Financial well-being
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3214,61 +3279,6 @@ to safeguard your credit record and avoid security clearance problems.</p>
                 <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Servicemembers
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        At the CFPB
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2018-08-02T00:00:00">AUG 02, 2018</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/save-date-building-bridge-credit-visibility-symposium/">
-                    Save the date for the 'Building a Bridge to Credit Visibility' symposium
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Mark your calendar to join the Bureau for a
-day-long symposium exploring challenges many consumers face in accessing
-credit.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=patrice-alexander-ficklin">Patrice Alexander Ficklin</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
                 </a>
             </li>
     </ul>

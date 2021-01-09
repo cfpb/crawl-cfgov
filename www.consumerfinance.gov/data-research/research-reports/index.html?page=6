@@ -2060,9 +2060,12 @@ fees.</p>
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/financial-report-cfpb-fiscal-year-2017/">
+                <a class="" href="/data-research/research-reports/financial-report-cfpb-fiscal-year-2017/">
                     Financial report of the CFPB for fiscal year 2017
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>The financial report provides readers with the summary results of the BCFP’s operational activity and it is the principal statement of our accountability to the American people, the United States Congress, and the President of the United States.</p>
