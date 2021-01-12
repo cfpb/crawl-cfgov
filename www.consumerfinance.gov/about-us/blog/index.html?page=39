@@ -1346,8 +1346,8 @@
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="academic-research-council">Academic Research Council</option>
-  <option value="auto-loans">Auto loans</option>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
+  <option value="auto-loans">Auto loans</option>
   <option value="access-to-credit">Access to credit</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="open-government">Open government</option>
@@ -1371,11 +1371,11 @@
   <option value="cfpb-ombudsman">CFPB Ombudsman</option>
   <option value="innovation">Innovation</option>
   <option value="money-transfers">Money transfers</option>
+  <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
   <option value="financial-coaching">Financial coaching</option>
   <option value="overdrafts">Overdrafts</option>
-  <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
-  <option value="foreclosure">Foreclosure</option>
   <option value="credit-union-advisory-council">Credit Union Advisory Council</option>
+  <option value="foreclosure">Foreclosure</option>
   <option value="credit-unions">Credit unions</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
@@ -1444,8 +1444,8 @@
   <option value="nora-dowd-eisenhower">Nora Dowd Eisenhower</option>
   <option value="skip-humphrey">Skip Humphrey</option>
   <option value="cfpb-mortgage-disclosure-team">CFPB Mortgage Disclosure Team</option>
-  <option value="dave-sieminski">Dave Sieminski</option>
   <option value="wendy-kamenshine">Wendy Kamenshine</option>
+  <option value="dave-sieminski">Dave Sieminski</option>
   <option value="kelly-cochran">Kelly Cochran</option>
   <option value="lois-greisman">Lois Greisman</option>
   <option value="patrick-campbell">Patrick Campbell</option>
@@ -1580,9 +1580,9 @@
   <option value="kristen-evans">Kristen Evans</option>
   <option value="aissa-canchola">Aissa Canchola</option>
   <option value="tim-lambert">Tim Lambert</option>
-  <option value="will-sealy">Will Sealy</option>
   <option value="eva-nagypal">Éva Nagypál</option>
   <option value="thomas-conkling">Thomas Conkling</option>
+  <option value="will-sealy">Will Sealy</option>
   <option value="matt-cameron">Matt Cameron</option>
   <option value="melissa-knoll">Melissa Knoll</option>
   <option value="flavio-cumpiano">Flavio Cumpiano</option>
@@ -1685,6 +1685,7 @@
   <option value="charles-romeo">Charles Romeo</option>
   <option value="catherine-razeto">Catherine Razeto</option>
   <option value="colleen-tressler">Colleen Tressler</option>
+  <option value="emmanuel-manon">Emmanuel Mañón</option>
   <option value="jason-brown">Jason Brown</option>
   <option value="albert-chang">Albert Chang</option>
   <option value="jennifer-lassiter">Jennifer Lassiter</option>
@@ -1804,13 +1805,56 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1332 filtered results</div>
+          <div class="h4 m-notification_message">1333 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        At the CFPB
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2013-09-30T00:00:00">SEP 30, 2013</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/live-banking-on-campus/">
+                    Banking on campus forum
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Today, we hosted a forum to discuss financial products and services marketed to college students. The recording will be available shortly. While the event is over, we’d still like to hear from you. Leave a comment on our <a class="a-link a-link__icon" href="/external-site/?ext_url=http%3A%2F%2Fwww.facebook.com%2Fcfpb&amp;signature=bFPYx5U5Cf6cSgzXbPvUk_v99Aw"><span class="a-link_text"><strong>Facebook page</strong> </span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a> or <a class="a-link a-link__icon" href="/external-site/?ext_url=http%3A%2F%2Fwww.twitter.com%2Fcfpb&amp;signature=ySSky9vmcjfFDkozcDHf9LRrv5k"><span class="a-link_text"><strong>tweet at us</strong> </span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a> with <strong>#bankingoncampus</strong>.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=students" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Students
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3069,59 +3113,6 @@
                 <a href="/about-us/blog/?topics=financial-education" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Financial education
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        At the CFPB
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2013-07-17T00:00:00">JUL 17, 2013</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/video-a-message-from-director-cordray/">
-                    Video: A message from Director Cordray
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>A message from Director Cordray</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=cfpb-web-team">CFPB Web Team</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=personnel" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Personnel
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=bureau-milestones" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Bureau milestones
                 </a>
             </li>
     </ul>
