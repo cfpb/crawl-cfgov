@@ -1352,8 +1352,8 @@
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="personnel">Personnel</option>
   <option value="access-to-credit">Access to credit</option>
-  <option value="cfpb-en-espanol">CFPB en español</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
+  <option value="cfpb-en-espanol">CFPB en español</option>
   <option value="auto-loans">Auto loans</option>
   <option value="youth">Youth</option>
   <option value="fair-lending">Fair lending</option>
@@ -1518,6 +1518,7 @@
   <option value="stuart-ishimaru">Stuart Ishimaru</option>
   <option value="lindsay-bacon">Lindsay Bacon</option>
   <option value="melissa-yu">Melissa Yu</option>
+  <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="cfpb-consumer-response-team">CFPB Consumer Response Team</option>
   <option value="chris-willey">Chris Willey</option>
   <option value="camille-busette">Camille Busette</option>
@@ -1575,7 +1576,6 @@
   <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="miesha-davis">Miesha Davis</option>
   <option value="max-bentovim">Max Bentovim</option>
-  <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="paul-mondor">Paul Mondor</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="lora-mccray">Lora McCray</option>
@@ -1837,7 +1837,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2970 filtered results</div>
+          <div class="h4 m-notification_message">2972 filtered results</div>
       </div>
   </div>
         </div>
@@ -1856,6 +1856,48 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/beware-of-scams-targeting-older-people-during-the-holidays/">
+                        <span class="h4 u-mb0">
+                            Beware of scams targeting older people during the holidays
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2015-12-08T00:00:00">DEC 08, 2015</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=testimony"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 984.4 1200" class="cf-icon-svg"><path d="M400.7 674.5c-10.9-19.7-25.1-37.4-42-52.3-16.7-14.7-35.8-26.4-56.4-34.8-.5-.2-1.1-.4-1.6-.5-55-21.7-117-17-168.1 12.7 8.5-15.2 18.7-29.5 30.2-42.7 24.3-27.7 55.1-51.2 91.5-69.8 27.5-14.1 58.1-24.6 91-31.2 27.2-4.7 45.5-30.6 40.8-57.8s-30.6-45.5-57.8-40.8c-.9.2-1.8.3-2.7.5-41.9 8.4-81.2 22-116.9 40.2-47.7 24.4-88.5 55.7-121.2 92.9-32.7 37.4-57.2 81.2-71.8 128.7-15 47.7-19.2 99-12.6 152.3l.2 1.5.3 1.5c.2.9.4 1.8.5 2.8.2 1.2.5 2.4.7 3.6.2 1 .4 1.9.6 2.9l.9 4.2c.1.6.3 1.2.4 1.8.4 1.7.8 3.5 1.2 5.2l.1.4c7.2 28.5 17.8 53.4 31.7 74.5 17.4 26.4 37.7 47.5 60.9 63.3 22.8 15.7 48.6 26.6 75.7 32 26.9 5.5 54.5 6.2 81.6 2 26.3-3.8 51.5-13.1 74-27.2 21.8-13.6 40.7-31.2 55.8-52 15-20.8 26-44.3 32.4-69.2 6.7-25.8 7.7-52.6 3.1-78.8-3.5-23.1-11.1-45.4-22.5-65.9zM981.6 740.5c-6.9-45.8-29.6-87.7-64.4-118.4-16.7-14.7-35.8-26.4-56.4-34.8-.5-.2-1.1-.4-1.6-.5-55.1-21.7-117-17-168.2 12.7 8.5-15.2 18.7-29.5 30.2-42.7 24.3-27.7 55.1-51.2 91.5-69.8 27.5-14.1 58.1-24.6 91-31.2 26.9-6.2 43.7-33 37.5-59.9-5.9-25.9-31.1-42.6-57.2-38.1-41.9 8.4-81.2 22-116.9 40.2-47.7 24.4-88.5 55.7-121.2 92.9-32.7 37.4-57.2 81.2-71.9 128.7-14.9 47.7-19.2 99-12.6 152.3l.2 1.5.3 1.5c.2.9.4 1.8.5 2.8.2 1.2.5 2.4.7 3.6.2 1 .4 1.9.6 2.9l.9 4.2c.1.6.3 1.2.4 1.8.4 1.7.8 3.5 1.2 5.2l.1.4c7.2 28.5 17.8 53.4 31.7 74.5 17.4 26.4 37.7 47.5 60.9 63.3 22.8 15.7 48.6 26.6 75.7 32 26.9 5.5 54.5 6.2 81.6 2 26.3-3.8 51.5-13.1 74-27.2 21.8-13.6 40.7-31.2 55.8-52 15-20.8 26-44.3 32.4-69.2 6.8-25.6 7.8-52.5 3.2-78.7z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Testimony
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/written-testimony-of-cfpb-director-richard-cordray-before-the-house-financial-services-committee/">
+                        <span class="h4 u-mb0">
+                            Written Testimony of CFPB Director Richard Cordray Before the House Financial Services Committee
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2015-12-08T00:00:00">DEC 08, 2015</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3912,48 +3954,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2015-09-02T00:00:00">SEP 02, 2015</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/servicemembers-protecting-your-credit-when-youre-away-from-home/">
-                        <span class="h4 u-mb0">
-                            Servicemembers: Protecting your credit when you’re away from home
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2015-09-01T00:00:00">SEP 01, 2015</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/new-students-should-look-closely-at-college-sponsored-bank-accounts-and-shop-around/">
-                        <span class="h4 u-mb0">
-                            New students should look closely at college-sponsored bank accounts and shop around
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2015-08-26T00:00:00">AUG 26, 2015</time>
 </span>
                 </td>
             </tr>
