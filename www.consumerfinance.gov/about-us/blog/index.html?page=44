@@ -1343,8 +1343,8 @@
   <option value="mortgage-closing">Mortgage closing</option>
   <option value="bureau-milestones">Bureau milestones</option>
   <option value="research">Research</option>
-  <option value="deceptive-practices">Deceptive practices</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
+  <option value="deceptive-practices">Deceptive practices</option>
   <option value="academic-research-council">Academic Research Council</option>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="auto-loans">Auto loans</option>
@@ -1380,10 +1380,10 @@
   <option value="project-catalyst">Project Catalyst</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="community-banks">Community banks</option>
+  <option value="compliance">Compliance</option>
   <option value="debit-cards">Debit cards</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="your-money-your-goals">Your Money Your Goals</option>
-  <option value="compliance">Compliance</option>
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="privacy">Privacy</option>
@@ -1442,159 +1442,159 @@
   <option value="dan-rutherford">Dan Rutherford</option>
   <option value="david-silberman">David Silberman</option>
   <option value="nora-dowd-eisenhower">Nora Dowd Eisenhower</option>
-  <option value="skip-humphrey">Skip Humphrey</option>
   <option value="cfpb-mortgage-disclosure-team">CFPB Mortgage Disclosure Team</option>
-  <option value="wendy-kamenshine">Wendy Kamenshine</option>
+  <option value="skip-humphrey">Skip Humphrey</option>
   <option value="dave-sieminski">Dave Sieminski</option>
+  <option value="wendy-kamenshine">Wendy Kamenshine</option>
   <option value="kelly-cochran">Kelly Cochran</option>
-  <option value="lois-greisman">Lois Greisman</option>
   <option value="patrick-campbell">Patrick Campbell</option>
-  <option value="michael-herndon">Michael Herndon</option>
+  <option value="lois-greisman">Lois Greisman</option>
   <option value="richard-cordray">Richard Cordray</option>
   <option value="ashley-gordon">Ashley Gordon</option>
   <option value="scott-pluta">Scott Pluta</option>
-  <option value="naomi-karp">Naomi Karp</option>
-  <option value="irene-skricki">Irene Skricki</option>
-  <option value="chris-johnson">Chris Johnson</option>
+  <option value="michael-herndon">Michael Herndon</option>
   <option value="erica-kritt">Erica Kritt</option>
+  <option value="chris-johnson">Chris Johnson</option>
+  <option value="irene-skricki">Irene Skricki</option>
+  <option value="naomi-karp">Naomi Karp</option>
   <option value="hector-ortiz">Hector Ortiz</option>
   <option value="kent-markus">Kent Markus</option>
   <option value="davida-farrar">Davida Farrar</option>
-  <option value="leslie-jones">Leslie Jones</option>
   <option value="grady-hedgespeth">Grady Hedgespeth</option>
+  <option value="leslie-jones">Leslie Jones</option>
   <option value="bryan-a-schneider">Bryan A. Schneider</option>
   <option value="dan-quan">Dan Quan</option>
   <option value="sangeetha-malaiyandi">Sangeetha Malaiyandi</option>
   <option value="dubis-correal">Dubis Correal</option>
-  <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
-  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
-  <option value="yuliya-rzad">Yuliya Rzad</option>
   <option value="elizabeth-warren">Elizabeth Warren</option>
   <option value="nicole-shea">Nicole Shea</option>
-  <option value="lora-mccray">Lora McCray</option>
+  <option value="yuliya-rzad">Yuliya Rzad</option>
   <option value="cfpb">CFPB</option>
+  <option value="lora-mccray">Lora McCray</option>
+  <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="sarah-bainton-kahn">Sarah Bainton Kahn</option>
   <option value="jenefer-duane">Jenefer Duane</option>
+  <option value="janneke-ratcliffe">Janneke Ratcliffe</option>
   <option value="will-wade-gery">Will Wade-Gery</option>
   <option value="megan-thibos">Megan Thibos</option>
   <option value="dan-sokolov">Dan Sokolov</option>
-  <option value="janneke-ratcliffe">Janneke Ratcliffe</option>
   <option value="desmond-brown">Desmond Brown</option>
-  <option value="mary-griffin">Mary Griffin</option>
   <option value="cliff-rosenthal">Cliff Rosenthal</option>
-  <option value="serena-villalba">Serena Villalba</option>
   <option value="steve-antonakes">Steve Antonakes</option>
   <option value="peggy-twohig">Peggy Twohig</option>
   <option value="james-hupp">James Hupp</option>
+  <option value="mary-griffin">Mary Griffin</option>
+  <option value="serena-villalba">Serena Villalba</option>
   <option value="gary-stein">Gary Stein</option>
   <option value="eric-goldberg">Eric Goldberg</option>
-  <option value="adebukola-dada">Adebukola Dada</option>
-  <option value="elizabeth-vale">Elizabeth Vale</option>
+  <option value="jonah-kaplan">Jonah Kaplan</option>
   <option value="corey-stone">Corey Stone</option>
   <option value="stuart-ishimaru">Stuart Ishimaru</option>
   <option value="lindsay-bacon">Lindsay Bacon</option>
-  <option value="melissa-yu">Melissa Yu</option>
-  <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="cfpb-consumer-response-team">CFPB Consumer Response Team</option>
   <option value="chris-willey">Chris Willey</option>
   <option value="patricia-mccoy">Patricia McCoy</option>
-  <option value="jonah-kaplan">Jonah Kaplan</option>
+  <option value="elizabeth-vale">Elizabeth Vale</option>
+  <option value="adebukola-dada">Adebukola Dada</option>
+  <option value="melissa-yu">Melissa Yu</option>
+  <option value="kathleen-l-kraninger">Kathleen L. Kraninger</option>
   <option value="jim-rice">Jim Rice</option>
+  <option value="lisa-schifferle">Lisa Schifferle</option>
   <option value="cora-hume">Cora Hume</option>
-  <option value="kris-andreassen">Kris Andreassen</option>
   <option value="diane-thompson">Diane Thompson</option>
   <option value="jessica-russell">Jessica Russell</option>
   <option value="maggie-anderson">Maggie Anderson</option>
-  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="paul-rothstein">Paul Rothstein</option>
   <option value="cfpb-students-team">CFPB Students Team</option>
-  <option value="damion-english">Damion English</option>
   <option value="sartaj-alag">Sartaj Alag</option>
+  <option value="kris-andreassen">Kris Andreassen</option>
   <option value="scott-fulford">Scott Fulford</option>
-  <option value="susan-m-bernard">Susan M. Bernard</option>
+  <option value="damion-english">Damion English</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
+  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
-  <option value="kathleen-l-kraninger">Kathleen L. Kraninger</option>
+  <option value="susan-m-bernard">Susan M. Bernard</option>
+  <option value="gene-koo">Gene Koo</option>
   <option value="patricia-mcclung">Patricia McClung</option>
   <option value="rich-williams">Rich Williams</option>
-  <option value="paul-kantwill">Paul Kantwill</option>
   <option value="christopher-carroll">Christopher Carroll</option>
   <option value="sergei-kulaev">Sergei Kulaev</option>
-  <option value="lyn-haralson">Lyn Haralson</option>
   <option value="angela-peoples">Angela Peoples</option>
   <option value="meredith-fuchs">Meredith Fuchs</option>
   <option value="david-gragan">David Gragan</option>
   <option value="noerena-limon">Noerena Limón</option>
-  <option value="janice-mitchell">Janice Mitchell</option>
+  <option value="paul-mondor">Paul Mondor</option>
   <option value="peter-jackson">Peter Jackson</option>
-  <option value="camille-busette">Camille Busette</option>
-  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="marla-blow">Marla Blow</option>
+  <option value="camille-busette">Camille Busette</option>
   <option value="victor-zapanta">Victor Zapanta</option>
-  <option value="maria-jaramillo">Maria Jaramillo</option>
-  <option value="gene-koo">Gene Koo</option>
   <option value="olivia-calderon">Olivia Calderon</option>
+  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="jeff-ehrlich">Jeff Ehrlich</option>
   <option value="j-frank-vespa-papaleo">J Frank Vespa-Papaleo</option>
   <option value="david-sieminski">David Sieminski</option>
+  <option value="paul-kantwill">Paul Kantwill</option>
+  <option value="janice-mitchell">Janice Mitchell</option>
+  <option value="maria-jaramillo">Maria Jaramillo</option>
   <option value="christa-gibbs">Christa Gibbs</option>
-  <option value="brian-stone">Brian Stone</option>
   <option value="lissan-anfune">Lissan Anfune</option>
   <option value="meina-banh">Meina Banh</option>
-  <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="miesha-davis">Miesha Davis</option>
+  <option value="lyn-haralson">Lyn Haralson</option>
   <option value="max-bentovim">Max Bentovim</option>
-  <option value="paul-mondor">Paul Mondor</option>
+  <option value="valentin-mihalache">Valentin Mihalache</option>
+  <option value="brian-stone">Brian Stone</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
   <option value="chris-dangelo">Chris DAngelo</option>
+  <option value="mechel-glass">Mechel Glass</option>
   <option value="ren-essene">Ren Essene</option>
   <option value="david-friend">David Friend</option>
   <option value="julian-alcazar">Julian Alcazar</option>
   <option value="william-shelton">William Shelton</option>
   <option value="michael-salemi">Michael Salemi</option>
-  <option value="jasper-clarkberg">Jasper Clarkberg</option>
+  <option value="wei-zhang">Wei Zhang</option>
+  <option value="will-sealy">Will Sealy</option>
   <option value="susan-stocks">Susan Stocks</option>
   <option value="david-cassidy">David Cassidy</option>
   <option value="deborah-morris">Deborah Morris</option>
   <option value="beverly-yang">Beverly Yang</option>
   <option value="peter-carroll">Peter Carroll</option>
-  <option value="sunaena-lehil">Sunaena Lehil</option>
-  <option value="paul-watkins">Paul Watkins</option>
   <option value="ana-mahony">Ana Mahony</option>
   <option value="michael-pierce">Michael Pierce</option>
   <option value="nick-rathod">Nick Rathod</option>
   <option value="dennis-slagter">Dennis Slagter</option>
-  <option value="wei-zhang">Wei Zhang</option>
+  <option value="matthew-burton">Matthew Burton</option>
   <option value="dan-munz">Dan Munz</option>
   <option value="elizabeth-reilly">Elizabeth Reilly</option>
   <option value="alejandra-lopez-fernandini">Alejandra Lopez-Fernandini</option>
-  <option value="brian-lavin">Brian Lavin</option>
-  <option value="matthew-burton">Matthew Burton</option>
-  <option value="andy-cohen">Andy Cohen</option>
+  <option value="sunaena-lehil">Sunaena Lehil</option>
+  <option value="aissa-canchola">Aissa Canchola</option>
+  <option value="melissa-knoll">Melissa Knoll</option>
   <option value="brian-kreiswirth">Brian Kreiswirth</option>
   <option value="michele-scarbrough">Michele Scarbrough</option>
   <option value="john-mcnamara">John McNamara</option>
-  <option value="kristen-evans">Kristen Evans</option>
-  <option value="aissa-canchola">Aissa Canchola</option>
   <option value="tim-lambert">Tim Lambert</option>
-  <option value="eva-nagypal">Éva Nagypál</option>
-  <option value="thomas-conkling">Thomas Conkling</option>
-  <option value="will-sealy">Will Sealy</option>
-  <option value="matt-cameron">Matt Cameron</option>
-  <option value="melissa-knoll">Melissa Knoll</option>
+  <option value="jasper-clarkberg">Jasper Clarkberg</option>
   <option value="flavio-cumpiano">Flavio Cumpiano</option>
+  <option value="thomas-conkling">Thomas Conkling</option>
+  <option value="brian-lavin">Brian Lavin</option>
+  <option value="kristen-evans">Kristen Evans</option>
+  <option value="matt-cameron">Matt Cameron</option>
+  <option value="andy-cohen">Andy Cohen</option>
+  <option value="paul-watkins">Paul Watkins</option>
+  <option value="eva-nagypal">Éva Nagypál</option>
   <option value="logan-herman">Logan Herman</option>
-  <option value="mechel-glass">Mechel Glass</option>
   <option value="keo-chea">Keo Chea</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
   <option value="ganessa-stout">Ganessa Stout</option>
   <option value="jonathan-engel">Jonathan Engel</option>
-  <option value="rick-hackett">Rick Hackett</option>
+  <option value="owning-a-home-team">Owning a Home Team</option>
   <option value="cfpb-mortgage-servicing-team">CFPB Mortgage Servicing Team</option>
   <option value="jeffery-haywood">Jeffery Haywood</option>
   <option value="andy-arculin">Andy Arculin</option>
@@ -1603,100 +1603,100 @@
   <option value="cara-petersen">Cara Petersen</option>
   <option value="ashwin-vasan">Ashwin Vasan</option>
   <option value="darren-gersh">Darren Gersh</option>
-  <option value="tom-pahl">Tom Pahl</option>
+  <option value="alex-plunkett">Alex Plunkett</option>
   <option value="deepa-kunapuli">Deepa Kunapuli</option>
   <option value="kristen-messina">Kristen Messina</option>
   <option value="cordelia-holmes">Cordelia Holmes</option>
-  <option value="lori-schock">Lori Schock</option>
   <option value="matt-garber">Matt Garber</option>
-  <option value="tim-engelhardt">Tim Engelhardt</option>
   <option value="rumana-ahmad">Rumana Ahmad</option>
   <option value="john-pitts">John Pitts</option>
   <option value="paul-sanford">Paul Sanford</option>
   <option value="aaron-marquez">Aaron Marquez</option>
   <option value="erie-meyer">Erie Meyer</option>
+  <option value="rebekah-emanuel">Rebekah Emanuel</option>
   <option value="cfpb-research-team">CFPB Research Team</option>
   <option value="noah-kunin">Noah Kunin</option>
   <option value="ori-lev">Ori Lev</option>
   <option value="richard-lepley">Richard Lepley</option>
   <option value="tim-massad">Tim Massad</option>
   <option value="kimberly-miller">Kimberly Miller</option>
-  <option value="mary-mcleod">Mary McLeod</option>
-  <option value="terry-j-randall">Terry J. Randall</option>
+  <option value="whitney-patross">Whitney Patross</option>
+  <option value="rick-hackett">Rick Hackett</option>
+  <option value="leonard-kennedy">Leonard Kennedy</option>
   <option value="raj-date">Raj Date</option>
   <option value="terri-carson">Terri Carson</option>
   <option value="wally-adeyemo">Wally Adeyemo</option>
   <option value="nani-coloretti">Nani Coloretti</option>
   <option value="kori-schulman">Kori Schulman</option>
-  <option value="owning-a-home-team">Owning a Home Team</option>
-  <option value="ryan-sandler">Ryan Sandler</option>
-  <option value="anita-chen">Anita Chen</option>
-  <option value="jason-dietrich">Jason Dietrich</option>
   <option value="audrey-chen">Audrey Chen</option>
-  <option value="karl-schneider">Karl Schneider</option>
   <option value="adam-scott">Adam Scott</option>
   <option value="andrea-edmonds">Andrea Edmonds</option>
-  <option value="james-marrone">James Marrone</option>
   <option value="ron-borzekowski">Ron Borzekowski</option>
   <option value="laura-johnson">Laura Johnson</option>
   <option value="james-miner">James Miner</option>
-  <option value="susan-carter">Susan Carter</option>
-  <option value="chris-stocks">Chris Stocks</option>
   <option value="dan-smith">Dan Smith</option>
   <option value="anna-marie-tabor">Anna-Marie Tabor</option>
   <option value="rebecca-gelfond">Rebecca Gelfond</option>
   <option value="stephanie-brenowitz">Stephanie Brenowitz</option>
   <option value="leslie-parrish">Leslie Parrish</option>
+  <option value="tim-engelhardt">Tim Engelhardt</option>
   <option value="susan-kerbel">Susan Kerbel</option>
   <option value="peter-schoenrock">Peter Schoenrock</option>
   <option value="pavneet-singh">Pavneet Singh</option>
   <option value="james-wylie">James Wylie</option>
+  <option value="terry-j-randall">Terry J. Randall</option>
+  <option value="mary-mcleod">Mary McLeod</option>
+  <option value="erik-durbin">Erik Durbin</option>
+  <option value="colleen-tressler">Colleen Tressler</option>
   <option value="gregory-evans">Gregory Evans</option>
   <option value="eric-wang">Eric Wang</option>
-  <option value="jennifer-leach">Jennifer Leach</option>
-  <option value="whitney-patross">Whitney Patross</option>
-  <option value="heather-m-brown">Heather M. Brown</option>
-  <option value="anthony-vail">Anthony Vail</option>
+  <option value="genevieve-melford">Genevieve Melford</option>
   <option value="heidi-johnson">Heidi Johnson</option>
+  <option value="anthony-vail">Anthony Vail</option>
   <option value="holly-zaharchuk">Holly Zaharchuk</option>
   <option value="alice-chang">Alice Chang</option>
+  <option value="vanessa-krueger">Vanessa Krueger</option>
   <option value="laura-udis">Laura Udis</option>
   <option value="michelle-kambara">Michelle Kambara</option>
   <option value="leonel-drukker">Leonel Drukker</option>
   <option value="scott-nelson">Scott Nelson</option>
-  <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
-  <option value="nicholas-tremper">Nicholas Tremper</option>
-  <option value="daniel-grodzicki">Daniel Grodzicki</option>
-  <option value="kristin-wong">Kristin Wong</option>
-  <option value="ken-brevoort">Ken Brevoort</option>
-  <option value="vanessa-krueger">Vanessa Krueger</option>
-  <option value="alex-plunkett">Alex Plunkett</option>
-  <option value="rebekah-emanuel">Rebekah Emanuel</option>
-  <option value="genevieve-melford">Genevieve Melford</option>
-  <option value="yaritza-velez">Yaritza Velez</option>
-  <option value="andrew-smith">Andrew Smith</option>
-  <option value="judith-ricks">Judith Ricks</option>
-  <option value="daniel-banko-ferran">Daniel Banko-Ferran</option>
-  <option value="erik-durbin">Erik Durbin</option>
   <option value="joshua-friedman">Joshua Friedman</option>
-  <option value="nhu-han-duong">Nhu-Han Duong</option>
-  <option value="leonard-kennedy">Leonard Kennedy</option>
+  <option value="nicholas-tremper">Nicholas Tremper</option>
+  <option value="ken-brevoort">Ken Brevoort</option>
+  <option value="andrew-smith">Andrew Smith</option>
+  <option value="lori-schock">Lori Schock</option>
+  <option value="yaritza-velez">Yaritza Velez</option>
+  <option value="daniel-banko-ferran">Daniel Banko-Ferran</option>
+  <option value="judith-ricks">Judith Ricks</option>
+  <option value="jennifer-leach">Jennifer Leach</option>
+  <option value="ryan-sandler">Ryan Sandler</option>
+  <option value="anita-chen">Anita Chen</option>
+  <option value="daniel-grodzicki">Daniel Grodzicki</option>
   <option value="jeremy-tobacman">Jeremy Tobacman</option>
   <option value="charles-romeo">Charles Romeo</option>
   <option value="catherine-razeto">Catherine Razeto</option>
-  <option value="colleen-tressler">Colleen Tressler</option>
-  <option value="emmanuel-manon">Emmanuel Mañón</option>
+  <option value="jason-dietrich">Jason Dietrich</option>
+  <option value="karl-schneider">Karl Schneider</option>
+  <option value="chris-stocks">Chris Stocks</option>
+  <option value="nhu-han-duong">Nhu-Han Duong</option>
+  <option value="andrew-cohen">Andrew Cohen</option>
+  <option value="kristin-wong">Kristin Wong</option>
+  <option value="heather-m-brown">Heather M. Brown</option>
+  <option value="todd-zywicki">Todd Zywicki</option>
+  <option value="tom-pahl">Tom Pahl</option>
+  <option value="james-marrone">James Marrone</option>
+  <option value="susan-carter">Susan Carter</option>
+  <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="jason-brown">Jason Brown</option>
   <option value="albert-chang">Albert Chang</option>
   <option value="jennifer-lassiter">Jennifer Lassiter</option>
-  <option value="andrew-cohen">Andrew Cohen</option>
-  <option value="todd-zywicki">Todd Zywicki</option>
-  <option value="marie-rush">Marie Rush</option>
   <option value="austin-mueller">Austin Mueller</option>
+  <option value="elena-babinecz">Elena Babinecz</option>
   <option value="brian-fu">Brian Fu</option>
   <option value="charmain-bogue">Charmain Bogue</option>
-  <option value="elena-babinecz">Elena Babinecz</option>
   <option value="office-of-enforcement">Office of Enforcement</option>
+  <option value="marie-rush">Marie Rush</option>
+  <option value="emmanuel-manon">Emmanuel Mañón</option>
 </select>
                             </div>
                         </div>
@@ -1805,13 +1805,66 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1335 filtered results</div>
+          <div class="h4 m-notification_message">1336 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2013-01-22T00:00:00">JAN 22, 2013</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/temporarily-delaying-the-implementation-of-our-international-remittance-transfer-rule/">
+                    Temporarily delaying the implementation of our international remittance transfer rule
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Updated on August 8, 2013: The remittance rule goes into effect October 28, 2013. Visit the remittance rule page for additional information regarding the rule including the most recent updates. In November, we announced that we would be proposing to make some limited amendments to our new international remittance transfer rule. We also announced that […]</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=david-silberman">David Silberman</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Rulemaking
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Money transfers
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2550,15 +2603,15 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Identity theft and fraud
-                </a>
-            </li>
-            <li class="tags_tag">
                 <a href="/about-us/blog/?topics=mortgages" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Mortgages
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Identity theft and fraud
                 </a>
             </li>
     </ul>
@@ -3050,53 +3103,6 @@
                 <a href="/about-us/blog/?topics=students" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Students
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-11-29T00:00:00">NOV 29, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/you-have-a-right-to-see-specialty-consumer-reports-too/">
-                    You have a right to see specialty consumer reports too
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>You have the right to know what nationwide specialty consumer reporting companies are saying about you. And you’re entitled to one free report each year, just like with the traditional nationwide consumer reporting companies – Experian, Equifax, and TransUnion. What’s more, nationwide specialty consumer reporting companies have to make it easy for you to get […]</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=dan-rutherford">Dan Rutherford</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
                 </a>
             </li>
     </ul>
