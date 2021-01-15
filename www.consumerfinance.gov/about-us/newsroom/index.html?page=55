@@ -1417,9 +1417,9 @@
   <option value="project-catalyst">Project Catalyst</option>
   <option value="mortgage-closing">Mortgage closing</option>
   <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
+  <option value="credit-unions">Credit unions</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="arbitration">Arbitration</option>
-  <option value="credit-unions">Credit unions</option>
   <option value="overdrafts">Overdrafts</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="electronic-payments">Electronic payments</option>
@@ -1461,6 +1461,7 @@
   <option value="financial-institutions">Financial Institutions</option>
   <option value="interstate-land-sales-act">Interstate Land Sales Act</option>
   <option value="people-with-disabilities">People with disabilities</option>
+  <option value="credit">Credit</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="fair-credit-billing-act">Fair Credit Billing Act</option>
   <option value="regulation-n">Regulation N</option>
@@ -1612,13 +1613,78 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1364 filtered results</div>
+          <div class="h4 m-notification_message">1365 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 984.4 1200" class="cf-icon-svg"><path d="M400.7 674.5c-10.9-19.7-25.1-37.4-42-52.3-16.7-14.7-35.8-26.4-56.4-34.8-.5-.2-1.1-.4-1.6-.5-55-21.7-117-17-168.1 12.7 8.5-15.2 18.7-29.5 30.2-42.7 24.3-27.7 55.1-51.2 91.5-69.8 27.5-14.1 58.1-24.6 91-31.2 27.2-4.7 45.5-30.6 40.8-57.8s-30.6-45.5-57.8-40.8c-.9.2-1.8.3-2.7.5-41.9 8.4-81.2 22-116.9 40.2-47.7 24.4-88.5 55.7-121.2 92.9-32.7 37.4-57.2 81.2-71.8 128.7-15 47.7-19.2 99-12.6 152.3l.2 1.5.3 1.5c.2.9.4 1.8.5 2.8.2 1.2.5 2.4.7 3.6.2 1 .4 1.9.6 2.9l.9 4.2c.1.6.3 1.2.4 1.8.4 1.7.8 3.5 1.2 5.2l.1.4c7.2 28.5 17.8 53.4 31.7 74.5 17.4 26.4 37.7 47.5 60.9 63.3 22.8 15.7 48.6 26.6 75.7 32 26.9 5.5 54.5 6.2 81.6 2 26.3-3.8 51.5-13.1 74-27.2 21.8-13.6 40.7-31.2 55.8-52 15-20.8 26-44.3 32.4-69.2 6.7-25.8 7.7-52.6 3.1-78.8-3.5-23.1-11.1-45.4-22.5-65.9zM981.6 740.5c-6.9-45.8-29.6-87.7-64.4-118.4-16.7-14.7-35.8-26.4-56.4-34.8-.5-.2-1.1-.4-1.6-.5-55.1-21.7-117-17-168.2 12.7 8.5-15.2 18.7-29.5 30.2-42.7 24.3-27.7 55.1-51.2 91.5-69.8 27.5-14.1 58.1-24.6 91-31.2 26.9-6.2 43.7-33 37.5-59.9-5.9-25.9-31.1-42.6-57.2-38.1-41.9 8.4-81.2 22-116.9 40.2-47.7 24.4-88.5 55.7-121.2 92.9-32.7 37.4-57.2 81.2-71.9 128.7-14.9 47.7-19.2 99-12.6 152.3l.2 1.5.3 1.5c.2.9.4 1.8.5 2.8.2 1.2.5 2.4.7 3.6.2 1 .4 1.9.6 2.9l.9 4.2c.1.6.3 1.2.4 1.8.4 1.7.8 3.5 1.2 5.2l.1.4c7.2 28.5 17.8 53.4 31.7 74.5 17.4 26.4 37.7 47.5 60.9 63.3 22.8 15.7 48.6 26.6 75.7 32 26.9 5.5 54.5 6.2 81.6 2 26.3-3.8 51.5-13.1 74-27.2 21.8-13.6 40.7-31.2 55.8-52 15-20.8 26-44.3 32.4-69.2 6.8-25.6 7.8-52.5 3.2-78.7z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Testimony
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2011-02-09T00:00:00">FEB 09, 2011</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/testimony-of-holly-petraeus-before-the-house-committee-on-veterans-affairs/">
+                    Testimony of Holly Petraeus before the House Committee on Veterans Affairs
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Dodd-Frank Act authorizes the OSA to work in partnership with the Pentagon to see that military personnel and their families receive strong financial education, to monitor their complaints about consumer financial products and services – and responses to those complaints – and to coordinate efforts by federal and state agencies to improve consumer financial protection measures for military families.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=holly-petraeus">Holly Petraeus</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit cards
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=financial-education" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Financial education
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=servicemembers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Servicemembers
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">

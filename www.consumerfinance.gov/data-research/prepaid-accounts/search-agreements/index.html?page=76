@@ -1393,14 +1393,14 @@
                             CenterState Bank
                     </option>
                     <option 
-                        value="Axos Bank"
-                        >
-                            Axos Bank
-                    </option>
-                    <option 
                         value="Republic Bank &amp; Trust Company"
                         >
                             Republic Bank &amp; Trust Company
+                    </option>
+                    <option 
+                        value="Axos Bank"
+                        >
+                            Axos Bank
                     </option>
                     <option 
                         value="Wells Fargo Bank, National Association"
