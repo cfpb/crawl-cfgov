@@ -1538,13 +1538,39 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">283 filtered results</div>
+          <div class="h4 m-notification_message">284 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2013-04-04T00:00:00">APR 04, 2013</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/radian-guaranty-inc/">
+                    Radian Guaranty, Inc.
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The CFPB filed complaints and proposed consent orders against four national mortgage insurance companies in order to stop improper kickbacks paid by mortgage insurers to mortgage lenders in exchange for business, which have been prevalent for more than 10 years. <br/></p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2169,32 +2195,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2014-11-19T00:00:00">NOV 19, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/drivetime/">
-                    DriveTime Automotive Group, Inc. and DT Acceptance Corp
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>CFPB took action against a “buy-here, pay-here” car dealer. DriveTime must pay $8,000,000 as a civil money penalty, end its unfair debt collection tactics, fix its credit reporting practices, and arrange for harmed consumers to obtain free credit reports.<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2305,6 +2305,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/consumer-financial-protection-bureau-sues-1st-alliance-lending-llc-and-its-principals-for-alleged-unlawful-mortgage-lending-practices/">
+                        Consumer Financial Protection Bureau Sues 1st Alliance Lending, LLC and Its Principals for Alleged Unlawful Mortgage Lending Practices
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2021-01-15T00:00:00">JAN 15, 2021</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/consumer-financial-protection-bureau-settles-with-omni-financial-of-nevada-inc-for-violations-of-the-military-lending-act-electronic-fund-transfer-act-and-consumer-financial-protection-act/">
                         Consumer Financial Protection Bureau Settles with Omni Financial of Nevada, Inc. for Violations of the Military Lending Act, Electronic Fund Transfer Act, and Consumer Financial Protection Act
                     </a>
@@ -2319,18 +2331,6 @@
                     <a class="m-list_link"
                        href="/about-us/newsroom/consumer-financial-protection-bureau-settles-with-student-loan-servicers-discover-bank-the-student-loan-corporation-and-discover-products-inc-for-violating-a-bureau-consent-order-and-other-unlawful-practices/">
                         Consumer Financial Protection Bureau Settles with Student Loan Servicers Discover Bank, The Student Loan Corporation, and Discover Products, Inc. for Violating a Bureau Consent Order and Other Unlawful Practices
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-12-22T00:00:00">DEC 22, 2020</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/consumer-financial-protection-bureau-settles-with-santander-consumer-usa-inc-for-credit-reporting-violations-in-connection-with-its-auto-loans/">
-                        Consumer Financial Protection Bureau Settles with Santander Consumer USA Inc. for Credit Reporting Violations in Connection with Its Auto Loans
                     </a>
                 </h3>
                 <p class="a-date">

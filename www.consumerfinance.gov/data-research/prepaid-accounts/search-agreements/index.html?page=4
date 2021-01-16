@@ -1393,14 +1393,14 @@
                             CenterState Bank
                     </option>
                     <option 
-                        value="Republic Bank &amp; Trust Company"
-                        >
-                            Republic Bank &amp; Trust Company
-                    </option>
-                    <option 
                         value="Axos Bank"
                         >
                             Axos Bank
+                    </option>
+                    <option 
+                        value="Republic Bank &amp; Trust Company"
+                        >
+                            Republic Bank &amp; Trust Company
                     </option>
                     <option 
                         value="Wells Fargo Bank, National Association"
@@ -2035,7 +2035,7 @@
     <div class="results_header">
             <div class="results_count">
                 <h3>Showing
-                    2581 total products
+                    2585 total products
                 </h3>
             </div>
     </div>
