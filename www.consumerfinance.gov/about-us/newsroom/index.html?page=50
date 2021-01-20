@@ -1395,8 +1395,8 @@
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
-  <option value="academic-research-council">Academic Research Council</option>
   <option value="financial-well-being">Financial well-being</option>
+  <option value="academic-research-council">Academic Research Council</option>
   <option value="innovation">Innovation</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="financial-service-providers">Financial service providers</option>
@@ -1414,10 +1414,10 @@
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="open-government">Open government</option>
   <option value="regulation-e">Regulation E</option>
+  <option value="credit-unions">Credit unions</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="mortgage-closing">Mortgage closing</option>
   <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
-  <option value="credit-unions">Credit unions</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="arbitration">Arbitration</option>
   <option value="overdrafts">Overdrafts</option>
@@ -1613,13 +1613,217 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1366 filtered results</div>
+          <div class="h4 m-notification_message">1370 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-05-23T00:00:00">MAY 23, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/consumer-financial-protection-bureau-considers-rules-on-prepaid-cards/">
+                    CFPB Considers Rules on Prepaid Cards
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Bureau’s Advance Notice of Proposed Rulemaking seeks input on how to ensure that consumers’ funds on prepaid cards are safe and that card terms and fees are transparent.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=prepaid-cards" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Prepaid cards
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit cards
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=rulemaking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Rulemaking
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.4 1200" class="cf-icon-svg"><path d="M181.8 721.7c18 17.9 39.3 32.2 62.7 42.2 24.4 10.4 50.6 15.7 77.1 15.6 27.3 0 52.9-5.2 76.7-15.6 23.2-10 44.4-24.3 62.3-42.2 36.6-37 57.1-87 57-139l.7-283.4c.2-26.5-5-52.7-15.2-77.1-19.6-47.4-56.9-85.3-104.1-105.6-23.8-10.4-49.4-15.6-76.7-15.6-26.5-.2-52.8 5.1-77.1 15.6-47.5 20.2-85.4 58.1-105.6 105.6a194.63 194.63 0 0 0-15.6 77.1v283.4c-.1 26.3 5.2 52.3 15.6 76.4 9.9 23.3 24.3 44.6 42.2 62.6z"/><path d="M612.4 469.9c-16.6 0-30 13.4-30 30v82.7c.2 70.3-27.5 137.8-76.9 187.7-49.5 50.2-114.9 77.9-184.3 77.9s-134.8-27.7-184.3-77.9c-49.4-50-77.1-117.5-76.9-187.7v-82.7c0-16.6-13.4-30-30-30s-30 13.4-30 30v82.7c-.1 86 33.8 168.6 94.2 229.8 29.2 29.7 63.8 53.5 102.1 70 30.2 13 62.2 21.3 95 24.3v129.4h-151c-16.6 0-30 13.4-30 30s13.4 30 30 30h362c16.6 0 30-13.4 30-30s-13.4-30-30-30h-151V906.8c32.7-3.1 64.8-11.3 95-24.3 38.2-16.5 72.9-40.3 102.1-70 60.4-61.3 94.2-143.8 94.1-229.9v-82.7c-.1-16.6-13.6-30-30.1-30z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Speech
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-05-11T00:00:00">MAY 11, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/prepared-remarks-by-richard-cordray-director-at-the-michigan-state-university-college-of-law-commencement/">
+                    Prepared Remarks by Director Richard Cordray at the Michigan State University College of Law Commencement
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>We are turning the corner out of the most damaging and frightening financial crisis of our lifetimes. As we move into a future reshaped by this crisis, we will be counting on the best and brightest minds of this generation to help drive that future in a direction consistent with the broad upward historical arc of this great country.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=richard-cordray">Richard Cordray</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=students" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Students
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.4 1200" class="cf-icon-svg"><path d="M181.8 721.7c18 17.9 39.3 32.2 62.7 42.2 24.4 10.4 50.6 15.7 77.1 15.6 27.3 0 52.9-5.2 76.7-15.6 23.2-10 44.4-24.3 62.3-42.2 36.6-37 57.1-87 57-139l.7-283.4c.2-26.5-5-52.7-15.2-77.1-19.6-47.4-56.9-85.3-104.1-105.6-23.8-10.4-49.4-15.6-76.7-15.6-26.5-.2-52.8 5.1-77.1 15.6-47.5 20.2-85.4 58.1-105.6 105.6a194.63 194.63 0 0 0-15.6 77.1v283.4c-.1 26.3 5.2 52.3 15.6 76.4 9.9 23.3 24.3 44.6 42.2 62.6z"/><path d="M612.4 469.9c-16.6 0-30 13.4-30 30v82.7c.2 70.3-27.5 137.8-76.9 187.7-49.5 50.2-114.9 77.9-184.3 77.9s-134.8-27.7-184.3-77.9c-49.4-50-77.1-117.5-76.9-187.7v-82.7c0-16.6-13.4-30-30-30s-30 13.4-30 30v82.7c-.1 86 33.8 168.6 94.2 229.8 29.2 29.7 63.8 53.5 102.1 70 30.2 13 62.2 21.3 95 24.3v129.4h-151c-16.6 0-30 13.4-30 30s13.4 30 30 30h362c16.6 0 30-13.4 30-30s-13.4-30-30-30h-151V906.8c32.7-3.1 64.8-11.3 95-24.3 38.2-16.5 72.9-40.3 102.1-70 60.4-61.3 94.2-143.8 94.1-229.9v-82.7c-.1-16.6-13.6-30-30.1-30z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Speech
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-05-10T00:00:00">MAY 10, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/director-cordray-remarks-at-the-white-house-financial-summit/">
+                    Director Cordray Remarks at the White House Financial Summit
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>At the Consumer Financial Protection Bureau, we are uniquely positioned to address these issues by helping to bridge the ever-widening gap between people’s actual financial capability and the increasingly complex financial decisions they have to make.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=richard-cordray">Richard Cordray</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit cards
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-05-09T00:00:00">MAY 09, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/consumer-financial-protection-bureau-considers-rules-to-simplify-mortgage-points-and-fees/">
+                    CFPB Considers Rules to Simplify Mortgage Points and Fees
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>These rules, which the CFPB expects to propose this summer and finalize by January 2013, would make it easier for consumers to understand mortgage costs and compare loans so they can choose the best deal.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=rulemaking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Rulemaking
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2705,214 +2909,6 @@
                 <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Enforcement
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-03-22T00:00:00">MAR 22, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/consumer-financial-protection-bureau-invites-consumers-to-ask-cfpb/">
-                    CFPB Invites Consumers to Ask CFPB
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>“Ask CFPB gives consumers answers in plain language so they can make sound financial decisions. But today’s launch is just the beginning – we will continue to grow and improve this dynamic tool with the invaluable public feedback we receive.”</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=consumer-complaints" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Consumer complaints
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=financial-education" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial education
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.4 1200" class="cf-icon-svg"><path d="M181.8 721.7c18 17.9 39.3 32.2 62.7 42.2 24.4 10.4 50.6 15.7 77.1 15.6 27.3 0 52.9-5.2 76.7-15.6 23.2-10 44.4-24.3 62.3-42.2 36.6-37 57.1-87 57-139l.7-283.4c.2-26.5-5-52.7-15.2-77.1-19.6-47.4-56.9-85.3-104.1-105.6-23.8-10.4-49.4-15.6-76.7-15.6-26.5-.2-52.8 5.1-77.1 15.6-47.5 20.2-85.4 58.1-105.6 105.6a194.63 194.63 0 0 0-15.6 77.1v283.4c-.1 26.3 5.2 52.3 15.6 76.4 9.9 23.3 24.3 44.6 42.2 62.6z"/><path d="M612.4 469.9c-16.6 0-30 13.4-30 30v82.7c.2 70.3-27.5 137.8-76.9 187.7-49.5 50.2-114.9 77.9-184.3 77.9s-134.8-27.7-184.3-77.9c-49.4-50-77.1-117.5-76.9-187.7v-82.7c0-16.6-13.4-30-30-30s-30 13.4-30 30v82.7c-.1 86 33.8 168.6 94.2 229.8 29.2 29.7 63.8 53.5 102.1 70 30.2 13 62.2 21.3 95 24.3v129.4h-151c-16.6 0-30 13.4-30 30s13.4 30 30 30h362c16.6 0 30-13.4 30-30s-13.4-30-30-30h-151V906.8c32.7-3.1 64.8-11.3 95-24.3 38.2-16.5 72.9-40.3 102.1-70 60.4-61.3 94.2-143.8 94.1-229.9v-82.7c-.1-16.6-13.6-30-30.1-30z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Speech
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-03-21T00:00:00">MAR 21, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/prepared-remarks-by-richard-cordray-before-the-consumer-bankers-association/">
-                    Prepared Remarks by Richard Cordray before the Consumer Bankers Association
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>I would like to talk to you today about how we are doing this by promoting transparency, lowering consumer risks, and ensuring a level playing field between banks and their non-bank competitors.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=richard-cordray">Richard Cordray</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.4 1200" class="cf-icon-svg"><path d="M181.8 721.7c18 17.9 39.3 32.2 62.7 42.2 24.4 10.4 50.6 15.7 77.1 15.6 27.3 0 52.9-5.2 76.7-15.6 23.2-10 44.4-24.3 62.3-42.2 36.6-37 57.1-87 57-139l.7-283.4c.2-26.5-5-52.7-15.2-77.1-19.6-47.4-56.9-85.3-104.1-105.6-23.8-10.4-49.4-15.6-76.7-15.6-26.5-.2-52.8 5.1-77.1 15.6-47.5 20.2-85.4 58.1-105.6 105.6a194.63 194.63 0 0 0-15.6 77.1v283.4c-.1 26.3 5.2 52.3 15.6 76.4 9.9 23.3 24.3 44.6 42.2 62.6z"/><path d="M612.4 469.9c-16.6 0-30 13.4-30 30v82.7c.2 70.3-27.5 137.8-76.9 187.7-49.5 50.2-114.9 77.9-184.3 77.9s-134.8-27.7-184.3-77.9c-49.4-50-77.1-117.5-76.9-187.7v-82.7c0-16.6-13.4-30-30-30s-30 13.4-30 30v82.7c-.1 86 33.8 168.6 94.2 229.8 29.2 29.7 63.8 53.5 102.1 70 30.2 13 62.2 21.3 95 24.3v129.4h-151c-16.6 0-30 13.4-30 30s13.4 30 30 30h362c16.6 0 30-13.4 30-30s-13.4-30-30-30h-151V906.8c32.7-3.1 64.8-11.3 95-24.3 38.2-16.5 72.9-40.3 102.1-70 60.4-61.3 94.2-143.8 94.1-229.9v-82.7c-.1-16.6-13.6-30-30.1-30z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Speech
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-03-19T00:00:00">MAR 19, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/prepared-remarks-by-richard-cordray-at-cunas-governmental-affairs-conference/">
-                    Prepared Remarks by Richard Cordray at CUNA’s Governmental Affairs Conference
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>At the Bureau, we have been working with one of the largest credit unions in the country, the Pentagon Federal Credit Union, to pilot a prototype credit card agreement.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=richard-cordray">Richard Cordray</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit cards
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.4 1200" class="cf-icon-svg"><path d="M181.8 721.7c18 17.9 39.3 32.2 62.7 42.2 24.4 10.4 50.6 15.7 77.1 15.6 27.3 0 52.9-5.2 76.7-15.6 23.2-10 44.4-24.3 62.3-42.2 36.6-37 57.1-87 57-139l.7-283.4c.2-26.5-5-52.7-15.2-77.1-19.6-47.4-56.9-85.3-104.1-105.6-23.8-10.4-49.4-15.6-76.7-15.6-26.5-.2-52.8 5.1-77.1 15.6-47.5 20.2-85.4 58.1-105.6 105.6a194.63 194.63 0 0 0-15.6 77.1v283.4c-.1 26.3 5.2 52.3 15.6 76.4 9.9 23.3 24.3 44.6 42.2 62.6z"/><path d="M612.4 469.9c-16.6 0-30 13.4-30 30v82.7c.2 70.3-27.5 137.8-76.9 187.7-49.5 50.2-114.9 77.9-184.3 77.9s-134.8-27.7-184.3-77.9c-49.4-50-77.1-117.5-76.9-187.7v-82.7c0-16.6-13.4-30-30-30s-30 13.4-30 30v82.7c-.1 86 33.8 168.6 94.2 229.8 29.2 29.7 63.8 53.5 102.1 70 30.2 13 62.2 21.3 95 24.3v129.4h-151c-16.6 0-30 13.4-30 30s13.4 30 30 30h362c16.6 0 30-13.4 30-30s-13.4-30-30-30h-151V906.8c32.7-3.1 64.8-11.3 95-24.3 38.2-16.5 72.9-40.3 102.1-70 60.4-61.3 94.2-143.8 94.1-229.9v-82.7c-.1-16.6-13.6-30-30.1-30z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Speech
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-03-16T00:00:00">MAR 16, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/prepared-remarks-by-richard-cordray-at-the-society-of-american-business-editors-and-writers/">
-                    Prepared Remarks by Richard Cordray at the Society of American Business Editors and Writers
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>I deeply believe that reporters play an important role in ensuring our government operates fairly, efficiently, and honestly. This role includes a new task of keeping the Consumer Financial Protection Bureau accountable to the highest standards.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=richard-cordray">Richard Cordray</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=students" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Students
                 </a>
             </li>
     </ul>

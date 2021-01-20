@@ -1395,8 +1395,8 @@
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
-  <option value="academic-research-council">Academic Research Council</option>
   <option value="financial-well-being">Financial well-being</option>
+  <option value="academic-research-council">Academic Research Council</option>
   <option value="innovation">Innovation</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="financial-service-providers">Financial service providers</option>
@@ -1414,10 +1414,10 @@
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="open-government">Open government</option>
   <option value="regulation-e">Regulation E</option>
+  <option value="credit-unions">Credit unions</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="mortgage-closing">Mortgage closing</option>
   <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
-  <option value="credit-unions">Credit unions</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="arbitration">Arbitration</option>
   <option value="overdrafts">Overdrafts</option>
@@ -1613,13 +1613,225 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1366 filtered results</div>
+          <div class="h4 m-notification_message">1370 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 984.4 1200" class="cf-icon-svg"><path d="M400.7 674.5c-10.9-19.7-25.1-37.4-42-52.3-16.7-14.7-35.8-26.4-56.4-34.8-.5-.2-1.1-.4-1.6-.5-55-21.7-117-17-168.1 12.7 8.5-15.2 18.7-29.5 30.2-42.7 24.3-27.7 55.1-51.2 91.5-69.8 27.5-14.1 58.1-24.6 91-31.2 27.2-4.7 45.5-30.6 40.8-57.8s-30.6-45.5-57.8-40.8c-.9.2-1.8.3-2.7.5-41.9 8.4-81.2 22-116.9 40.2-47.7 24.4-88.5 55.7-121.2 92.9-32.7 37.4-57.2 81.2-71.8 128.7-15 47.7-19.2 99-12.6 152.3l.2 1.5.3 1.5c.2.9.4 1.8.5 2.8.2 1.2.5 2.4.7 3.6.2 1 .4 1.9.6 2.9l.9 4.2c.1.6.3 1.2.4 1.8.4 1.7.8 3.5 1.2 5.2l.1.4c7.2 28.5 17.8 53.4 31.7 74.5 17.4 26.4 37.7 47.5 60.9 63.3 22.8 15.7 48.6 26.6 75.7 32 26.9 5.5 54.5 6.2 81.6 2 26.3-3.8 51.5-13.1 74-27.2 21.8-13.6 40.7-31.2 55.8-52 15-20.8 26-44.3 32.4-69.2 6.7-25.8 7.7-52.6 3.1-78.8-3.5-23.1-11.1-45.4-22.5-65.9zM981.6 740.5c-6.9-45.8-29.6-87.7-64.4-118.4-16.7-14.7-35.8-26.4-56.4-34.8-.5-.2-1.1-.4-1.6-.5-55.1-21.7-117-17-168.2 12.7 8.5-15.2 18.7-29.5 30.2-42.7 24.3-27.7 55.1-51.2 91.5-69.8 27.5-14.1 58.1-24.6 91-31.2 26.9-6.2 43.7-33 37.5-59.9-5.9-25.9-31.1-42.6-57.2-38.1-41.9 8.4-81.2 22-116.9 40.2-47.7 24.4-88.5 55.7-121.2 92.9-32.7 37.4-57.2 81.2-71.9 128.7-14.9 47.7-19.2 99-12.6 152.3l.2 1.5.3 1.5c.2.9.4 1.8.5 2.8.2 1.2.5 2.4.7 3.6.2 1 .4 1.9.6 2.9l.9 4.2c.1.6.3 1.2.4 1.8.4 1.7.8 3.5 1.2 5.2l.1.4c7.2 28.5 17.8 53.4 31.7 74.5 17.4 26.4 37.7 47.5 60.9 63.3 22.8 15.7 48.6 26.6 75.7 32 26.9 5.5 54.5 6.2 81.6 2 26.3-3.8 51.5-13.1 74-27.2 21.8-13.6 40.7-31.2 55.8-52 15-20.8 26-44.3 32.4-69.2 6.8-25.6 7.8-52.5 3.2-78.7z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Testimony
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-12-18T00:00:00">DEC 18, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/written-testimony-of-corey-stone-before-the-senate-financial-institutions-and-consumer-protection-subcommittee/">
+                    Written Testimony of Corey Stone before the Senate Financial Institutions and Consumer Protection Subcommittee
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The industry is critical in our economy. It promotes access to credit that consumers can afford to repay. Without credit reporting, many consumers likely would not be able to get credit.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=corey-stone">Corey Stone</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=credit-reports-and-scores" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit reports and scores
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-12-17T00:00:00">DEC 17, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/consumer-financial-protection-bureau-releases-exam-procedures-for-student-loans/">
+                    CFPB Releases Exam Procedures for Student Loans
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Student Lending Examination Procedures are an extension of the CFPB’s General Supervision and Examination Manual and will be used as a field guide by CFPB examiners to ensure that private student lenders comply with federal consumer financial laws.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=student-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Student loans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=students" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Students
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=compliance" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Compliance
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-12-13T00:00:00">DEC 13, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/consumer-financial-protection-bureau-proposes-allowing-companies-to-run-trial-disclosure-programs/">
+                    CFPB Proposes Allowing Companies to Run Trial Disclosure Programs
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Dodd-Frank Wall Street Reform and Consumer Protection Act, which created the CFPB, authorized the CFPB to facilitate innovation and to approve trial disclosure programs.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=project-catalyst" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Project Catalyst
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=innovation" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Innovation
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-12-13T00:00:00">DEC 13, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/newsroom/consumer-financial-protection-bureau-report-details-how-the-nations-largest-credit-bureaus-manage-consumer-data-2/">
+                    CFPB Report Details How the Nation’s Largest Credit Bureaus Manage Consumer Data
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Among the key takeaways in the report, which is one of the most comprehensive studies of credit reporting to date, are that credit card history dominates the information in consumer reports and that debt collection items generate the highest rate of disputes.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=debt-collection" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Debt collection
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=credit-reports-and-scores" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit reports and scores
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit cards
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=academic-research-council" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Academic Research Council
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2777,218 +2989,6 @@
                 <a href="/about-us/newsroom/?topics=debt-collection" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Debt collection
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-10-22T00:00:00">OCT 22, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/consumer-financial-protection-bureau-now-taking-complaints-on-credit-reporting/">
-                    CFPB Now Taking Complaints on Credit Reporting
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Consumer reporting agencies, which include what are popularly called credit bureaus or credit reporting companies, are private businesses that track a consumer’s credit history and other consumer transactions.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=consumer-complaints" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Consumer complaints
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-10-18T00:00:00">OCT 18, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/consumer-financial-protection-bureau-report-finds-servicemembers-face-hurdles-in-accessing-student-loan-benefits/">
-                    CFPB Report Finds Servicemembers Face Hurdles in Accessing Student Loan Benefits
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>The hurdles they describe range from not being able to get the information they need, to being met with roadblocks when they do try to pursue their benefits.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=student-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Student loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=students" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Students
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=servicemembers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Servicemembers
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-10-17T00:00:00">OCT 17, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/cfpb-proposes-making-it-easier-for-stay-at-home-spouses-and-partners-to-get-credit-cards/">
-                    CFPB Proposes Making it Easier for Stay-at-Home Spouses and Partners to Get Credit Cards
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Today’s proposal would allow a stay-at-home spouse or partner to rely on shared income from his or her spouse or partner when applying for a credit card account.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit cards
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.4 1200" class="cf-icon-svg"><path d="M181.8 721.7c18 17.9 39.3 32.2 62.7 42.2 24.4 10.4 50.6 15.7 77.1 15.6 27.3 0 52.9-5.2 76.7-15.6 23.2-10 44.4-24.3 62.3-42.2 36.6-37 57.1-87 57-139l.7-283.4c.2-26.5-5-52.7-15.2-77.1-19.6-47.4-56.9-85.3-104.1-105.6-23.8-10.4-49.4-15.6-76.7-15.6-26.5-.2-52.8 5.1-77.1 15.6-47.5 20.2-85.4 58.1-105.6 105.6a194.63 194.63 0 0 0-15.6 77.1v283.4c-.1 26.3 5.2 52.3 15.6 76.4 9.9 23.3 24.3 44.6 42.2 62.6z"/><path d="M612.4 469.9c-16.6 0-30 13.4-30 30v82.7c.2 70.3-27.5 137.8-76.9 187.7-49.5 50.2-114.9 77.9-184.3 77.9s-134.8-27.7-184.3-77.9c-49.4-50-77.1-117.5-76.9-187.7v-82.7c0-16.6-13.4-30-30-30s-30 13.4-30 30v82.7c-.1 86 33.8 168.6 94.2 229.8 29.2 29.7 63.8 53.5 102.1 70 30.2 13 62.2 21.3 95 24.3v129.4h-151c-16.6 0-30 13.4-30 30s13.4 30 30 30h362c16.6 0 30-13.4 30-30s-13.4-30-30-30h-151V906.8c32.7-3.1 64.8-11.3 95-24.3 38.2-16.5 72.9-40.3 102.1-70 60.4-61.3 94.2-143.8 94.1-229.9v-82.7c-.1-16.6-13.6-30-30.1-30z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Speech
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-10-16T00:00:00">OCT 16, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/newsroom/prepared-remarks-by-richard-cordray-in-a-live-session-on-requirements-for-remittance-transfer-providers/">
-                    Prepared Remarks by Richard Cordray in a Live Session on Requirements for Remittance Transfer Providers
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>This guide seeks to present the rule and its requirements in an easy-to-read document to assist banks and non-banks alike.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=richard-cordray">Richard Cordray</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
                 </a>
             </li>
     </ul>
