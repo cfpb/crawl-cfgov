@@ -1444,11 +1444,11 @@
   <option value="parents">Parents</option>
   <option value="community-banks">Community banks</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
-  <option value="sbrefa">SBREFA</option>
   <option value="behavioral-economics">Behavioral economics</option>
   <option value="redlining">Redlining</option>
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="foia">FOIA</option>
+  <option value="sbrefa">SBREFA</option>
   <option value="private-education-loan-ombudsman">Private Education Loan Ombudsman</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="libraries">Libraries</option>
@@ -1897,13 +1897,17 @@
 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>The Consumer Financial
-Protection Bureau (Bureau) today issued a Request for Information (RFI) on
-consumer financial education. </p>
+                    <p>The Consumer Financial Protection Bureau (Bureau) today issued a Request for Information (RFI) on consumer financial education. </p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/newsroom/?topics=call-for-evidence" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Call for evidence
+                </a>
+            </li>
             <li class="tags_tag">
                 <a href="/about-us/newsroom/?topics=financial-education" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
@@ -1914,12 +1918,6 @@ consumer financial education. </p>
                 <a href="/about-us/newsroom/?topics=financial-well-being" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Financial well-being
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/newsroom/?topics=call-for-evidence" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Call for evidence
                 </a>
             </li>
     </ul>
@@ -2321,9 +2319,7 @@ consumer financial education. </p>
 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>The Consumer Financial
-Protection Bureau (Bureau) today issued a Request for Information (RFI) about
-the Bureau’s public reporting of consumer complaints. </p>
+                    <p>The Consumer Financial Protection Bureau (Bureau) today issued a Request for Information (RFI) about the Bureau’s public reporting of consumer complaints. </p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
@@ -2539,9 +2535,7 @@ Plan that establishes its mission, strategic goals, and strategic objectives. <
 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>The Consumer Financial
-Protection Bureau (CFPB) today issued a Request for Information (RFI) about the
-Bureau’s enforcement processes. </p>
+                    <p>The Consumer Financial Protection Bureau (CFPB) today issued a Request for Information (RFI) about the Bureau’s enforcement processes. </p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>

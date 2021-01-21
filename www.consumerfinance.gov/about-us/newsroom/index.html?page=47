@@ -1444,11 +1444,11 @@
   <option value="parents">Parents</option>
   <option value="community-banks">Community banks</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
-  <option value="sbrefa">SBREFA</option>
   <option value="behavioral-economics">Behavioral economics</option>
   <option value="redlining">Redlining</option>
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="foia">FOIA</option>
+  <option value="sbrefa">SBREFA</option>
   <option value="private-education-loan-ombudsman">Private Education Loan Ombudsman</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="libraries">Libraries</option>

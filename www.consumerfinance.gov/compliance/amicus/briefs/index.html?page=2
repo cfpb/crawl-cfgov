@@ -1697,15 +1697,15 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Debt Collection Practices Act
-                </a>
-            </li>
-            <li class="tags_tag">
                 <a href="/compliance/amicus/briefs/?topics=financial-service-providers" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Financial service providers
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Fair Debt Collection Practices Act
                 </a>
             </li>
             <li class="tags_tag">
