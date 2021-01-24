@@ -1689,9 +1689,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/consumer-financial-protection-bureau-settles-broker-high-interest-credit-offers/">
+                <a class="" href="/about-us/newsroom/consumer-financial-protection-bureau-settles-broker-high-interest-credit-offers/">
                     Consumer Financial Protection Bureau Settles with Broker of High-interest Credit Offers
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Individual Violated Consumer Financial Protection Act in Brokering Credit Offers to Veterans</p>
