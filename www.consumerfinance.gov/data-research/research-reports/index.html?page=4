@@ -2539,9 +2539,12 @@ mortgage.</p>
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/office-servicemember-affairs-annual-report/">
+                <a class="" href="/data-research/research-reports/office-servicemember-affairs-annual-report/">
                     Office of Servicemember Affairs – Annual Report
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>This report provides data and analysis around the most common complaints submitted by servicemembers to the Bureau. This report also highlights emerging issues and continuing trends facing servicemembers in the financial marketplace.</p>
