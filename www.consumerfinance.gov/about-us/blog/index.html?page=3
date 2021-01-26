@@ -1832,9 +1832,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/closing-remarks-consumer-financial-protection-week/">
+                <a class="" href="/about-us/blog/closing-remarks-consumer-financial-protection-week/">
                     Closing remarks: Consumer Financial Protection Week
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Many Americans continue to face economic challenges during these uncertain times. As Consumer Financial Protection Week comes to a close, the CFPB continues to be here for you with resources to explain your rights, options and protections during the coronavirus pandemic.</p>
@@ -1847,12 +1850,6 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Consumer complaints
-                </a>
-            </li>
-            <li class="tags_tag">
                 <a href="/about-us/blog/?topics=student-loans" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Student loans
@@ -1862,6 +1859,12 @@
                 <a href="/about-us/blog/?topics=research" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Research
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Consumer complaints
                 </a>
             </li>
             <li class="tags_tag">
@@ -2600,9 +2603,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/turning-complaint-into-action-cfpb-works-you/">
+                <a class="" href="/about-us/blog/turning-complaint-into-action-cfpb-works-you/">
                     Turning complaint into action: The CFPB works for you
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>Despite the changes in operations brought by the pandemic and stay-at-home orders, we are on the job fielding on average 30,000 complaints a month.</p>
