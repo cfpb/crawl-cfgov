@@ -1352,15 +1352,15 @@
                                 <select name="topics" id="o-filterable-list-controls_topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
   <option value="open-government">Open government</option>
   <option value="data">Data</option>
-  <option value="consumer-complaints">Consumer complaints</option>
   <option value="research">Research</option>
+  <option value="consumer-complaints">Consumer complaints</option>
   <option value="financial-education">Financial education</option>
   <option value="debt-collection">Debt collection</option>
   <option value="student-loans">Student loans</option>
   <option value="financial-well-being">Financial well-being</option>
   <option value="mortgages">Mortgages</option>
-  <option value="supervision">Supervision</option>
   <option value="credit-cards">Credit cards</option>
+  <option value="supervision">Supervision</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="discrimination">Discrimination</option>
   <option value="older-americans">Older Americans</option>
@@ -1386,8 +1386,8 @@
   <option value="everyone-has-a-story">Everyone has a story</option>
   <option value="money-transfers">Money transfers</option>
   <option value="mortgage-closing">Mortgage closing</option>
-  <option value="parents">Parents</option>
   <option value="saving">Saving</option>
+  <option value="parents">Parents</option>
   <option value="prepaid-cards">Prepaid cards</option>
   <option value="innovation">Innovation</option>
   <option value="financial-service-providers">Financial service providers</option>
@@ -1541,13 +1541,70 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">393 filtered results</div>
+          <div class="h4 m-notification_message">394 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Data point
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-06-24T00:00:00">JUN 24, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/data-point-2019-mortgage-market-activity-and-trends/">
+                    Data point: 2019 mortgage market activity and trends
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>2019 HMDA Mortgage Market Activity and Trends summarizes the historical data points in the 2019 HMDA data, as well as recent trends in mortgage and housing markets.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgage origination
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Research
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Data
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Home Mortgage Disclosure Act
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2869,86 +2926,6 @@
                 <a href="/data-research/research-reports/?topics=data" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Data
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        Supervisory Highlights
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-12-09T00:00:00">DEC 09, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/supervisory-highlights-fall-2019/">
-                    Supervisory Highlights Consumer Reporting Special Edition, Issue No. 20 (Fall 2019)
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p><span>In this special issue of <i>Supervisory
-Highlights</i>, we report examination findings </span><span>in the areas of consumer reporting and furnishing
-of information to consumer reporting companies, pursuant to the Fair Credit
-Reporting Act and Regulation V. The report does not impose any new or different
-legal requirements, and all violations described in the report are based only
-on those specific facts and circumstances noted during those examinations.</span><span> </span><br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=supervision" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=financial-service-providers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial service providers
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=fair-credit-reporting-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Credit Reporting Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=identity-theft-fraud" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Identity theft and fraud
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
                 </a>
             </li>
     </ul>

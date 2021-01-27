@@ -1338,11 +1338,11 @@
   <option value="data">Data</option>
   <option value="parents">Parents</option>
   <option value="banking">Banking</option>
-  <option value="fair-lending">Fair lending</option>
   <option value="saving">Saving</option>
+  <option value="fair-lending">Fair lending</option>
   <option value="mortgage-closing">Mortgage closing</option>
-  <option value="bureau-milestones">Bureau milestones</option>
   <option value="research">Research</option>
+  <option value="bureau-milestones">Bureau milestones</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="academic-research-council">Academic Research Council</option>
@@ -1589,6 +1589,7 @@
   <option value="eva-nagypal">Éva Nagypál</option>
   <option value="logan-herman">Logan Herman</option>
   <option value="keo-chea">Keo Chea</option>
+  <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
@@ -1686,7 +1687,6 @@
   <option value="tom-pahl">Tom Pahl</option>
   <option value="james-marrone">James Marrone</option>
   <option value="susan-carter">Susan Carter</option>
-  <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="jason-brown">Jason Brown</option>
   <option value="albert-chang">Albert Chang</option>
   <option value="jennifer-lassiter">Jennifer Lassiter</option>
@@ -1697,6 +1697,7 @@
   <option value="office-of-enforcement">Office of Enforcement</option>
   <option value="marie-rush">Marie Rush</option>
   <option value="emmanuel-manon">Emmanuel Mañón</option>
+  <option value="brianna-middlewood">Brianna Middlewood</option>
 </select>
                             </div>
                         </div>
@@ -1805,13 +1806,74 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1336 filtered results</div>
+          <div class="h4 m-notification_message">1337 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        At the CFPB
+</span>
+                            <span class="m-meta-header_separator">|</span>
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2011-07-22T00:00:00">JUL 22, 2011</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/a-consumer-centered-supervision-program/">
+                    A consumer-centered supervision program
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Yesterday, we began operation of what will be the largest function within the CFPB: Supervision. As part of this effort, Special Advisor to the Secretary of the Treasury Elizabeth Warren and Assistant Director for Bank Supervision Steve Antonakes signed and sent introductory letters to the CEOs of over 170 financial institutions that are subject to […]</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=steve-antonakes">Steve Antonakes</a>
+                    and 
+                    <a href="?authors=peggy-twohig">Peggy Twohig</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=supervision" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Supervision
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=banking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Banking
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3082,53 +3144,6 @@
                 <a href="/about-us/blog/?topics=financial-education" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Financial education
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        At the CFPB
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2011-04-14T00:00:00">APR 14, 2011</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/fulfilling-a-commitment/">
-                    Fulfilling a Commitment
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>In our first week on the job, Professor Elizabeth Warren set a goal for the new consumer bureau: to reach out to small, independent bankers from all 50 states before July 21st. We are excited to announce that she has reached her goal early after speaking to bank heads from Arizona, New Jersey, New Hampshire, […]</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=elizabeth-vale">Elizabeth Vale</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=community-banks" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Community banks
                 </a>
             </li>
     </ul>

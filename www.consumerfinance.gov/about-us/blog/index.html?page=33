@@ -1338,11 +1338,11 @@
   <option value="data">Data</option>
   <option value="parents">Parents</option>
   <option value="banking">Banking</option>
-  <option value="fair-lending">Fair lending</option>
   <option value="saving">Saving</option>
+  <option value="fair-lending">Fair lending</option>
   <option value="mortgage-closing">Mortgage closing</option>
-  <option value="bureau-milestones">Bureau milestones</option>
   <option value="research">Research</option>
+  <option value="bureau-milestones">Bureau milestones</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="academic-research-council">Academic Research Council</option>
@@ -1589,6 +1589,7 @@
   <option value="eva-nagypal">Éva Nagypál</option>
   <option value="logan-herman">Logan Herman</option>
   <option value="keo-chea">Keo Chea</option>
+  <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
@@ -1686,7 +1687,6 @@
   <option value="tom-pahl">Tom Pahl</option>
   <option value="james-marrone">James Marrone</option>
   <option value="susan-carter">Susan Carter</option>
-  <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="jason-brown">Jason Brown</option>
   <option value="albert-chang">Albert Chang</option>
   <option value="jennifer-lassiter">Jennifer Lassiter</option>
@@ -1697,6 +1697,7 @@
   <option value="office-of-enforcement">Office of Enforcement</option>
   <option value="marie-rush">Marie Rush</option>
   <option value="emmanuel-manon">Emmanuel Mañón</option>
+  <option value="brianna-middlewood">Brianna Middlewood</option>
 </select>
                             </div>
                         </div>
@@ -1805,13 +1806,78 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1336 filtered results</div>
+          <div class="h4 m-notification_message">1337 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2014-11-20T00:00:00">NOV 20, 2014</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/proposed-changes-to-our-mortgage-servicing-rules-new-protections-for-surviving-family-members-and-other-homeowners/">
+                    Proposed changes to our Mortgage Servicing Rules: New protections for surviving family members and other homeowners
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Since the Mortgage Servicing Rules went into effect, we’ve spent a lot of time talking to consumer advocacy groups, housing counselors, mortgage servicers, and trade associations, to better understand how the rules are working and whether we should make any changes to them. As a result, we’re now proposing some changes to the Mortgage Servicing Rules. The changes are intended to smooth the path for companies to better protect consumers and comply with the CFPB’s rules.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=cfpb-mortgage-servicing-team">CFPB Mortgage Servicing Team</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=foreclosure" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Foreclosure
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgage servicing
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Rulemaking
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3176,77 +3242,6 @@
                 <a href="/about-us/blog/?topics=student-loans" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Student loans
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Data, research, and reports
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2014-09-22T00:00:00">SEP 22, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/updated-mortgage-data-available/">
-                    Updated mortgage data available
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Last year, we released a web-based tool that provides the public with easier access to mortgage data for 2007 through 2012. Today, we’re updating the database with 2013 data.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=jessica-russell">Jessica Russell</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage closing
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=academic-research-council" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Academic Research Council
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=home-mortgage-disclosure-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Home Mortgage Disclosure Act
                 </a>
             </li>
     </ul>

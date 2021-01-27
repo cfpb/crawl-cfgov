@@ -1338,11 +1338,11 @@
   <option value="data">Data</option>
   <option value="parents">Parents</option>
   <option value="banking">Banking</option>
-  <option value="fair-lending">Fair lending</option>
   <option value="saving">Saving</option>
+  <option value="fair-lending">Fair lending</option>
   <option value="mortgage-closing">Mortgage closing</option>
-  <option value="bureau-milestones">Bureau milestones</option>
   <option value="research">Research</option>
+  <option value="bureau-milestones">Bureau milestones</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="academic-research-council">Academic Research Council</option>
@@ -1589,6 +1589,7 @@
   <option value="eva-nagypal">Éva Nagypál</option>
   <option value="logan-herman">Logan Herman</option>
   <option value="keo-chea">Keo Chea</option>
+  <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
@@ -1686,7 +1687,6 @@
   <option value="tom-pahl">Tom Pahl</option>
   <option value="james-marrone">James Marrone</option>
   <option value="susan-carter">Susan Carter</option>
-  <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="jason-brown">Jason Brown</option>
   <option value="albert-chang">Albert Chang</option>
   <option value="jennifer-lassiter">Jennifer Lassiter</option>
@@ -1697,6 +1697,7 @@
   <option value="office-of-enforcement">Office of Enforcement</option>
   <option value="marie-rush">Marie Rush</option>
   <option value="emmanuel-manon">Emmanuel Mañón</option>
+  <option value="brianna-middlewood">Brianna Middlewood</option>
 </select>
                             </div>
                         </div>
@@ -1805,13 +1806,60 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1336 filtered results</div>
+          <div class="h4 m-notification_message">1337 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-09-26T00:00:00">SEP 26, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/you-have-right-pay-your-student-loan-fast-you-can-without-penalty/">
+                    You have the right to pay off your student loan as fast as you can, without a penalty
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>All student loan borrowers have the right to pay off their student loans as fast as they can, but some borrowers who try to make extra payments may run into servicing roadblocks. Learn more about how to protect yourself and avoid getting knocked off track.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=seth-frotman">Seth Frotman</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=student-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Student loans
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3296,65 +3344,6 @@ figuring out how to pay for college.</p>
                 <a href="/about-us/blog/?topics=parents" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Parents
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        At the CFPB
-</span>
-                            <span class="m-meta-header_separator">|</span>
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-07-20T00:00:00">JUL 20, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/consumers-count-responding-resources/">
-                    Consumers Count: Responding with resources
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Learn about the five financial products and services we’ve received the most complaints about in the last 5 years. Check out the resources we’ve created to help you understand credit cards, debt collection, mortgages, credit reports, banking accounts, and more.<br/></p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=chris-johnson">Chris Johnson</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Consumer complaints
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=bureau-milestones" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Bureau milestones
                 </a>
             </li>
     </ul>

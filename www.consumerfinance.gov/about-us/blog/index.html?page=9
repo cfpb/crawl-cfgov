@@ -1338,11 +1338,11 @@
   <option value="data">Data</option>
   <option value="parents">Parents</option>
   <option value="banking">Banking</option>
-  <option value="fair-lending">Fair lending</option>
   <option value="saving">Saving</option>
+  <option value="fair-lending">Fair lending</option>
   <option value="mortgage-closing">Mortgage closing</option>
-  <option value="bureau-milestones">Bureau milestones</option>
   <option value="research">Research</option>
+  <option value="bureau-milestones">Bureau milestones</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="academic-research-council">Academic Research Council</option>
@@ -1589,6 +1589,7 @@
   <option value="eva-nagypal">Éva Nagypál</option>
   <option value="logan-herman">Logan Herman</option>
   <option value="keo-chea">Keo Chea</option>
+  <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
@@ -1686,7 +1687,6 @@
   <option value="tom-pahl">Tom Pahl</option>
   <option value="james-marrone">James Marrone</option>
   <option value="susan-carter">Susan Carter</option>
-  <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="jason-brown">Jason Brown</option>
   <option value="albert-chang">Albert Chang</option>
   <option value="jennifer-lassiter">Jennifer Lassiter</option>
@@ -1697,6 +1697,7 @@
   <option value="office-of-enforcement">Office of Enforcement</option>
   <option value="marie-rush">Marie Rush</option>
   <option value="emmanuel-manon">Emmanuel Mañón</option>
+  <option value="brianna-middlewood">Brianna Middlewood</option>
 </select>
                             </div>
                         </div>
@@ -1805,13 +1806,55 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1336 filtered results</div>
+          <div class="h4 m-notification_message">1337 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-04-01T00:00:00">APR 01, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/supervisory-work-continues-commitment-protecting-consumers-zh-traditional/">
+                    持續執行監督工作，以履行保護消費者的承諾
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>我們致力於透過監督工作保護消費者，同時努力確保我們的遠端檢驗人員及受監督機構雇員的健康和安全。</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=bryan-a-schneider">Bryan A. Schneider</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-traditional-chinese" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Traditional Chinese
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -3052,79 +3095,6 @@
                 <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Financial well-being
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-02-24T00:00:00">FEB 24, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-            <div class="o-post-preview_image-container">
-                <img class="o-post-preview_image"
-                     src="https://files.consumerfinance.gov/f/images/debt_collection_generic.original.png"
-                     alt="">
-            </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/como-diferenciar-a-un-cobrador-de-deudas-legitimo-de-los-estafadores/">
-                    Cómo diferenciar a un cobrador de deudas legítimo de los estafadores
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Cuando los cobradores le contactan, usted podría no saber si se trata de uno legítimo o de alguien tratando de estafarle.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=kristin-dohn">Kristin Dohn</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=deceptive-practices" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Deceptive practices
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Identity theft and fraud
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=fair-debt-collection-practices-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Debt Collection Practices Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-en-espanol" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB en español
                 </a>
             </li>
     </ul>
