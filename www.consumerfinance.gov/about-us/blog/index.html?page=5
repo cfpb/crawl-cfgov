@@ -1381,9 +1381,9 @@
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="community-banks">Community banks</option>
   <option value="compliance">Compliance</option>
+  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="debit-cards">Debit cards</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
-  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="privacy">Privacy</option>
@@ -1496,6 +1496,7 @@
   <option value="chris-willey">Chris Willey</option>
   <option value="patricia-mccoy">Patricia McCoy</option>
   <option value="elizabeth-vale">Elizabeth Vale</option>
+  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="adebukola-dada">Adebukola Dada</option>
   <option value="melissa-yu">Melissa Yu</option>
   <option value="kathleen-l-kraninger">Kathleen L. Kraninger</option>
@@ -1513,7 +1514,6 @@
   <option value="damion-english">Damion English</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
-  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
@@ -1806,13 +1806,89 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1337 filtered results</div>
+          <div class="h4 m-notification_message">1339 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-05-19T00:00:00">MAY 19, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/credit-card-debt-during-coronavirus-relief-options-tips-tl/">
+                    Utang sa credit card sa panahon ng coronavirus: Pangkaluwagang pamimilian (relief options) at tips
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Kung hindi mo mabayaran ang bill ng credit card dahil sa pandemya ng coronavirus, tawagan ang iyong credit card company at magtanong tungkol sa tulong pinansyal. Mayroon kaming mga tip sa kung ano ang maaaring mga itanong at kung ano ang maaaring maging mga pagpipilian.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-tagalog" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Tagalog
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-05-19T00:00:00">MAY 19, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/credit-card-debt-during-coronavirus-relief-options-tips-vi/">
+                    Nợ thẻ tín dụng trong thời gian bùng nổ đại dịch vi-rút corona: Phương án khắc phục và lời khuyên
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Nếu bạn không thể thanh toán hóa đơn thẻ tín dụng do đại dịch vi-rút corona, hãy gọi điện thoại đến công ty phát hành thẻ tín dụng của bạn và yêu cầu được hỗ trợ tài chính. Chúng tôi sẽ cho bạn lời khuyên về những điều mà bạn đang thắc mắc và có thể đưa ra những phương án dành cho bạn.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-vietnamese" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Vietnamese
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2905,78 +2981,6 @@
                 <a href="/about-us/blog/?topics=cfpb-in-tagalog" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     CFPB in Tagalog
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-05-06T00:00:00">MAY 06, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/download-fraud-prevention-activity-sheets-older-adults-vi/">
-                    Tải xuống phiếu tóm tắt thông tin chống lừa đảo mới cho người cao tuổi
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Trong tháng tôn vinh Người Cao Tuổi ở Hoa Kỳ, chúng tôi sẽ phát hành các bản thông báo và phiếu tóm tắt thông tin mới có thể tải về tương tự như bộ tấm lót bàn ăn chia sẻ cách thức chống lừa đảo đang phổ biến.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=erin-scheithe">Erin Scheithe</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-vietnamese" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Vietnamese
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-05-06T00:00:00">MAY 06, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/download-fraud-prevention-activity-sheets-older-adults-zh-traditional/">
-                    下載新版老年人詐騙預防活動單
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>我們為美國老年人月推出了新版可下載傳單及活動單，內容取自廣受歡迎的詐騙預防桌墊系列。</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=erin-scheithe">Erin Scheithe</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-traditional-chinese" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Traditional Chinese
                 </a>
             </li>
     </ul>

@@ -1409,10 +1409,10 @@
   <option value="redlining">Redlining</option>
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="housing-counselor">Housing counselor</option>
+  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="sbrefa">SBREFA</option>
   <option value="add-on-products">Add-on products</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
-  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="financial-wellness-in-workplace">Financial wellness in the workplace</option>
   <option value="foia">FOIA</option>
   <option value="native-communities">Native communities</option>
@@ -1495,6 +1495,7 @@
   <option value="dubis-correal">Dubis Correal</option>
   <option value="peggy-twohig">Peggy Twohig</option>
   <option value="yuliya-rzad">Yuliya Rzad</option>
+  <option value="hector-ortiz">Hector Ortiz</option>
   <option value="nicole-shea">Nicole Shea</option>
   <option value="sarah-bainton-kahn">Sarah Bainton Kahn</option>
   <option value="jenefer-duane">Jenefer Duane</option>
@@ -1509,11 +1510,11 @@
   <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="james-hupp">James Hupp</option>
-  <option value="hector-ortiz">Hector Ortiz</option>
   <option value="gary-stein">Gary Stein</option>
   <option value="davida-farrar">Davida Farrar</option>
   <option value="eric-goldberg">Eric Goldberg</option>
   <option value="adebukola-dada">Adebukola Dada</option>
+  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="elizabeth-vale">Elizabeth Vale</option>
   <option value="lois-greisman">Lois Greisman</option>
   <option value="stuart-ishimaru">Stuart Ishimaru</option>
@@ -1534,7 +1535,6 @@
   <option value="diane-thompson">Diane Thompson</option>
   <option value="jessica-russell">Jessica Russell</option>
   <option value="maggie-anderson">Maggie Anderson</option>
-  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="meredith-fuchs">Meredith Fuchs</option>
   <option value="paul-rothstein">Paul Rothstein</option>
   <option value="cfpb-students-team">CFPB Students Team</option>
@@ -1839,7 +1839,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2983 filtered results</div>
+          <div class="h4 m-notification_message">2985 filtered results</div>
       </div>
   </div>
         </div>
@@ -1858,6 +1858,48 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/agencies-issue-statement-reaffirming-role-supervisory-guidance/">
+                        <span class="h4 u-mb0">
+                            Agencies Issue Statement Reaffirming the Role of Supervisory Guidance
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2018-09-11T00:00:00">SEP 11, 2018</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/bureau-consumer-financial-protection-announces-new-advisory-committee-members/">
+                        <span class="h4 u-mb0">
+                            Bureau of Consumer Financial Protection Announces New Advisory Committee Members
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2018-09-07T00:00:00">SEP 07, 2018</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3909,48 +3951,6 @@
                     <a href="/about-us/blog/put-your-tax-refund-work-during-america-saves-week/">
                         <span class="h4 u-mb0">
                             Put your tax refund to work during America Saves Week
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2018-01-17T00:00:00">JAN 17, 2018</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=report"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Report
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/data-research/research-reports/fy-2017-fair-act-inventory-data/">
-                        <span class="h4 u-mb0">
-                            FY 2017 FAIR Act inventory data
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2018-01-17T00:00:00">JAN 17, 2018</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/acting-director-mulvaney-announces-call-evidence-regarding-consumer-financial-protection-bureau-functions/">
-                        <span class="h4 u-mb0">
-                            Acting Director Mulvaney Announces Call for Evidence Regarding Consumer Financial Protection Bureau Functions
                         </span>
                     </a>
                 </td>

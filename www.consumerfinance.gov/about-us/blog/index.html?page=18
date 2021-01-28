@@ -1381,9 +1381,9 @@
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="community-banks">Community banks</option>
   <option value="compliance">Compliance</option>
+  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="debit-cards">Debit cards</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
-  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="privacy">Privacy</option>
@@ -1496,6 +1496,7 @@
   <option value="chris-willey">Chris Willey</option>
   <option value="patricia-mccoy">Patricia McCoy</option>
   <option value="elizabeth-vale">Elizabeth Vale</option>
+  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="adebukola-dada">Adebukola Dada</option>
   <option value="melissa-yu">Melissa Yu</option>
   <option value="kathleen-l-kraninger">Kathleen L. Kraninger</option>
@@ -1513,7 +1514,6 @@
   <option value="damion-english">Damion English</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
-  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
@@ -1806,13 +1806,115 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1337 filtered results</div>
+          <div class="h4 m-notification_message">1339 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-12-12T00:00:00">DEC 12, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/what-does-coast-guard-know-about-gi-bill-other-services-do-not/">
+                    What does the Coast Guard know about the GI Bill that the other services do not?
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Seventy percent of new recruits pay $1,200 for GI Bill
+benefits they likely will not be using. Investing that money in DOD’s new
+Blended Retirement System (BRS) is probably a better investment.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=patrick-campbell">Patrick Campbell</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=student-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Student loans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Servicemembers
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-12-06T00:00:00">DEC 06, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/cfpb-ombudsmans-office-2017-annual-report/">
+                    CFPB Ombudsman’s Office 2017 annual report
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The CFPB Ombudsman’s Office shares its FY2017 annual report.<br/></p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=wendy-kamenshine">Wendy Kamenshine</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-ombudsman" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB Ombudsman
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3109,129 +3211,6 @@ talks can take many different forms. Find one that works for your family. </p>
                 <a href="/about-us/blog/?topics=financial-education" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Financial education
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2017-09-29T00:00:00">SEP 29, 2017</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/7-factors-determine-your-mortgage-interest-rate/">
-                    Seven factors that determine your mortgage interest rate
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>How is your interest rate determined? That can be
-difficult to figure out for even the savviest of mortgage shoppers. Your lender
-knows how your interest rate gets determined, and we think you should, too.
-Learn more about the factors that affect your interest rate.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=nicole-shea">Nicole Shea</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=homebuying" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Homebuying
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2017-09-27T00:00:00">SEP 27, 2017</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/las-10-mejores-maneras-de-protegerse-tras-la-filtracion-de-informacion-en-equifax/">
-                    Las 10 mejores maneras de proteger su información personal contra el uso indebido
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Nuestros
-consejos y actualizaciones más recientes sobre la filtración de información en
-Equifax que está afectando a millones de personas. <br/></p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=kristin-dohn">Kristin Dohn</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-en-espanol" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB en español
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Identity theft and fraud
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=arbitration" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Arbitration
                 </a>
             </li>
     </ul>

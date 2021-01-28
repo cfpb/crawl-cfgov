@@ -1381,9 +1381,9 @@
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="community-banks">Community banks</option>
   <option value="compliance">Compliance</option>
+  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="debit-cards">Debit cards</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
-  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="privacy">Privacy</option>
@@ -1496,6 +1496,7 @@
   <option value="chris-willey">Chris Willey</option>
   <option value="patricia-mccoy">Patricia McCoy</option>
   <option value="elizabeth-vale">Elizabeth Vale</option>
+  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="adebukola-dada">Adebukola Dada</option>
   <option value="melissa-yu">Melissa Yu</option>
   <option value="kathleen-l-kraninger">Kathleen L. Kraninger</option>
@@ -1513,7 +1514,6 @@
   <option value="damion-english">Damion English</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
-  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
@@ -1806,13 +1806,185 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1337 filtered results</div>
+          <div class="h4 m-notification_message">1339 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        At the CFPB
+</span>
+                            <span class="m-meta-header_separator">|</span>
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-07-18T00:00:00">JUL 18, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/pushing-forward-on-the-cfpbs-financial-aid-comparison-tool/">
+                    Pushing forward on the CFPB’s financial aid comparison tool
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>This past year, we’ve been working with the Department of Education on a project to help colleges provide clear and comparable financial aid information. Over the course of that project, we learned that more standard information could spur the innovation of apps and digital tools to allow students to better understand their decision to take […]</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=cfpb-web-team">CFPB Web Team</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=mobile-financial-services" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mobile financial services
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=virtual-currency" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Virtual currency
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=parents" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Parents
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=saving" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Saving
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=student-loans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Student loans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=students" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Students
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=data" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Data
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-07-18T00:00:00">JUL 18, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/stop-mystery-credit-card-fees/">
+                    How to stop mystery credit card fees
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>When you’re activating a new credit card, watch for “the pitch.” When you call to activate a new credit card, you may be routed to representatives who try to sell you things like “credit protection” or “identity monitoring” to add to your account. These services, or “add-on products,” are additional, optional services that will cost […]</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=gail-hillebrand">Gail Hillebrand</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=add-on-products" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Add-on products
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=deceptive-practices" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Deceptive practices
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=privacy" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Privacy
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit cards
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=banking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Banking
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=financial-education" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Financial education
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Identity theft and fraud
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3214,99 +3386,6 @@ Tweet about credit reporting or the event using <a class="a-link a-link__icon" h
                 <a href="/about-us/blog/?topics=financial-education" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Financial education
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-05-25T00:00:00">MAY 25, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/honoring-service-with-service/">
-                    Honoring service with service
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Each May as we celebrate Memorial Day, our nation takes a moment to remember all of the brave men and women who died in service to our country. Memorial Day was first initiated as a day of remembrance for fallen soldiers during the Civil War but today it serves as a day to honor all servicemembers who lost their lives while serving in America’s conflicts. We will always be mindful of their great sacrifice as we continue to serve the American consumer and those who wear, or have worn, the uniform for our country.  </p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=dennis-slagter">Dennis Slagter</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Servicemembers
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        At the CFPB
-</span>
-                            <span class="m-meta-header_separator">|</span>
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Policy and compliance
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-05-24T00:00:00">MAY 24, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/protecting-the-publics-trust/">
-                    Protecting the public’s trust
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>We would be hard pressed to ensure that markets for consumer financial products and services are fair, transparent and competitive without the trust of citizens and financial institutions in our work.  To build and protect that trust, we are working to establish a strong ethics and compliance program.</p>
-<p><a href="/blog/protecting-the-publics-trust/">Learn more.</a></p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=richard-lepley">Richard Lepley</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=open-government" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Open government
                 </a>
             </li>
     </ul>

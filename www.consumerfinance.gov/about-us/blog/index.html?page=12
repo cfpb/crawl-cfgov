@@ -1381,9 +1381,9 @@
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="community-banks">Community banks</option>
   <option value="compliance">Compliance</option>
+  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="debit-cards">Debit cards</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
-  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="privacy">Privacy</option>
@@ -1496,6 +1496,7 @@
   <option value="chris-willey">Chris Willey</option>
   <option value="patricia-mccoy">Patricia McCoy</option>
   <option value="elizabeth-vale">Elizabeth Vale</option>
+  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="adebukola-dada">Adebukola Dada</option>
   <option value="melissa-yu">Melissa Yu</option>
   <option value="kathleen-l-kraninger">Kathleen L. Kraninger</option>
@@ -1513,7 +1514,6 @@
   <option value="damion-english">Damion English</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
-  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
@@ -1806,13 +1806,127 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1337 filtered results</div>
+          <div class="h4 m-notification_message">1339 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2019-08-14T00:00:00">AUG 14, 2019</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/los-pasos-que-debe-tomar-para-cerrar-el-trato-de-su-vivienda-con-confianza/">
+                    Los pasos que debe tomar para cerrar el trato de su vivienda con confianza
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p><span>Cerrar el trato de una vivienda puede ser intimidante, saber que esperar en el proceso, le ayudará a hacerlo más fácil. Le ofrecemos los pasos más importantes para que cierre el trato y obtenga su hipoteca.</span></p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=melissa-yu">Melissa Yu</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgage origination
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-en-espanol" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB en español
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2019-08-13T00:00:00">AUG 13, 2019</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/jingle-dancer-money-as-you-grow/">
+                    Today’s Money as You Grow Bookshelf pick: "Jingle Dancer"
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p><span>Read "Jingle Dancer"
+with your child and use our Parent Guide to talk about how small steps can help
+you reach a goal.</span></p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=laura-schlachtmeyer">Laura Schlachtmeyer</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=parents" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Parents
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=youth" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Youth
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=financial-education" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Financial education
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3090,144 +3204,6 @@ coinsurance, and copayments. If you get a wrongful bill, you don’t have to pay
                 <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Debt collection
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-05-10T00:00:00">MAY 10, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/check-items-off-student-loan-to-do-list/">
-                    Check these items off your student loan to-do list
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>If you have student loans here are three things to do now to keep your student loans in order.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=adebukola-dada">Adebukola Dada</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=student-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Student loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=students" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Students
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Data, research, and reports
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-05-09T00:00:00">MAY 09, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/promising-practices-lessons-learned-child-savings-account-programs/">
-                    Promising practices and lessons learned for Child Savings Account programs
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>The Bureau is engaged in building the capacity of child savings programs by releasing four briefs geared toward institutions and communities interested in starting, or expanding child savings opportunities.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=valentin-mihalache">Valentin Mihalache</a>
-                    and 
-                    <a href="?authors=dave-sieminski">Dave Sieminski</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial well-being
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=youth" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Youth
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=saving" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Saving
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial education
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial service providers
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=parents" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Parents
                 </a>
             </li>
     </ul>

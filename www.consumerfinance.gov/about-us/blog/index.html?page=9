@@ -1381,9 +1381,9 @@
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="community-banks">Community banks</option>
   <option value="compliance">Compliance</option>
+  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="debit-cards">Debit cards</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
-  <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="privacy">Privacy</option>
@@ -1496,6 +1496,7 @@
   <option value="chris-willey">Chris Willey</option>
   <option value="patricia-mccoy">Patricia McCoy</option>
   <option value="elizabeth-vale">Elizabeth Vale</option>
+  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="adebukola-dada">Adebukola Dada</option>
   <option value="melissa-yu">Melissa Yu</option>
   <option value="kathleen-l-kraninger">Kathleen L. Kraninger</option>
@@ -1513,7 +1514,6 @@
   <option value="damion-english">Damion English</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
-  <option value="anthony-camilli">Anthony Camilli</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
@@ -1806,13 +1806,97 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1337 filtered results</div>
+          <div class="h4 m-notification_message">1339 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-04-01T00:00:00">APR 01, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/supervisory-work-continues-commitment-protecting-consumers-zh-simplified/">
+                    监管工作仍在继续，致力于保护消费者的权益
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>我们致力于通过我们的监管工作保护消费者，同时努力确保我们远程检查员工和受监管机构雇员的健康与安全。</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=bryan-a-schneider">Bryan A. Schneider</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-simplified-chinese" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Simplified Chinese
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-04-01T00:00:00">APR 01, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/supervisory-work-continues-commitment-protecting-consumers-tl/">
+                    Nagpapatuloy ang gawain sa pangangasiwang nakatalagang pangalagaan ang mga consumer
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Nakatalaga kaming pangalagaan ang mga consumer sa pamamagitan ng aming gawain sa pangangasiwa habang nagsisikap na tiyakin ang kalusugan at kaligtasan ng aming mga remote [nakahiwalay] na kawani pampagsusuri at mga empleyado ng aming mga pinapangasiwaang institusyon.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=bryan-a-schneider">Bryan A. Schneider</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-tagalog" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Tagalog
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2990,111 +3074,6 @@
                 <a href="/about-us/blog/?topics=research" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Research
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-03-10T00:00:00">MAR 10, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/are-you-military-and-getting-ready-do-your-taxes-make-sure-you-know-how-file-free/">
-                    Are you in the military and getting ready to do your taxes? Make sure you know how to file for free
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Servicemembers – take advantage of the free tax preparation options available to you and make a plan to kickstart your emergency savings.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=patrick-brick">Patrick Brick</a>, 
-                    <a href="?authors=andrew-cohen">Andrew Cohen</a>, 
-                    and 
-                    <a href="?authors=jim-rice">Jim Rice</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=saving" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Saving
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Servicemembers
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-02-27T00:00:00">FEB 27, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/thirty-four-organizations-join-2020-your-money-your-goals-cohort/">
-                    Thirty-four organizations join the 2020 Your Money, Your Goals Cohort
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Organizations will receive technical assistance and training on financial empowerment tools to help people reach their financial goals.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=yuliya-rzad">Yuliya Rzad</a>
-                    and 
-                    <a href="?authors=jill-wheeler">Jill Wheeler</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=your-money-your-goals" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Your Money Your Goals
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial well-being
                 </a>
             </li>
     </ul>
