@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -188,7 +188,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Menú principal">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -291,7 +291,7 @@
     <main class="content content__2-1 content__bleedbar ask-cfpb-page ask-cfpb-page__answer"
           id="main">
             <div class="content_wrapper">
-    <nav class="breadcrumbs" aria-label="Breadcrumbs">
+    <nav class="breadcrumbs" aria-label="Guía de navegación">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
                 <a class="breadcrumbs_link" href="/es/herramientas-del-consumidor/hipotecas/">
                     Hipotecas
@@ -314,12 +314,10 @@
                 <p>El aplazamiento (forbearance) es un acuerdo temporal mediante el cual, el administrador hipotecario le permite, temporalmente, pagar montos menores o hacer una pausa en los pagos de su hipoteca. Usted tendrá que pagar la diferencia en los montos o los pagos pausados posteriormente.</p>
             </div>
         <div class="block block__sub">
-            <div data-qa-hook="expandable"
-                 data-read-more="true"
-                 class="o-expandable
-                        o-expandable__read-more-mobile">
-                <div class="o-expandable_content" id="answer-content">
-                    <div class="answer-text">
+            <div class="o-summary o-summary__mobile"
+                 data-js-hook="behavior_flyout-menu">
+                <div class="o-summary_content answer-text"
+                     data-js-hook="behavior_flyout-menu_content">
     <div class="row text-row">
         <p>Un aplazamiento puede ayudarle a afrontar dificultades como; daños a su vivienda por inundación, alguna enfermedad o lesión que haya aumentado los costos en salud, o la pérdida de su empleo. El aplazamiento no elimina la cantidad que usted debe en su hipoteca. Usted tendrá que pagar cualquier pago no hecho o reducido.</p>
     </div>
@@ -385,13 +383,13 @@
         </div>
         <div class="o-video-player_image-container
                     u-hide-on-video-playing">
-            <a aria-label="Play video on YouTube" class="o-video-player_play-btn o-video-player_play-btn__center" href="/external-site/?ext_url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FVaOrWovOkSk%3Fenablejsapi%3D1%26origin%3Dhttps%3A%2F%2Fwww.consumerfinance.gov&amp;signature=jBnDqknz4MMnuv8vlWkqifjGVfw" rel="noopener noreferrer" target="_blank">
+            <a aria-label="Ver video en YouTube" class="o-video-player_play-btn o-video-player_play-btn__center" href="/external-site/?ext_url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FVaOrWovOkSk%3Fenablejsapi%3D1%26origin%3Dhttps%3A%2F%2Fwww.consumerfinance.gov&amp;signature=jBnDqknz4MMnuv8vlWkqifjGVfw" rel="noopener noreferrer" target="_blank">
 <svg class="cf-icon-svg" viewbox="0 0 679.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M643.9 530.9L86.6 209.7c-13.8-8-26.9-11.7-38.5-11.7C19.7 198 0 220.7 0 259.8V902c0 39.1 19.7 61.8 48.2 61.8 11.6 0 24.7-3.8 38.5-11.7l557.2-321.2c47.6-27.6 47.6-72.5 0-100z"></path></svg>
 </a>
             <button class="o-video-player_play-btn
                            o-video-player_play-btn__center
                            u-hidden"
-                    aria-label="Play video">
+                    aria-label="Ver video">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 679.6 1200" class="cf-icon-svg"><path d="M643.9 530.9L86.6 209.7c-13.8-8-26.9-11.7-38.5-11.7C19.7 198 0 220.7 0 259.8V902c0 39.1 19.7 61.8 48.2 61.8 11.6 0 24.7-3.8 38.5-11.7l557.2-321.2c47.6-27.6 47.6-72.5 0-100z"/></svg>
             </button>
             <img class="o-video-player_image o-video-player_image__thumbnail"
@@ -410,48 +408,39 @@
 </aside>
         <p>Si usted es propietario de una vivienda en un estado incluido en el “<a class="a-link a-link__icon" href="https://www.treasury.gov/initiatives/financial-stability/TARP-Programs/housing/hhf/Pages/default.aspx"><span class="a-link_text">Hardest Hit Fund</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a>”, HHF(en inglés), o Fondo Federal de Asistencia para los más Afectados, puede que reúna los requisitos para recibir asistencia.<br/></p><p>Los programas del HHF varían entre estados y pueden incluir: </p><p></p><ul><li>Ayuda para el pago de hipoteca para propietarios de vivienda que estén desempleados o subempleados. </li><li>Reducción del capital. </li><li>Ayuda para propietarios de viviendas que decidan mudarse a viviendas más asequibles</li></ul><p></p><p>Si desea más información sobre estos programas, consulte con el <a class="a-link a-link__icon" href="/external-site/?ext_url=https%3A%2F%2Fwww.ncsha.org%2Fhousing-help%2F&amp;signature=8BLgmrA3bvS_hQLSeyZ86AthNMg"><span class="a-link_text">departamento de financiamiento de vivienda</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a> (en inglés)de su estado o directamente con el “<a class="a-link a-link__icon" href="https://www.treasury.gov/initiatives/financial-stability/TARP-Programs/housing/hhf/Pages/default.aspx"><span class="a-link_text">Hardest Hit Fund</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a>”.</p><p>Si usted tiene una hipoteca inversa, puede comunicarse con alguna <a class="a-link a-link__icon" href="https://entp.hud.gov/idapp/html/hecm_agency_look.cfm"><span class="a-link_text">agencia de asesoría de vivienda, aprobada por el HUD, especializada en hipotecas inversas</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a>, o en <a class="a-link a-link__icon" href="/external-site/?ext_url=https%3A%2F%2Fwww.hudexchange.info%2Fprograms%2Fhousing-counseling%2Fhecm%2Fdefault%2F%23hud-intermediaries-providing-hecm-default-counseling-nationwide&amp;signature=yZjSawza_myb_UbXIRA9AS9uhbU"><span class="a-link_text">casos de incumplimiento</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a> (en inglés).</p><p>Si enfrenta un “foreclosure” o ejecución hipotecaria, o ha recibido una notificación legal, debería <a href="/es/obtener-respuestas/como-encuentro-a-un-abogado-en-mi-estado-es-1549/">consultar con un abogado</a>. Usted podría encontrar <a class="a-link a-link__icon" href="https://www.lsc.gov/what-legal-aid/find-legal-aid"><span class="a-link_text">asistencia legal en algún programa de asistencia legal gratuita en el área o territorio donde resida</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a> (en inglés).<br/></p>
     </div>
-                    </div>
                 </div>
-                <button class="o-expandable_header o-expandable_target"
-                        title="Expand content">
-                    <span class="o-expandable_link">
-                        <span class="o-expandable_cue o-expandable_cue-open">
-                            Leer más
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
-                       </span>
-                        <span class="o-expandable_cue o-expandable_cue-close">
-                            Esconder la respuesta completa
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h527.1c27.6 0 50 22.4 50 50s-22.4 50-50 50z"/></svg>
-                       </span>
-                    </span>
+                <button class="o-summary_btn"
+                        data-js-hook="behavior_flyout-menu_trigger">
+                    Leer más
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
                 </button>
             </div>
-        <div class="block related-questions">
-            <h2>¿No encuentra lo que busca?</h2>
-            <div class="block block__sub">
-                <h3>Otras preguntas </h3>
-                <ul class="m-list m-list__unstyled m-list__links">
-                    <li class="m-list_item">
-                        <a href="/es/obtener-respuestas/que-es-un-asesor-de-vivienda-es-258/" class="m-list_link">
-                            ¿Qué es un asesor de vivienda?
-                        </a>
-                    </li>
-                    <li class="m-list_item">
-                        <a href="/es/obtener-respuestas/cual-es-la-diferencia-entre-un-prestamista-hipotecario-y-un-proveedor-de-servicios-hipotecarios-es-198/" class="m-list_link">
-                            ¿Cuál es la diferencia entre un prestamista hipotecario y un administrador hipotecario?
-                        </a>
-                    </li>
-                    <li class="m-list_item m-list_item__last">
-                        <a href="/es/herramientas-del-consumidor/hipotecas/" class="m-list_link">
-                            <b>
-                                Sepa más sobre
-                                hipotecas
-                            </b>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="block block__sub">
+            <div class="block related-questions">
+                <h2>¿No encuentra lo que busca?</h2>
+                <div class="block block__sub">
+                    <h3>Otras preguntas </h3>
+                    <ul class="m-list m-list__unstyled m-list__links">
+                        <li class="m-list_item">
+                            <a href="/es/obtener-respuestas/que-es-un-asesor-de-vivienda-es-258/" class="m-list_link">
+                                ¿Qué es un asesor de vivienda?
+                            </a>
+                        </li>
+                        <li class="m-list_item">
+                            <a href="/es/obtener-respuestas/cual-es-la-diferencia-entre-un-prestamista-hipotecario-y-un-proveedor-de-servicios-hipotecarios-es-198/" class="m-list_link">
+                                ¿Cuál es la diferencia entre un prestamista hipotecario y un administrador hipotecario?
+                            </a>
+                        </li>
+                        <li class="m-list_item m-list_item__last">
+                            <a href="/es/herramientas-del-consumidor/hipotecas/" class="m-list_link">
+                                <b>
+                                    Sepa más sobre
+                                    hipotecas
+                                </b>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block block__sub">
 <div class="o-search-bar">
     <form method="get" action="/es/obtener-respuestas/buscar/">
         <label for="o-search-bar_query">
@@ -484,8 +473,8 @@
         </div>
     </form>
 </div>
+                </div>
             </div>
-        </div>
 <div class="o-feedback block">
     <form method="post"
           action="."

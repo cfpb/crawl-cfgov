@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -224,7 +224,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Main menu">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -1390,9 +1390,9 @@
   <option value="financial-coaching">Financial coaching</option>
   <option value="regulation-e">Regulation E</option>
   <option value="retirement">Retirement</option>
+  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="people-with-disabilities">People with disabilities</option>
-  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="homebuying">Homebuying</option>
   <option value="call-for-evidence">Call for evidence</option>
@@ -1510,6 +1510,7 @@
   <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="james-hupp">James Hupp</option>
+  <option value="jonah-kaplan">Jonah Kaplan</option>
   <option value="gary-stein">Gary Stein</option>
   <option value="davida-farrar">Davida Farrar</option>
   <option value="eric-goldberg">Eric Goldberg</option>
@@ -1526,7 +1527,6 @@
   <option value="camille-busette">Camille Busette</option>
   <option value="grady-hedgespeth">Grady Hedgespeth</option>
   <option value="patricia-mccoy">Patricia McCoy</option>
-  <option value="jonah-kaplan">Jonah Kaplan</option>
   <option value="brian-johnson">Brian Johnson</option>
   <option value="jim-rice">Jim Rice</option>
   <option value="cora-hume">Cora Hume</option>
@@ -1575,6 +1575,7 @@
   <option value="mick-mulvaney">Mick Mulvaney</option>
   <option value="meina-banh">Meina Banh</option>
   <option value="valentin-mihalache">Valentin Mihalache</option>
+  <option value="logan-herman">Logan Herman</option>
   <option value="miesha-davis">Miesha Davis</option>
   <option value="max-bentovim">Max Bentovim</option>
   <option value="paul-mondor">Paul Mondor</option>
@@ -1617,7 +1618,6 @@
   <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="melissa-knoll">Melissa Knoll</option>
   <option value="flavio-cumpiano">Flavio Cumpiano</option>
-  <option value="logan-herman">Logan Herman</option>
   <option value="mechel-glass">Mechel Glass</option>
   <option value="cfpb">CFPB</option>
   <option value="keo-chea">Keo Chea</option>
@@ -1840,7 +1840,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2986 filtered results</div>
+          <div class="h4 m-notification_message">2987 filtered results</div>
       </div>
   </div>
         </div>
@@ -1859,6 +1859,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/financial-well-being-state/">
+                        <span class="h4 u-mb0">
+                            Financial well-being by state
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2019-11-13T00:00:00">NOV 13, 2019</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3936,27 +3957,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2019-07-02T00:00:00">JUL 02, 2019</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=report"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Report
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/data-research/research-reports/fair-lending-report-2018/">
-                        <span class="h4 u-mb0">
-                            Fair Lending Report 2018
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2019-06-28T00:00:00">JUN 28, 2019</time>
 </span>
                 </td>
             </tr>

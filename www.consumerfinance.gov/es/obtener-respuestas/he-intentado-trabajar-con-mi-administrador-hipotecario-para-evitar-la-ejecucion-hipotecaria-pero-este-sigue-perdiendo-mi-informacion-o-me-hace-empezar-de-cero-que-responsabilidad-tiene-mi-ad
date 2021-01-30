@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -188,7 +188,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Menú principal">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -291,7 +291,7 @@
     <main class="content content__2-1 content__bleedbar ask-cfpb-page ask-cfpb-page__answer"
           id="main">
             <div class="content_wrapper">
-    <nav class="breadcrumbs" aria-label="Breadcrumbs">
+    <nav class="breadcrumbs" aria-label="Guía de navegación">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
                 <a class="breadcrumbs_link" href="/es/herramientas-del-consumidor/hipotecas/">
                     Hipotecas
@@ -314,12 +314,10 @@
                 <p>Muchos administradores hipotecarios tienen que trabajar con usted para ver si usted califica para utilizar algún mecanismo que le permita evitar la ejecución hipotecaria. El administrador hipotecario puede referirse a esta ayuda como mitigación de pérdidas (loss mitigation).</p>
             </div>
         <div class="block block__sub">
-            <div data-qa-hook="expandable"
-                 data-read-more="true"
-                 class="o-expandable
-                        o-expandable__read-more-mobile">
-                <div class="o-expandable_content" id="answer-content">
-                    <div class="answer-text">
+            <div class="o-summary o-summary__mobile"
+                 data-js-hook="behavior_flyout-menu">
+                <div class="o-summary_content answer-text"
+                     data-js-hook="behavior_flyout-menu_content">
     <div class="row video_player-row">
     <div class="o-video-player
                 o-video-player__youtube"
@@ -382,13 +380,13 @@
         </div>
         <div class="o-video-player_image-container
                     u-hide-on-video-playing">
-            <a aria-label="Play video on YouTube" class="o-video-player_play-btn o-video-player_play-btn__center" href="/external-site/?ext_url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FVaOrWovOkSk%3Fenablejsapi%3D1%26origin%3Dhttps%3A%2F%2Fwww.consumerfinance.gov&amp;signature=jBnDqknz4MMnuv8vlWkqifjGVfw" rel="noopener noreferrer" target="_blank">
+            <a aria-label="Ver video en YouTube" class="o-video-player_play-btn o-video-player_play-btn__center" href="/external-site/?ext_url=https%3A%2F%2Fwww.youtube.com%2Fembed%2FVaOrWovOkSk%3Fenablejsapi%3D1%26origin%3Dhttps%3A%2F%2Fwww.consumerfinance.gov&amp;signature=jBnDqknz4MMnuv8vlWkqifjGVfw" rel="noopener noreferrer" target="_blank">
 <svg class="cf-icon-svg" viewbox="0 0 679.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M643.9 530.9L86.6 209.7c-13.8-8-26.9-11.7-38.5-11.7C19.7 198 0 220.7 0 259.8V902c0 39.1 19.7 61.8 48.2 61.8 11.6 0 24.7-3.8 38.5-11.7l557.2-321.2c47.6-27.6 47.6-72.5 0-100z"></path></svg>
 </a>
             <button class="o-video-player_play-btn
                            o-video-player_play-btn__center
                            u-hidden"
-                    aria-label="Play video">
+                    aria-label="Ver video">
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 679.6 1200" class="cf-icon-svg"><path d="M643.9 530.9L86.6 209.7c-13.8-8-26.9-11.7-38.5-11.7C19.7 198 0 220.7 0 259.8V902c0 39.1 19.7 61.8 48.2 61.8 11.6 0 24.7-3.8 38.5-11.7l557.2-321.2c47.6-27.6 47.6-72.5 0-100z"/></svg>
             </button>
             <img class="o-video-player_image o-video-player_image__thumbnail"
@@ -400,48 +398,39 @@
     <div class="row text-row">
         <p>Si usted no ha hecho los pagos de su préstamo hipotecario, el administrador hipotecario generalmente debe:</p><ul><li>Intentar comunicarse con usted directamente dentro de los primeros 36 días calendario después de que usted se atrase en el pago.</li><li>Enviarle un aviso por escrito con una descripción de ejemplos de opciones de mitigación de pérdidas, que podrían estar disponibles para ayudarle a <a class="a-link a-link__icon" href="/documents/5476/cfpb_adult-fin-ed_how-to-avoid-foreclosure_es.pdf"><span class="a-link_text">evitar la ejecución hipotecaria</span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>, así como también instrucciones sobre cómo hacer una solicitud y cómo obtener más información acerca de estas opciones, si procede. El administrador hipotecario tiene que enviar esto, a más tardar, 45 días calendario después de que usted se haya retrasado en el pago de su préstamo.</li></ul><p>El administrador hipotecario también debe contar con políticas y procedimientos que le permitan asignar a ciertas personas para que sean su punto de contacto, dentro de los 45 días calendario, después que usted se haya retrasado en el pago del préstamo. Las personas asignadas para ayudarle deben:</p><ul><li>Estar disponibles por teléfono</li><li>Responder a sus preguntas</li><li>Darle información precisa sobre las opciones de mitigación de pérdidas disponibles para evitar la ejecución hipotecaria, y sobre cómo beneficiarse de dichas opciones, inclusive los pasos que usted debe tomar para presentar una solicitud de mitigación de pérdidas.</li><li>Tener información sobre cualquier solicitud de mitigación de pérdidas que usted haya presentado.<br/></li></ul><p>Si tiene algún problema con su hipoteca, puede presentar una queja ante el CFPB <a href="/es/enviar-una-queja/">en línea</a> o llamando al (855) 411-CFPB (2372).<br/></p>
     </div>
-                    </div>
                 </div>
-                <button class="o-expandable_header o-expandable_target"
-                        title="Expand content">
-                    <span class="o-expandable_link">
-                        <span class="o-expandable_cue o-expandable_cue-open">
-                            Leer más
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
-                       </span>
-                        <span class="o-expandable_cue o-expandable_cue-close">
-                            Esconder la respuesta completa
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h527.1c27.6 0 50 22.4 50 50s-22.4 50-50 50z"/></svg>
-                       </span>
-                    </span>
+                <button class="o-summary_btn"
+                        data-js-hook="behavior_flyout-menu_trigger">
+                    Leer más
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
                 </button>
             </div>
-        <div class="block related-questions">
-            <h2>¿No encuentra lo que busca?</h2>
-            <div class="block block__sub">
-                <h3>Otras preguntas </h3>
-                <ul class="m-list m-list__unstyled m-list__links">
-                    <li class="m-list_item">
-                        <a href="/es/obtener-respuestas/recibi-una-carta-de-mi-administrador-de-hipoteca-acerca-de-mi-solicitud-de-ayuda-para-prevenir-la-ejecucion-hipotecaria-de-mi-prestamo-puede-usted-ayudarme-a-entender-algunos-de-los-terminos-es-1807/" class="m-list_link">
-                            Recibí una carta de mi proveedor de servicios hipotecarios acerca de mi solicitud de ayuda para prevenir la ejecución hipotecaria de mi préstamo. ¿Puede ayudarme a entender algunos de los términos?
-                        </a>
-                    </li>
-                    <li class="m-list_item">
-                        <a href="/es/obtener-respuestas/mi-prestamista-hipotecario-me-dijo-que-el-estaba-exento-de-las-reglas-de-administracion-de-hipotecas-es-cierto-esto-es-1801/" class="m-list_link">
-                            Mi prestamista hipotecario me dijo que él estaba exento de las reglas de administración de hipotecas. ¿Es cierto esto?
-                        </a>
-                    </li>
-                    <li class="m-list_item m-list_item__last">
-                        <a href="/es/herramientas-del-consumidor/hipotecas/" class="m-list_link">
-                            <b>
-                                Sepa más sobre
-                                hipotecas
-                            </b>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="block block__sub">
+            <div class="block related-questions">
+                <h2>¿No encuentra lo que busca?</h2>
+                <div class="block block__sub">
+                    <h3>Otras preguntas </h3>
+                    <ul class="m-list m-list__unstyled m-list__links">
+                        <li class="m-list_item">
+                            <a href="/es/obtener-respuestas/recibi-una-carta-de-mi-administrador-de-hipoteca-acerca-de-mi-solicitud-de-ayuda-para-prevenir-la-ejecucion-hipotecaria-de-mi-prestamo-puede-usted-ayudarme-a-entender-algunos-de-los-terminos-es-1807/" class="m-list_link">
+                                Recibí una carta de mi proveedor de servicios hipotecarios acerca de mi solicitud de ayuda para prevenir la ejecución hipotecaria de mi préstamo. ¿Puede ayudarme a entender algunos de los términos?
+                            </a>
+                        </li>
+                        <li class="m-list_item">
+                            <a href="/es/obtener-respuestas/mi-prestamista-hipotecario-me-dijo-que-el-estaba-exento-de-las-reglas-de-administracion-de-hipotecas-es-cierto-esto-es-1801/" class="m-list_link">
+                                Mi prestamista hipotecario me dijo que él estaba exento de las reglas de administración de hipotecas. ¿Es cierto esto?
+                            </a>
+                        </li>
+                        <li class="m-list_item m-list_item__last">
+                            <a href="/es/herramientas-del-consumidor/hipotecas/" class="m-list_link">
+                                <b>
+                                    Sepa más sobre
+                                    hipotecas
+                                </b>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block block__sub">
 <div class="o-search-bar">
     <form method="get" action="/es/obtener-respuestas/buscar/">
         <label for="o-search-bar_query">
@@ -474,8 +463,8 @@
         </div>
     </form>
 </div>
+                </div>
             </div>
-        </div>
 <div class="o-feedback block">
     <form method="post"
           action="."

@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -224,7 +224,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Main menu">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -1390,9 +1390,9 @@
   <option value="financial-coaching">Financial coaching</option>
   <option value="regulation-e">Regulation E</option>
   <option value="retirement">Retirement</option>
+  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="people-with-disabilities">People with disabilities</option>
-  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="homebuying">Homebuying</option>
   <option value="call-for-evidence">Call for evidence</option>
@@ -1510,6 +1510,7 @@
   <option value="department-of-housing-and-urban-development">Department of Housing and Urban Development</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="james-hupp">James Hupp</option>
+  <option value="jonah-kaplan">Jonah Kaplan</option>
   <option value="gary-stein">Gary Stein</option>
   <option value="davida-farrar">Davida Farrar</option>
   <option value="eric-goldberg">Eric Goldberg</option>
@@ -1526,7 +1527,6 @@
   <option value="camille-busette">Camille Busette</option>
   <option value="grady-hedgespeth">Grady Hedgespeth</option>
   <option value="patricia-mccoy">Patricia McCoy</option>
-  <option value="jonah-kaplan">Jonah Kaplan</option>
   <option value="brian-johnson">Brian Johnson</option>
   <option value="jim-rice">Jim Rice</option>
   <option value="cora-hume">Cora Hume</option>
@@ -1575,6 +1575,7 @@
   <option value="mick-mulvaney">Mick Mulvaney</option>
   <option value="meina-banh">Meina Banh</option>
   <option value="valentin-mihalache">Valentin Mihalache</option>
+  <option value="logan-herman">Logan Herman</option>
   <option value="miesha-davis">Miesha Davis</option>
   <option value="max-bentovim">Max Bentovim</option>
   <option value="paul-mondor">Paul Mondor</option>
@@ -1617,7 +1618,6 @@
   <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="melissa-knoll">Melissa Knoll</option>
   <option value="flavio-cumpiano">Flavio Cumpiano</option>
-  <option value="logan-herman">Logan Herman</option>
   <option value="mechel-glass">Mechel Glass</option>
   <option value="cfpb">CFPB</option>
   <option value="keo-chea">Keo Chea</option>
@@ -1840,7 +1840,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2986 filtered results</div>
+          <div class="h4 m-notification_message">2987 filtered results</div>
       </div>
   </div>
         </div>
@@ -1859,6 +1859,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-announces-changes-to-senior-leadership/">
+                        <span class="h4 u-mb0">
+                            CFPB Announces Changes to Senior Leadership
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2017-01-06T00:00:00">JAN 06, 2017</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3931,27 +3952,6 @@
                     <a href="/about-us/blog/hundreds-thousands-accounts-secretly-created-wells-fargo-bank-employees-leads-historic-100-million-fine-cfpb/">
                         <span class="h4 u-mb0">
                             Hundreds of thousands of accounts secretly created by Wells Fargo Bank employees leads to historic $100 million fine from the CFPB
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2016-09-08T00:00:00">SEP 08, 2016</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=speech"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 642.4 1200" class="cf-icon-svg"><path d="M181.8 721.7c18 17.9 39.3 32.2 62.7 42.2 24.4 10.4 50.6 15.7 77.1 15.6 27.3 0 52.9-5.2 76.7-15.6 23.2-10 44.4-24.3 62.3-42.2 36.6-37 57.1-87 57-139l.7-283.4c.2-26.5-5-52.7-15.2-77.1-19.6-47.4-56.9-85.3-104.1-105.6-23.8-10.4-49.4-15.6-76.7-15.6-26.5-.2-52.8 5.1-77.1 15.6-47.5 20.2-85.4 58.1-105.6 105.6a194.63 194.63 0 0 0-15.6 77.1v283.4c-.1 26.3 5.2 52.3 15.6 76.4 9.9 23.3 24.3 44.6 42.2 62.6z"/><path d="M612.4 469.9c-16.6 0-30 13.4-30 30v82.7c.2 70.3-27.5 137.8-76.9 187.7-49.5 50.2-114.9 77.9-184.3 77.9s-134.8-27.7-184.3-77.9c-49.4-50-77.1-117.5-76.9-187.7v-82.7c0-16.6-13.4-30-30-30s-30 13.4-30 30v82.7c-.1 86 33.8 168.6 94.2 229.8 29.2 29.7 63.8 53.5 102.1 70 30.2 13 62.2 21.3 95 24.3v129.4h-151c-16.6 0-30 13.4-30 30s13.4 30 30 30h362c16.6 0 30-13.4 30-30s-13.4-30-30-30h-151V906.8c32.7-3.1 64.8-11.3 95-24.3 38.2-16.5 72.9-40.3 102.1-70 60.4-61.3 94.2-143.8 94.1-229.9v-82.7c-.1-16.6-13.6-30-30.1-30z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Speech
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/prepared-remarks-richard-cordray-director-consumer-financial-protection-bureau-wells-fargo-enforcement-action-press-call/">
-                        <span class="h4 u-mb0">
-                            Prepared Remarks of Richard Cordray Director of the Consumer Financial Protection Bureau on the Wells Fargo Enforcement Action Press Call
                         </span>
                     </a>
                 </td>

@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -225,7 +225,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Main menu">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -1306,77 +1306,10 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 102 results within basics</p>
+        <p class="results-message">Showing 0 results within basics</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/do-auto-and-homeowners-insurance-companies-share-my-information-about-claims-and-policies-en-1821/" class="hover">Do auto and homeowners insurance companies share my information about claims and policies?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-higher-priced-mortgage-loan-en-1797/" class="hover">What is a “higher-priced mortgage loan?”</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/" class="hover">What is a debt-to-income ratio? Why is the 43% debt-to-income ratio important?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-qualified-mortgage-en-1789/" class="hover">What is a Qualified Mortgage?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-types-of-loans-are-covered-under-the-military-lending-act-en-1785/" class="hover">What types of loans are covered under the Military Lending Act?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/should-i-use-a-home-equity-loan-to-refinance-my-student-loans-at-a-lower-interest-rate-en-1685/" class="hover">Should I use a home equity loan to refinance my student loans at a lower interest rate?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/how-do-credit-reporting-companies-get-my-information-en-1263/" class="hover">How do credit reporting companies get my information?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/can-my-partner-family-or-dependents-if-i-have-a-reverse-mortgage-en-1213/" class="hover">Can my partner, family, or dependents live in my home if I have a reverse mortgage?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-truth-in-lending-disclosure-when-do-i-get-to-see-it-en-787/" class="hover">What is a Truth-in-Lending Disclosure? When do I get to see it?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/ask-cfpb/i-heard-about-the-new-federal-housing-authority-refinancing-option-with-reduced-fees-can-you-tell-me-more-about-it-en-363/" class="hover">I heard about the new Federal Housing Authority refinancing option with reduced fees. Can you tell me more about it?</a></div>
-            </article>
             <div class="block block__sub">
-    <nav class="m-pagination"
-         role="navigation"
-         aria-label="Pagination">
-        <a class="a-btn m-pagination_btn-prev" href="?page=2">
-<span class="a-btn_icon a-btn_icon__on-left"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"></path></svg></span>
-            Previous
-        </a>
-        <a class="a-btn m-pagination_btn-next" href="?page=4">Next
-            <span class="a-btn_icon a-btn_icon__on-right"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
-</a>
-        <form class="m-pagination_form" action="">
-            <label for="m-pagination_current-page-0">
-                <span class="m-pagination_label">
-                    Page
-                </span>
-                <span class="u-visually-hidden">
-                    3 out of 11 total pages
-                </span>
-            </label>
-            <input id="m-pagination_current-page-0"
-                   class="m-pagination_current-page"
-                   name="page"
-                   type="number"
-                   min="1"
-                   max="11"
-                   pattern="[0-9]*"
-                   inputmode="numeric"
-                   value="3">
-            <span class="m-pagination_label"> of 11</span>
-            <button class="a-btn
-                           a-btn__link
-                           m-pagination_btn-submit"
-                    type="submit">
-                Go
-            </button>
-        </form>
-    </nav>
             </div>
         </section>
     </div>

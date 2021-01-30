@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -224,7 +224,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Main menu">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -2312,14 +2312,64 @@
 <section id="tdp-search-results" class="content_main content__flush-all-on-small content__flush-bottom results" tabindex="-1">
     <a class="u-visually-hidden" id="content_main"></a>
     <div class="results_header">
-            <div class="results_count" data-results-count="251">
+            <div class="results_count" data-results-count="252">
                 <h3>
-                    251 activities
+                    252 activities
                 </h3>
             </div>
     </div>
         <div class="results_list">
             <ul class="m-list__unstyled">
+                    <li class="u-mb30"><div class="activity">
+    <h3><a class="activity_title-link" href="/consumer-tools/educator-tools/youth-financial-education/teach/activities/sharing-story-about-borrowing/">Sharing a story about borrowing</a></h3>
+    <p class="meta">
+        <span class="a-date">
+            Updated
+            <span class="datetime">
+                <time class="datetime_date" datetime="2020-08-28">
+                    Aug 28, 2020
+                </time>
+            </span>
+        </span>
+    </p>
+    <p>
+        <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm329.9 449.4l-68.7 63.5-69.3 64.1 27.5 138.5 9.1 45.9c10.1 50.9-18.7 71.9-64 46.5l-164.1-91.8-164.1 91.8c-45.3 25.4-74.1 4.4-64-46.5l9.1-45.9 9.1-45.9 18.4-92.6-69.3-64.1-34.4-31.8-34.4-31.8c-38.1-35.3-27.1-69.1 24.4-75.2l93-11 93.8-11.1L441.3 329l19.6-42.5c21.8-47.2 57.4-47.2 79.1 0l19.6 42.5 59.2 128.2 93.8 11.1 93 11c51.4 6.2 62.4 40.1 24.3 75.3z"/></svg>
+        </span>
+        <span class="activity_for">Ideal for: Elementary school (2-3), Elementary school (4-5)</span>
+    </p>
+    <p class="lead-paragraph u-mb30">Students read a story about Money Monsters who are learning to be good borrowers.</p>
+    <div class="activity_meta-wrapper">
+        <div>
+            <h4 class="h5">Key information</h4>
+            <div class="layout-row u-mb15">
+                <h5 class="activity_meta-key">Topic:</h5>
+                Borrow (Getting loans)
+            </div>
+            <div class="layout-row">
+                <h5 class="activity_meta-key">Activity duration:</h5>
+                45-60 minutes
+            </div>
+        </div>
+        <div>
+            <h4 class="h5">Building block</h4>
+            <ul class="m-list__unstyled">
+                    <li>
+                        <span class="a-icon a-icon__large a-icon__space-after">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm353.1 537.2c0 11-8.9 21.5-19.7 23.4l-60.1 10.4c-1.1.2-2.1.3-3.2.3-6.5 24.9-16.4 48.8-29.5 71 .8.8 1.5 1.6 2.1 2.5l35.2 49.8c6.3 9 5.2 22.7-2.6 30.5l-51.2 51.2c-7.8 7.8-21.5 9-30.5 2.6l-49.8-35.2c-.9-.6-1.7-1.3-2.5-2.1-22.2 13.1-46.1 23-71 29.5 0 1.1-.1 2.1-.3 3.2l-10.4 60.1c-1.9 10.8-12.4 19.7-23.4 19.7h-72.4c-11 0-21.5-8.9-23.4-19.7L430 879.5c-.2-1.1-.3-2.1-.3-3.2-24.9-6.5-48.8-16.4-71-29.5-.8.8-1.6 1.5-2.5 2.1l-49.9 35.2c-9 6.3-22.7 5.2-30.5-2.6l-51.2-51.2c-7.8-7.8-9-21.5-2.6-30.5l35.2-49.8c.6-.9 1.3-1.7 2.1-2.5-13.1-22.2-23-46.1-29.4-71-1.1 0-2.1-.1-3.2-.3l-60.1-10.4c-10.8-1.9-19.7-12.4-19.7-23.4V570c0-11 8.9-21.5 19.7-23.4l60.1-10.4c1.1-.2 2.2-.2 3.2-.2 6.5-24.9 16.4-48.8 29.5-71-.8-.8-1.5-1.6-2.1-2.5l-35.2-49.9c-6.3-9-5.2-22.7 2.6-30.5l51.1-51.2c7.8-7.8 21.5-9 30.5-2.6l49.9 35.2c.9.6 1.7 1.3 2.5 2.1 22.2-13.1 46.1-23 71-29.5 0-1.1.1-2.1.2-3.2l10.4-60.1c1.9-10.8 12.4-19.7 23.4-19.7h72.4c11 0 21.5 8.9 23.4 19.7L570 333c.2 1.1.3 2.1.3 3.2 24.9 6.5 48.8 16.4 71 29.5.8-.8 1.6-1.5 2.5-2.1l49.8-35.2c9-6.3 22.7-5.2 30.5 2.6l51.2 51.2c7.8 7.8 9 21.5 2.6 30.5l-35.2 49.8c-.6.9-1.3 1.7-2.1 2.5 13 22.2 22.9 46.1 29.4 71 1.1 0 2.1.1 3.2.3l60.1 10.4c10.9 1.8 19.8 12.3 19.8 23.3v72.4z"/><circle cx="500" cy="606.2" r="120.2"/></svg>
+                        </span>
+                        Executive function
+                    </li>
+                    <li>
+                        <span class="a-icon a-icon__large a-icon__space-after">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M420.83,451.24H555.49a24.82,24.82,0,1,0,0-49.63H420.83a24.82,24.82,0,1,0,0,49.63Z"/><path d="M594.24,528.53a27.8,27.8,0,0,0-38,10.17l-83.12,144L441,644.09a27.78,27.78,0,1,0-42.7,35.56L456,748.84a27.73,27.73,0,0,0,21.35,10c.8,0,1.61,0,2.35-.1A27.78,27.78,0,0,0,501.37,745l103-178.48A27.81,27.81,0,0,0,594.24,528.53Z"/><path d="M500,100C223.86,100,0,323.86,0,600s223.86,500,500,500,500-223.86,500-500S776.14,100,500,100ZM851.07,619.92a58.09,58.09,0,0,1-57.89,57.93H766a242.79,242.79,0,0,1-59.24,96.51q-6.11,6.17-12.7,11.83v102.7a24.85,24.85,0,0,1-24.82,24.79H593.08a24.86,24.86,0,0,1-24.82-24.79V843.25a240.33,240.33,0,0,1-33.51,2.37H432.68a240.29,240.29,0,0,1-33.48-2.37v45.63a24.85,24.85,0,0,1-24.82,24.79H298.22a24.86,24.86,0,0,1-24.82-24.79V786.18q-6.57-5.66-12.73-11.83a243.32,243.32,0,0,1-66.61-124.83,47.23,47.23,0,0,1,0-94.36A243.21,243.21,0,0,1,432.68,359.07H534.75a242.84,242.84,0,0,1,49.07,5l133-77.39a12.92,12.92,0,0,1,8.25-1.68,13.19,13.19,0,0,1,11.48,14.72,13.5,13.5,0,0,1-1.41,4.54A227.35,227.35,0,0,0,710.57,434.2,242.9,242.9,0,0,1,766,526.84h27.18a58.08,58.08,0,0,1,57.89,57.89Z"/></svg>
+                        </span>
+                        Financial habits and norms
+                    </li>
+            </ul>
+        </div>
+    </div>
+</div></li>
                     <li class="u-mb30"><div class="activity">
     <h3><a class="activity_title-link" href="/consumer-tools/educator-tools/youth-financial-education/teach/activities/writing-about-borrowing/">Writing about borrowing</a></h3>
     <p class="meta">
@@ -2499,56 +2549,6 @@
             <div class="layout-row">
                 <h5 class="activity_meta-key">Activity duration:</h5>
                 15-20 minutes
-            </div>
-        </div>
-        <div>
-            <h4 class="h5">Building block</h4>
-            <ul class="m-list__unstyled">
-                    <li>
-                        <span class="a-icon a-icon__large a-icon__space-after">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M420.83,451.24H555.49a24.82,24.82,0,1,0,0-49.63H420.83a24.82,24.82,0,1,0,0,49.63Z"/><path d="M594.24,528.53a27.8,27.8,0,0,0-38,10.17l-83.12,144L441,644.09a27.78,27.78,0,1,0-42.7,35.56L456,748.84a27.73,27.73,0,0,0,21.35,10c.8,0,1.61,0,2.35-.1A27.78,27.78,0,0,0,501.37,745l103-178.48A27.81,27.81,0,0,0,594.24,528.53Z"/><path d="M500,100C223.86,100,0,323.86,0,600s223.86,500,500,500,500-223.86,500-500S776.14,100,500,100ZM851.07,619.92a58.09,58.09,0,0,1-57.89,57.93H766a242.79,242.79,0,0,1-59.24,96.51q-6.11,6.17-12.7,11.83v102.7a24.85,24.85,0,0,1-24.82,24.79H593.08a24.86,24.86,0,0,1-24.82-24.79V843.25a240.33,240.33,0,0,1-33.51,2.37H432.68a240.29,240.29,0,0,1-33.48-2.37v45.63a24.85,24.85,0,0,1-24.82,24.79H298.22a24.86,24.86,0,0,1-24.82-24.79V786.18q-6.57-5.66-12.73-11.83a243.32,243.32,0,0,1-66.61-124.83,47.23,47.23,0,0,1,0-94.36A243.21,243.21,0,0,1,432.68,359.07H534.75a242.84,242.84,0,0,1,49.07,5l133-77.39a12.92,12.92,0,0,1,8.25-1.68,13.19,13.19,0,0,1,11.48,14.72,13.5,13.5,0,0,1-1.41,4.54A227.35,227.35,0,0,0,710.57,434.2,242.9,242.9,0,0,1,766,526.84h27.18a58.08,58.08,0,0,1,57.89,57.89Z"/></svg>
-                        </span>
-                        Financial habits and norms
-                    </li>
-                    <li>
-                        <span class="a-icon a-icon__large a-icon__space-after">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500.48,100C224.34,99.74.26,323.38,0,599.52S223.38,1099.74,499.52,1100,999.74,876.62,1000,600.48,776.62,100.26,500.48,100ZM839.3,374.39,778.74,606a24,24,0,0,1-41.25,5.53l-45.51-59-13.73-17.8-128.2,98.18-.28,296a49.94,49.94,0,1,1-99.89,0L450.16,633,321.75,534.69,308,552.49l-45.51,59A24,24,0,0,1,221.26,606L160.7,374.4c-6.46-15.71,5-32.52,21.12-33.24H425.5a24,24,0,0,1,15.84,38.48l-51.08,66.23L383,455.32l117,89.62,117-89.63-7.29-9.45-51.08-66.23a24,24,0,0,1,15.84-38.48H818.18C834.28,341.87,845.77,358.68,839.3,374.39Z"/></svg>
-                        </span>
-                        Financial knowledge and decision-making skills
-                    </li>
-            </ul>
-        </div>
-    </div>
-</div></li>
-                    <li class="u-mb30"><div class="activity">
-    <h3><a class="activity_title-link" href="/consumer-tools/educator-tools/youth-financial-education/teach/activities/bringing-your-own-bag/">Bringing your own bag</a></h3>
-    <p class="meta">
-        <span class="a-date">
-            Updated
-            <span class="datetime">
-                <time class="datetime_date" datetime="2020-08-21">
-                    Aug 21, 2020
-                </time>
-            </span>
-        </span>
-    </p>
-    <p>
-        <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
-            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm329.9 449.4l-68.7 63.5-69.3 64.1 27.5 138.5 9.1 45.9c10.1 50.9-18.7 71.9-64 46.5l-164.1-91.8-164.1 91.8c-45.3 25.4-74.1 4.4-64-46.5l9.1-45.9 9.1-45.9 18.4-92.6-69.3-64.1-34.4-31.8-34.4-31.8c-38.1-35.3-27.1-69.1 24.4-75.2l93-11 93.8-11.1L441.3 329l19.6-42.5c21.8-47.2 57.4-47.2 79.1 0l19.6 42.5 59.2 128.2 93.8 11.1 93 11c51.4 6.2 62.4 40.1 24.3 75.3z"/></svg>
-        </span>
-        <span class="activity_for">Ideal for: Elementary school (4-5)</span>
-    </p>
-    <p class="lead-paragraph u-mb30">Students read a short story and consider the benefits of making choices that are cost-effective.</p>
-    <div class="activity_meta-wrapper">
-        <div>
-            <h4 class="h5">Key information</h4>
-            <div class="layout-row u-mb15">
-                <h5 class="activity_meta-key">Topic:</h5>
-                Protect (Managing risk), Spend (Buying things)
-            </div>
-            <div class="layout-row">
-                <h5 class="activity_meta-key">Activity duration:</h5>
-                45-60 minutes
             </div>
         </div>
         <div>

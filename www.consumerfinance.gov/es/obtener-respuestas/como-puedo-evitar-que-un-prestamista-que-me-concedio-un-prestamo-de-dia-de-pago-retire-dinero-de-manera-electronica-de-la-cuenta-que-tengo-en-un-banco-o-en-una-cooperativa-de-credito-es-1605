@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -188,7 +188,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Menú principal">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -291,7 +291,7 @@
     <main class="content content__2-1 content__bleedbar ask-cfpb-page ask-cfpb-page__answer"
           id="main">
             <div class="content_wrapper">
-    <nav class="breadcrumbs" aria-label="Breadcrumbs">
+    <nav class="breadcrumbs" aria-label="Guía de navegación">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
                 <a class="breadcrumbs_link" href="/es/herramientas-del-consumidor/prestamos-del-dia-de-pago/">
                     Préstamos del día de pago
@@ -314,12 +314,10 @@
                 <p>Usted puede detener los débitos electrónicos de su cuenta mediante la revocación de la autorización de pago, a veces llamada "autorización ACH". </p>
             </div>
         <div class="block block__sub">
-            <div data-qa-hook="expandable"
-                 data-read-more="true"
-                 class="o-expandable
-                        o-expandable__read-more-mobile">
-                <div class="o-expandable_content" id="answer-content">
-                    <div class="answer-text">
+            <div class="o-summary o-summary__mobile"
+                 data-js-hook="behavior_flyout-menu">
+                <div class="o-summary_content answer-text"
+                     data-js-hook="behavior_flyout-menu_content">
     <div class="row text-row">
 <p>Usted tiene el derecho a impedir que un prestamista retire de forma automática los pagos electrónicos de su cuenta, incluso si previamente se le permitió. Puede que haya firmado una autorización de pago, que a veces se denomina una "<a href="/es/obtener-respuestas/me-pidieron-que-firmara-una-autorizacion-ach-para-mi-prestamo-de-dia-de-pago-que-es-es-1569/">autorización ACH</a>". Esto le da al prestamista de día de pago la capacidad para debitar el pago adeudado de su cuenta al vencimiento del mismo.</p>
 <p>Si decide que desea detener los pagos por débito automático de su cuenta, usted puede hacer lo siguiente:</p><p>1. <b>Llame y escriba a la compañía.</b> Dígale a la compañía que usted retira su permiso para que la compañía tome los pagos automáticamente de su cuenta de banco o cooperativa de crédito. Esto se llama "revocación de autorización". <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/f/201511_cfpb_sample-letter-to-company-to-revoke-authorization-for-automatic-debit-payments.doc"><span class="a-link_text">Vea un ejemplo del tipo de carta</span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a> (en inglés) que debe enviar.</p><p>2. <b>Llame y escriba a su banco o cooperativa de crédito.</b> Dígale a su banco que usted ha "revocado la autorización" para que la compañía retire pagos automáticos de su cuenta. <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/f/201511_cfpb_sample-revocation-letter-to-your-bank-or-credit-union.doc"><span class="a-link_text">Vea un ejemplo del tipo de carta</span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a> (en inglés) que debe enviar. Algunos bancos y cooperativas de crédito pueden ofrecerle un formulario en línea.</p><p>3. <b>Detenga el pago. </b>Incluso si usted no ha revocado su autorización con la compañía, usted puede detener el retiro de un pago automático de su cuenta al darle a su banco una "orden de suspensión de pago". Eso instruye a su banco a detener a la compañía de tomar el pago de su cuenta. <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/f/201511_cfpb_sample-stop-payment-order.doc"><span class="a-link_text">Vea un ejemplo del tipo de carta</span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a> (en inglés) quendebe enviar. Aquí están los pasos:</p>
@@ -328,53 +326,44 @@
 <p>c. Tenga en cuenta que <strong>los bancos suelen cobrar un cargo</strong> para detener las órdenes de pago.</p>
 <p>4. <b>Controle sus cuentas. </b>Infórmele a su banco o cooperativa de crédito de inmediato si ve un pago que usted no permitió o autorizó, o un pago que se hizo después de que revocó la autorización. La ley federal le otorga el derecho a impugnar y obtener su dinero de regreso para cualquier transferencia no autorizada de su cuenta siempre que usted le informe a su banco a tiempo. <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/f/201511_cfpb_sample-notice-of-unauthorized-transfer.doc"><span class="a-link_text">Vea un ejemplo del tipo de carta</span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a> (en inglés) que debe  enviar.<br/></p><p>La revocación o cancelación de su pago automático <b>no cancela</b> su contrato con el prestamista de día de pago. Si usted revoca o cancela un pago automático de un préstamo, usted aún debe el saldo de ese préstamo. Si usted tiene problemas para impedir que un prestamista retire dinero de su cuenta, usted puede comunicarse con el <a href="/es/obtener-respuestas/como-consigo-al-organismo-regulador-bancario-de-mi-estado-es-1637/">regulador estatal</a> o el <a class="a-link a-link__icon" href="/external-site/?ext_url=http%3A%2F%2Fwww.naag.org%2Fnaag%2Fattorneys-general%2Fwhos-my-ag.php&amp;signature=Yf94FSTwIBS6bowRNeB8owcUJ4Q"><span class="a-link_text">fiscal general del estado</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a> <em>(en inglés)</em>. También puede presentar una queja ante la Oficina para la Protección Financiera del Consumidor o llamar al (855) 411-2372<a class="" href="#"><img alt=""/></a>.</p>
     </div>
-                    </div>
                 </div>
-                <button class="o-expandable_header o-expandable_target"
-                        title="Expand content">
-                    <span class="o-expandable_link">
-                        <span class="o-expandable_cue o-expandable_cue-open">
-                            Leer más
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
-                       </span>
-                        <span class="o-expandable_cue o-expandable_cue-close">
-                            Esconder la respuesta completa
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h527.1c27.6 0 50 22.4 50 50s-22.4 50-50 50z"/></svg>
-                       </span>
-                    </span>
+                <button class="o-summary_btn"
+                        data-js-hook="behavior_flyout-menu_trigger">
+                    Leer más
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
                 </button>
             </div>
-        <div class="block related-questions">
-            <h2>¿No encuentra lo que busca?</h2>
-            <div class="block block__sub">
-                <h3>Otras preguntas </h3>
-                <ul class="m-list m-list__unstyled m-list__links">
-                    <li class="m-list_item">
-                        <a href="/es/obtener-respuestas/como-se-paga-un-prestamo-de-dia-de-pago-es-1599/" class="m-list_link">
-                            ¿Cómo se paga un préstamo de día de pago?
-                        </a>
-                    </li>
-                    <li class="m-list_item">
-                        <a href="/es/obtener-respuestas/que-es-un-prestamo-de-dia-de-pago-es-1567/" class="m-list_link">
-                            ¿Qué es un préstamo de día de pago?
-                        </a>
-                    </li>
-                    <li class="m-list_item">
-                        <a href="/es/obtener-respuestas/puedo-cobrar-un-cheque-en-cualquier-banco-o-cooperativa-de-credito-es-931/" class="m-list_link">
-                            ¿Puedo cobrar un cheque en cualquier banco o cooperativa de crédito?
-                        </a>
-                    </li>
-                    <li class="m-list_item m-list_item__last">
-                        <a href="/es/herramientas-del-consumidor/prestamos-del-dia-de-pago/" class="m-list_link">
-                            <b>
-                                Sepa más sobre
-                                préstamos del día de pago
-                            </b>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="block block__sub">
+            <div class="block related-questions">
+                <h2>¿No encuentra lo que busca?</h2>
+                <div class="block block__sub">
+                    <h3>Otras preguntas </h3>
+                    <ul class="m-list m-list__unstyled m-list__links">
+                        <li class="m-list_item">
+                            <a href="/es/obtener-respuestas/como-se-paga-un-prestamo-de-dia-de-pago-es-1599/" class="m-list_link">
+                                ¿Cómo se paga un préstamo de día de pago?
+                            </a>
+                        </li>
+                        <li class="m-list_item">
+                            <a href="/es/obtener-respuestas/que-es-un-prestamo-de-dia-de-pago-es-1567/" class="m-list_link">
+                                ¿Qué es un préstamo de día de pago?
+                            </a>
+                        </li>
+                        <li class="m-list_item">
+                            <a href="/es/obtener-respuestas/puedo-cobrar-un-cheque-en-cualquier-banco-o-cooperativa-de-credito-es-931/" class="m-list_link">
+                                ¿Puedo cobrar un cheque en cualquier banco o cooperativa de crédito?
+                            </a>
+                        </li>
+                        <li class="m-list_item m-list_item__last">
+                            <a href="/es/herramientas-del-consumidor/prestamos-del-dia-de-pago/" class="m-list_link">
+                                <b>
+                                    Sepa más sobre
+                                    préstamos del día de pago
+                                </b>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block block__sub">
 <div class="o-search-bar">
     <form method="get" action="/es/obtener-respuestas/buscar/">
         <label for="o-search-bar_query">
@@ -407,8 +396,8 @@
         </div>
     </form>
 </div>
+                </div>
             </div>
-        </div>
 <div class="o-feedback block">
     <form method="post"
           action="."

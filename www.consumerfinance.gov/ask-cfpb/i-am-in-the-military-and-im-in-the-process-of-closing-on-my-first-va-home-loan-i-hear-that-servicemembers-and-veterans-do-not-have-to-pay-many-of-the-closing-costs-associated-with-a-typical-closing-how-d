@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -223,7 +223,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Main menu">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -1206,64 +1206,53 @@
                 <p>The VA program does have limits on fees, compared to many other mortgage loan programs. </p>
             </div>
         <div class="block block__sub">
-            <div data-qa-hook="expandable"
-                 data-read-more="true"
-                 class="o-expandable
-                        o-expandable__read-more-mobile">
-                <div class="o-expandable_content" id="answer-content">
-                    <div class="answer-text">
+            <div class="o-summary o-summary__mobile"
+                 data-js-hook="behavior_flyout-menu">
+                <div class="o-summary_content answer-text"
+                     data-js-hook="behavior_flyout-menu_content">
     <div class="row text-row">
         <p>Three business days before closing, your lender provides you with a form called the <a href="/ask-cfpb/what-is-a-closing-disclosure-en-1983/">Closing Disclosure</a>. This form lists all the fees associated with getting the loan and breaks them down into categories to clearly indicate who pays what fee. Page 3 of the <a href="/owning-a-home/mortgage-closing/">Closing Disclosure</a> shows what fees you are responsible for and how much money you need to pay to close on the loan.</p>
 <p>It’s a good idea to bring your <a href="/ask-cfpb/what-is-a-loan-estimate-en-1995/">Loan Estimate</a>, Closing Disclosure, and any other loan documents to your Legal Assistance Office for review. If that’s not possible, you may download a pamphlet that explains your fees from the <a class="a-link a-link__icon" href="http://www.benefits.va.gov/homeloans/"><span class="a-link_text">VA’s home loan website</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a>. If you still have questions or concerns, call your regional <a class="a-link a-link__icon" href="http://www.benefits.va.gov/homeloans/rlcweb.asp"><span class="a-link_text">VA office</span> <svg class="cf-icon-svg" viewbox="0 0 790.1 1200" xmlns="http://www.w3.org/2000/svg"><path d="M740.1 178.8H449.5c-27.6 0-50 22.4-50 50s22.4 50 50 50h169.9L518.2 379.9c-14.7-6.2-30.5-9.4-46.4-9.4H120c-66.2.1-119.9 53.8-120 120v351.8c.1 66.2 53.8 119.9 120 120h351.8c66.2-.1 119.9-53.8 120-120V490.6c0-12.6-2-25-5.8-37l104.1-104.1v169.9c0 27.6 22.4 50 50 50s50-22.4 50-50V228.8c0-27.7-22.4-50-50-50zM491.8 842.3c-.1 11-9 19.9-20 20H120c-11-.1-19.9-9-20-20V490.6c.1-11 9-19.9 20-20h307.5L267 631.1c-19.4 19.6-19.3 51.3.3 70.7 19.5 19.3 50.9 19.3 70.4 0l154-154 .1 294.5z"></path></svg></a> or call the VA main Home Loan information line at (877) 827-3702 for assistance.</p>
 <p><strong>Note: You won’t receive a Loan Estimate or Closing Disclosure if you applied for a mortgage prior to Oct. 3, 2015, or if you're applying for a <a href="/ask-cfpb/what-is-a-reverse-mortgage-en-224/">reverse mortgage</a>.</strong> For those loans, you will receive two forms – a <a href="/ask-cfpb/what-is-a-good-faith-estimate-what-is-a-gfe-en-146/">Good Faith Estimate (GFE)</a> and an initial <a href="/ask-cfpb/what-is-a-truth-in-lending-disclosure-en-180/">Truth-in-Lending disclosure</a>  – instead of a Loan Estimate. Instead of a Closing Disclosure, you will receive a final <a href="/ask-cfpb/what-is-a-truth-in-lending-disclosure-en-180/">Truth-in-Lending disclosure</a> and a <a href="/ask-cfpb/what-is-a-hud-1-settlement-statement-en-178/">HUD-1 Settlement Statement</a>. If you are applying for a <a href="/ask-cfpb/my-lender-offered-me-a-home-equity-line-of-credit-heloc-what-is-a-heloc-en-246/">HELOC</a>, a manufactured housing loan that is not secured by real estate, or a loan through certain types of homebuyer assistance programs, you will not receive a GFE or a Loan Estimate, but you should receive a <a href="/ask-cfpb/what-is-a-truth-in-lending-disclosure-en-180/">Truth-in-Lending disclosure</a>.</p><p></p>
     </div>
-                    </div>
                 </div>
-                <button class="o-expandable_header o-expandable_target"
-                        title="Expand content">
-                    <span class="o-expandable_link">
-                        <span class="o-expandable_cue o-expandable_cue-open">
-                            Read full answer
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
-                       </span>
-                        <span class="o-expandable_cue o-expandable_cue-close">
-                            Hide full answer
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h527.1c27.6 0 50 22.4 50 50s-22.4 50-50 50z"/></svg>
-                       </span>
-                    </span>
+                <button class="o-summary_btn"
+                        data-js-hook="behavior_flyout-menu_trigger">
+                    Read full answer
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
                 </button>
             </div>
-        <div class="block related-questions">
-            <h2>Don't see what you're looking for?</h2>
-            <div class="block block__sub">
-                <h3>Browse related questions </h3>
-                <ul class="m-list m-list__unstyled m-list__links">
-                    <li class="m-list_item">
-                        <a href="/ask-cfpb/what-is-a-mortgage-closing-what-happens-at-the-closing-en-176/" class="m-list_link">
-                            What is a mortgage "closing?" What happens at the closing?
-                        </a>
-                    </li>
-                    <li class="m-list_item">
-                        <a href="/ask-cfpb/what-costs-will-i-have-to-pay-as-part-of-taking-out-a-mortgage-loan-en-153/" class="m-list_link">
-                            What costs will I have to pay as part of taking out a mortgage loan?
-                        </a>
-                    </li>
-                    <li class="m-list_item">
-                        <a href="/ask-cfpb/i-never-received-a-loan-estimate-what-can-i-do-en-148/" class="m-list_link">
-                            I never received a Loan Estimate. What can I do?
-                        </a>
-                    </li>
-                    <li class="m-list_item m-list_item__last">
-                        <a href="/consumer-tools/mortgages/" class="m-list_link">
-                            <b>
-                                Learn more about
-                                mortgages
-                            </b>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="block block__sub">
+            <div class="block related-questions">
+                <h2>Don't see what you're looking for?</h2>
+                <div class="block block__sub">
+                    <h3>Browse related questions </h3>
+                    <ul class="m-list m-list__unstyled m-list__links">
+                        <li class="m-list_item">
+                            <a href="/ask-cfpb/what-is-a-mortgage-closing-what-happens-at-the-closing-en-176/" class="m-list_link">
+                                What is a mortgage "closing?" What happens at the closing?
+                            </a>
+                        </li>
+                        <li class="m-list_item">
+                            <a href="/ask-cfpb/what-costs-will-i-have-to-pay-as-part-of-taking-out-a-mortgage-loan-en-153/" class="m-list_link">
+                                What costs will I have to pay as part of taking out a mortgage loan?
+                            </a>
+                        </li>
+                        <li class="m-list_item">
+                            <a href="/ask-cfpb/i-never-received-a-loan-estimate-what-can-i-do-en-148/" class="m-list_link">
+                                I never received a Loan Estimate. What can I do?
+                            </a>
+                        </li>
+                        <li class="m-list_item m-list_item__last">
+                            <a href="/consumer-tools/mortgages/" class="m-list_link">
+                                <b>
+                                    Learn more about
+                                    mortgages
+                                </b>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block block__sub">
 <div class="o-search-bar">
     <form method="get" action="/ask-cfpb/search/">
         <label for="o-search-bar_query">
@@ -1296,8 +1285,8 @@
         </div>
     </form>
 </div>
+                </div>
             </div>
-        </div>
 <div class="o-feedback block">
     <form method="post"
           action="."

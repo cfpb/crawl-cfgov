@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -188,7 +188,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Menú principal">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -291,7 +291,7 @@
     <main class="content content__2-1 content__bleedbar ask-cfpb-page ask-cfpb-page__answer"
           id="main">
             <div class="content_wrapper">
-    <nav class="breadcrumbs" aria-label="Breadcrumbs">
+    <nav class="breadcrumbs" aria-label="Guía de navegación">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
                 <a class="breadcrumbs_link" href="/es/herramientas-del-consumidor/tarjetas-de-credito/respuestas/">
                     Respuestas sobre tarjetas de crédito
@@ -311,60 +311,49 @@
     <div class="block
                 block__flush-top">
         <div class="block block__sub">
-            <div data-qa-hook="expandable"
-                 data-read-more="true"
-                 class="o-expandable
-                        o-expandable__read-more-mobile">
-                <div class="o-expandable_content" id="answer-content">
-                    <div class="answer-text">
+            <div class="o-summary o-summary__mobile"
+                 data-js-hook="behavior_flyout-menu">
+                <div class="o-summary_content answer-text"
+                     data-js-hook="behavior_flyout-menu_content">
     <div class="row text-row">
         <p>A un emisor de tarjeta que aumenta su tasa de interés generalmente se le exige que revise su tasa por lo menos una vez cada seis meses para determinar si las razones para el aumento de la tasa aún se aplican. </p>
 <p>El emisor de la tarjeta puede – y en algunas circunstancias debe – comparar la tasa que le están cobrando a usted con la tasa que le cobrarían a usted hoy si ha solicitado una nueva tarjeta, con base en los precios del emisor para cuentas nuevas.  Si su tasa es superior a la que se le cobraría como nuevo cliente, el emisor de la tarjeta debe reducir su tasa a la tasa que se les cobra a los nuevos clientes. Sin embargo, esta tasa no necesariamente será tan baja como su tasa original.</p>
 <p>Si su tasa aumentó debido a factores específicos suyos (como debido a que hizo un pago retrasado), entonces en lugar de comparar su tasa con la tasa de interés cargada a nuevos clientes, el emisor de la tarjeta puede considerar si los factores que lo llevaron a aumentar su tasa de interés todavía se aplican. Si el emisor de la tarjeta elige proceder por este camino y los factores que llevaron al aumento ya no se aplican, entonces debe disminuir su tasa y debe seguir políticas razonables al hacerlo, pero no necesariamente debe reducir su tasa a la tasa original.</p>
 <p>Si tiene preguntas sobre el motivo de las acciones del emisor de la tarjeta, debe comunicarse con el mismo.</p>
     </div>
-                    </div>
                 </div>
-                <button class="o-expandable_header o-expandable_target"
-                        title="Expand content">
-                    <span class="o-expandable_link">
-                        <span class="o-expandable_cue o-expandable_cue-open">
-                            Leer más
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
-                       </span>
-                        <span class="o-expandable_cue o-expandable_cue-close">
-                            Esconder la respuesta completa
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h527.1c27.6 0 50 22.4 50 50s-22.4 50-50 50z"/></svg>
-                       </span>
-                    </span>
+                <button class="o-summary_btn"
+                        data-js-hook="behavior_flyout-menu_trigger">
+                    Leer más
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm263.1 550.7H549.6v213.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V655.9H236c-27.6 0-50-22.4-50-50s22.4-50 50-50h213.6V342.3c0-27.6 22.4-50 50-50s50 22.4 50 50v213.6h213.6c27.6 0 50 22.4 50 50s-22.5 50-50.1 50z"/></svg>
                 </button>
             </div>
-        <div class="block related-questions">
-            <h2>¿No encuentra lo que busca?</h2>
-            <div class="block block__sub">
-                <h3>Otras preguntas </h3>
-                <ul class="m-list m-list__unstyled m-list__links">
-                    <li class="m-list_item">
-                        <a href="/es/obtener-respuestas/el-emisor-de-la-tarjeta-aumento-la-tasa-de-interes-sobre-mi-saldo-actual-pueden-hacer-eso-que-puedo-hacer-para-que-me-bajen-la-tasa-nuevamente-es-72/" class="m-list_link">
-                            El emisor de la tarjeta aumentó la tasa de interés sobre mi saldo actual. ¿Pueden hacer eso?  ¿Qué puedo hacer para que me bajen la tasa nuevamente?
-                        </a>
-                    </li>
-                    <li class="m-list_item">
-                        <a href="/es/obtener-respuestas/puede-mi-compania-de-tarjetas-de-credito-cambiar-los-terminos-de-mi-cuenta-es-70/" class="m-list_link">
-                            ¿Puede mi compañía de tarjetas de crédito cambiar los términos de mi cuenta?
-                        </a>
-                    </li>
-                    <li class="m-list_item m-list_item__last">
-                        <a href="/es/herramientas-del-consumidor/tarjetas-de-credito/respuestas/" class="m-list_link">
-                            <b>
-                                Sepa más sobre
-                                tarjetas de crédito
-                            </b>
-                        </a>
-                    </li>
-                </ul>
-            </div>
-            <div class="block block__sub">
+            <div class="block related-questions">
+                <h2>¿No encuentra lo que busca?</h2>
+                <div class="block block__sub">
+                    <h3>Otras preguntas </h3>
+                    <ul class="m-list m-list__unstyled m-list__links">
+                        <li class="m-list_item">
+                            <a href="/es/obtener-respuestas/el-emisor-de-la-tarjeta-aumento-la-tasa-de-interes-sobre-mi-saldo-actual-pueden-hacer-eso-que-puedo-hacer-para-que-me-bajen-la-tasa-nuevamente-es-72/" class="m-list_link">
+                                El emisor de la tarjeta aumentó la tasa de interés sobre mi saldo actual. ¿Pueden hacer eso?  ¿Qué puedo hacer para que me bajen la tasa nuevamente?
+                            </a>
+                        </li>
+                        <li class="m-list_item">
+                            <a href="/es/obtener-respuestas/puede-mi-compania-de-tarjetas-de-credito-cambiar-los-terminos-de-mi-cuenta-es-70/" class="m-list_link">
+                                ¿Puede mi compañía de tarjetas de crédito cambiar los términos de mi cuenta?
+                            </a>
+                        </li>
+                        <li class="m-list_item m-list_item__last">
+                            <a href="/es/herramientas-del-consumidor/tarjetas-de-credito/respuestas/" class="m-list_link">
+                                <b>
+                                    Sepa más sobre
+                                    tarjetas de crédito
+                                </b>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="block block__sub">
 <div class="o-search-bar">
     <form method="get" action="/es/obtener-respuestas/buscar/">
         <label for="o-search-bar_query">
@@ -397,8 +386,8 @@
         </div>
     </form>
 </div>
+                </div>
             </div>
-        </div>
 <div class="o-feedback block">
     <form method="post"
           action="."

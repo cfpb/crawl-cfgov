@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -224,7 +224,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Main menu">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -2553,9 +2553,12 @@ with the Financial Crimes Enforcement Network (FinCEN) from 2013 to 2017.</span>
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/complaint-snapshot-mortgage/">
+                <a class="" href="/data-research/research-reports/complaint-snapshot-mortgage/">
                     Complaint snapshot: Mortgage
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>This

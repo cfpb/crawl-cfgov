@@ -33,7 +33,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.be3013f8473e.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.ffadd2b3b08f.js" as="script">
     <link rel="dns-prefetch" href="//consumerfinance.gov/">
     <link rel="dns-prefetch" href="//fast.fonts.net/">
     <link rel="dns-prefetch" href="//google-analytics.com/">
@@ -224,7 +224,7 @@
 <nav class="o-mega-menu
             u-hidden"
      data-js-hook="behavior_flyout-menu"
-     aria-label="main menu">
+     aria-label="Main menu">
     <button class="o-mega-menu_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
             aria-haspopup="menu">
@@ -1387,10 +1387,10 @@
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="privacy">Privacy</option>
+  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="redlining">Redlining</option>
   <option value="civil-penalty-fund">Civil Penalty Fund</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
-  <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
   <option value="procurement">Procurement</option>
   <option value="native-communities">Native communities</option>
@@ -1478,6 +1478,7 @@
   <option value="janneke-ratcliffe">Janneke Ratcliffe</option>
   <option value="will-wade-gery">Will Wade-Gery</option>
   <option value="megan-thibos">Megan Thibos</option>
+  <option value="jonah-kaplan">Jonah Kaplan</option>
   <option value="dan-sokolov">Dan Sokolov</option>
   <option value="desmond-brown">Desmond Brown</option>
   <option value="cliff-rosenthal">Cliff Rosenthal</option>
@@ -1488,7 +1489,6 @@
   <option value="serena-villalba">Serena Villalba</option>
   <option value="gary-stein">Gary Stein</option>
   <option value="eric-goldberg">Eric Goldberg</option>
-  <option value="jonah-kaplan">Jonah Kaplan</option>
   <option value="corey-stone">Corey Stone</option>
   <option value="stuart-ishimaru">Stuart Ishimaru</option>
   <option value="lindsay-bacon">Lindsay Bacon</option>
@@ -1547,6 +1547,7 @@
   <option value="max-bentovim">Max Bentovim</option>
   <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="brian-stone">Brian Stone</option>
+  <option value="logan-herman">Logan Herman</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
   <option value="chris-dangelo">Chris DAngelo</option>
@@ -1587,7 +1588,6 @@
   <option value="andy-cohen">Andy Cohen</option>
   <option value="paul-watkins">Paul Watkins</option>
   <option value="eva-nagypal">Éva Nagypál</option>
-  <option value="logan-herman">Logan Herman</option>
   <option value="keo-chea">Keo Chea</option>
   <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
@@ -1807,13 +1807,66 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1340 filtered results</div>
+          <div class="h4 m-notification_message">1341 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        At the CFPB
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2012-12-04T00:00:00">DEC 04, 2012</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/the-cfpbs-summer-internships-it-gave-me-the-specific-experience-i-needed/">
+                    The CFPB’s summer internships: “it gave me the specific experience I needed”
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>We’re recruiting summer interns for our Pathways Program again. If you’re interested in the mission of the CFPB, read the full posting to learn more and apply. The deadline is midnight on Wednesday, December 5. That’s tomorrow! We’ve asked the Student Ambassadors, former CFPB interns, to share what inspired them to intern with the CFPB […]</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=lindsay-bacon">Lindsay Bacon</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=personnel" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Personnel
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=students" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Students
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2984,65 +3037,6 @@
                 <a href="/about-us/blog/?topics=compliance" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Compliance
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Money transfers
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        At the CFPB
-</span>
-                            <span class="m-meta-header_separator">|</span>
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Policy and compliance
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2012-10-12T00:00:00">OCT 12, 2012</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/remittance-rule-session/">
-                    Remittance Rule Session
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Updated on August 8, 2013: The remittance rule goes into effect October 28, 2013. Visit the remittance rule page for additional information regarding the rule including the most recent updates. The live session discussed below is now out of date. Please see the remittance rule page for an updated compliance video. Updated on November 27, […]</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=cfpb-web-team">CFPB Web Team</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
                 </a>
             </li>
             <li class="tags_tag">
