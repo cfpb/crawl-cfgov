@@ -1309,10 +1309,77 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 0 results  within money transfers</p>
+        <p class="results-message">Showing 34 results  within money transfers</p>
         <section class="results">
             <div class="page-links">
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-heard-that-there-are-new-rules-about-international-money-transfers-who-is-protected-by-them-en-1731/" class="hover">I heard that there are new rules about international money transfers. Who is protected by them?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-just-sent-money-to-a-foreign-country-the-receipt-showed-other-fees-that-would-be-deducted-from-the-amount-transferred-should-i-pay-more-to-cover-those-fees-en-1729/" class="hover">I just sent money to a foreign country. The receipt showed &#34;other fees&#34; that would be deducted from the amount transferred. Should I pay more to cover those fees?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-just-sent-some-money-to-another-country-and-received-two-pieces-of-paper-that-included-a-lot-of-information-ive-never-seen-before-what-are-these-and-what-do-they-mean-en-1727/" class="hover">I just sent some money to another country and received two pieces of paper that included a lot of information I&#39;ve never seen before. What are these and what do they mean?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/are-there-any-laws-that-protect-me-if-i-send-money-to-someone-in-another-country-en-1725/" class="hover">Are there any laws that protect me if I send money to someone in another country?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-need-to-send-a-specific-amount-of-money-to-another-country-how-can-i-be-sure-the-right-amount-arrives-en-1723/" class="hover">I need to send a specific amount of money to another country. How can I be sure the right amount arrives?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-is-a-remittance-transfer-provider-en-1721/" class="hover">What is a remittance transfer provider?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/what-are-the-new-federal-protections-for-consumers-who-send-money-internationally-en-1507/" class="hover">What are the new federal protections for consumers who send money internationally?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-sent-money-to-another-country-and-i-received-a-receipt-that-said-i-should-call-the-cfpb-or-visit-its-website-if-i-had-a-question-or-complaint-i-have-a-question-or-complaint-can-you-help-me-en-1505/" class="hover">I sent money to another country and I received a receipt that said I should call the CFPB or visit its website if I had a question or complaint. I have a question or complaint. Can you help me?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-heard-that-companies-that-send-money-abroad-are-now-required-to-tell-me-the-exchange-rate-and-the-fees-when-i-send-money-abroad-the-company-that-i-used-did-not-tell-me-this-information-what-can-i-do-en-1169/" class="hover">I heard that companies that send money abroad are now required to tell me the exchange rate and the fees when I send money abroad. The company that I used did not tell me this information. What can I do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-am-having-problems-with-domestic-or-international-wire-transfers-remittances-or-international-money-transfers-what-can-i-do-en-1167/" class="hover">I am having problems with domestic or international wire transfers, remittances, or international money transfers. What can I do?</a></div>
+            </article>
             <div class="block block__sub">
+    <nav class="m-pagination"
+         role="navigation"
+         aria-label="Pagination">
+        <a class="a-btn m-pagination_btn-prev" href="?page=2">
+<span class="a-btn_icon a-btn_icon__on-left"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"></path></svg></span>
+            Previous
+        </a>
+        <a class="a-btn m-pagination_btn-next" href="?page=4">Next
+            <span class="a-btn_icon a-btn_icon__on-right"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
+</a>
+        <form class="m-pagination_form" action="">
+            <label for="m-pagination_current-page-0">
+                <span class="m-pagination_label">
+                    Page
+                </span>
+                <span class="u-visually-hidden">
+                    3 out of 4 total pages
+                </span>
+            </label>
+            <input id="m-pagination_current-page-0"
+                   class="m-pagination_current-page"
+                   name="page"
+                   type="number"
+                   min="1"
+                   max="4"
+                   pattern="[0-9]*"
+                   inputmode="numeric"
+                   value="3">
+            <span class="m-pagination_label"> of 4</span>
+            <button class="a-btn
+                           a-btn__link
+                           m-pagination_btn-submit"
+                    type="submit">
+                Go
+            </button>
+        </form>
+    </nav>
             </div>
         </section>
         <p class="ask-search-link h4">

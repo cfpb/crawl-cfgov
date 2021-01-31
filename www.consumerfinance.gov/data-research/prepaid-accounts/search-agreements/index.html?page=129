@@ -1343,6 +1343,11 @@
                             Axiom Bank, National Association
                     </option>
                     <option 
+                        value="Sutton Bank"
+                        >
+                            Sutton Bank
+                    </option>
+                    <option 
                         value="Bank of George"
                         >
                             Bank of George
@@ -1351,11 +1356,6 @@
                         value="Four Corners Community Bank"
                         >
                             Four Corners Community Bank
-                    </option>
-                    <option 
-                        value="Sutton Bank"
-                        >
-                            Sutton Bank
                     </option>
                     <option 
                         value="BBVA Compass"
@@ -1693,14 +1693,14 @@
                             Regions Bank
                     </option>
                     <option 
-                        value="Del Norte Credit Union"
-                        >
-                            Del Norte Credit Union
-                    </option>
-                    <option 
                         value="Transportation Federal Credit Union"
                         >
                             Transportation Federal Credit Union
+                    </option>
+                    <option 
+                        value="Del Norte Credit Union"
+                        >
+                            Del Norte Credit Union
                     </option>
                     <option 
                         value="FIRST FINANCIAL BANK, NATIONAL ASSOCIATION"
@@ -2035,11 +2035,44 @@
     <div class="results_header">
             <div class="results_count">
                 <h3>Showing
-                    2591 total products
+                    2592 total products
                 </h3>
             </div>
     </div>
     <div class="results_list">
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/43193">Wells Fargo EasyPay Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>Wells Fargo Bank, National Association</dd>
+                <dt>Prepaid product type</dt>
+                <dd>GPR (General Purpose Reloadable)</dd>
+                <dt>Program manager</dt>
+                <dd>No information provided</dd>
+                <dt>Other relevant parties</dt>
+                <dd>No information provided</dd>
+                <dt>Current status</dt>
+                <dd>Withdrawn</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Wells_Fargo_EasyPay_Card_06_15_2019.zip"><span class="a-link_text">
+                    Wells_Fargo_EasyPay_Card_06_15_2019.zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/43193">View all agreements for Wells Fargo EasyPay Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
 <article class="results_item">
     <h4 class="h3">
       <a href="detail/81307">Western Union Netspend Prepaid Mastercard</a>
@@ -2108,39 +2141,6 @@
 </article>
 <article class="results_item">
     <h4 class="h3">
-      <a href="detail/48423">Western Union Netspend Prepaid Mastercard</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>GPR (General Purpose Reloadable)</dd>
-                <dt>Program manager</dt>
-                <dd>Netspend Corporation</dd>
-                <dt>Other relevant parties</dt>
-                <dd>Western Union Financial Services, Inc.</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Western_Union_Netspend_Prepaid_Mastercard_04_01_2019.zip"><span class="a-link_text">
-                    Western_Union_Netspend_Prepaid_Mastercard_04_01_2019.zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/48423">View all agreements for Western Union Netspend Prepaid Mastercard</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
       <a href="detail/48442">Western Union Netspend Prepaid Mastercard</a>
     </h4>
     <div class="content-l">
@@ -2168,6 +2168,39 @@
             <div class="block block__sub">
                 <h5 class="h4 u-mb5">View all agreement files</h5>
             <p><a href="detail/48442">View all agreements for Western Union Netspend Prepaid Mastercard</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/48423">Western Union Netspend Prepaid Mastercard</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>GPR (General Purpose Reloadable)</dd>
+                <dt>Program manager</dt>
+                <dd>Netspend Corporation</dd>
+                <dt>Other relevant parties</dt>
+                <dd>Western Union Financial Services, Inc.</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/Western_Union_Netspend_Prepaid_Mastercard_04_01_2019.zip"><span class="a-link_text">
+                    Western_Union_Netspend_Prepaid_Mastercard_04_01_2019.zip
+                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/48423">View all agreements for Western Union Netspend Prepaid Mastercard</a></p>
             </div>
         </div>
     </div>
@@ -2663,39 +2696,6 @@
             <div class="block block__sub">
                 <h5 class="h4 u-mb5">View all agreement files</h5>
             <p><a href="detail/47467">View all agreements for Workforce One Payroll Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
-      <a href="detail/46058">WorkPlace Payroll Card Program</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>Sunrise Banks, National Association</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Payroll</dd>
-                <dt>Program manager</dt>
-                <dd>Wirecard North America</dd>
-                <dt>Other relevant parties</dt>
-                <dd>WorkPlace</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/WorkPlace_Payroll_Card_Program_04_01_2019.zip"><span class="a-link_text">
-                    WorkPlace_Payroll_Card_Program_04_01_2019.zip
-                </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/46058">View all agreements for WorkPlace Payroll Card Program</a></p>
             </div>
         </div>
     </div>

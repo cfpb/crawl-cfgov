@@ -1343,6 +1343,11 @@
                             Axiom Bank, National Association
                     </option>
                     <option 
+                        value="Sutton Bank"
+                        >
+                            Sutton Bank
+                    </option>
+                    <option 
                         value="Bank of George"
                         >
                             Bank of George
@@ -1351,11 +1356,6 @@
                         value="Four Corners Community Bank"
                         >
                             Four Corners Community Bank
-                    </option>
-                    <option 
-                        value="Sutton Bank"
-                        >
-                            Sutton Bank
                     </option>
                     <option 
                         value="BBVA Compass"
@@ -1693,14 +1693,14 @@
                             Regions Bank
                     </option>
                     <option 
-                        value="Del Norte Credit Union"
-                        >
-                            Del Norte Credit Union
-                    </option>
-                    <option 
                         value="Transportation Federal Credit Union"
                         >
                             Transportation Federal Credit Union
+                    </option>
+                    <option 
+                        value="Del Norte Credit Union"
+                        >
+                            Del Norte Credit Union
                     </option>
                     <option 
                         value="FIRST FINANCIAL BANK, NATIONAL ASSOCIATION"
@@ -2035,7 +2035,7 @@
     <div class="results_header">
             <div class="results_count">
                 <h3>Showing
-                    2591 total products
+                    2592 total products
                 </h3>
             </div>
     </div>

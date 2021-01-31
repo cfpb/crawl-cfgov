@@ -417,10 +417,79 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 0 resultados en lo básico</p>
+        <p class="results-message">Se muestran 108 resultados en lo básico</p>
         <section class="results">
             <div class="page-links">
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/cuales-son-mis-derechos-como-integrante-de-las-fuerzas-militares-bajo-la-ley-de-igualdad-para-la-oportunidad-al-credito-puede-un-acreedor-negarse-a-extenderme-credito-solo-porque-soy-militar-es-2057/" class="hover">¿Cuáles son mis derechos como integrante de las Fuerzas Armadas bajo la Ley de Igualdad para la Oportunidad al Crédito? ¿Puede un acreedor negarse a extenderme crédito sólo porque soy militar?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-busco-y-comparo-hipotecas-recibire-informacion-conforme-a-la-nueva-norma-de-divulgacion-know-before-you-owe-es-2009/" class="hover">¿Recibiré las divulgaciones de &#34;Know before you owe&#34; (Saber Antes de Deber) cuando busque una hipoteca?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-pasa-exactamente-cuando-un-prestamista-hipotecario-revisa-mi-credito-es-2005/" class="hover">¿Qué sucede exactamente cuando un prestamista hipotecario revisa mi crédito?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/cuanto-cuesta-recibir-una-estimacion-del-prestamo-es-2003/" class="hover">¿Cuánto cuesta recibir una estimación del préstamo?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-una-estimacion-del-prestamo-es-1995/" class="hover">¿Qué es una Estimación del Préstamo?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-informacion-debo-proporcionar-a-un-prestamista-para-recibir-una-estimacion-del-prestamo-es-1987/" class="hover">¿Qué información debo proporcionar a un prestamista para recibir una estimación del préstamo?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/como-los-prestamistas-hipotecarios-calculan-los-pagos-mensuales-es-1965/" class="hover">¿Cómo los prestamistas hipotecarios calculan los pagos mensuales?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-una-multa-por-prepago-es-1957/" class="hover">¿Qué es una multa por pago anticipado?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-un-seguro-hipotecario-y-como-funciona-es-1953/" class="hover">¿Qué es el seguro hipotecario y cómo funciona?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/con-una-hipoteca-de-tasa-ajustable-arm-cuales-son-los-limites-de-las-tasas-y-como-funcionan-es-1951/" class="hover">Con una hipoteca de tasa ajustable (ARM), ¿cuáles son los límites de las tasas y cómo funcionan?</a></div>
+            </article>
             <div class="block block__sub">
+    <nav class="m-pagination"
+         role="navigation"
+         aria-label="Número de página">
+        <a class="a-btn
+                  a-btn__disabled
+                  m-pagination_btn-prev">
+            <span class="a-btn_icon a-btn_icon__on-left"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg></span>
+            Anterior
+        </a>
+        <a class="a-btn m-pagination_btn-next" href="?page=2">Siguiente
+            <span class="a-btn_icon a-btn_icon__on-right"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
+</a>
+        <form class="m-pagination_form" action="">
+            <label for="m-pagination_current-page-0">
+                <span class="m-pagination_label">
+                    Página
+                </span>
+                <span class="u-visually-hidden">
+                    1 out of 11 total pages
+                </span>
+            </label>
+            <input id="m-pagination_current-page-0"
+                   class="m-pagination_current-page"
+                   name="page"
+                   type="number"
+                   min="1"
+                   max="11"
+                   pattern="[0-9]*"
+                   inputmode="numeric"
+                   value="1">
+            <span class="m-pagination_label"> de 11</span>
+            <button class="a-btn
+                           a-btn__link
+                           m-pagination_btn-submit"
+                    type="submit">
+                Ir
+            </button>
+        </form>
+    </nav>
             </div>
         </section>
     </div>

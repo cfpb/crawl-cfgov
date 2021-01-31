@@ -1309,10 +1309,77 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 0 results  within mortgages</p>
+        <p class="results-message">Showing 278 results  within mortgages</p>
         <section class="results">
             <div class="page-links">
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-got-divorced-and-my-lender-terminated-my-home-equity-line-of-credit-can-they-do-that-en-358/" class="hover">I got divorced, and my lender terminated my home equity line of credit. Can they do that?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-am-not-married-but-want-to-submit-a-joint-application-for-a-mortgage-or-home-equity-loan-with-another-person-can-we-be-treated-differently-from-married-joint-applicants-en-357/" class="hover">I am not married but want to submit a joint application for a mortgage or home equity loan with another person. Can we be treated differently from married joint applicants?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/does-a-lender-or-broker-have-to-consider-my-part-time-or-retirement-income-en-356/" class="hover">Does a lender or broker have to consider my part-time or retirement income?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-want-to-apply-for-a-mortgage-or-home-equity-loan-can-a-lender-or-broker-ask-me-about-my-children-or-dependents-en-355/" class="hover">I want to apply for a mortgage or home equity loan. Can a lender or broker ask me about my children or dependents?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/if-i-want-to-rely-on-the-alimony-or-child-support-that-i-receive-in-my-mortgage-or-home-equity-loan-application-does-a-lender-or-broker-have-to-consider-that-income-en-354/" class="hover">If I want to rely on the alimony or child support that I receive in my mortgage or home equity loan application, does a lender or broker have to consider that income?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/can-a-lender-or-broker-ask-me-about-the-alimony-child-support-or-separate-maintenance-payments-that-i-receive-en-353/" class="hover">Can a lender or broker ask me about the alimony, child support, or separate maintenance payments that I receive?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/i-am-married-or-was-previously-married-and-i-am-applying-for-a-mortgage-loan-or-home-equity-line-of-credit-in-my-own-name-can-a-lender-or-broker-ask-me-about-my-spouse-or-former-spouse-en-352/" class="hover">I am married or was previously married, and I am applying for a mortgage loan or home equity line of credit in my own name. Can a lender or broker ask me about my spouse or former spouse?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/if-i-am-married-can-a-lender-or-broker-turn-down-my-application-for-a-mortgage-or-home-equity-loan-in-my-own-name-en-351/" class="hover">If I am married, can a lender or broker turn down my application for a mortgage or home equity loan in my own name?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/can-a-lender-or-broker-consider-my-sex-or-marital-status-when-deciding-whether-to-give-me-a-mortgage-or-home-equity-loan-en-350/" class="hover">Can a lender or broker consider my sex or marital status when deciding whether to give me a mortgage or home equity loan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/ask-cfpb/can-a-lender-or-broker-consider-the-fact-that-i-am-not-a-citizen-of-the-united-states-en-349/" class="hover">Can a lender or broker consider the fact that I am not a citizen of the United States?</a></div>
+            </article>
             <div class="block block__sub">
+    <nav class="m-pagination"
+         role="navigation"
+         aria-label="Pagination">
+        <a class="a-btn m-pagination_btn-prev" href="?page=9">
+<span class="a-btn_icon a-btn_icon__on-left"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"></path></svg></span>
+            Previous
+        </a>
+        <a class="a-btn m-pagination_btn-next" href="?page=11">Next
+            <span class="a-btn_icon a-btn_icon__on-right"><svg class="cf-icon-svg" viewbox="0 0 559.6 1200" xmlns="http://www.w3.org/2000/svg"><path d="M65.1 1090.2c-35.9 0-65-29-65.1-64.9 0-17.3 6.8-33.9 19.1-46.1l383.6-383.5L19.1 212.2c-25.1-25.6-24.8-66.8.9-92 25.3-24.8 65.8-24.8 91.1 0l429.5 429.5c25.4 25.4 25.4 66.5 0 91.9L111 1071.2c-12.1 12.2-28.7 19.1-45.9 19z"></path></svg></span>
+</a>
+        <form class="m-pagination_form" action="">
+            <label for="m-pagination_current-page-0">
+                <span class="m-pagination_label">
+                    Page
+                </span>
+                <span class="u-visually-hidden">
+                    10 out of 28 total pages
+                </span>
+            </label>
+            <input id="m-pagination_current-page-0"
+                   class="m-pagination_current-page"
+                   name="page"
+                   type="number"
+                   min="1"
+                   max="28"
+                   pattern="[0-9]*"
+                   inputmode="numeric"
+                   value="10">
+            <span class="m-pagination_label"> of 28</span>
+            <button class="a-btn
+                           a-btn__link
+                           m-pagination_btn-submit"
+                    type="submit">
+                Go
+            </button>
+        </form>
+    </nav>
             </div>
         </section>
         <p class="ask-search-link h4">
