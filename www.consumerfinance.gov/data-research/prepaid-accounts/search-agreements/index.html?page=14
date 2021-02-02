@@ -1693,14 +1693,14 @@
                             Regions Bank
                     </option>
                     <option 
-                        value="Del Norte Credit Union"
-                        >
-                            Del Norte Credit Union
-                    </option>
-                    <option 
                         value="Transportation Federal Credit Union"
                         >
                             Transportation Federal Credit Union
+                    </option>
+                    <option 
+                        value="Del Norte Credit Union"
+                        >
+                            Del Norte Credit Union
                     </option>
                     <option 
                         value="FIRST FINANCIAL BANK, NATIONAL ASSOCIATION"
@@ -2035,7 +2035,7 @@
     <div class="results_header">
             <div class="results_count">
                 <h3>Showing
-                    2592 total products
+                    2593 total products
                 </h3>
             </div>
     </div>

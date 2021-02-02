@@ -1337,6 +1337,7 @@
   <option value="financial-coaching">Financial coaching</option>
   <option value="students">Students</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
+  <option value="innovation">Innovation</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
   <option value="auto-loans">Auto loans</option>
   <option value="supervision">Supervision</option>
@@ -1348,7 +1349,6 @@
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="behavioral-economics">Behavioral economics</option>
   <option value="housing-counselor">Housing counselor</option>
-  <option value="innovation">Innovation</option>
   <option value="reports">reports</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="fair-lending">Fair lending</option>
@@ -2744,6 +2744,12 @@
                 <a href="/about-us/events/archive-past-events/?topics=video" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Video
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/events/archive-past-events/?topics=innovation" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Innovation
                 </a>
             </li>
             <li class="tags_tag">

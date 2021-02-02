@@ -1373,17 +1373,17 @@
   <option value="money-transfers">Money transfers</option>
   <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
   <option value="financial-coaching">Financial coaching</option>
+  <option value="foreclosure">Foreclosure</option>
   <option value="overdrafts">Overdrafts</option>
   <option value="credit-union-advisory-council">Credit Union Advisory Council</option>
-  <option value="foreclosure">Foreclosure</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="credit-unions">Credit unions</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="community-banks">Community banks</option>
   <option value="compliance">Compliance</option>
+  <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="debit-cards">Debit cards</option>
-  <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="medical-debt">Medical debt</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="privacy">Privacy</option>
@@ -1807,13 +1807,81 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1341 filtered results</div>
+          <div class="h4 m-notification_message">1342 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2019-08-16T00:00:00">AUG 16, 2019</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/estafas-de-cierre-de-hipotecas-como-protegerse-usted-y-resguardar-su-dinero/">
+                    Estafas de cierre de hipotecas: cómo protegerse usted y resguardar su dinero
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p><span>Hay estafadores aprovechándose de ansiosos compradores de viviendas. Desconfíe de cualquier email que reciba con cambios de último minuto en las instrucciones para pagar o transferir el dinero del cierre.</span></p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=melissa-yu">Melissa Yu</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=homebuying" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Homebuying
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Identity theft and fraud
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgage closing
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-en-espanol" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB en español
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3184,56 +3252,6 @@ continue to revolve a balance.   </span></p>
                 <a href="/about-us/blog/?topics=financial-education" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Financial education
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-05-16T00:00:00">MAY 16, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/how-choose-school-financially-right/">
-                    How to choose the school that’s financially right for you
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>May 1st was National College Decision Day. Here’s how to compare schools and costs so you make the best financial choices for you and your family.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=adebukola-dada">Adebukola Dada</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=student-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Student loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=students" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Students
                 </a>
             </li>
     </ul>
