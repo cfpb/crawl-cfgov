@@ -2505,9 +2505,12 @@ your situation.</span></p>
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/new-protections-servicemembers-and-veterans-alert/">
+                <a class="" href="/about-us/blog/new-protections-servicemembers-and-veterans-alert/">
                     New protections for servicemembers and veterans alert
-                </a>
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
             </h3>
                 <div class="o-post-preview_description">
                     <p>A recent law provides additional protections for servicemembers affecting VA refinances, medical debt on credit reports, credit monitoring, and stays on foreclosure. Here’s what to look for in the new laws and when they go into effect.</p>
