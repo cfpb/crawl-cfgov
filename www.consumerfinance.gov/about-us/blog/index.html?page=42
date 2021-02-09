@@ -1442,9 +1442,9 @@
   <option value="dan-rutherford">Dan Rutherford</option>
   <option value="david-silberman">David Silberman</option>
   <option value="nora-dowd-eisenhower">Nora Dowd Eisenhower</option>
+  <option value="dave-sieminski">Dave Sieminski</option>
   <option value="cfpb-mortgage-disclosure-team">CFPB Mortgage Disclosure Team</option>
   <option value="skip-humphrey">Skip Humphrey</option>
-  <option value="dave-sieminski">Dave Sieminski</option>
   <option value="wendy-kamenshine">Wendy Kamenshine</option>
   <option value="kelly-cochran">Kelly Cochran</option>
   <option value="patrick-campbell">Patrick Campbell</option>
@@ -1516,6 +1516,7 @@
   <option value="anthony-welcher">Anthony Welcher</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
+  <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="gene-koo">Gene Koo</option>
   <option value="patricia-mcclung">Patricia McClung</option>
@@ -1545,7 +1546,6 @@
   <option value="miesha-davis">Miesha Davis</option>
   <option value="lyn-haralson">Lyn Haralson</option>
   <option value="max-bentovim">Max Bentovim</option>
-  <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="brian-stone">Brian Stone</option>
   <option value="logan-herman">Logan Herman</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
@@ -1807,13 +1807,61 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1344 filtered results</div>
+          <div class="h4 m-notification_message">1345 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        At the CFPB
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2013-05-07T00:00:00">MAY 07, 2013</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/the-best-legal-externship-money-cant-buy/">
+                    The best legal externship money can’t buy
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Are you a highly-motivated law student looking for an externship this fall? Do you have the desire to impact the lives of everyday American families? If you have a relentless commitment to professional and organizational excellence, have a strong academic record, are a strong writer, and can juggle tasks and aptly prioritize in a fast-paced environment, you could be a valuable asset to our enforcement team. Applications are due no later than May 15th.</p>
+<p><a href="/blog/the-best-legal-externship-money-cant-buy/">Learn more.</a></p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=matt-garber">Matt Garber</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2998,38 +3046,6 @@ To participate, tweet questions with the hashtag #MoneyTalk and follow us @CFPB.
             </li>
     </ul>
 </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        At the CFPB
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2013-03-28T00:00:00">MAR 28, 2013</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/live-from-des-moines/">
-                    Live from Des Moines, IA!
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>We were in Des Moines, IA for a field hearing on the expansion of Consumer Complaint Database. Today’s live event has ended. If you missed the event, you can read CFPB Director Cordray’s remarks and watch the recording below to find out about what you can do with complaint data.</p>
-                </div>
         </div>
     </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">

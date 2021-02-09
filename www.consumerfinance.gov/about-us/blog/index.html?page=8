@@ -1442,9 +1442,9 @@
   <option value="dan-rutherford">Dan Rutherford</option>
   <option value="david-silberman">David Silberman</option>
   <option value="nora-dowd-eisenhower">Nora Dowd Eisenhower</option>
+  <option value="dave-sieminski">Dave Sieminski</option>
   <option value="cfpb-mortgage-disclosure-team">CFPB Mortgage Disclosure Team</option>
   <option value="skip-humphrey">Skip Humphrey</option>
-  <option value="dave-sieminski">Dave Sieminski</option>
   <option value="wendy-kamenshine">Wendy Kamenshine</option>
   <option value="kelly-cochran">Kelly Cochran</option>
   <option value="patrick-campbell">Patrick Campbell</option>
@@ -1516,6 +1516,7 @@
   <option value="anthony-welcher">Anthony Welcher</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
+  <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="gene-koo">Gene Koo</option>
   <option value="patricia-mcclung">Patricia McClung</option>
@@ -1545,7 +1546,6 @@
   <option value="miesha-davis">Miesha Davis</option>
   <option value="lyn-haralson">Lyn Haralson</option>
   <option value="max-bentovim">Max Bentovim</option>
-  <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="brian-stone">Brian Stone</option>
   <option value="logan-herman">Logan Herman</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
@@ -1807,13 +1807,51 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1344 filtered results</div>
+          <div class="h4 m-notification_message">1345 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-04-10T00:00:00">APR 10, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/guide-covid-19-economic-stimulus-checks-vi/">
+                    Hướng dẫn về gói viện trợ kích thích kinh tế COVID-19
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Phần lớn người Mỹ sẽ bắt đầu được hưởng một số khoản viện trợ tài chính vào tháng 4 thông qua Khoản Viện trợ Tác động Kinh tế (còn được gọi là khoản tiền kích thích kinh tế) ban hành bởi Sở Thuế Vụ (IRS). Chúng tôi đã tiến hành chia nhỏ thành các câu hỏi phổ biến nhất về các khoản viện trợ này.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-vietnamese" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Vietnamese
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3006,44 +3044,6 @@
                 <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Disasters and emergencies
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-04-03T00:00:00">APR 03, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/stay-on-top-of-finances-during-coronavirus-pandemic-tl/">
-                    Mga tips upang manatiling may kontrol sa iyong mga kalagayang pampinansyal sa panahon ng pandemyang coronavirus
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Mga tips para manatiling may kontrol sa iyong mga kalagayang pampinansyal sa panahon ng pandemyang coronavirus, lalo na kung naiwasan mo ang pagkawala ng kita o malalaking gastusin.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-tagalog" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Tagalog
                 </a>
             </li>
     </ul>

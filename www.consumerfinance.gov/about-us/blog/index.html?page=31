@@ -1442,9 +1442,9 @@
   <option value="dan-rutherford">Dan Rutherford</option>
   <option value="david-silberman">David Silberman</option>
   <option value="nora-dowd-eisenhower">Nora Dowd Eisenhower</option>
+  <option value="dave-sieminski">Dave Sieminski</option>
   <option value="cfpb-mortgage-disclosure-team">CFPB Mortgage Disclosure Team</option>
   <option value="skip-humphrey">Skip Humphrey</option>
-  <option value="dave-sieminski">Dave Sieminski</option>
   <option value="wendy-kamenshine">Wendy Kamenshine</option>
   <option value="kelly-cochran">Kelly Cochran</option>
   <option value="patrick-campbell">Patrick Campbell</option>
@@ -1516,6 +1516,7 @@
   <option value="anthony-welcher">Anthony Welcher</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
+  <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="gene-koo">Gene Koo</option>
   <option value="patricia-mcclung">Patricia McClung</option>
@@ -1545,7 +1546,6 @@
   <option value="miesha-davis">Miesha Davis</option>
   <option value="lyn-haralson">Lyn Haralson</option>
   <option value="max-bentovim">Max Bentovim</option>
-  <option value="valentin-mihalache">Valentin Mihalache</option>
   <option value="brian-stone">Brian Stone</option>
   <option value="logan-herman">Logan Herman</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
@@ -1807,13 +1807,78 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1344 filtered results</div>
+          <div class="h4 m-notification_message">1345 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2015-05-22T00:00:00">MAY 22, 2015</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/he-aqui-por-que-la-ninez-es-un-buen-momento-para-aprender-sobre-el-dinero/">
+                    He aquí por qué la niñez es un buen momento para aprender sobre el dinero
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>El verano pasado aprendimos que los <a class="a-link a-link__icon" href="https://www.consumerfinance.gov/external-site/?ext_url=http://www.oecd.org/pisa/keyfindings/PISA-2012-results-finlit-usa.pdf"><span class="a-link_text">adolescentes estadounidenses están en el medio del grupo <i>(en inglés)</i> </span> <svg class="cf-icon-svg" viewbox="0 0 651.7 1200" xmlns="http://www.w3.org/2000/svg"><path d="M507.1 692.8c-15.6-15.6-40.9-15.6-56.6 0l-85.1 85.1V466.6c0-22.1-17.9-40-40-40s-40 17.9-40 40V778l-85.1-85.1c-15.6-15.6-40.9-15.6-56.6 0-15.6 15.6-15.6 40.9 0 56.6L297 902.9c7.5 7.5 17.7 11.7 28.3 11.7s20.8-4.2 28.3-11.7l153.3-153.4c15.8-15.7 15.8-41 .2-56.7z"></path><path d="M30 161c-16.5 0-30 13.5-30 30v827.8c0 16.5 13.5 30 30 30h591.7c16.5 0 30-13.5 30-30V343.7L469 161H30zm389.6 60v134.8c0 19.9 16.3 36.2 36.2 36.2h135.9V988.8H60V221h359.6z"></path></svg></a>cuando se trata de educación financiera, en comparación con otras naciones. El preparar a los jóvenes para un futuro financiero sólido es un trabajo importante. Y aún queda mucho por hacer.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=laura-schlachtmeyer">Laura Schlachtmeyer</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=parents" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Parents
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=youth" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Youth
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=financial-education" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Financial education
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-en-espanol" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB en español
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3203,65 +3268,6 @@
                 <a href="/about-us/blog/?topics=payday-loans" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Payday loans
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2015-03-11T00:00:00">MAR 11, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/heres-why-you-should-open-a-savings-account-for-your-kids/">
-                    Here’s why you should open a savings account for your kids
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Parents often want to open accounts for their children, to help them learn about saving for the future and managing their money. And young people often go to a bank to open an account when they get their first job and start earning money. However, when trying to open an account for a child under age 18, some people run into roadblocks.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=dave-sieminski">Dave Sieminski</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=parents" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Parents
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=saving" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Saving
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial education
                 </a>
             </li>
     </ul>
