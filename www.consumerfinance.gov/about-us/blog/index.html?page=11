@@ -1410,6 +1410,7 @@
   <option value="libraries">Libraries</option>
   <option value="call-for-evidence">Call for evidence</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
 </select>
                             </div>
@@ -1550,6 +1551,7 @@
   <option value="logan-herman">Logan Herman</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
+  <option value="dave-uejio">Dave Uejio</option>
   <option value="chris-dangelo">Chris DAngelo</option>
   <option value="mechel-glass">Mechel Glass</option>
   <option value="ren-essene">Ren Essene</option>
@@ -1591,7 +1593,6 @@
   <option value="keo-chea">Keo Chea</option>
   <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
-  <option value="dave-uejio">Dave Uejio</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
   <option value="ganessa-stout">Ganessa Stout</option>
@@ -1807,13 +1808,79 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1345 filtered results</div>
+          <div class="h4 m-notification_message">1346 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2019-11-20T00:00:00">NOV 20, 2019</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/how-tell-difference-between-legitimate-debt-collector-and-scammers/">
+                    How to tell the difference between a legitimate debt collector and scammers
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Learn how to spot the warning signs of debt collection scams and ways to
+protect yourself.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=courtney-rose-dantus">Courtney-Rose Dantus</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=fair-debt-collection-practices-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Fair Debt Collection Practices Act
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Identity theft and fraud
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Debt collection
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=deceptive-practices" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Deceptive practices
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3156,58 +3223,6 @@ skills, patience, and creativity can help you get what you really want.</span><b
                 <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Financial well-being
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-08-21T00:00:00">AUG 21, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/protect-yourself-credit-card-fraud-register/">
-                    Protect yourself from credit card fraud at the register
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p class="MsoNormal"><span>The CFPB
-offers four tips to help you avoid credit card fraud and protect your
-information.</span></p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=beverly-yang">Beverly Yang</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Identity theft and fraud
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit cards
                 </a>
             </li>
     </ul>

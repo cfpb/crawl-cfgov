@@ -1410,6 +1410,7 @@
   <option value="libraries">Libraries</option>
   <option value="call-for-evidence">Call for evidence</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
 </select>
                             </div>
@@ -1550,6 +1551,7 @@
   <option value="logan-herman">Logan Herman</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
+  <option value="dave-uejio">Dave Uejio</option>
   <option value="chris-dangelo">Chris DAngelo</option>
   <option value="mechel-glass">Mechel Glass</option>
   <option value="ren-essene">Ren Essene</option>
@@ -1591,7 +1593,6 @@
   <option value="keo-chea">Keo Chea</option>
   <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
-  <option value="dave-uejio">Dave Uejio</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
   <option value="ganessa-stout">Ganessa Stout</option>
@@ -1807,13 +1808,57 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1345 filtered results</div>
+          <div class="h4 m-notification_message">1346 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 833.4 1200" class="cf-icon-svg"><path d="M233 203.1c-27.2-27.2-71.8-27.2-99 0L20.4 316.7c-27.2 27.2-27.2 71.8 0 99l89.7 89.7 212.7-212.7-89.8-89.6zM832.6 992.7l-48.6-216c-3.4-15.3-14.9-36.5-26-48.6l-1.8-1.8-121.8-121.9-110.6-110.6-165.7-165.7-54.8 54.8 400 400 21.4-21.4c5.3 6.4 11.9 18.9 13.5 25.6l21.4 95.2-60 60-95.2-21.4c-6.7-1.5-19.2-8.2-25.6-13.5l89.2-89.2-400-400-122.6 122.6 165.7 165.7 110.6 110.6 121.8 121.8 1.8 1.8c12.1 11.1 33.3 22.6 48.6 26l215.9 48.6c2.2.5 4.3.7 6.2.7 12.6.1 19.8-9.4 16.6-23.3z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Director's notebook
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-02-09T00:00:00">FEB 09, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/calling-attorneys-interested-in-joining-the-cfpb/">
+                    Calling attorneys interested in joining the CFPB
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Consumer Financial Protection Bureau is proud to launch an effort to recruit attorneys at all experience levels to join our team.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=dave-uejio">Dave Uejio</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=consumer-financial-protection-bureau" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Consumer Financial Protection Bureau
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -3054,74 +3099,6 @@
                 <a href="/about-us/blog/?topics=enforcement" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Enforcement
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Policy and compliance
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-11-23T00:00:00">NOV 23, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/el-cfpb-en-busqueda-de-comentarios-formales-para-mejorar-las-directrices-para-servir-a-consumidores-lep/">
-                    El CFPB en búsqueda de comentarios formales para mejorar las directrices para servir a consumidores LEP
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>El CFPB planea desarrollar directrices para la atención a consumidores LEP o con Limitado Manejo del Inglés y para ello, está recibiendo comentarios públicos formales a través de su Solicitud de Información del año 2020 sobre la Ley de Oportunidad Equitativa al Crédito y Regulación B.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Financial service providers
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Equal Credit Opportunity Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=diversity-and-inclusion" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Diversity and inclusion
                 </a>
             </li>
     </ul>

@@ -1410,6 +1410,7 @@
   <option value="libraries">Libraries</option>
   <option value="call-for-evidence">Call for evidence</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
 </select>
                             </div>
@@ -1550,6 +1551,7 @@
   <option value="logan-herman">Logan Herman</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
+  <option value="dave-uejio">Dave Uejio</option>
   <option value="chris-dangelo">Chris DAngelo</option>
   <option value="mechel-glass">Mechel Glass</option>
   <option value="ren-essene">Ren Essene</option>
@@ -1591,7 +1593,6 @@
   <option value="keo-chea">Keo Chea</option>
   <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
-  <option value="dave-uejio">Dave Uejio</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
   <option value="ganessa-stout">Ganessa Stout</option>
@@ -1807,13 +1808,55 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1345 filtered results</div>
+          <div class="h4 m-notification_message">1346 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-04-22T00:00:00">APR 22, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/planning-finances-uncertain-future-vi/">
+                    Lập kế hoạch tài chính cho một tương lai bất ổn
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Những lời khuyên giúp bạn trò chuyện với vợ/chồng hoặc các thành viên khác trong gia đình về việc đưa ra các kế hoạch trong trường hợp bạn không thể quản lý tài chính của mình trong khoàng thời gian bất ổn.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=erin-scheithe">Erin Scheithe</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-vietnamese" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Vietnamese
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2966,44 +3009,6 @@
                 <a href="/about-us/blog/?topics=cfpb-in-tagalog" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     CFPB in Tagalog
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-04-10T00:00:00">APR 10, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/guide-covid-19-economic-stimulus-checks-zh-traditional/">
-                    COVID-19 經濟刺激紓困指南
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>從 4 月起，大多數美國人都透過國稅局 (IRS) 發放的經濟影響補助（又稱刺激補助）開始獲得某種形式的經濟援助。我們為您詳細解答有關這類補助的最常見問題。</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-traditional-chinese" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Traditional Chinese
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
                 </a>
             </li>
     </ul>

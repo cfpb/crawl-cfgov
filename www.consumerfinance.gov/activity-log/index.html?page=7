@@ -1419,9 +1419,9 @@
   <option value="regulation-m">Regulation M</option>
   <option value="libraries">Libraries</option>
   <option value="virtual-currency">Virtual currency</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="cfpb-in-tagalog">CFPB in Tagalog</option>
   <option value="private-education-loan-ombudsman">Private Education Loan Ombudsman</option>
-  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="cfpb-in-vietnamese">CFPB in Vietnamese</option>
   <option value="behavioral-economics">Behavioral economics</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
@@ -1579,6 +1579,7 @@
   <option value="miesha-davis">Miesha Davis</option>
   <option value="max-bentovim">Max Bentovim</option>
   <option value="paul-mondor">Paul Mondor</option>
+  <option value="dave-uejio">Dave Uejio</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="lora-mccray">Lora McCray</option>
   <option value="kate-mullan">Kate Mullan</option>
@@ -1619,7 +1620,6 @@
   <option value="melissa-knoll">Melissa Knoll</option>
   <option value="flavio-cumpiano">Flavio Cumpiano</option>
   <option value="mechel-glass">Mechel Glass</option>
-  <option value="dave-uejio">Dave Uejio</option>
   <option value="cfpb">CFPB</option>
   <option value="keo-chea">Keo Chea</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
@@ -1840,7 +1840,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">2991 filtered results</div>
+          <div class="h4 m-notification_message">2992 filtered results</div>
       </div>
   </div>
         </div>
@@ -1859,6 +1859,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/suspicious-activity-reports-elder-financial-exploitation-issues-and-trends/">
+                        <span class="h4 u-mb0">
+                            Suspicious Activity Reports on Elder Financial Exploitation: Issues and Trends
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2019-02-27T00:00:00">FEB 27, 2019</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3936,27 +3957,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2018-09-17T00:00:00">SEP 17, 2018</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=report"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zM588 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zM762.6 657.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Report
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/data-research/research-reports/measuring-financial-skill/">
-                        <span class="h4 u-mb0">
-                            Measuring financial skill: A guide to using the Bureau of Consumer Financial Protection's Financial Skill Scale
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2018-09-14T00:00:00">SEP 14, 2018</time>
 </span>
                 </td>
             </tr>
