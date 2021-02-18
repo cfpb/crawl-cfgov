@@ -392,6 +392,7 @@
             <img class="o-video-player_image o-video-player_image__thumbnail"
                  alt=""
                  src="https://files.consumerfinance.gov/f/images/cfpb_asistencia-hipotecas-y-viviendas_video-thu.original.png">
+            <time class="o-video-player_duration u-hidden"></time>
         </div>
     </div>
     </div>
@@ -489,7 +490,7 @@
         <input type="hidden" name="language" value="es">
         <div class="o-form_group">
             <h3>
-                Was this answer helpful to you?
+                ¿Fue útil esta respuesta?
             </h3>
             <fieldset class="o-form_fieldset">
                 <ul class="content-l m-list m-list__unstyled">

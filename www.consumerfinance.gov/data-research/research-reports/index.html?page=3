@@ -2838,12 +2838,6 @@ promising practices and strategies to support their development.</p>
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
                 <a href="/data-research/research-reports/?topics=identity-theft-fraud" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Identity theft and fraud
@@ -2859,6 +2853,12 @@ promising practices and strategies to support their development.</p>
                 <a href="/data-research/research-reports/?topics=credit-unions" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Credit unions
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=banking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Banking
                 </a>
             </li>
             <li class="tags_tag">
