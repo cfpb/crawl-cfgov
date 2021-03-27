@@ -1346,8 +1346,8 @@
   <option value="financial-well-being">Financial well-being</option>
   <option value="research">Research</option>
   <option value="open-government">Open government</option>
-  <option value="supervision">Supervision</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
+  <option value="supervision">Supervision</option>
   <option value="payday-loans">Payday loans</option>
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="personnel">Personnel</option>
@@ -1612,6 +1612,7 @@
   <option value="brian-kreiswirth">Brian Kreiswirth</option>
   <option value="michele-scarbrough">Michele Scarbrough</option>
   <option value="john-mcnamara">John McNamara</option>
+  <option value="susan-kerbel">Susan Kerbel</option>
   <option value="kristen-evans">Kristen Evans</option>
   <option value="aissa-canchola">Aissa Canchola</option>
   <option value="tim-lambert">Tim Lambert</option>
@@ -1685,7 +1686,6 @@
   <option value="rebecca-gelfond">Rebecca Gelfond</option>
   <option value="stephanie-brenowitz">Stephanie Brenowitz</option>
   <option value="leslie-parrish">Leslie Parrish</option>
-  <option value="susan-kerbel">Susan Kerbel</option>
   <option value="peter-schoenrock">Peter Schoenrock</option>
   <option value="pavneet-singh">Pavneet Singh</option>
   <option value="james-wylie">James Wylie</option>
@@ -1798,7 +1798,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">3014 filtered results</div>
+          <div class="h4 m-notification_message">3015 filtered results</div>
       </div>
   </div>
         </div>
@@ -1817,6 +1817,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-releases-online-tool-help-college-students-determine-how-pay-college/">
+                        <span class="h4 u-mb0">
+                            Consumer Financial Protection Bureau Releases Online Tool to Help College Students Determine How to Pay for College
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-15T00:00:00">JUL 15, 2020</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3894,27 +3915,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2020-04-27T00:00:00">APR 27, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-outlines-mortgage-loan-transfer-process-prevent-consumer-harm/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Outlines Mortgage Loan Transfer Process to Prevent Consumer Harm
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-04-24T00:00:00">APR 24, 2020</time>
 </span>
                 </td>
             </tr>
