@@ -1308,14 +1308,14 @@
                             Assoicated Healthcare Credit Union
                     </option>
                     <option 
-                        value="First Covenant Bank"
-                        >
-                            First Covenant Bank
-                    </option>
-                    <option 
                         value="First Century Bank, National Association"
                         >
                             First Century Bank, National Association
+                    </option>
+                    <option 
+                        value="First Covenant Bank"
+                        >
+                            First Covenant Bank
                     </option>
                     <option 
                         value="Comerica"
@@ -1403,14 +1403,14 @@
                             CenterState Bank
                     </option>
                     <option 
-                        value="Republic Bank &amp; Trust Company"
-                        >
-                            Republic Bank &amp; Trust Company
-                    </option>
-                    <option 
                         value="Axos Bank"
                         >
                             Axos Bank
+                    </option>
+                    <option 
+                        value="Republic Bank &amp; Trust Company"
+                        >
+                            Republic Bank &amp; Trust Company
                     </option>
                     <option 
                         value="Wells Fargo Bank, National Association"
