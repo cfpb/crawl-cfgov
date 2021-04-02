@@ -2832,45 +2832,9 @@ accounts (as subsequently amended).</span></p>
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <a href="/rules-policy/final-rules/?topics=debt-collection" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=compliance" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Compliance
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=foreclosure" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Foreclosure
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=fair-debt-collection-practices-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair Debt Collection Practices Act
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Real Estate Settlement Procedures Act (RESPA)
+                    Debt collection
                 </a>
             </li>
             <li class="tags_tag">
@@ -2880,9 +2844,45 @@ accounts (as subsequently amended).</span></p>
                 </a>
             </li>
             <li class="tags_tag">
-                <a href="/rules-policy/final-rules/?topics=debt-collection" class="tags_link">
+                <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
+                    Real Estate Settlement Procedures Act (RESPA)
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/rules-policy/final-rules/?topics=fair-debt-collection-practices-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Fair Debt Collection Practices Act
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Truth in Lending Act (TILA)
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/rules-policy/final-rules/?topics=foreclosure" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Foreclosure
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Rulemaking
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/rules-policy/final-rules/?topics=compliance" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Compliance
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Mortgages
                 </a>
             </li>
     </ul>
