@@ -1370,9 +1370,9 @@
   <option value="bureau-milestones">Bureau milestones</option>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="financial-service-providers">Financial service providers</option>
+  <option value="foreclosure">Foreclosure</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
   <option value="innovation">Innovation</option>
-  <option value="foreclosure">Foreclosure</option>
   <option value="prepaid-cards">Prepaid cards</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="money-transfers">Money transfers</option>
@@ -1401,8 +1401,8 @@
   <option value="cfpb-ombudsman">CFPB Ombudsman</option>
   <option value="debit-cards">Debit cards</option>
   <option value="reverse-mortgages">Reverse mortgages</option>
-  <option value="privacy">Privacy</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
+  <option value="privacy">Privacy</option>
   <option value="community-banks">Community banks</option>
   <option value="business-loans">Business loans</option>
   <option value="procurement">Procurement</option>
@@ -1498,6 +1498,7 @@
   <option value="dave-uejio">Dave Uejio</option>
   <option value="dan-sokolov">Dan Sokolov</option>
   <option value="dubis-correal">Dubis Correal</option>
+  <option value="desmond-brown">Desmond Brown</option>
   <option value="peggy-twohig">Peggy Twohig</option>
   <option value="yuliya-rzad">Yuliya Rzad</option>
   <option value="hector-ortiz">Hector Ortiz</option>
@@ -1508,7 +1509,6 @@
   <option value="megan-thibos">Megan Thibos</option>
   <option value="leslie-jones">Leslie Jones</option>
   <option value="janneke-ratcliffe">Janneke Ratcliffe</option>
-  <option value="desmond-brown">Desmond Brown</option>
   <option value="mary-griffin">Mary Griffin</option>
   <option value="cliff-rosenthal">Cliff Rosenthal</option>
   <option value="serena-villalba">Serena Villalba</option>
@@ -1679,6 +1679,7 @@
   <option value="james-marrone">James Marrone</option>
   <option value="ron-borzekowski">Ron Borzekowski</option>
   <option value="laura-johnson">Laura Johnson</option>
+  <option value="beth-spring">Beth Spring</option>
   <option value="james-miner">James Miner</option>
   <option value="susan-carter">Susan Carter</option>
   <option value="chris-stocks">Chris Stocks</option>
@@ -1799,7 +1800,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">3023 filtered results</div>
+          <div class="h4 m-notification_message">3026 filtered results</div>
       </div>
   </div>
         </div>
@@ -1821,22 +1822,43 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=report"
+        <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zm351.3 0c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zm174.6 213.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
         <span class="u-visually-hidden">Category:</span>
-        Report
+        Blog
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/data-research/research-reports/evidence-based-strategies-build-emergency-savings/">
+                    <a href="/about-us/blog/co-signed-private-student-loan-tips-covid-19/">
                         <span class="h4 u-mb0">
-                            Evidence-based strategies to build emergency savings
+                            Co-signed a private student loan? Here are tips to protect yourself during COVID-19
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-17T00:00:00">JUL 17, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-22T00:00:00">JUL 22, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-host-symposium-july-29/">
+                        <span class="h4 u-mb0">
+                            CFPB to Host Symposium July 29
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-22T00:00:00">JUL 22, 2020</time>
 </span>
                 </td>
             </tr>
@@ -1850,14 +1872,14 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/report-synthesizes-evidence-based-strategies-build-emergency-savings/">
+                    <a href="/about-us/blog/coprestatario-de-prestamo-estudiantil-covid-19/">
                         <span class="h4 u-mb0">
-                            New report synthesizes evidence-based strategies to build emergency savings
+                            ¿Es usted el coprestatario de un préstamo estudiantil privado? Le tenemos consejos para que se proteja durante la pandemia del COVID-19
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-17T00:00:00">JUL 17, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-22T00:00:00">JUL 22, 2020</time>
 </span>
                 </td>
             </tr>
@@ -1934,14 +1956,35 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/data-research/research-reports/complaint-bulletin-complaints-mentioning-coronavirus-keywords-july-2020/">
+                    <a href="/data-research/research-reports/evidence-based-strategies-build-emergency-savings/">
                         <span class="h4 u-mb0">
-                            July Complaint Bulletin: Complaints mentioning coronavirus keywords
+                            Evidence-based strategies to build emergency savings
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-16T00:00:00">JUL 16, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-17T00:00:00">JUL 17, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/report-synthesizes-evidence-based-strategies-build-emergency-savings/">
+                        <span class="h4 u-mb0">
+                            New report synthesizes evidence-based strategies to build emergency savings
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-17T00:00:00">JUL 17, 2020</time>
 </span>
                 </td>
             </tr>
@@ -1958,6 +2001,27 @@
                     <a href="/about-us/newsroom/cfpb-releases-updated-covid-19-consumer-complaint-data/">
                         <span class="h4 u-mb0">
                             CFPB Releases Updated COVID-19 Consumer Complaint Data
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-16T00:00:00">JUL 16, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zm351.3 0c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zm174.6 213.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/complaint-bulletin-complaints-mentioning-coronavirus-keywords-july-2020/">
+                        <span class="h4 u-mb0">
+                            July Complaint Bulletin: Complaints mentioning coronavirus keywords
                         </span>
                     </a>
                 </td>
@@ -2094,27 +2158,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=report"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zm351.3 0c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zm174.6 213.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Report
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/data-research/research-reports/insights-making-ends-meet-survey/">
-                        <span class="h4 u-mb0">
-                            Insights from the Making Ends Meet Survey
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-13T00:00:00">JUL 13, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
@@ -2186,14 +2229,14 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/data-research/research-reports/quarterly-consumer-credit-trends-debt-settlement-credit-counseling/">
+                    <a href="/data-research/research-reports/insights-making-ends-meet-survey/">
                         <span class="h4 u-mb0">
-                            Quarterly Consumer Credit Trends: Recent trends in debt settlement and credit counseling
+                            Insights from the Making Ends Meet Survey
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-10T00:00:00">JUL 10, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-13T00:00:00">JUL 13, 2020</time>
 </span>
                 </td>
             </tr>
@@ -2210,6 +2253,27 @@
                     <a href="/about-us/newsroom/cfpb-releases-report-debt-settlements-credit-counseling/">
                         <span class="h4 u-mb0">
                             CFPB Releases Report on Debt Settlements and Credit Counseling
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-10T00:00:00">JUL 10, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zm351.3 0c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zm174.6 213.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/quarterly-consumer-credit-trends-debt-settlement-credit-counseling/">
+                        <span class="h4 u-mb0">
+                            Quarterly Consumer Credit Trends: Recent trends in debt settlement and credit counseling
                         </span>
                     </a>
                 </td>
@@ -2273,6 +2337,27 @@
                     <a href="/about-us/blog/guia-estimulo-economico-por-covid-19/">
                         <span class="h4 u-mb0">
                             Guía para entender el estímulo económico por el COVID-19
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-07-07T00:00:00">JUL 07, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zm351.3 0c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zm174.6 213.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/semi-annual-report-spring-2020/">
+                        <span class="h4 u-mb0">
+                            Semi-Annual Report Spring 2020
                         </span>
                     </a>
                 </td>
@@ -2357,27 +2442,6 @@
                     <a href="/about-us/newsroom/cfpb-director-kraninger-announces-deputy-director-additions-executive-team/">
                         <span class="h4 u-mb0">
                             CFPB Director Kraninger Announces Deputy Director; Additions to Executive Team
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-07T00:00:00">JUL 07, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=report"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zm351.3 0c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zm174.6 213.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Report
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/data-research/research-reports/semi-annual-report-spring-2020/">
-                        <span class="h4 u-mb0">
-                            Semi-Annual Report Spring 2020
                         </span>
                     </a>
                 </td>
@@ -2480,6 +2544,27 @@
         </a>
                 </td>
                 <td class="u-w65pct">
+                    <a href="/about-us/blog/la-ley-cares-y-retiros-de-jubilacion/">
+                        <span class="h4 u-mb0">
+                            ¿Está pensando hacer un retiro temprano de su fondo de jubilación? Conozca qué establece la Ley CARES y otros datos que debe saber al respecto
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-06-30T00:00:00">JUN 30, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
                     <a href="/about-us/blog/cares-act-early-retirement-withdrawal/">
                         <span class="h4 u-mb0">
                             Considering an early retirement withdrawal? CARES Act rules and what you should know.
@@ -2504,27 +2589,6 @@
                     <a href="/about-us/blog/spring-2020-rulemaking-agenda/">
                         <span class="h4 u-mb0">
                             Spring 2020 Rulemaking Agenda
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-06-30T00:00:00">JUN 30, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/la-ley-cares-y-retiros-de-jubilacion/">
-                        <span class="h4 u-mb0">
-                            ¿Está pensando hacer un retiro temprano de su fondo de jubilación? Conozca qué establece la Ley CARES y otros datos que debe saber al respecto
                         </span>
                     </a>
                 </td>
@@ -2640,27 +2704,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/opciones-recibir-beneficios-desempleo/">
-                        <span class="h4 u-mb0">
-                            Usted tiene opciones para recibir sus beneficios por desempleo
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-06-23T00:00:00">JUN 23, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
@@ -2693,6 +2736,27 @@
                     <a href="/about-us/newsroom/cfpb-issues-interim-final-rule-loss-mitigation-options-pandemic-related-financial-hardships/">
                         <span class="h4 u-mb0">
                             CFPB Issues Interim Final Rule on Loss Mitigation Options for Homeowners Recovering from Pandemic-Related Financial Hardships
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-06-23T00:00:00">JUN 23, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/opciones-recibir-beneficios-desempleo/">
+                        <span class="h4 u-mb0">
+                            Usted tiene opciones para recibir sus beneficios por desempleo
                         </span>
                     </a>
                 </td>
@@ -2942,9 +3006,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-facilitates-libor-transition/">
+                    <a href="/about-us/newsroom/cfpb-and-state-regulators-provide-guidance-assist-borrowers-covid-19/">
                         <span class="h4 u-mb0">
-                            CFPB Takes Steps to Facilitate LIBOR Transition
+                            CFPB and State Regulators Provide Additional Guidance to Assist Borrowers Impacted by the COVID-19 Pandemic
                         </span>
                     </a>
                 </td>
@@ -2963,9 +3027,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-and-state-regulators-provide-guidance-assist-borrowers-covid-19/">
+                    <a href="/about-us/newsroom/cfpb-facilitates-libor-transition/">
                         <span class="h4 u-mb0">
-                            CFPB and State Regulators Provide Additional Guidance to Assist Borrowers Impacted by the COVID-19 Pandemic
+                            CFPB Takes Steps to Facilitate LIBOR Transition
                         </span>
                     </a>
                 </td>
@@ -3026,9 +3090,93 @@
         </a>
                 </td>
                 <td class="u-w65pct">
+                    <a href="/about-us/blog/economic-impact-payment-prepaid-card-tl/">
+                        <span class="h4 u-mb0">
+                            Paano gamitin ang iyong prepaid debit card [may lagak na] na Economic Impact payment [ambag pang-epekto sa kabuhayan] nang walang binabayaran
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-06-01T00:00:00">JUN 01, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/economic-impact-payment-prepaid-card-vi/">
+                        <span class="h4 u-mb0">
+                            Cách sử dụng thẻ ghi nợ trả trước trong chương trình Viện trợ do Tác động Kinh tế mà không phải trả phí
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-06-01T00:00:00">JUN 01, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/estafas-de-impostor-gobierno-covid-19/">
+                        <span class="h4 u-mb0">
+                            Cómo evitar las estafas de impostor de funcionario del gobierno relacionadas al COVID-19
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-06-01T00:00:00">JUN 01, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
                     <a href="/about-us/blog/economic-impact-payment-prepaid-card/">
                         <span class="h4 u-mb0">
                             How to use your Economic Impact Payment prepaid debit card without paying a fee
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-06-01T00:00:00">JUN 01, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/economic-impact-payment-prepaid-card-zh-simplified/">
+                        <span class="h4 u-mb0">
+                            如何免费使用您的经济影响援助金预付借记卡
                         </span>
                     </a>
                 </td>
@@ -3110,93 +3258,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/economic-impact-payment-prepaid-card-zh-simplified/">
-                        <span class="h4 u-mb0">
-                            如何免费使用您的经济影响援助金预付借记卡
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-06-01T00:00:00">JUN 01, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/economic-impact-payment-prepaid-card-tl/">
-                        <span class="h4 u-mb0">
-                            Paano gamitin ang iyong prepaid debit card [may lagak na] na Economic Impact payment [ambag pang-epekto sa kabuhayan] nang walang binabayaran
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-06-01T00:00:00">JUN 01, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
                     <a href="/about-us/blog/economic-impact-payment-prepaid-card-zh-traditional/">
                         <span class="h4 u-mb0">
                             如何使用您的經濟衝擊紓困金預付借記卡且無須支付手續費
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-06-01T00:00:00">JUN 01, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/economic-impact-payment-prepaid-card-vi/">
-                        <span class="h4 u-mb0">
-                            Cách sử dụng thẻ ghi nợ trả trước trong chương trình Viện trợ do Tác động Kinh tế mà không phải trả phí
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-06-01T00:00:00">JUN 01, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/estafas-de-impostor-gobierno-covid-19/">
-                        <span class="h4 u-mb0">
-                            Cómo evitar las estafas de impostor de funcionario del gobierno relacionadas al COVID-19
                         </span>
                     </a>
                 </td>
@@ -3249,27 +3313,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/saluting-service-during-national-military-appreciation-month/">
-                        <span class="h4 u-mb0">
-                            Saluting service during National Military Appreciation Month
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-05-22T00:00:00">MAY 22, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
@@ -3281,6 +3324,27 @@
                     <a href="/about-us/newsroom/cfpb-helps-struggling-homeowners-seeking-mitigation-efforts-consumers-seeking-small-dollar-loans/">
                         <span class="h4 u-mb0">
                             CFPB Takes Action to Help Struggling Homeowners Seeking Mitigation Efforts; Consumers Seeking Small-Dollar Loans
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-05-22T00:00:00">MAY 22, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/saluting-service-during-national-military-appreciation-month/">
+                        <span class="h4 u-mb0">
+                            Saluting service during National Military Appreciation Month
                         </span>
                     </a>
                 </td>
@@ -3375,17 +3439,17 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
+        <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
         <span class="u-visually-hidden">Category:</span>
-        Press release
+        Blog
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-provides-additional-extension-comment-period-supplemental-nprm-time-barred-debt/">
+                    <a href="/about-us/blog/tarjeta-de-credito-y-coronavirus-opciones-de-alivio/">
                         <span class="h4 u-mb0">
-                            CFPB to Provide Additional Extension of Comment Period for Supplemental Notice of Proposed Rulemaking on Time Barred Debt
+                            La deuda de tarjeta de crédito durante la pandemia del coronavirus: opciones de alivio y consejos para manejarla
                         </span>
                     </a>
                 </td>
@@ -3446,9 +3510,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-releases-video-consumers-receiving-stimulus-payment-prepaid-debit-card/">
+                    <a href="/about-us/newsroom/cfpb-provides-additional-extension-comment-period-supplemental-nprm-time-barred-debt/">
                         <span class="h4 u-mb0">
-                            Media Advisory: CFPB Releases Video on Consumers Receiving Stimulus Payment on Prepaid Debit Card
+                            CFPB to Provide Additional Extension of Comment Period for Supplemental Notice of Proposed Rulemaking on Time Barred Debt
                         </span>
                     </a>
                 </td>
@@ -3459,17 +3523,17 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
+        <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
         <span class="u-visually-hidden">Category:</span>
-        Blog
+        Press release
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/tarjeta-de-credito-y-coronavirus-opciones-de-alivio/">
+                    <a href="/about-us/newsroom/cfpb-releases-video-consumers-receiving-stimulus-payment-prepaid-debit-card/">
                         <span class="h4 u-mb0">
-                            La deuda de tarjeta de crédito durante la pandemia del coronavirus: opciones de alivio y consejos para manejarla
+                            Media Advisory: CFPB Releases Video on Consumers Receiving Stimulus Payment on Prepaid Debit Card
                         </span>
                     </a>
                 </td>
@@ -3564,27 +3628,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/using-home-equity-for-emergency-expenses-coronavirus-pandemic/">
-                        <span class="h4 u-mb0">
-                            What you need to know if you are thinking about using home equity to cover expenses during the coronavirus pandemic
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-05-14T00:00:00">MAY 14, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
@@ -3648,6 +3691,27 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/using-home-equity-for-emergency-expenses-coronavirus-pandemic/">
+                        <span class="h4 u-mb0">
+                            What you need to know if you are thinking about using home equity to cover expenses during the coronavirus pandemic
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-05-14T00:00:00">MAY 14, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
         <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
@@ -3698,9 +3762,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/director-kraninger-remarks-financial-literacy-education-commission-public-meeting/">
+                    <a href="/about-us/newsroom/director-kraninger-remarks-national-realtors-association-2020/">
                         <span class="h4 u-mb0">
-                            Director Kraninger Remarks During Financial Literacy and Education Commission Public Meeting
+                            Director Kraninger Remarks During National Association of Realtors 2020 Legislative Meetings
                         </span>
                     </a>
                 </td>
@@ -3719,9 +3783,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/director-kraninger-remarks-national-realtors-association-2020/">
+                    <a href="/about-us/newsroom/director-kraninger-remarks-financial-literacy-education-commission-public-meeting/">
                         <span class="h4 u-mb0">
-                            Director Kraninger Remarks During National Association of Realtors 2020 Legislative Meetings
+                            Director Kraninger Remarks During Financial Literacy and Education Commission Public Meeting
                         </span>
                     </a>
                 </td>
@@ -3761,9 +3825,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-issues-final-remittance-rule/">
+                    <a href="/about-us/newsroom/cfpb-settles-specialized-loan-servicing/">
                         <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Issues Final Remittance Rule
+                            Consumer Financial Protection Bureau Settles with Specialized Loan Servicing, LLC
                         </span>
                     </a>
                 </td>
@@ -3782,9 +3846,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-settles-specialized-loan-servicing/">
+                    <a href="/about-us/newsroom/cfpb-issues-final-remittance-rule/">
                         <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Settles with Specialized Loan Servicing, LLC
+                            Consumer Financial Protection Bureau Issues Final Remittance Rule
                         </span>
                     </a>
                 </td>
@@ -3837,27 +3901,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-issues-clarifications-support-small-business-applying-ppp-loans/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Issues Clarifications to Support Small Business Applying for PPP Loans
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-05-06T00:00:00">MAY 06, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
@@ -3874,48 +3917,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2020-05-06T00:00:00">MAY 06, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/online-mobile-banking-tips-beginners/">
-                        <span class="h4 u-mb0">
-                            Online and mobile banking tips for beginners
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-05-05T00:00:00">MAY 05, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/consejos-principiantes-banca-en-linea/">
-                        <span class="h4 u-mb0">
-                            Consejos para principiantes con la banca en línea y móvil
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-05-05T00:00:00">MAY 05, 2020</time>
 </span>
                 </td>
             </tr>
