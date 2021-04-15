@@ -1254,7 +1254,7 @@
                 <div class="m-form-field">
                     <label class="a-label a-label__heading"
                            for="o-filterable-list-controls_title">
-                            Item name
+                            Search by keyword(s)
                     </label>
                     <input type="text" name="title" id="o-filterable-list-controls_title" class="a-text-input a-text-input__full" maxlength="250">
                 </div>
@@ -1359,8 +1359,8 @@
   <option value="mortgages">Mortgages</option>
   <option value="student-loans">Student loans</option>
   <option value="financial-well-being">Financial well-being</option>
-  <option value="credit-cards">Credit cards</option>
   <option value="supervision">Supervision</option>
+  <option value="credit-cards">Credit cards</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="discrimination">Discrimination</option>
   <option value="older-americans">Older Americans</option>
@@ -1377,10 +1377,10 @@
   <option value="auto-loans">Auto loans</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="credit-card-act">Credit CARD Act</option>
-  <option value="compliance">Compliance</option>
-  <option value="mortgage-origination">Mortgage origination</option>
   <option value="rulemaking">Rulemaking</option>
+  <option value="compliance">Compliance</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
+  <option value="mortgage-origination">Mortgage origination</option>
   <option value="payday-loans">Payday loans</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="everyone-has-a-story">Everyone has a story</option>
@@ -1496,13 +1496,58 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">400 filtered results</div>
+          <div class="h4 m-notification_message">401 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Industry and markets
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-07-17T00:00:00">JUL 17, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/evidence-based-strategies-build-emergency-savings/">
+                    Evidence-based strategies to build emergency savings
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Office of Research released a report that synthesizes the rigorous research of programs and strategies aiming to help consumers achieve greater liquid savings.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=saving" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Saving
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Research
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2591,12 +2636,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/quantitative-survey-testing-model-disclosure-clauses-and-forms-debt-collection-methodology-report/">
-                    Quantitative Survey Testing of Model Disclosure Clauses and Forms for Debt Collection: Methodology Report
+                <a href="/data-research/research-reports/disclosure-time-barred-debt-and-revival-findings-cfpbs-quantitative-disclosure-testing/">
+                    Disclosure of Time-Barred Debt and Revival: Findings from the CFPB’s Quantitative Disclosure Testing
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>In September 2019, the CFPB engaged ICF International, Inc., to launch a large-scale online survey experiment designed to test several versions of disclosures to support understanding of time-barred debt and revival. ICF produced this report describing the methodology of this survey experiment, including sampling, response rates, and question development.</p>
+                    <p>Between May and September 2019, the CFPB conducted a large-scale online survey experiment designed to test several versions of disclosures to support understanding of time-barred debt and revival. The results of the survey experiment are summarized in this report.  </p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
@@ -2630,12 +2675,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/disclosure-time-barred-debt-and-revival-findings-cfpbs-quantitative-disclosure-testing/">
-                    Disclosure of Time-Barred Debt and Revival: Findings from the CFPB’s Quantitative Disclosure Testing
+                <a href="/data-research/research-reports/quantitative-survey-testing-model-disclosure-clauses-and-forms-debt-collection-methodology-report/">
+                    Quantitative Survey Testing of Model Disclosure Clauses and Forms for Debt Collection: Methodology Report
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>Between May and September 2019, the CFPB conducted a large-scale online survey experiment designed to test several versions of disclosures to support understanding of time-barred debt and revival. The results of the survey experiment are summarized in this report.  </p>
+                    <p>In September 2019, the CFPB engaged ICF International, Inc., to launch a large-scale online survey experiment designed to test several versions of disclosures to support understanding of time-barred debt and revival. ICF produced this report describing the methodology of this survey experiment, including sampling, response rates, and question development.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
@@ -2776,57 +2821,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
-        Data point
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-01-16T00:00:00">JAN 16, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/data-point-small-business-lending-and-great-recession/">
-                    Data point: Small business lending and the Great Recession
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>This Data Point article tracks the evolution of small business lending before, during and following the Great Recession.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=business-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Business loans
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2844,7 +2838,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    2 out of 16 total pages
+                    2 out of 17 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -2852,11 +2846,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="16"
+                   max="17"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="2">
-            <span class="m-pagination_label"> of 16</span>
+            <span class="m-pagination_label"> of 17</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

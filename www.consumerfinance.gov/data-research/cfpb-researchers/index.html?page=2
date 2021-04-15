@@ -1235,7 +1235,7 @@
                 <div class="m-form-field">
                     <label class="a-label a-label__heading"
                            for="o-filterable-list-controls_title">
-                            Item name
+                            Search by keyword(s)
                     </label>
                     <input type="text" name="title" id="o-filterable-list-controls_title" class="a-text-input a-text-input__full" maxlength="250">
                 </div>

@@ -1232,7 +1232,7 @@
                 <div class="m-form-field">
                     <label class="a-label a-label__heading"
                            for="o-filterable-list-controls_title">
-                            Item name
+                            Search by keyword(s)
                     </label>
                     <input type="text" name="title" id="o-filterable-list-controls_title" class="a-text-input a-text-input__full" maxlength="250">
                 </div>
@@ -1357,12 +1357,12 @@
   <option value="personnel">Personnel</option>
   <option value="cfpb-in-vietnamese">CFPB in Vietnamese</option>
   <option value="cfpb-in-traditional-chinese">CFPB in Traditional Chinese</option>
+  <option value="supervision">Supervision</option>
   <option value="financial-service-providers">Financial service providers</option>
   <option value="cfpb-in-simplified-chinese">CFPB in Simplified Chinese</option>
   <option value="checking-account">Checking account</option>
   <option value="cfpb-in-korean">CFPB in Korean</option>
   <option value="partnerships">Partnerships</option>
-  <option value="supervision">Supervision</option>
   <option value="retirement">Retirement</option>
   <option value="homebuying">Homebuying</option>
   <option value="discrimination">Discrimination</option>
@@ -1380,8 +1380,8 @@
   <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="credit-unions">Credit unions</option>
   <option value="project-catalyst">Project Catalyst</option>
-  <option value="community-banks">Community banks</option>
   <option value="compliance">Compliance</option>
+  <option value="community-banks">Community banks</option>
   <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="debit-cards">Debit cards</option>
   <option value="mortgage-origination">Mortgage origination</option>
@@ -1411,6 +1411,11 @@
   <option value="libraries">Libraries</option>
   <option value="education">education</option>
   <option value="call-for-evidence">Call for evidence</option>
+  <option value="regulation-b">Regulation B</option>
+  <option value="ffiec">FFIEC</option>
+  <option value="hmda">HMDA</option>
+  <option value="regulation-c">Regulation C</option>
+  <option value="reports">reports</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
   <option value="small-dollar-lending-market">small dollar lending market</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
@@ -1517,6 +1522,7 @@
   <option value="damion-english">Damion English</option>
   <option value="sartaj-alag">Sartaj Alag</option>
   <option value="scott-fulford">Scott Fulford</option>
+  <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
@@ -1552,7 +1558,6 @@
   <option value="miesha-davis">Miesha Davis</option>
   <option value="max-bentovim">Max Bentovim</option>
   <option value="paul-mondor">Paul Mondor</option>
-  <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="kate-mullan">Kate Mullan</option>
   <option value="chris-dangelo">Chris DAngelo</option>
   <option value="ren-essene">Ren Essene</option>
@@ -1766,13 +1771,56 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1361 filtered results</div>
+          <div class="h4 m-notification_message">1362 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-11-10T00:00:00">NOV 10, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/how-help-homeowners-protect-their-homes-zh-traditional/">
+                    如何幫助房屋擁有人保護自己的住房
+                </a>
+            </h3>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=consumer-financial-protection-bureau">Consumer Financial Protection Bureau</a>
+                    and 
+                    <a href="?authors=department-of-housing-and-urban-development">Department of Housing and Urban Development</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-traditional-chinese" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Traditional Chinese
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -1876,6 +1924,46 @@
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-10-30T00:00:00">OCT 30, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/how-can-debt-collector-contact-you-our-new-rule-will-help-clarify/">
+                    How can a debt collector contact you? Our new rule will help clarify.
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>We have announced a final rule on the Fair Debt Collection Practices Act (FDCPA), which clarifies how debt collectors can communicate with consumers. Here are several things you should know.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Debt collection
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 833.4 1200" class="cf-icon-svg"><path d="M233 203.1c-27.2-27.2-71.8-27.2-99 0L20.4 316.7c-27.2 27.2-27.2 71.8 0 99l89.7 89.7 212.7-212.7-89.8-89.6zm599.6 789.6l-48.6-216c-3.4-15.3-14.9-36.5-26-48.6l-1.8-1.8-121.8-121.9-110.6-110.6-165.7-165.7-54.8 54.8 400 400 21.4-21.4c5.3 6.4 11.9 18.9 13.5 25.6l21.4 95.2-60 60-95.2-21.4c-6.7-1.5-19.2-8.2-25.6-13.5l89.2-89.2-400-400-122.6 122.6 165.7 165.7 110.6 110.6 121.8 121.8 1.8 1.8c12.1 11.1 33.3 22.6 48.6 26l215.9 48.6c2.2.5 4.3.7 6.2.7 12.6.1 19.8-9.4 16.6-23.3z"/></svg>
         <span class="u-visually-hidden">Category:</span>
         Director's notebook
@@ -1915,46 +2003,6 @@
                     Rulemaking
                 </a>
             </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Debt collection
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-10-30T00:00:00">OCT 30, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/how-can-debt-collector-contact-you-our-new-rule-will-help-clarify/">
-                    How can a debt collector contact you? Our new rule will help clarify.
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>We have announced a final rule on the Fair Debt Collection Practices Act (FDCPA), which clarifies how debt collectors can communicate with consumers. Here are several things you should know.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
             <li class="tags_tag">
                 <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
@@ -2957,58 +3005,6 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/co-signed-private-student-loan-tips-covid-19/">
-                    Co-signed a private student loan? Here are tips to protect yourself during COVID-19
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>If you’ve co-signed a private student loan, you’re financially responsible for missed payments. If you or the borrower have been financially impacted by the coronavirus, here are steps to protect your finances and credit during the pandemic.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=cora-hume">Cora Hume</a>
-                    and 
-                    <a href="?authors=kate-mullan">Kate Mullan</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=student-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Student loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-07-22T00:00:00">JUL 22, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
                 <a href="/about-us/blog/coprestatario-de-prestamo-estudiantil-covid-19/">
                     ¿Es usted el coprestatario de un préstamo estudiantil privado? Le tenemos consejos para que se proteja durante la pandemia del COVID-19
                 </a>
@@ -3051,35 +3047,34 @@
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 833.4 1200" class="cf-icon-svg"><path d="M233 203.1c-27.2-27.2-71.8-27.2-99 0L20.4 316.7c-27.2 27.2-27.2 71.8 0 99l89.7 89.7 212.7-212.7-89.8-89.6zm599.6 789.6l-48.6-216c-3.4-15.3-14.9-36.5-26-48.6l-1.8-1.8-121.8-121.9-110.6-110.6-165.7-165.7-54.8 54.8 400 400 21.4-21.4c5.3 6.4 11.9 18.9 13.5 25.6l21.4 95.2-60 60-95.2-21.4c-6.7-1.5-19.2-8.2-25.6-13.5l89.2-89.2-400-400-122.6 122.6 165.7 165.7 110.6 110.6 121.8 121.8 1.8 1.8c12.1 11.1 33.3 22.6 48.6 26l215.9 48.6c2.2.5 4.3.7 6.2.7 12.6.1 19.8-9.4 16.6-23.3z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
         <span class="u-visually-hidden">Category:</span>
-        Director's notebook
+        Info for consumers
 </span>
                 <span class="m-meta-header_separator">|</span>
             </div>
             <div class="m-meta-header_right">
                 <span class="a-date">
                     Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-07-17T00:00:00">JUL 17, 2020</time>
+                        <span class="datetime"><time class="datetime_date" datetime="2020-07-22T00:00:00">JUL 22, 2020</time>
 </span>
                 </span>
             </div>
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a class="" href="/about-us/blog/closing-remarks-consumer-financial-protection-week/">
-                    Closing remarks: Consumer Financial Protection Week
-	<div class="m-archived-pill">
-	    Archived
-	</div>
-</a>
+                <a href="/about-us/blog/co-signed-private-student-loan-tips-covid-19/">
+                    Co-signed a private student loan? Here are tips to protect yourself during COVID-19
+                </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>Many Americans continue to face economic challenges during these uncertain times. As Consumer Financial Protection Week comes to a close, the CFPB continues to be here for you with resources to explain your rights, options and protections during the coronavirus pandemic.</p>
+                    <p>If you’ve co-signed a private student loan, you’re financially responsible for missed payments. If you or the borrower have been financially impacted by the coronavirus, here are steps to protect your finances and credit during the pandemic.</p>
                 </div>
                 <div class="o-post-preview_byline-group">
                     By 
-                    <a href="?authors=kathleen-l-kraninger">Kathleen L. Kraninger</a>
+                    <a href="?authors=cora-hume">Cora Hume</a>
+                    and 
+                    <a href="?authors=kate-mullan">Kate Mullan</a>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">Topics:</span>
@@ -3091,21 +3086,9 @@
                 </a>
             </li>
             <li class="tags_tag">
-                <a href="/about-us/blog/?topics=research" class="tags_link">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Consumer complaints
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Servicemembers
+                    Disasters and emergencies
                 </a>
             </li>
     </ul>

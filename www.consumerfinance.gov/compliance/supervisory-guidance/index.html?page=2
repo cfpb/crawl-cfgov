@@ -1321,7 +1321,7 @@
                 <div class="m-form-field">
                     <label class="a-label a-label__heading"
                            for="o-filterable-list-controls_title">
-                            Item name
+                            Search by keyword(s)
                     </label>
                     <input type="text" name="title" id="o-filterable-list-controls_title" class="a-text-input a-text-input__full" maxlength="250">
                 </div>
@@ -1441,13 +1441,272 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">80 filtered results</div>
+          <div class="h4 m-notification_message">87 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-01-24T00:00:00">JAN 24, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/compliance/supervisory-guidance/statement-policy-regarding-prohibition-abusive-acts-or-practices/">
+                    Statement of policy regarding prohibition on abusive acts or practices
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Consumer Financial Protection Bureau has issued a policy statement providing a framework on how it intends to apply the abusiveness standard in supervision and enforcement matters.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Supervision
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2019-06-27T00:00:00">JUN 27, 2019</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/compliance/supervisory-guidance/statement-collection-demographic-information-community-development-financial-institutions/">
+                    Statement on Collection of Demographic Information by Community Development Financial Institutions
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Consumer Financial Protection Bureau is issuing this statement regarding Certified Community Development Financial Institutions receiving Federal financial assistance from the U.S. Department of the Treasury’s Community Development Financial Institutions Fund.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Compliance
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=financial-service-providers" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Financial service providers
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=equal-credit-opportunity-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Equal Credit Opportunity Act
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2019-02-26T00:00:00">FEB 26, 2019</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/compliance/supervisory-guidance/memorandum-understanding-federal-trade-commission/">
+                    Memorandum of Understanding with the Federal Trade Commission
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>This Memorandum of Understanding (“MOU”), dated as of Feb. 25, 2019, is made and entered into by the Consumer Financial Protection Bureau (“CFPB”) and the Federal Trade Commission (“FTC”). This MOU is intended to facilitate the fulfillment of the Agencies’ responsibilities in a manner consistent with the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”).</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Supervision
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2018-09-25T00:00:00">SEP 25, 2018</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/compliance/supervisory-guidance/bcfp-bulletin-2018-01-changes-types-supervisory-communications/">
+                    BCFP Bulletin 2018-01: Changes to types of supervisory communications
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Bureau of Consumer Financial Protection (Bureau) is issuing this bulletin to announce changes to how it articulates supervisory expectations to institutions in connection with supervisory events.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Supervision
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2018-09-14T00:00:00">SEP 14, 2018</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/compliance/supervisory-guidance/statement-supervisory-practices-regarding-financial-institutions-and-consumers-affected-major-disaster-or-emergency/">
+                    Statement on supervisory practices regarding financial institutions and consumers affected by a major disaster or emergency
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The
+Bureau of Consumer Financial Protection (Bureau) recognizes the serious impact
+major disasters or emergencies have on consumers and the operations of many
+supervised entities. Existing laws and regulations provide supervised
+entities regulatory flexibility to take certain actions that can benefit
+consumers in communities under stress and hasten recovery. The Bureau will also
+consider the impact of major disasters or emergencies on supervised entities
+themselves when conducting supervisory activities.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Supervision
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-09-22T00:00:00">SEP 22, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/compliance/supervisory-guidance/statement-supervisory-practices-regarding-financial-institutions-and-consumers-affected-hurricane-maria/">
+                    Statement on supervisory practices regarding financial institutions and consumers affected by Hurricane Maria
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Consumer Financial Protection Bureau (CFPB) is
+issuing this statement to advise our supervised entities that the CFPB
+encourages them to work with consumers affected by Hurricane Maria to make use
+of existing regulatory flexibility where doing so would benefit consumers
+affected by this major disaster.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Supervision
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-09-01T00:00:00">SEP 01, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/compliance/supervisory-guidance/statement-supervisory-practices-affected-hurricanes-harvey-and-irma/">
+                    Statement on supervisory practices regarding financial institutions and consumers affected by Hurricanes Harvey and Irma
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The Consumer Financial Protection Bureau (CFPB) is updating its statement on Hurricane Harvey to also address Hurricane Irma. The CFPB advises our supervised entities that we encourage them to work with consumers affected by Hurricanes Harvey and Irma to make use of existing regulatory flexibility where doing so would benefit consumers affected by these major disasters.<br/></p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Supervision
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2214,254 +2473,6 @@ expectations regarding customer account deposit reconciliation practices</p>
                 <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Fair lending
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2014-09-03T00:00:00">SEP 03, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/compliance/supervisory-guidance/bulletin-marketing-credit-card-promotional-apr-offers/">
-                    Bulletin re: marketing of credit card promotional APR offers
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>CFPB Bulletin 2014-02</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=credit-cards" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit cards
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2014-08-22T00:00:00">AUG 22, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/compliance/supervisory-guidance/ffiec-credit-practices-guidance/">
-                    FFIEC credit practices guidance
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Interagency guidance regarding unfair or deceptive credit practices.<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=access-to-credit" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=deceptive-practices" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Deceptive practices
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2014-08-19T00:00:00">AUG 19, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/compliance/supervisory-guidance/bulletin-mortgage-servicing-transfers/">
-                    Compliance bulletin and policy guidance re: mortgage servicing transfers
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Compliance bulletin and policy guidance regarding mortgage servicing transfers. (CFPB Bulletin 2014-01 and superseded CFPB Bulletin 2013-01)</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Compliance
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2014-07-11T00:00:00">JUL 11, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/compliance/supervisory-guidance/guidance-brokers-mini-correspondent-model/">
-                    Guidance regarding brokers shifting to “mini-correspondent” model
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Policy guidance on supervisory and enforcement considerations relevant to mortgage brokers transitioning to mini-correspondent lenders.<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Truth in Lending Act (TILA)
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2014-07-08T00:00:00">JUL 08, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/compliance/supervisory-guidance/bulletin-mortgage-lending-rules-surviving-family-members/">
-                    Bulletin clarifying mortgage lending rules to assist surviving family members
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Application of Regulation Z’s Ability-to-Repay rule to certain situations involving successors-in-interest.<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2014-02-27T00:00:00">FEB 27, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/compliance/supervisory-guidance/bulletin-fcra-requirement-furnishers-conduct-investigations/">
-                    Bulletin re: FCRA requirement that furnishers conduct investigations of disputed information
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>CFPB Bulletin 2014-01</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2013-12-11T00:00:00">DEC 11, 2013</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/compliance/supervisory-guidance/ffiec-guidance-social-media/">
-                    FFIEC guidance on social media
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Federal Financial Institutions Examination Council (FFIEC) final supervisory guidance entitled “Social Media: Consumer Compliance Risk Management Guidance”<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
                 </a>
             </li>
     </ul>

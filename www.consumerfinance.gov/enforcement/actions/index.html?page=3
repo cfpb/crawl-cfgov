@@ -1337,7 +1337,7 @@
                 <div class="m-form-field">
                     <label class="a-label a-label__heading"
                            for="o-filterable-list-controls_title">
-                            Item name
+                            Search by keyword(s)
                     </label>
                     <input type="text" name="title" id="o-filterable-list-controls_title" class="a-text-input a-text-input__full" maxlength="250">
                 </div>
@@ -2250,6 +2250,18 @@ without authorization.</p>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/2020-fair-lending-report-to-congress/">
+                        Protecting consumers through a pandemic: 2020 Fair Lending Report to Congress
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2021-04-14T00:00:00">APR 14, 2021</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/break-up-with-online-romance-scams/">
                         Break up with online romance scams
                     </a>
@@ -2264,18 +2276,6 @@ without authorization.</p>
                     <a class="m-list_link"
                        href="/about-us/blog/what-you-should-know-about-tech-support-scams/">
                         What you should know about tech support scams
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2021-01-12T00:00:00">JAN 12, 2021</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/estafas-de-asistencia-tecnica/">
-                        Lo que debe saber acerca de las estafas con falsa asistencia técnica
                     </a>
                 </h3>
                 <p class="a-date">
