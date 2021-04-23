@@ -1803,7 +1803,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">3036 filtered results</div>
+          <div class="h4 m-notification_message">3037 filtered results</div>
       </div>
   </div>
         </div>
@@ -1822,6 +1822,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/help-your-loved-ones-avoid-scams-this-holiday-season/">
+                        <span class="h4 u-mb0">
+                            Help your loved ones avoid scams this holiday season
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-02T00:00:00">DEC 02, 2020</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -2253,9 +2274,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/how-help-homeowners-protect-their-homes-zh-traditional/">
+                    <a href="/about-us/blog/how-help-homeowners-protect-their-homes-es/">
                         <span class="h4 u-mb0">
-                            如何幫助房屋擁有人保護自己的住房
+                            Cómo puede ayudar a los propietarios de viviendas a proteger sus hogares
                         </span>
                     </a>
                 </td>
@@ -2274,9 +2295,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/how-help-homeowners-protect-their-homes-es/">
+                    <a href="/about-us/blog/how-help-homeowners-protect-their-homes-zh-traditional/">
                         <span class="h4 u-mb0">
-                            Cómo puede ayudar a los propietarios de viviendas a proteger sus hogares
+                            如何幫助房屋擁有人保護自己的住房
                         </span>
                     </a>
                 </td>
@@ -2778,9 +2799,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/guide-helps-organizations-connect-people-to-stimulus-payment/">
+                    <a href="/about-us/blog/the-cfpb-ombudsmans-office-celebrates-ombuds-day/">
                         <span class="h4 u-mb0">
-                            New guide to help organizations connect individuals with stimulus payment
+                            The CFPB Ombudsman’s Office celebrates Ombuds Day
                         </span>
                     </a>
                 </td>
@@ -2799,9 +2820,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/the-cfpb-ombudsmans-office-celebrates-ombuds-day/">
+                    <a href="/about-us/blog/guide-helps-organizations-connect-people-to-stimulus-payment/">
                         <span class="h4 u-mb0">
-                            The CFPB Ombudsman’s Office celebrates Ombuds Day
+                            New guide to help organizations connect individuals with stimulus payment
                         </span>
                     </a>
                 </td>
@@ -3093,9 +3114,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/consumer-financial-protection-bureau-settles-auto-lender-unfair-loss-damage-waiver-practices/">
+                    <a href="/about-us/newsroom/cfpb-extend-comment-period-notice-proposed-rulemaking-new-category-qualified-mortgages/">
                         <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Settles with Auto Lender for Unfair Loss Damage Waiver Practices
+                            CFPB to Extend Comment Period for Notice of Proposed Rulemaking on New Category of Qualified Mortgages
                         </span>
                     </a>
                 </td>
@@ -3114,9 +3135,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-extend-comment-period-notice-proposed-rulemaking-new-category-qualified-mortgages/">
+                    <a href="/about-us/newsroom/consumer-financial-protection-bureau-settles-auto-lender-unfair-loss-damage-waiver-practices/">
                         <span class="h4 u-mb0">
-                            CFPB to Extend Comment Period for Notice of Proposed Rulemaking on New Category of Qualified Mortgages
+                            Consumer Financial Protection Bureau Settles with Auto Lender for Unfair Loss Damage Waiver Practices
                         </span>
                     </a>
                 </td>
@@ -3899,27 +3920,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2020-07-30T00:00:00">JUL 30, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/protecting-your-credit-during-coronavirus-pandemic/">
-                        <span class="h4 u-mb0">
-                            Protecting your credit during the coronavirus pandemic
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-07-29T00:00:00">JUL 29, 2020</time>
 </span>
                 </td>
             </tr>

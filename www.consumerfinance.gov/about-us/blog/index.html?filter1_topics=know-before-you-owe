@@ -1861,63 +1861,9 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
+                <a href="/about-us/blog/?topics=reports" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Access to credit
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Fair lending
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=regulation-b" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Regulation B
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=enforcement" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Enforcement
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=ffiec" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    FFIEC
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=supervision" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Supervision
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=discrimination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Discrimination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=compliance" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Compliance
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=hmda" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    HMDA
+                    reports
                 </a>
             </li>
             <li class="tags_tag">
@@ -1927,9 +1873,63 @@
                 </a>
             </li>
             <li class="tags_tag">
-                <a href="/about-us/blog/?topics=reports" class="tags_link">
+                <a href="/about-us/blog/?topics=hmda" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    reports
+                    HMDA
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Rulemaking
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=compliance" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Compliance
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=discrimination" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Discrimination
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=supervision" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Supervision
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=ffiec" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    FFIEC
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=enforcement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Enforcement
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=regulation-b" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Regulation B
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Fair lending
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Access to credit
                 </a>
             </li>
     </ul>
@@ -2000,7 +2000,7 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/Estafas-con-beneficios-por-desempleo/">
+                <a href="/about-us/blog/estafas-con-beneficios-por-desempleo/">
                     Estafas con beneficios por desempleo: Cómo puede protegerse
                 </a>
             </h3>
@@ -2015,15 +2015,15 @@
     <span class="u-visually-hidden">Topics:</span>
     <ul class="tags_list">
             <li class="tags_tag">
-                <a href="/about-us/blog/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
                 <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Disasters and emergencies
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=banking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Banking
                 </a>
             </li>
     </ul>
