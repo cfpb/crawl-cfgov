@@ -1318,16 +1318,16 @@
                                 </label>
                                 <select name="topics" id="o-filterable-list-controls_topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
   <option value="financial-education">Financial education</option>
-  <option value="mortgages">Mortgages</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
+  <option value="mortgages">Mortgages</option>
   <option value="older-americans">Older Americans</option>
   <option value="student-loans">Student loans</option>
   <option value="servicemembers">Servicemembers</option>
   <option value="students">Students</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="consumer-complaints">Consumer complaints</option>
-  <option value="financial-well-being">Financial well-being</option>
   <option value="cfpb-en-espanol">CFPB en español</option>
+  <option value="financial-well-being">Financial well-being</option>
   <option value="rulemaking">Rulemaking</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="credit-cards">Credit cards</option>
@@ -1771,13 +1771,123 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1363 filtered results</div>
+          <div class="h4 m-notification_message">1364 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-11-10T00:00:00">NOV 10, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/how-help-homeowners-protect-their-homes-tl/">
+                    Paano tutulungan ang mga may-ari ng bahay na pangalagaan ang kanilang mga bahay
+                </a>
+            </h3>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=consumer-financial-protection-bureau">Consumer Financial Protection Bureau</a>
+                    and 
+                    <a href="?authors=department-of-housing-and-urban-development">Department of Housing and Urban Development</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-in-tagalog" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB in Tagalog
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-11-10T00:00:00">NOV 10, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/how-help-homeowners-protect-their-homes-es/">
+                    Cómo puede ayudar a los propietarios de viviendas a proteger sus hogares
+                </a>
+            </h3>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=consumer-financial-protection-bureau">Consumer Financial Protection Bureau</a>
+                    and 
+                    <a href="?authors=department-of-housing-and-urban-development">Department of Housing and Urban Development</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-en-espanol" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB en español
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-11-10T00:00:00">NOV 10, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/how-help-homeowners-protect-their-homes-ar/">
+                    How to help homeowners protect their homes
+                </a>
+            </h3>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=consumer-financial-protection-bureau">Consumer Financial Protection Bureau</a>
+                    and 
+                    <a href="?authors=department-of-housing-and-urban-development">Department of Housing and Urban Development</a>
+                </div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -1815,107 +1925,6 @@
                 <a href="/about-us/blog/?topics=cfpb-in-traditional-chinese" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     CFPB in Traditional Chinese
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-11-10T00:00:00">NOV 10, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/how-help-homeowners-protect-their-homes/">
-                    How to help homeowners protect their homes
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Homeowners who are struggling to make mortgage payments because of a COVID-19 related hardship, or who got a mortgage forbearance that is coming to an end, should talk to their mortgage servicer or a HUD-approved housing counselor about options and next steps.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=consumer-financial-protection-bureau">Consumer Financial Protection Bureau</a>
-                    and 
-                    <a href="?authors=department-of-housing-and-urban-development">Department of Housing and Urban Development</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage origination
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=mortgages" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgages
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Mortgage servicing
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-11-10T00:00:00">NOV 10, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/how-help-homeowners-protect-their-homes-ko/">
-                    주택 소유자가 자신의 주택을 보호할 수 있도록 돕는 방법
-                </a>
-            </h3>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=consumer-financial-protection-bureau">Consumer Financial Protection Bureau</a>
-                    and 
-                    <a href="?authors=department-of-housing-and-urban-development">Department of Housing and Urban Development</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-korean" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Korean
                 </a>
             </li>
     </ul>
@@ -2466,65 +2475,6 @@
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-08-26T00:00:00">AUG 26, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/recursos-del-cfpb-en-multiples-idiomas/">
-                    Recursos del CFPB en múltiples idiomas
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Aquellos consumidores con limitado manejo del inglés enfrentan retos únicos para conocer y acceder a servicios financieros. Mire nuestro webinar para que sepa cómo el CFPB está trabajando para lograr que sus recursos sean accesibles para todos.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=desmond-brown">Desmond Brown</a>, 
-                    <a href="?authors=keo-chea">Keo Chea</a>, 
-                    and 
-                    <a href="?authors=frank-vespa-papaleo">Frank Vespa-Papaleo</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Credit reports and scores
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-en-espanol" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB en español
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
         <span class="u-visually-hidden">Category:</span>
         At the CFPB
@@ -2592,6 +2542,65 @@
                 <a href="/about-us/blog/?topics=diversity-and-inclusion" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Diversity and inclusion
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-08-26T00:00:00">AUG 26, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/recursos-del-cfpb-en-multiples-idiomas/">
+                    Recursos del CFPB en múltiples idiomas
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Aquellos consumidores con limitado manejo del inglés enfrentan retos únicos para conocer y acceder a servicios financieros. Mire nuestro webinar para que sepa cómo el CFPB está trabajando para lograr que sus recursos sean accesibles para todos.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=desmond-brown">Desmond Brown</a>, 
+                    <a href="?authors=keo-chea">Keo Chea</a>, 
+                    and 
+                    <a href="?authors=frank-vespa-papaleo">Frank Vespa-Papaleo</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit reports and scores
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=cfpb-en-espanol" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    CFPB en español
                 </a>
             </li>
     </ul>
@@ -3037,64 +3046,6 @@
                 <a href="/about-us/blog/?topics=data" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Data
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-07-22T00:00:00">JUL 22, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/coprestatario-de-prestamo-estudiantil-covid-19/">
-                    ¿Es usted el coprestatario de un préstamo estudiantil privado? Le tenemos consejos para que se proteja durante la pandemia del COVID-19
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Si es el coprestatario de un préstamo estudiantil privado usted es responsable por cualquier pago omitido. Si usted o el prestatario principal han visto sus finanzas impactadas por el coronavirus, le mostramos pasos para protegerlas, y cuidar crédito durante la pandemia.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=cora-hume">Cora Hume</a>
-                    and 
-                    <a href="?authors=kate-mullan">Kate Mullan</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=student-loans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Student loans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-en-espanol" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB en español
                 </a>
             </li>
     </ul>

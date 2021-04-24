@@ -1694,51 +1694,6 @@
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
         <span class="u-visually-hidden">Category:</span>
-        Data point
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-07-13T00:00:00">JUL 13, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/insights-making-ends-meet-survey/">
-                    Insights from the Making Ends Meet Survey
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>This report summarizes the initial results from the Making Ends Meet survey, a nationally representative survey of adults with a credit record developed by the CFPB’s Office of Research.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Research
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Data
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <span class="u-visually-hidden">Category:</span>
         Consumer education and empowerment
 </span>
                 <span class="m-meta-header_separator">|</span>
@@ -1773,6 +1728,51 @@
                 <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Access to credit
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <span class="u-visually-hidden">Category:</span>
+        Data point
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-07-13T00:00:00">JUL 13, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/insights-making-ends-meet-survey/">
+                    Insights from the Making Ends Meet Survey
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>This report summarizes the initial results from the Making Ends Meet survey, a nationally representative survey of adults with a credit record developed by the CFPB’s Office of Research.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Research
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Data
                 </a>
             </li>
     </ul>
