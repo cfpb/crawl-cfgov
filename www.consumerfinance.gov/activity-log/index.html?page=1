@@ -1370,9 +1370,9 @@
   <option value="bureau-milestones">Bureau milestones</option>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="financial-service-providers">Financial service providers</option>
+  <option value="innovation">Innovation</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
-  <option value="innovation">Innovation</option>
   <option value="prepaid-cards">Prepaid cards</option>
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="money-transfers">Money transfers</option>
@@ -1496,9 +1496,9 @@
   <option value="irene-skricki">Irene Skricki</option>
   <option value="naomi-karp">Naomi Karp</option>
   <option value="kent-markus">Kent Markus</option>
+  <option value="dave-uejio">Dave Uejio</option>
   <option value="corey-stone">Corey Stone</option>
   <option value="dan-quan">Dan Quan</option>
-  <option value="dave-uejio">Dave Uejio</option>
   <option value="hector-ortiz">Hector Ortiz</option>
   <option value="dubis-correal">Dubis Correal</option>
   <option value="dan-sokolov">Dan Sokolov</option>
@@ -1595,8 +1595,8 @@
   <option value="ren-essene">Ren Essene</option>
   <option value="david-friend">David Friend</option>
   <option value="wei-zhang">Wei Zhang</option>
-  <option value="julian-alcazar">Julian Alcazar</option>
   <option value="william-shelton">William Shelton</option>
+  <option value="julian-alcazar">Julian Alcazar</option>
   <option value="michael-salemi">Michael Salemi</option>
   <option value="will-sealy">Will Sealy</option>
   <option value="susan-stocks">Susan Stocks</option>
@@ -1671,8 +1671,8 @@
   <option value="kori-schulman">Kori Schulman</option>
   <option value="stephen-agostini">Stephen Agostini</option>
   <option value="audrey-chen">Audrey Chen</option>
-  <option value="adam-scott">Adam Scott</option>
   <option value="andrea-edmonds">Andrea Edmonds</option>
+  <option value="adam-scott">Adam Scott</option>
   <option value="ron-borzekowski">Ron Borzekowski</option>
   <option value="laura-johnson">Laura Johnson</option>
   <option value="james-miner">James Miner</option>
@@ -1682,8 +1682,8 @@
   <option value="stephanie-brenowitz">Stephanie Brenowitz</option>
   <option value="leslie-parrish">Leslie Parrish</option>
   <option value="tim-engelhardt">Tim Engelhardt</option>
-  <option value="peter-schoenrock">Peter Schoenrock</option>
   <option value="pavneet-singh">Pavneet Singh</option>
+  <option value="peter-schoenrock">Peter Schoenrock</option>
   <option value="james-wylie">James Wylie</option>
   <option value="terry-j-randall">Terry J. Randall</option>
   <option value="mary-mcleod">Mary McLeod</option>
@@ -1694,13 +1694,13 @@
   <option value="genevieve-melford">Genevieve Melford</option>
   <option value="heidi-johnson">Heidi Johnson</option>
   <option value="anthony-vail">Anthony Vail</option>
-  <option value="holly-zaharchuk">Holly Zaharchuk</option>
   <option value="alice-chang">Alice Chang</option>
+  <option value="holly-zaharchuk">Holly Zaharchuk</option>
   <option value="vanessa-krueger">Vanessa Krueger</option>
   <option value="laura-udis">Laura Udis</option>
   <option value="michelle-kambara">Michelle Kambara</option>
-  <option value="leonel-drukker">Leonel Drukker</option>
   <option value="scott-nelson">Scott Nelson</option>
+  <option value="leonel-drukker">Leonel Drukker</option>
   <option value="joshua-friedman">Joshua Friedman</option>
   <option value="nicholas-tremper">Nicholas Tremper</option>
   <option value="ken-brevoort">Ken Brevoort</option>
@@ -1803,7 +1803,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">3038 filtered results</div>
+          <div class="h4 m-notification_message">3039 filtered results</div>
       </div>
   </div>
         </div>
@@ -1822,6 +1822,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/innovation-and-collaboration-tech-sprints-support-improvements-consumer-notifications-data-collection-processing/">
+                        <span class="h4 u-mb0">
+                            Innovation and collaboration: Tech sprints support improvements in consumer notifications and data collection and processing
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2021-04-26T00:00:00">APR 26, 2021</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3899,27 +3920,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2020-12-04T00:00:00">DEC 04, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/cfpb-ombudsmans-office-2020-annual-report/">
-                        <span class="h4 u-mb0">
-                            CFPB Ombudsman’s Office 2020 Annual Report
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-12-03T00:00:00">DEC 03, 2020</time>
 </span>
                 </td>
             </tr>
