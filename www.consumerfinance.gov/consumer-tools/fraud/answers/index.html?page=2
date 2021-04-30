@@ -1313,9 +1313,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1243" href="/ask-cfpb/what-is-identity-theft-en-1243/">What is identity theft?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1147" href="/ask-cfpb/a-financial-planner-offered-to-help-with-my-bill-paying-and-banking-but-said-the-only-way-she-or-he-could-help-is-if-i-opened-a-joint-account-with-both-of-our-names-on-it-is-this-true-en-1147/">A financial planner offered to help with my bill paying and banking, but said the only way she or he could help is if I opened a joint account with both of our names on it. Is this true?</a></div>
             </article>
             <article>
@@ -1341,6 +1338,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/28" href="/ask-cfpb/ive-lost-my-credit-card-what-should-i-do-en-28/">I've lost my credit card. What should I do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/26" href="/ask-cfpb/what-is-an-unauthorized-use-of-a-credit-card-en-26/">What is an unauthorized use of a credit card? </a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

@@ -1308,14 +1308,14 @@
                             Assoicated Healthcare Credit Union
                     </option>
                     <option 
-                        value="First Covenant Bank"
-                        >
-                            First Covenant Bank
-                    </option>
-                    <option 
                         value="First Century Bank, National Association"
                         >
                             First Century Bank, National Association
+                    </option>
+                    <option 
+                        value="First Covenant Bank"
+                        >
+                            First Covenant Bank
                     </option>
                     <option 
                         value="Comerica"
@@ -1703,14 +1703,14 @@
                             Regions Bank
                     </option>
                     <option 
-                        value="Del Norte Credit Union"
-                        >
-                            Del Norte Credit Union
-                    </option>
-                    <option 
                         value="Transportation Federal Credit Union"
                         >
                             Transportation Federal Credit Union
+                    </option>
+                    <option 
+                        value="Del Norte Credit Union"
+                        >
+                            Del Norte Credit Union
                     </option>
                     <option 
                         value="FIRST FINANCIAL BANK, NATIONAL ASSOCIATION"
