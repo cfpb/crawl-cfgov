@@ -1259,23 +1259,23 @@
   <option value="applied-econometrics">Applied econometrics</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="public-finance">Public finance</option>
-  <option value="industrial-organization">Industrial organization</option>
   <option value="labor-economics">Labor economics</option>
-  <option value="behavioral-economics">Behavioral economics</option>
+  <option value="industrial-organization">Industrial organization</option>
   <option value="discrimination">Discrimination</option>
-  <option value="judgement-and-decision-making">Judgment and decision-making</option>
+  <option value="behavioral-economics">Behavioral economics</option>
   <option value="urban-or-regional-economics">Urban or regional economics</option>
   <option value="real-estate-economics">Real estate economics</option>
+  <option value="judgement-and-decision-making">Judgment and decision-making</option>
   <option value="survey-methodology">Survey methodology</option>
   <option value="aging">Aging</option>
-  <option value="experimental-economics">Experimental economics</option>
-  <option value="regulatory-analysis">Regulatory analysis</option>
-  <option value="debt-collection">Debt collection</option>
-  <option value="law-and-economics">Law and economics</option>
   <option value="financial-service-providers">Financial service providers</option>
   <option value="macroeconomics">Macroeconomics</option>
-  <option value="banking">Banking</option>
+  <option value="experimental-economics">Experimental economics</option>
   <option value="small-business-lending">Small business lending</option>
+  <option value="banking">Banking</option>
+  <option value="law-and-economics">Law and economics</option>
+  <option value="debt-collection">Debt collection</option>
+  <option value="regulatory-analysis">Regulatory analysis</option>
 </select>
                             </div>
                         </div>
@@ -1482,24 +1482,24 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
-                       href="/about-us/blog/credit-card-debt-fell-even-consumers-having-financial-difficulties-before-pandemic/">
-                        Credit card debt fell even for consumers who were having financial difficulties before the pandemic
+                       href="/about-us/blog/making-ends-meet-series-changes-in-consumer-financial-status-during-early-months-pandemic/">
+                        Making Ends Meet series: Changes in consumer financial status during the early months of the pandemic
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-12-17T00:00:00">DEC 17, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2021-04-30T00:00:00">APR 30, 2021</time>
 </span>
                 </p>
             </li>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
-                       href="/about-us/blog/new-report-explores-prevalence-actual-payment-information-consumer-credit-reporting/">
-                        New report explores the prevalence of actual payment information in consumer credit reporting
+                       href="/about-us/blog/credit-card-debt-fell-even-consumers-having-financial-difficulties-before-pandemic/">
+                        Credit card debt fell even for consumers who were having financial difficulties before the pandemic
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-12T00:00:00">NOV 12, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-17T00:00:00">DEC 17, 2020</time>
 </span>
                 </p>
             </li>

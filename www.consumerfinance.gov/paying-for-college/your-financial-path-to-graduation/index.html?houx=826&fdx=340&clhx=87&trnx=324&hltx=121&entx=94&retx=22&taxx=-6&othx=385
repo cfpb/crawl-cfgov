@@ -1616,11 +1616,11 @@
     <input class="a-radio"
            type="radio"
            value="n"
-           id="program-years_spent-0"
+           id="program-years-spent-radio_n"
            name="programProgress"
            >
     <label class="a-label"
-           for="program-years_spent-0">
+           for="program-years-spent-radio_n">
         <strong>None.</strong> I have no credits or only credits from AP/IB exams.
     </label>
 </div>
@@ -1628,11 +1628,11 @@
     <input class="a-radio"
            type="radio"
            value="0"
-           id="program-years_spent-1"
+           id="program-years-spent-radio_0"
            name="programProgress"
            >
     <label class="a-label"
-           for="program-years_spent-1">
+           for="program-years-spent-radio_0">
         <strong>I will be a first-year student.</strong> I have completed 1 - 29 credits, or less than 1 year.
     </label>
 </div>
@@ -1640,11 +1640,11 @@
     <input class="a-radio"
            type="radio"
            value="1"
-           id="program-years_spent-2"
+           id="program-years-spent-radio_1"
            name="programProgress"
            >
     <label class="a-label"
-           for="program-years_spent-2">
+           for="program-years-spent-radio_1">
         <strong>I will be a second-year student.</strong> I have completed 30 - 59 credits, or less than 2 years.
     </label>
 </div>
@@ -1652,11 +1652,11 @@
     <input class="a-radio"
            type="radio"
            value="a"
-           id="program-years_spent-assoc"
+           id="program-years-spent-radio_a"
            name="programProgress"
            >
     <label class="a-label"
-           for="program-years_spent-assoc">
+           for="program-years-spent-radio_a">
         <strong>I have an associate's degree.</strong> I will be a third-year student.
     </label>
 </div>
@@ -1664,11 +1664,11 @@
     <input class="a-radio"
            type="radio"
            value="2"
-           id="program-years_spent-3"
+           id="program-years-spent-radio_2"
            name="programProgress"
            >
     <label class="a-label"
-           for="program-years_spent-3">
+           for="program-years-spent-radio_2">
         <strong>I will be a third-year student, or beyond.</strong> I have completed 60+ credits, or 2+ years.
     </label>
 </div>
@@ -1926,7 +1926,11 @@
         No. Please show me cost data from the U.S. Department of Education (which is at least one year old).
     </label>
 </div>
-            <button class="a-btn" data-costs_offer-answer="y">Continue</button>
+            <button class="a-btn"
+                    data-costs_offer-answer="y"
+                    id="costs-offer-button">
+                Continue
+            </button>
         </div>
     </div>
     <div class="costs_content-section costs_content-section_content block block__sub" data-state-based-visibility="costs-question-yes">

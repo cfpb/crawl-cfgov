@@ -1352,8 +1352,8 @@
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="personnel">Personnel</option>
   <option value="access-to-credit">Access to credit</option>
-  <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="cfpb-en-espanol">CFPB en español</option>
+  <option value="identity-theft-fraud">Identity theft and fraud</option>
   <option value="auto-loans">Auto loans</option>
   <option value="fair-lending">Fair lending</option>
   <option value="youth">Youth</option>
@@ -1370,13 +1370,13 @@
   <option value="bureau-milestones">Bureau milestones</option>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="financial-service-providers">Financial service providers</option>
-  <option value="innovation">Innovation</option>
   <option value="foreclosure">Foreclosure</option>
+  <option value="innovation">Innovation</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
   <option value="prepaid-cards">Prepaid cards</option>
   <option value="mortgage-origination">Mortgage origination</option>
-  <option value="money-transfers">Money transfers</option>
   <option value="checking-account">Checking account</option>
+  <option value="money-transfers">Money transfers</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="arbitration">Arbitration</option>
   <option value="overdrafts">Overdrafts</option>
@@ -1388,22 +1388,22 @@
   <option value="partnerships">Partnerships</option>
   <option value="credit-card-act">Credit CARD Act</option>
   <option value="financial-coaching">Financial coaching</option>
-  <option value="regulation-e">Regulation E</option>
   <option value="diversity-and-inclusion">Diversity and inclusion</option>
+  <option value="regulation-e">Regulation E</option>
   <option value="retirement">Retirement</option>
   <option value="people-with-disabilities">People with disabilities</option>
   <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
-  <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="homebuying">Homebuying</option>
+  <option value="small-dollar-loans">Small-dollar loans</option>
   <option value="call-for-evidence">Call for evidence</option>
   <option value="medical-debt">Medical debt</option>
   <option value="electronic-payments">Electronic payments</option>
-  <option value="cfpb-ombudsman">CFPB Ombudsman</option>
-  <option value="debit-cards">Debit cards</option>
   <option value="reverse-mortgages">Reverse mortgages</option>
+  <option value="debit-cards">Debit cards</option>
+  <option value="cfpb-ombudsman">CFPB Ombudsman</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
-  <option value="privacy">Privacy</option>
   <option value="community-banks">Community banks</option>
+  <option value="privacy">Privacy</option>
   <option value="business-loans">Business loans</option>
   <option value="procurement">Procurement</option>
   <option value="redlining">Redlining</option>
@@ -1413,40 +1413,40 @@
   <option value="sbrefa">SBREFA</option>
   <option value="add-on-products">Add-on products</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
-  <option value="regulation-m">Regulation M</option>
   <option value="financial-wellness-in-workplace">Financial wellness in the workplace</option>
   <option value="foia">FOIA</option>
   <option value="native-communities">Native communities</option>
+  <option value="regulation-m">Regulation M</option>
   <option value="libraries">Libraries</option>
   <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="cfpb-in-tagalog">CFPB in Tagalog</option>
-  <option value="cfpb-in-vietnamese">CFPB in Vietnamese</option>
   <option value="private-education-loan-ombudsman">Private Education Loan Ombudsman</option>
-  <option value="behavioral-economics">Behavioral economics</option>
+  <option value="cfpb-in-vietnamese">CFPB in Vietnamese</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
+  <option value="behavioral-economics">Behavioral economics</option>
+  <option value="youth-employment">Youth employment</option>
   <option value="regulation-p">Regulation P</option>
   <option value="hmda">HMDA</option>
-  <option value="youth-employment">Youth employment</option>
-  <option value="cfpb-in-traditional-chinese">CFPB in Traditional Chinese</option>
   <option value="regulation-o">Regulation O</option>
+  <option value="cfpb-in-traditional-chinese">CFPB in Traditional Chinese</option>
   <option value="cfpb-in-korean">CFPB in Korean</option>
   <option value="reports">reports</option>
+  <option value="interstate-land-sales-act">Interstate Land Sales Act</option>
+  <option value="financial-institutions">Financial Institutions</option>
+  <option value="udaaps_1">UDAAPs</option>
   <option value="fair-credit-billing-act">Fair Credit Billing Act</option>
   <option value="cfpb-in-simplified-chinese">CFPB in Simplified Chinese</option>
   <option value="regulation-n">Regulation N</option>
-  <option value="credit">Credit</option>
-  <option value="financial-institutions">Financial Institutions</option>
-  <option value="udaaps_1">UDAAPs</option>
-  <option value="fraud-and-scams_1">Fraud and scams</option>
-  <option value="education">education</option>
   <option value="remittances">remittances</option>
-  <option value="interstate-land-sales-act">Interstate Land Sales Act</option>
+  <option value="credit">Credit</option>
+  <option value="education">education</option>
+  <option value="fraud-and-scams_1">Fraud and scams</option>
   <option value="small-dollar-lending-market">small dollar lending market</option>
   <option value="artificial-intelligence">artificial intelligence</option>
-  <option value="regulation-c">Regulation C</option>
-  <option value="ffiec">FFIEC</option>
   <option value="regulation-b">Regulation B</option>
+  <option value="ffiec">FFIEC</option>
+  <option value="regulation-c">Regulation C</option>
 </select>
                             </div>
                         </div>
@@ -1530,6 +1530,7 @@
   <option value="camille-busette">Camille Busette</option>
   <option value="patricia-mccoy">Patricia McCoy</option>
   <option value="elizabeth-vale">Elizabeth Vale</option>
+  <option value="scott-fulford">Scott Fulford</option>
   <option value="grady-hedgespeth">Grady Hedgespeth</option>
   <option value="sangeetha-malaiyandi">Sangeetha Malaiyandi</option>
   <option value="melissa-yu">Melissa Yu</option>
@@ -1548,7 +1549,6 @@
   <option value="cfpb-students-team">CFPB Students Team</option>
   <option value="sartaj-alag">Sartaj Alag</option>
   <option value="kris-andreassen">Kris Andreassen</option>
-  <option value="scott-fulford">Scott Fulford</option>
   <option value="damion-english">Damion English</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
@@ -1557,6 +1557,7 @@
   <option value="susan-m-bernard">Susan M. Bernard</option>
   <option value="bryan-a-schneider">Bryan A. Schneider</option>
   <option value="michael-herndon">Michael Herndon</option>
+  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="gene-koo">Gene Koo</option>
   <option value="patricia-mcclung">Patricia McClung</option>
@@ -1587,7 +1588,6 @@
   <option value="max-bentovim">Max Bentovim</option>
   <option value="brian-stone">Brian Stone</option>
   <option value="logan-herman">Logan Herman</option>
-  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="lora-mccray">Lora McCray</option>
   <option value="kate-mullan">Kate Mullan</option>
   <option value="chris-dangelo">Chris DAngelo</option>
@@ -1631,6 +1631,7 @@
   <option value="keo-chea">Keo Chea</option>
   <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
+  <option value="marie-rush">Marie Rush</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
   <option value="ganessa-stout">Ganessa Stout</option>
@@ -1736,10 +1737,10 @@
   <option value="charmain-bogue">Charmain Bogue</option>
   <option value="brian-fu">Brian Fu</option>
   <option value="office-of-enforcement">Office of Enforcement</option>
-  <option value="marie-rush">Marie Rush</option>
   <option value="emmanuel-manon">Emmanuel Mañón</option>
   <option value="brianna-middlewood">Brianna Middlewood</option>
   <option value="beth-spring">Beth Spring</option>
+  <option value="eric-wilson">Eric Wilson</option>
 </select>
                             </div>
                         </div>
@@ -1803,7 +1804,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">3045 filtered results</div>
+          <div class="h4 m-notification_message">3049 filtered results</div>
       </div>
   </div>
         </div>
@@ -1833,9 +1834,93 @@
         </a>
                 </td>
                 <td class="u-w65pct">
+                    <a href="/about-us/newsroom/consumer-financial-protection-bureau-releases-report-on-implementing-the-dodd-frank-acts-small-business-lending-data-collection-requirement/">
+                        <span class="h4 u-mb0">
+                            Consumer Financial Protection Bureau Releases Report on Implementing the Dodd-Frank Act’s Small Business Lending Data Collection Requirement
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-15T00:00:00">DEC 15, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/listen-to-cfpb-new-podcast-episodes/">
+                        <span class="h4 u-mb0">
+                            Listen to CFPB's new podcast episodes
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-15T00:00:00">DEC 15, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/kraninger-marks-second-year-director-consumer-financial-protection-bureau/">
+                        <span class="h4 u-mb0">
+                            Kraninger Marks Second Year as Director of the Consumer Financial Protection Bureau
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-11T00:00:00">DEC 11, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
                     <a href="/about-us/newsroom/consumer-financial-protection-bureau-arkansas-attorney-general-settle-home-alarm-company-using-consumers-credit-scores-without-proper-notice/">
                         <span class="h4 u-mb0">
                             Consumer Financial Protection Bureau and Arkansas Attorney General Settle with Home-Alarm Company for Using Consumers’ Credit Scores Without Proper Notice
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-12-11T00:00:00">DEC 11, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/fall-2020-rulemaking-agenda/">
+                        <span class="h4 u-mb0">
+                            Fall 2020 Rulemaking Agenda
                         </span>
                     </a>
                 </td>
@@ -2287,6 +2372,27 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-colorados-attorney-general-announce-joint-virtual-office-hours/">
+                        <span class="h4 u-mb0">
+                            CFPB, Colorado's Attorney General Announce Joint, Virtual Office Hours
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-11-16T00:00:00">NOV 16, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
         <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
@@ -2308,22 +2414,22 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
+        <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
         <span class="u-visually-hidden">Category:</span>
-        Press release
+        Blog
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-colorados-attorney-general-announce-joint-virtual-office-hours/">
+                    <a href="/about-us/blog/new-report-explores-prevalence-actual-payment-information-consumer-credit-reporting/">
                         <span class="h4 u-mb0">
-                            CFPB, Colorado's Attorney General Announce Joint, Virtual Office Hours
+                            New report explores the prevalence of actual payment information in consumer credit reporting
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-16T00:00:00">NOV 16, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-11-12T00:00:00">NOV 12, 2020</time>
 </span>
                 </td>
             </tr>
@@ -2361,27 +2467,6 @@
                     <a href="/data-research/research-reports/quarterly-consumer-credit-trends-payment-amount-furnishing-consumer-reporting/">
                         <span class="h4 u-mb0">
                             Quarterly Consumer Credit Trends: Payment Amount Furnishing & Consumer Reporting
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-12T00:00:00">NOV 12, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/new-report-explores-prevalence-actual-payment-information-consumer-credit-reporting/">
-                        <span class="h4 u-mb0">
-                            New report explores the prevalence of actual payment information in consumer credit reporting
                         </span>
                     </a>
                 </td>
@@ -2463,6 +2548,27 @@
         </a>
                 </td>
                 <td class="u-w65pct">
+                    <a href="/about-us/blog/how-help-homeowners-protect-their-homes-es/">
+                        <span class="h4 u-mb0">
+                            Cómo puede ayudar a los propietarios de viviendas a proteger sus hogares
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-11-10T00:00:00">NOV 10, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
                     <a href="/about-us/blog/how-help-homeowners-protect-their-homes-vi/">
                         <span class="h4 u-mb0">
                             Cách giúp chủ nhà bảo vệ ngôi nhà của họ
@@ -2505,14 +2611,14 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/how-help-homeowners-protect-their-homes-es/">
+                    <a href="/about-us/blog/honoring-and-empowering-those-who-served-our-nation/">
                         <span class="h4 u-mb0">
-                            Cómo puede ayudar a los propietarios de viviendas a proteger sus hogares
+                            Honoring and empowering those who served our nation
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-10T00:00:00">NOV 10, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-11-09T00:00:00">NOV 09, 2020</time>
 </span>
                 </td>
             </tr>
@@ -2539,22 +2645,22 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
+        <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
         <span class="u-visually-hidden">Category:</span>
-        Blog
+        Press release
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/honoring-and-empowering-those-who-served-our-nation/">
+                    <a href="/about-us/newsroom/consumer-financial-protection-bureau-files-lawsuit-against-driver-loan-llc-and-its-ceo/">
                         <span class="h4 u-mb0">
-                            Honoring and empowering those who served our nation
+                            Consumer Financial Protection Bureau Files Lawsuit Against Driver Loan, LLC And Its CEO
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-09T00:00:00">NOV 09, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-11-05T00:00:00">NOV 05, 2020</time>
 </span>
                 </td>
             </tr>
@@ -2592,27 +2698,6 @@
                     <a href="/about-us/newsroom/consumer-financial-protection-bureau-issues-no-action-letter-facilitate-consumer-access-small-dollar-loans/">
                         <span class="h4 u-mb0">
                             Consumer Financial Protection Bureau Issues No Action Letter to Facilitate Consumer Access to Small-Dollar Loans
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-11-05T00:00:00">NOV 05, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/consumer-financial-protection-bureau-files-lawsuit-against-driver-loan-llc-and-its-ceo/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Files Lawsuit Against Driver Loan, LLC And Its CEO
                         </span>
                     </a>
                 </td>
@@ -3001,27 +3086,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=report"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zm351.3 0c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zm174.6 213.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Report
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/data-research/research-reports/2020-college-credit-card-agreements/">
-                        <span class="h4 u-mb0">
-                            2020 College credit card agreements
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-10-08T00:00:00">OCT 08, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
@@ -3033,6 +3097,27 @@
                     <a href="/about-us/blog/the-cfpb-ombudsmans-office-celebrates-ombuds-day/">
                         <span class="h4 u-mb0">
                             The CFPB Ombudsman’s Office celebrates Ombuds Day
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-10-08T00:00:00">OCT 08, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 788.5 1200" class="cf-icon-svg"><path d="M412.7 230.5c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v616.4h116.6V230.5z"/><path d="M758.5 898.6H60V200.1c0-16.6-13.4-30-30-30s-30 13.4-30 30v728.5c0 16.6 13.4 30 30 30h728.5c16.6 0 30-13.4 30-30s-13.5-30-30-30z"/><path d="M236.7 444c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9h116.6V444zm351.3 0c0-16.5-13.5-30-30-30h-56.6c-16.5 0-30 13.5-30 30v402.9H588V444zm174.6 213.5c0-16.5-13.5-30-30-30H676c-16.5 0-30 13.5-30 30v189.4h116.6V657.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/2020-college-credit-card-agreements/">
+                        <span class="h4 u-mb0">
+                            2020 College credit card agreements
                         </span>
                     </a>
                 </td>
@@ -3673,27 +3758,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-compensacion-economica-caso-siringoringo/">
-                        <span class="h4 u-mb0">
-                            El CFPB Anuncia Que Está Intentando Contactar a Aquellos Consumidores Que Sean Elegibles Para Recibir Compensación Económica por El Caso Siringoringo
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-08-28T00:00:00">AUG 28, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
@@ -3705,6 +3769,27 @@
                     <a href="/about-us/blog/bureau-adopts-new-procedures-external-peer-review-research/">
                         <span class="h4 u-mb0">
                             Bureau adopts new procedures for external peer review of important research
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-08-28T00:00:00">AUG 28, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-compensacion-economica-caso-siringoringo/">
+                        <span class="h4 u-mb0">
+                            El CFPB Anuncia Que Está Intentando Contactar a Aquellos Consumidores Que Sean Elegibles Para Recibir Compensación Económica por El Caso Siringoringo
                         </span>
                     </a>
                 </td>
@@ -3799,27 +3884,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-settles-fourth-mortgage-company-deceptive-loan-advertisements-servicemembers-veterans/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Settles with Fourth Mortgage Company to Address Deceptive Loan Advertisements Sent to Servicemembers and Veterans
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-08-26T00:00:00">AUG 26, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
@@ -3849,77 +3913,14 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-launches-public-service-announcements-compensation-siringoringo-case/">
+                    <a href="/about-us/newsroom/cfpb-settles-fourth-mortgage-company-deceptive-loan-advertisements-servicemembers-veterans/">
                         <span class="h4 u-mb0">
-                            CFPB Launches Public Service Announcements to Reach Consumers Eligible for Compensation in Siringoringo Case
+                            Consumer Financial Protection Bureau Settles with Fourth Mortgage Company to Address Deceptive Loan Advertisements Sent to Servicemembers and Veterans
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-08-25T00:00:00">AUG 25, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 825.1 1200" class="cf-icon-svg"><path d="M795.1 263.9H30c-16.5 0-30 13.5-30 30v539.5c0 16.5 13.5 30 30 30h95.3v144.5c0 17.7 8.5 31.8 22.7 37.7 4.2 1.8 8.7 2.7 13.3 2.7 10.3 0 20.6-4.6 29.4-13.3l171.5-171.6h432.9c16.5 0 30-13.5 30-30V293.9c-.1-16.6-13.5-30-30-30zm-90 409H120v-60h585.1v60zm0-158.6H120v-60h585.1v60z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/back-to-school-resources-teachers-parents-financial-education-practitioners/">
-                        <span class="h4 u-mb0">
-                            Back to school resources for teachers, parents and financial education practitioners
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-08-25T00:00:00">AUG 25, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-rfi-card-act-regulations-small-entities-and-consumer-credit-card-market/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Requests Information on the Impact of the CARD Act Regulations on Small Entities and the Consumer Credit Card Market
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-08-25T00:00:00">AUG 25, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 975.1 1200" class="cf-icon-svg"><path d="M907.2 277L151 466.7H30c-16.5 0-30 13.5-30 30v197.5c0 16.5 13.5 30 30 30h121l93 23.3-20.6 82.4c-8 32.1 11.5 64.7 43.7 72.8l194.8 48.7c32.1 8 64.7-11.5 72.8-43.7l20.5-82.1 352.1 88.3c37.3 9.4 67.9-14.5 67.9-53v-531c-.1-38.4-30.7-62.3-68-52.9zM476.4 893l-194.7-48.6s0-.1-.1-.1l20.6-82.3 194.7 49-20.5 82z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-settles-third-mortgage-company-deceptive-loan-advertisements-servicemembers-veterans/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Settles with Third Mortgage Company to Address Deceptive Loan Advertisements Sent to Servicemembers and Veterans
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-08-21T00:00:00">AUG 21, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-08-26T00:00:00">AUG 26, 2020</time>
 </span>
                 </td>
             </tr>

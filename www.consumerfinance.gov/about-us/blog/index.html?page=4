@@ -1318,18 +1318,18 @@
                                 </label>
                                 <select name="topics" id="o-filterable-list-controls_topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
   <option value="financial-education">Financial education</option>
-  <option value="mortgages">Mortgages</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
+  <option value="mortgages">Mortgages</option>
   <option value="older-americans">Older Americans</option>
   <option value="student-loans">Student loans</option>
   <option value="servicemembers">Servicemembers</option>
   <option value="students">Students</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
+  <option value="financial-well-being">Financial well-being</option>
   <option value="consumer-complaints">Consumer complaints</option>
   <option value="cfpb-en-espanol">CFPB en español</option>
-  <option value="financial-well-being">Financial well-being</option>
-  <option value="rulemaking">Rulemaking</option>
   <option value="identity-theft-fraud">Identity theft and fraud</option>
+  <option value="rulemaking">Rulemaking</option>
   <option value="credit-cards">Credit cards</option>
   <option value="enforcement">Enforcement</option>
   <option value="debt-collection">Debt collection</option>
@@ -1346,38 +1346,38 @@
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="deceptive-practices">Deceptive practices</option>
   <option value="academic-research-council">Academic Research Council</option>
-  <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="auto-loans">Auto loans</option>
+  <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="access-to-credit">Access to credit</option>
   <option value="people-with-disabilities">People with disabilities</option>
-  <option value="open-government">Open government</option>
   <option value="payday-loans">Payday loans</option>
+  <option value="open-government">Open government</option>
   <option value="prepaid-cards">Prepaid cards</option>
-  <option value="cfpb-in-tagalog">CFPB in Tagalog</option>
   <option value="personnel">Personnel</option>
+  <option value="cfpb-in-tagalog">CFPB in Tagalog</option>
   <option value="cfpb-in-traditional-chinese">CFPB in Traditional Chinese</option>
   <option value="cfpb-in-vietnamese">CFPB in Vietnamese</option>
-  <option value="partnerships">Partnerships</option>
   <option value="checking-account">Checking account</option>
   <option value="financial-service-providers">Financial service providers</option>
+  <option value="partnerships">Partnerships</option>
   <option value="supervision">Supervision</option>
-  <option value="cfpb-in-simplified-chinese">CFPB in Simplified Chinese</option>
   <option value="cfpb-in-korean">CFPB in Korean</option>
-  <option value="homebuying">Homebuying</option>
+  <option value="cfpb-in-simplified-chinese">CFPB in Simplified Chinese</option>
   <option value="retirement">Retirement</option>
   <option value="discrimination">Discrimination</option>
+  <option value="homebuying">Homebuying</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="arbitration">Arbitration</option>
   <option value="innovation">Innovation</option>
-  <option value="money-transfers">Money transfers</option>
   <option value="cfpb-ombudsman">CFPB Ombudsman</option>
+  <option value="money-transfers">Money transfers</option>
   <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
-  <option value="financial-coaching">Financial coaching</option>
   <option value="overdrafts">Overdrafts</option>
+  <option value="financial-coaching">Financial coaching</option>
   <option value="foreclosure">Foreclosure</option>
   <option value="credit-union-advisory-council">Credit Union Advisory Council</option>
-  <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="diversity-and-inclusion">Diversity and inclusion</option>
   <option value="credit-unions">Credit unions</option>
   <option value="project-catalyst">Project Catalyst</option>
   <option value="compliance">Compliance</option>
@@ -1385,24 +1385,24 @@
   <option value="community-banks">Community banks</option>
   <option value="your-money-your-goals">Your Money Your Goals</option>
   <option value="mortgage-origination">Mortgage origination</option>
-  <option value="privacy">Privacy</option>
   <option value="medical-debt">Medical debt</option>
+  <option value="privacy">Privacy</option>
   <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="redlining">Redlining</option>
   <option value="civil-penalty-fund">Civil Penalty Fund</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="reverse-mortgages">Reverse mortgages</option>
+  <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
   <option value="procurement">Procurement</option>
   <option value="native-communities">Native communities</option>
-  <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
   <option value="housing-counselor">Housing counselor</option>
   <option value="financial-wellness-in-workplace">Financial wellness in the workplace</option>
-  <option value="regulation-e">Regulation E</option>
   <option value="electronic-payments">Electronic payments</option>
-  <option value="credit-card-act">Credit CARD Act</option>
   <option value="sbrefa">SBREFA</option>
   <option value="mobile-financial-services">Mobile financial services</option>
+  <option value="credit-card-act">Credit CARD Act</option>
+  <option value="regulation-e">Regulation E</option>
   <option value="business-loans">Business loans</option>
   <option value="virtual-currency">Virtual currency</option>
   <option value="add-on-products">Add-on products</option>
@@ -1411,14 +1411,14 @@
   <option value="truth-in-savings-act">Truth in Savings Act</option>
   <option value="call-for-evidence">Call for evidence</option>
   <option value="libraries">Libraries</option>
-  <option value="education">education</option>
   <option value="taskforce-on-federal-consumer-financial-law">Taskforce on Federal Consumer Financial Law</option>
+  <option value="education">education</option>
   <option value="small-dollar-lending-market">small dollar lending market</option>
-  <option value="reports">reports</option>
-  <option value="regulation-c">Regulation C</option>
-  <option value="hmda">HMDA</option>
-  <option value="ffiec">FFIEC</option>
   <option value="regulation-b">Regulation B</option>
+  <option value="ffiec">FFIEC</option>
+  <option value="hmda">HMDA</option>
+  <option value="regulation-c">Regulation C</option>
+  <option value="reports">reports</option>
 </select>
                             </div>
                         </div>
@@ -1506,6 +1506,7 @@
   <option value="chris-willey">Chris Willey</option>
   <option value="patricia-mccoy">Patricia McCoy</option>
   <option value="elizabeth-vale">Elizabeth Vale</option>
+  <option value="scott-fulford">Scott Fulford</option>
   <option value="melissa-yu">Melissa Yu</option>
   <option value="anthony-camilli">Anthony Camilli</option>
   <option value="adebukola-dada">Adebukola Dada</option>
@@ -1520,13 +1521,13 @@
   <option value="cfpb-students-team">CFPB Students Team</option>
   <option value="sartaj-alag">Sartaj Alag</option>
   <option value="kris-andreassen">Kris Andreassen</option>
-  <option value="scott-fulford">Scott Fulford</option>
   <option value="damion-english">Damion English</option>
   <option value="patty-avery">Patty Avery</option>
   <option value="anthony-welcher">Anthony Welcher</option>
   <option value="patrick-brick">Patrick Brick</option>
   <option value="jill-wheeler">Jill Wheeler</option>
   <option value="susan-m-bernard">Susan M. Bernard</option>
+  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="frank-vespa-papaleo">Frank Vespa-Papaleo</option>
   <option value="gene-koo">Gene Koo</option>
   <option value="patricia-mcclung">Patricia McClung</option>
@@ -1557,15 +1558,14 @@
   <option value="max-bentovim">Max Bentovim</option>
   <option value="brian-stone">Brian Stone</option>
   <option value="logan-herman">Logan Herman</option>
-  <option value="nelson-akeredolu">Nelson Akeredolu</option>
   <option value="kate-mullan">Kate Mullan</option>
   <option value="chris-dangelo">Chris DAngelo</option>
   <option value="mechel-glass">Mechel Glass</option>
   <option value="ren-essene">Ren Essene</option>
   <option value="david-friend">David Friend</option>
   <option value="wei-zhang">Wei Zhang</option>
-  <option value="william-shelton">William Shelton</option>
   <option value="julian-alcazar">Julian Alcazar</option>
+  <option value="william-shelton">William Shelton</option>
   <option value="michael-salemi">Michael Salemi</option>
   <option value="will-sealy">Will Sealy</option>
   <option value="susan-stocks">Susan Stocks</option>
@@ -1601,6 +1601,7 @@
   <option value="keo-chea">Keo Chea</option>
   <option value="caroline-ratcliffe">Caroline Ratcliffe</option>
   <option value="j-frank-vespa-papaleo_1">J. Frank Vespa-Papaleo</option>
+  <option value="marie-rush">Marie Rush</option>
   <option value="cfpb-enforcement-team">CFPB Enforcement Team</option>
   <option value="anthony-alexis">Anthony Alexis</option>
   <option value="ganessa-stout">Ganessa Stout</option>
@@ -1640,8 +1641,8 @@
   <option value="nani-coloretti">Nani Coloretti</option>
   <option value="kori-schulman">Kori Schulman</option>
   <option value="audrey-chen">Audrey Chen</option>
-  <option value="andrea-edmonds">Andrea Edmonds</option>
   <option value="adam-scott">Adam Scott</option>
+  <option value="andrea-edmonds">Andrea Edmonds</option>
   <option value="ron-borzekowski">Ron Borzekowski</option>
   <option value="laura-johnson">Laura Johnson</option>
   <option value="james-miner">James Miner</option>
@@ -1651,8 +1652,8 @@
   <option value="stephanie-brenowitz">Stephanie Brenowitz</option>
   <option value="leslie-parrish">Leslie Parrish</option>
   <option value="tim-engelhardt">Tim Engelhardt</option>
-  <option value="pavneet-singh">Pavneet Singh</option>
   <option value="peter-schoenrock">Peter Schoenrock</option>
+  <option value="pavneet-singh">Pavneet Singh</option>
   <option value="james-wylie">James Wylie</option>
   <option value="terry-j-randall">Terry J. Randall</option>
   <option value="mary-mcleod">Mary McLeod</option>
@@ -1663,13 +1664,13 @@
   <option value="genevieve-melford">Genevieve Melford</option>
   <option value="heidi-johnson">Heidi Johnson</option>
   <option value="anthony-vail">Anthony Vail</option>
-  <option value="alice-chang">Alice Chang</option>
   <option value="holly-zaharchuk">Holly Zaharchuk</option>
+  <option value="alice-chang">Alice Chang</option>
   <option value="vanessa-krueger">Vanessa Krueger</option>
   <option value="laura-udis">Laura Udis</option>
   <option value="michelle-kambara">Michelle Kambara</option>
-  <option value="scott-nelson">Scott Nelson</option>
   <option value="leonel-drukker">Leonel Drukker</option>
+  <option value="scott-nelson">Scott Nelson</option>
   <option value="joshua-friedman">Joshua Friedman</option>
   <option value="nicholas-tremper">Nicholas Tremper</option>
   <option value="ken-brevoort">Ken Brevoort</option>
@@ -1704,10 +1705,10 @@
   <option value="charmain-bogue">Charmain Bogue</option>
   <option value="brian-fu">Brian Fu</option>
   <option value="office-of-enforcement">Office of Enforcement</option>
-  <option value="marie-rush">Marie Rush</option>
   <option value="emmanuel-manon">Emmanuel Mañón</option>
   <option value="brianna-middlewood">Brianna Middlewood</option>
   <option value="beth-spring">Beth Spring</option>
+  <option value="eric-wilson">Eric Wilson</option>
 </select>
                             </div>
                         </div>
@@ -1771,13 +1772,122 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm259 284.2L481.4 870.3c-8.2 14.1-22.7 23.4-39 24.8-1.4.1-2.9.2-4.3.2-14.8 0-28.9-6.6-38.4-18L244.4 690.9c-17.9-21-15.4-52.6 5.7-70.5 21-17.9 52.6-15.4 70.5 5.7.2.3.5.5.7.8l109.4 131.4 241.8-418.8c13.6-24 44.2-32.4 68.2-18.8 24 13.6 32.4 44.2 18.8 68.2l-.5.5z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1365 filtered results</div>
+          <div class="h4 m-notification_message">1367 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-07-29T00:00:00">JUL 29, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/protecting-your-credit-during-coronavirus-pandemic/">
+                    Protecting your credit during the coronavirus pandemic
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>Your credit reports and scores play an important role in your future financial opportunities. Learn how to manage and protect your credit during the COVID-19 (coronavirus) pandemic.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=liane-fiano">Liane Fiano</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Credit reports and scores
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 833.4 1200" class="cf-icon-svg"><path d="M233 203.1c-27.2-27.2-71.8-27.2-99 0L20.4 316.7c-27.2 27.2-27.2 71.8 0 99l89.7 89.7 212.7-212.7-89.8-89.6zm599.6 789.6l-48.6-216c-3.4-15.3-14.9-36.5-26-48.6l-1.8-1.8-121.8-121.9-110.6-110.6-165.7-165.7-54.8 54.8 400 400 21.4-21.4c5.3 6.4 11.9 18.9 13.5 25.6l21.4 95.2-60 60-95.2-21.4c-6.7-1.5-19.2-8.2-25.6-13.5l89.2-89.2-400-400-122.6 122.6 165.7 165.7 110.6 110.6 121.8 121.8 1.8 1.8c12.1 11.1 33.3 22.6 48.6 26l215.9 48.6c2.2.5 4.3.7 6.2.7 12.6.1 19.8-9.4 16.6-23.3z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Director's notebook
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-07-28T00:00:00">JUL 28, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a class="" href="/about-us/blog/bureau-taking-action-build-more-inclusive-financial-system/">
+                    The Bureau is taking action to build a more inclusive financial system
+	<div class="m-archived-pill">
+	    Archived
+	</div>
+</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The CFPB is taking steps to help create real and sustainable changes in our financial system so that African Americans and other minorities have equal opportunities to build wealth and close the economic divide.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=kathleen-l-kraninger">Kathleen L. Kraninger</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=discrimination" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Discrimination
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Access to credit
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Equal Credit Opportunity Act
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2455,6 +2565,108 @@
     </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-06-30T00:00:00">JUN 30, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/cares-act-early-retirement-withdrawal/">
+                    Considering an early retirement withdrawal? CARES Act rules and what you should know.
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The CARES Act temporarily changes the rules for withdrawing from your retirement accounts. Learn more about how these changes might affect you and whether withdrawing from your retirement accounts makes sense for you.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=hector-ortiz">Hector Ortiz</a>
+                    and 
+                    <a href="?authors=erin-scheithe">Erin Scheithe</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Disasters and emergencies
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=older-americans" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Older Americans
+                </a>
+            </li>
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=retirement" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Retirement
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-06-30T00:00:00">JUN 30, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/spring-2020-rulemaking-agenda/">
+                    Spring 2020 Rulemaking Agenda
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>The semiannual update of our rulemaking agenda.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    <a href="?authors=susan-m-bernard">Susan M. Bernard</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">Topics:</span>
+    <ul class="tags_list">
+            <li class="tags_tag">
+                <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
+                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                    Rulemaking
+                </a>
+            </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
             <div class="m-meta-header_right">
                 <span class="a-date">
                     Published
@@ -2681,108 +2893,6 @@
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                         <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm311.1 811.2c-171.5 171-449.1 170.6-620-.9s-170.6-449.1.9-620 449.1-170.6 620 .9c125.8 126.2 162.8 316 93.4 480.2-22 52.2-54.1 99.7-94.3 139.8z"/><path d="M500.3 497.3c-27.6 0-50 22.4-50 50v328.6c0 27.6 22.4 50 50 50s50-22.4 50-50V547.3c0-27.6-22.4-50-50-50z"/><circle cx="500.3" cy="365.1" r="71.7"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-06-30T00:00:00">JUN 30, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/cares-act-early-retirement-withdrawal/">
-                    Considering an early retirement withdrawal? CARES Act rules and what you should know.
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>The CARES Act temporarily changes the rules for withdrawing from your retirement accounts. Learn more about how these changes might affect you and whether withdrawing from your retirement accounts makes sense for you.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=hector-ortiz">Hector Ortiz</a>
-                    and 
-                    <a href="?authors=erin-scheithe">Erin Scheithe</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=older-americans" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Older Americans
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=retirement" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Retirement
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 940 1200" class="cf-icon-svg"><path d="M910 900.6h-30v-30c0-16.5-13.5-30-30-30h-30V447.5h60c16.6 0 30-13.4 30-30 0-12-7.1-22.8-18.1-27.5l-410-177.7c-7.6-3.3-16.2-3.3-23.9 0L48 390c-15.2 6.6-22.2 24.2-15.6 39.5 4.8 11 15.6 18.1 27.5 18.1h60v393.1H90c-16.5 0-30 13.5-30 30v30H30c-16.5 0-30 13.5-30 30v30h940v-30c0-16.7-13.5-30.1-30-30.1zM520 507.5v333.1H420V507.5h100zm100 333.1V507.5h100v333.1H620zM470 272.5l265.3 115H204.7l265.3-115zm-250 235h100v333.1H220V507.5z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Policy and compliance
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-06-30T00:00:00">JUN 30, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/spring-2020-rulemaking-agenda/">
-                    Spring 2020 Rulemaking Agenda
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>The semiannual update of our rulemaking agenda.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=susan-m-bernard">Susan M. Bernard</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Rulemaking
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 833.4 1200" class="cf-icon-svg"><path d="M233 203.1c-27.2-27.2-71.8-27.2-99 0L20.4 316.7c-27.2 27.2-27.2 71.8 0 99l89.7 89.7 212.7-212.7-89.8-89.6zm599.6 789.6l-48.6-216c-3.4-15.3-14.9-36.5-26-48.6l-1.8-1.8-121.8-121.9-110.6-110.6-165.7-165.7-54.8 54.8 400 400 21.4-21.4c5.3 6.4 11.9 18.9 13.5 25.6l21.4 95.2-60 60-95.2-21.4c-6.7-1.5-19.2-8.2-25.6-13.5l89.2-89.2-400-400-122.6 122.6 165.7 165.7 110.6 110.6 121.8 121.8 1.8 1.8c12.1 11.1 33.3 22.6 48.6 26l215.9 48.6c2.2.5 4.3.7 6.2.7 12.6.1 19.8-9.4 16.6-23.3z"/></svg>
         <span class="u-visually-hidden">Category:</span>
         Director's notebook
@@ -2918,102 +3028,6 @@
                 <a href="/about-us/blog/?topics=banking" class="tags_link">
                     <span class="tags_bullet" aria-hidden="true">&bull;</span>
                     Banking
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-06-23T00:00:00">JUN 23, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/receive-your-unemployment-benefits-options-tl/">
-                    Mayroon kang mga pagpipilian para sa kung paano matanggap ang iyong mga benepisyo sa kawalan ng trabaho
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>Kung nag-apply ka para sa mga benepisyo sa kawalan ng trabaho sa pamamagitan ng iyong state, maraming mga paraan na maaari mong matanggap ang iyong mga kabayaran. Ang paggawa ng isang maykaalamang desisyon tungkol sa mga pagpipiliang ito ay makakatulong sa iyo na masulit ang iyong pera.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=sangeetha-malaiyandi">Sangeetha Malaiyandi</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-tagalog" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Tagalog
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-06-23T00:00:00">JUN 23, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/receive-your-unemployment-benefits-options-zh-simplified/">
-                    您可以选择如何领取失业福利金
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>如果您已向所在州申请了失业福利，您可以通过多种方式领取付款。对于这些选择方法做出知情决定能够帮助您充分利用这笔资金。</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    <a href="?authors=sangeetha-malaiyandi">Sangeetha Malaiyandi</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">Topics:</span>
-    <ul class="tags_list">
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=banking" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Banking
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    Disasters and emergencies
-                </a>
-            </li>
-            <li class="tags_tag">
-                <a href="/about-us/blog/?topics=cfpb-in-simplified-chinese" class="tags_link">
-                    <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                    CFPB in Simplified Chinese
                 </a>
             </li>
     </ul>
