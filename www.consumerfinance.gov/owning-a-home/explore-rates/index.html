@@ -9,7 +9,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Explore interest rates | Consumer Financial Protection Bureau</title>
     <meta name="description"
-          content="">
+          content="
+Use this tool throughout your homebuying process to see how your credit score,
+home price, down payment, and more can affect mortgage interest rates.
+">
     <link rel="canonical" href="https://www.consumerfinance.gov/owning-a-home/explore-rates/">
     <meta property="og:title" content="Explore interest rates | Consumer Financial Protection Bureau">
     <meta property="og:type" content="website">
@@ -25,6 +28,8 @@
     <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.5df6b671015e.ico">
     <!--[if lt IE 10]><![endif]-->
     <!--[if gt IE 9]><!--><!--<![endif]-->
+    <link rel="stylesheet"
+          href="/static/apps/owning-a-home/css/main.36fb475e1ee4.css">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1199,12 +1204,16 @@
     </div>
   </div>
 </header>
-<main class="content">
-    <div class="content_wrapper">
-        <nav class="breadcrumbs" aria-label="Breadcrumbs">
-            <a href="/owning-a-home/" class="breadcrumbs_link">Buying a House</a>
-        </nav>
-    </div>
+    <main class="content "
+          id="main">
+                <div class="wrapper content_wrapper">
+    <nav class="breadcrumbs" aria-label="Breadcrumbs">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 559.6 1200" class="cf-icon-svg"><path d="M494.5 1090.7c-17.3 0-33.8-6.8-46-19L19 642.1c-25.4-25.4-25.4-66.5 0-91.9l429.5-429.5c25.6-25.1 66.8-24.8 91.9.8 24.8 25.3 24.8 65.8 0 91.1L156.9 596.2l383.6 383.6c25.4 25.4 25.4 66.5.1 91.9-12.3 12.2-28.8 19-46.1 19z"/></svg>
+                <a class="breadcrumbs_link" href="/owning-a-home/">
+                    Buying a House
+                </a>
+    </nav>
+                </div>
     <div class="content_wrapper">
         <div class="content_main u-pb0">
             <div class="m-notification
@@ -1294,8 +1303,8 @@
                             <div class="result-alert
                                         credit-alert
                                         u-hidden"
-                             id="credit-score-alert"
-                             role="alert">
+                                 id="credit-score-alert"
+                                 role="alert">
                                 <div class="a-form-alert a-form-alert__error">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"/></svg>
                                     <span class="a-form-alert_text">
@@ -1434,7 +1443,8 @@
                             </div>
                         </div>
                     </section>
-                    <section class="form-sub warning u-hidden" id="county-warning">
+                    <section class="form-sub warning u-hidden"
+                             id="county-warning">
                         <div class="a-form-alert a-form-alert__warning">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1200" class="cf-icon-svg"><path d="M500 105.2c-276.1 0-500 223.9-500 500s223.9 500 500 500 500-223.9 500-500-223.9-500-500-500zm-49.7 234.6c0-27.6 22.4-50 50-50s50 22.4 50 50v328.6c0 27.6-22.4 50-50 50s-50-22.4-50-50V339.8zm50 582.5c-39.6 0-71.7-32.1-71.7-71.7s32.1-71.7 71.7-71.7S572 811 572 850.6s-32.1 71.7-71.7 71.7z"/></svg>
                             <span class="a-form-alert_text"></span>
@@ -1444,7 +1454,9 @@
                         <div class="upper rate-structure half-width-gt-1230">
                             <label for="rate-structure">Rate type</label>
                             <div class="select-content a-select">
-                                <select name="rate-structure" class="recalc" id="rate-structure">
+                                <select name="rate-structure"
+                                        class="recalc"
+                                        id="rate-structure">
                                     <option value="fixed">Fixed</option>
                                     <option value="arm">Adjustable</option>
                                 </select>
@@ -1453,7 +1465,9 @@
                         <div class="upper loan-term half-width-gt-1230">
                             <label for="loan-term">Loan term</label>
                             <div class="select-content a-select">
-                                <select name="loan-term" class="recalc" id="loan-term">
+                                <select name="loan-term"
+                                        class="recalc"
+                                        id="loan-term">
                                     <option value="30">30 Years</option>
                                     <option value="15">15 Years</option>
                                 </select>
@@ -1462,7 +1476,9 @@
                         <div class="loan-type half-width-gt-1230">
                             <label for="loan-type">Loan type</label>
                             <div class="select-content a-select">
-                                <select name="loan-type" class="recalc" id="loan-type">
+                                <select name="loan-type"
+                                        class="recalc"
+                                        id="loan-type">
                                     <option value="conf">Conventional</option>
                                     <option value="fha">FHA</option>
                                     <option value="va">VA</option>
@@ -1472,7 +1488,9 @@
                         <div class="arm-type half-width-gt-1230 u-hidden">
                             <label for="arm-type">ARM type</label>
                             <div class="select-content a-select">
-                                <select name="arm-type" class="recalc" id="arm-type">
+                                <select name="arm-type"
+                                        class="recalc"
+                                        id="arm-type">
                                     <option value="3-1">3/1</option>
                                     <option value="5-1">5/1</option>
                                     <option value="7-1">7/1</option>
@@ -1745,7 +1763,7 @@
                                 <a href="/askcfpb/314/how-do-i-dispute-an-error-on-my-credit-report.html"
                                    target="_blank"
                                    rel="noopener noreferrer">get them corrected
-                               </a> before you apply for a mortgage.
+                                </a> before you apply for a mortgage.
                             </p>
                         </div>
                     </div>
@@ -1841,7 +1859,6 @@
 <img alt="Get started now" src="/static/apps/owning-a-home/img/footer_calculator.4bc2154d8119.png"/>
 </a>
 </div>
-<p></p>
 <a class="a-link a-link__jump"
    href="/owning-a-home/process/prepare/"
    aria-label="Get started now">
@@ -1856,7 +1873,6 @@
 <img alt="Explore loan choices" src="/static/apps/owning-a-home/img/footer_house.670f84440aea.png"/>
 </a>
 </div>
-<p></p>
 <a class="a-link a-link__jump"
    href="/owning-a-home/process/explore/"
    aria-label="Explore loan choices">
@@ -1871,7 +1887,6 @@
 <img alt="Review it with our tool" src="/static/apps/owning-a-home/img/footer_loan-estimate.f89c3ba4e114.png"/>
 </a>
 </div>
-<p></p>
 <a class="a-link a-link__jump"
    href="/owning-a-home/loan-estimate/"
    aria-label="Review it with our tool">
@@ -1891,7 +1906,7 @@
         Sign up for our 2-week Get Homebuyer Ready boot camp. We’ll take you step-by-step through the entire homebuying process.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_399ac2a16389be"
+          id="o-form__email-signup_399be83a800e4a"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -1902,11 +1917,11 @@
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_399ac2a16389be">
+            <label class="a-label a-label__heading" for="email_399be83a800e4a">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_399ac2a16389be"
+                   id="email_399be83a800e4a"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"
@@ -1928,7 +1943,7 @@
     </div>
 </footer>
     </div>
-</main>
+    </main>
 <footer class="o-footer">
     <div class="wrapper wrapper__match-content">
         <div class="o-footer_pre">
