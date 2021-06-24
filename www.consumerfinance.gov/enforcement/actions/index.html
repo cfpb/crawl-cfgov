@@ -1346,35 +1346,26 @@
         <div class="content-l_col
                     content-l_col-1-3">
             <div class="o-form_group">
-                <fieldset class="o-form_fieldset">
-                    <legend class="a-legend">
+                <div class="m-form-field">
+                    <label class="a-label a-label__heading"
+                           for="o-filterable-list-controls_categories">
                         Category
-                    </legend>
-                    <ul class="m-list m-list__unstyled" role="group">
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="administrative-proceeding"
-               id="filter_categories_administrative-proceeding"
-               name="categories"
-               >
-        <label class="a-label"  for="filter_categories_administrative-proceeding">
-            Administrative Proceeding
-        </label>
-    </li>
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="civil-action"
-               id="filter_categories_civil-action"
-               name="categories"
-               >
-        <label class="a-label"  for="filter_categories_civil-action">
-            Civil Action
-        </label>
-    </li>
-                    </ul>
-                </fieldset>
+                    </label>
+                    <select name="categories"
+                            id="o-filterable-list-controls_categories"
+                            class="o-multiselect"
+                            data-placeholder="Search for categories"
+                            multiple>
+                        <option value="administrative-proceeding"
+                                >
+                            Administrative Proceeding
+                        </option>
+                        <option value="civil-action"
+                                >
+                            Civil Action
+                        </option>
+                    </select>
+                </div>
             </div>
         </div>
         <div class="content-l_col
