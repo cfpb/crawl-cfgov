@@ -1263,79 +1263,42 @@
         <div class="content-l_col
                     content-l_col-1-3">
             <div class="o-form_group">
-                <fieldset class="o-form_fieldset">
-                    <legend class="a-legend">
+                <div class="m-form-field">
+                    <label class="a-label a-label__heading"
+                           for="o-filterable-list-controls_categories">
                         Category
-                    </legend>
-                    <ul class="m-list m-list__unstyled" role="group">
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="consumer-complaint"
-               id="filter_categories_consumer-complaint"
-               name="categories"
-               >
-        <label class="a-label"  for="filter_categories_consumer-complaint">
-            Consumer complaint
-        </label>
-    </li>
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="super-highlight"
-               id="filter_categories_super-highlight"
-               name="categories"
-               >
-        <label class="a-label"  for="filter_categories_super-highlight">
-            Supervisory Highlights
-        </label>
-    </li>
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="data-point"
-               id="filter_categories_data-point"
-               name="categories"
-               >
-        <label class="a-label"  for="filter_categories_data-point">
-            Data point
-        </label>
-    </li>
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="industry-markets"
-               id="filter_categories_industry-markets"
-               name="categories"
-               >
-        <label class="a-label"  for="filter_categories_industry-markets">
-            Industry and markets
-        </label>
-    </li>
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="consumer-edu-empower"
-               id="filter_categories_consumer-edu-empower"
-               name="categories"
-               >
-        <label class="a-label"  for="filter_categories_consumer-edu-empower">
-            Consumer education and empowerment
-        </label>
-    </li>
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="to-congress"
-               id="filter_categories_to-congress"
-               name="categories"
-               >
-        <label class="a-label"  for="filter_categories_to-congress">
-            To Congress
-        </label>
-    </li>
-                    </ul>
-                </fieldset>
+                    </label>
+                    <select name="categories"
+                            id="o-filterable-list-controls_categories"
+                            class="o-multiselect"
+                            data-placeholder="Search for categories"
+                            multiple>
+                        <option value="consumer-complaint"
+                                >
+                            Consumer complaint
+                        </option>
+                        <option value="super-highlight"
+                                >
+                            Supervisory Highlights
+                        </option>
+                        <option value="data-point"
+                                >
+                            Data point
+                        </option>
+                        <option value="industry-markets"
+                                >
+                            Industry and markets
+                        </option>
+                        <option value="consumer-edu-empower"
+                                >
+                            Consumer education and empowerment
+                        </option>
+                        <option value="to-congress"
+                                >
+                            To Congress
+                        </option>
+                    </select>
+                </div>
             </div>
         </div>
         <div class="content-l_col
@@ -2997,6 +2960,18 @@ on those specific facts and circumstances noted during those examinations.</span
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/new-data-show-improving-yet-sustained-housing-insecurity-risks/">
+                        New data show improving yet sustained housing insecurity risks
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2021-06-22T00:00:00">JUN 22, 2021</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/delinquencies-on-credit-accounts-continue-to-be-low-despite-the-pandemic/">
                         Delinquencies on credit accounts continue to be low despite the pandemic
                     </a>
@@ -3015,18 +2990,6 @@ on those specific facts and circumstances noted during those examinations.</span
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2021-06-14T00:00:00">JUN 14, 2021</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/summary-2021-cfpb-research-conference/">
-                        Summary of the 2021 CFPB Research Conference
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2021-05-27T00:00:00">MAY 27, 2021</time>
 </span>
                 </p>
             </li>

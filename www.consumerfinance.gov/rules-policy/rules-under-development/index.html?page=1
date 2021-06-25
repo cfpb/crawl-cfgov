@@ -1364,35 +1364,26 @@
         <div class="content-l_col
                     content-l_col-1-3">
             <div class="o-form_group">
-                <fieldset class="o-form_fieldset">
-                    <legend class="a-legend">
+                <div class="m-form-field">
+                    <label class="a-label a-label__heading"
+                           for="o-filterable-list-controls_categories">
                         Category
-                    </legend>
-                    <ul class="m-list m-list__unstyled" role="group">
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="notice-proposed-rule-2"
-               id="filter_categories_notice-proposed-rule-2"
-               name="categories"
-               >
-        <label class="a-label"  for="filter_categories_notice-proposed-rule-2">
-            Advance notice of proposed rulemaking
-        </label>
-    </li>
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="proposed-rule-2"
-               id="filter_categories_proposed-rule-2"
-               name="categories"
-               >
-        <label class="a-label"  for="filter_categories_proposed-rule-2">
-            Proposed rule
-        </label>
-    </li>
-                    </ul>
-                </fieldset>
+                    </label>
+                    <select name="categories"
+                            id="o-filterable-list-controls_categories"
+                            class="o-multiselect"
+                            data-placeholder="Search for categories"
+                            multiple>
+                        <option value="notice-proposed-rule-2"
+                                >
+                            Advance notice of proposed rulemaking
+                        </option>
+                        <option value="proposed-rule-2"
+                                >
+                            Proposed rule
+                        </option>
+                    </select>
+                </div>
             </div>
         </div>
         <div class="content-l_col

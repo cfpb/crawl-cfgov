@@ -1310,9 +1310,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1797" href="/ask-cfpb/what-is-a-higher-priced-mortgage-loan-en-1797/">What is a “higher-priced mortgage loan?”</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1791" href="/ask-cfpb/what-is-a-debt-to-income-ratio-why-is-the-43-debt-to-income-ratio-important-en-1791/">What is a debt-to-income ratio? Why is the 43% debt-to-income ratio important?</a></div>
             </article>
             <article>
@@ -1338,6 +1335,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/123" href="/ask-cfpb/where-can-i-get-money-for-a-down-payment-on-a-home-mortgage-en-123/">Where can I get money for a down payment on a home mortgage?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/224" href="/ask-cfpb/what-is-a-reverse-mortgage-en-224/">What is a reverse mortgage?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

@@ -1313,9 +1313,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1965" href="/ask-cfpb/how-do-mortgage-lenders-calculate-monthly-payments-en-1965/">How do mortgage lenders calculate monthly payments?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1963" href="/ask-cfpb/how-can-i-find-the-loan-limit-for-an-fha-loan-in-my-county-en-1963/">How can I find the loan limit for an FHA loan in my county?</a></div>
             </article>
             <article>
@@ -1341,6 +1338,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1945" href="/ask-cfpb/are-condoco-op-fees-or-homeowners-association-dues-included-in-my-monthly-mortgage-payment-en-1945/">Are condo/co-op fees or homeowners’ association dues included in my monthly mortgage payment?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1943" href="/ask-cfpb/how-does-paying-down-a-mortgage-work-en-1943/">How does paying down a mortgage work?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

@@ -1313,9 +1313,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1999" href="/ask-cfpb/my-mortgage-closing-forms-mention-a-security-interest-what-is-a-security-interest-en-1999/">My mortgage closing forms mention a "security interest." What is a security interest?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1997" href="/ask-cfpb/what-is-a-demand-feature-what-does-it-mean-if-the-demand-feature-is-checked-off-on-my-closing-disclosure-en-1997/">What is a demand feature? What does it mean if the demand feature is checked off on my Closing Disclosure?</a></div>
             </article>
             <article>
@@ -1341,6 +1338,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1979" href="/ask-cfpb/what-is-pace-financing-en-1979/">What is PACE financing?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1965" href="/ask-cfpb/how-do-mortgage-lenders-calculate-monthly-payments-en-1965/">How do mortgage lenders calculate monthly payments?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
