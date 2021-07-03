@@ -139,7 +139,7 @@
     </div>
     <button class="m-global-search_trigger"
             data-js-hook="behavior_flyout-menu_trigger"
-            aria-label="Search">
+            aria-label="Search the consumerfinance.gov website">
         <span class="m-global-search_trigger-open-label">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M14.147 15.488a1.112 1.112 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.112 1.112 0 0 1 0 1.568zm-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.443 4.443 0 0 0 1.68-.327z"/></svg>
             <span class="u-hide-on-mobile">Search</span>
@@ -1368,63 +1368,31 @@
                 </div>
             </div>
         </div>
-        <div class="content-l_col
-                    content-l_col-2-3">
-            <div class="content-l">
-                    <div class="content-l_col
-                                content-l_col-1-2">
-                        <div class="o-form_group">
-                            <fieldset class="o-form_fieldset">
-                                <legend class="a-legend">
-                                   Status
-                                </legend>
-                                <ul class="m-list m-list__unstyled" role="group">
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="expired-terminated-dismissed"
-               id="filter_statuses_expired-terminated-dismissed"
-               name="statuses"
-               >
-        <label class="a-label"  for="filter_statuses_expired-terminated-dismissed">
-            Expired/Terminated/Dismissed
-        </label>
-    </li>
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="pending-litigation"
-               id="filter_statuses_pending-litigation"
-               name="statuses"
-               >
-        <label class="a-label"  for="filter_statuses_pending-litigation">
-            Pending Litigation
-        </label>
-    </li>
-    <li class="m-form-field m-form-field__checkbox">
-        <input class="a-checkbox"
-               type="checkbox"
-               value="post-order-post-judgment"
-               id="filter_statuses_post-order-post-judgment"
-               name="statuses"
-               >
-        <label class="a-label"  for="filter_statuses_post-order-post-judgment">
-            Post Order/Post Judgment
-        </label>
-    </li>
-                                </ul>
-                            </fieldset>
-                        </div>
-                    </div>
-                    <div class="content-l_col
-                                content-l_col-1-2">
-                        <div class="o-form_group">
-                            <div class="m-form-field">
-                                <label class="a-label a-label__heading"
-                                       for="o-filterable-list-controls_products">
-                                    Product
-                                </label>
-                                <select name="products" id="o-filterable-list-controls_products" class="o-multiselect" data-placeholder="Search for products" multiple>
+    <div class="content-l_col
+                content-l_col-1-3">
+        <div class="o-form_group">
+            <div class="m-form-field">
+                <label class="a-label a-label__heading"
+                        for="o-filterable-list-controls_statuses">
+                    Status
+                </label>
+                <select name="statuses" id="o-filterable-list-controls_statuses" class="o-multiselect" data-placeholder="Search for statuses" multiple>
+  <option value="expired-terminated-dismissed">Expired/Terminated/Dismissed</option>
+  <option value="pending-litigation">Pending Litigation</option>
+  <option value="post-order-post-judgment">Post Order/Post Judgment</option>
+</select>
+            </div>
+        </div>
+    </div>
+    <div class="content-l_col
+                content-l_col-1-3">
+        <div class="o-form_group">
+            <div class="m-form-field">
+                <label class="a-label a-label__heading"
+                        for="o-filterable-list-controls_products">
+                    Product
+                </label>
+                <select name="products" id="o-filterable-list-controls_products" class="o-multiselect" data-placeholder="Search for products" multiple>
   <option value="Auto Finance Origination">Auto Finance Origination</option>
   <option value="Auto Finance Servicing">Auto Finance Servicing</option>
   <option value="Business Lending (ECOA)">Business Lending (ECOA)</option>
@@ -1448,41 +1416,44 @@
   <option value="Other Consumer Lending">Other Consumer Lending</option>
   <option value="Other Consumer Products (Not Lending)">Other Consumer Product (not lending)</option>
 </select>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="content-l_col
-                                content-l_col-1">
-                        <div class="o-form_group">
-                            <fieldset class="o-form_fieldset">
-                                <legend class="a-legend">
-                                    Date range
-                                </legend>
-                                <div class="content-l">
-                                    <div class="content-l_col
-                                                content-l_col-1-2">
-                                        <div class="m-form-field">
-                                            <label class="a-label a-label__heading"
-                                                   for="o-filterable-list-controls_from-date">
-                                                From:
-                                            </label>
-                                            <input type="date" name="from_date" class="a-text-input a-text-input__full" placeholder="mm/dd/yyyy" data-type="date" id="o-filterable-list-controls_from-date">
-                                        </div>
-                                    </div>
-                                    <div class="content-l_col
-                                                content-l_col-1-2">
-                                        <div class="m-form-field">
-                                            <label class="a-label a-label__heading"
-                                                   for="o-filterable-list-controls_to-date">
-                                                To:
-                                            </label>
-                                            <input type="date" name="to_date" class="a-text-input a-text-input__full" placeholder="mm/dd/yyyy" data-type="date" id="o-filterable-list-controls_to-date">
-                                        </div>
+            </div>
+        </div>
+    </div>
+        <div class="content-l_col
+                    content-l_col-1">
+            <div class="content-l">
+                <div class="content-l_col
+                            content-l_col-2-3">
+                    <div class="o-form_group">
+                        <fieldset class="o-form_fieldset">
+                            <legend class="a-legend">
+                                Date range
+                            </legend>
+                            <div class="content-l">
+                                <div class="content-l_col
+                                            content-l_col-1-2">
+                                    <div class="m-form-field">
+                                        <label class="a-label a-label__heading"
+                                                for="o-filterable-list-controls_from-date">
+                                            From:
+                                        </label>
+                                        <input type="date" name="from_date" class="a-text-input a-text-input__full" placeholder="mm/dd/yyyy" data-type="date" id="o-filterable-list-controls_from-date">
                                     </div>
                                 </div>
-                            </fieldset>
-                        </div>
+                                <div class="content-l_col
+                                            content-l_col-1-2">
+                                    <div class="m-form-field">
+                                        <label class="a-label a-label__heading"
+                                                for="o-filterable-list-controls_to-date">
+                                            To:
+                                        </label>
+                                        <input type="date" name="to_date" class="a-text-input a-text-input__full" placeholder="mm/dd/yyyy" data-type="date" id="o-filterable-list-controls_to-date">
+                                    </div>
+                                </div>
+                            </div>
+                        </fieldset>
                     </div>
+                </div>
             </div>
         </div>
             <div class="content-l_col
@@ -2217,6 +2188,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/dedicating-july-military-consumer-protection/">
+                        Dedicating July to military consumer protection
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2021-06-30T00:00:00">JUN 30, 2021</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/2020-fair-lending-report-to-congress/">
                         Protecting consumers through a pandemic: 2020 Fair Lending Report to Congress
                     </a>
@@ -2235,18 +2218,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2021-02-11T00:00:00">FEB 11, 2021</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/what-you-should-know-about-tech-support-scams/">
-                        What you should know about tech support scams
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2021-01-12T00:00:00">JAN 12, 2021</time>
 </span>
                 </p>
             </li>
