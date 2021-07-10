@@ -1498,7 +1498,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">3105 filtered results</div>
+          <div class="h4 m-notification_message">3106 filtered results</div>
       </div>
   </div>
         </div>
@@ -1517,6 +1517,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/tools-to-help-pay-bills/">
+                        <span class="h4 u-mb0">
+                            Tools to help when you can’t pay your bills
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-04-17T00:00:00">APR 17, 2020</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -1646,27 +1667,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-fhfa-announce-borrower-protection-program/">
-                        <span class="h4 u-mb0">
-                            CFPB and FHFA Announce Borrower Protection Program
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-04-15T00:00:00">APR 15, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
@@ -1678,6 +1678,27 @@
                     <a href="/about-us/blog/financial-help-servicemembers-coronavirus/">
                         <span class="h4 u-mb0">
                             Financial help for servicemembers affected by the coronavirus
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-04-15T00:00:00">APR 15, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-fhfa-announce-borrower-protection-program/">
+                        <span class="h4 u-mb0">
+                            CFPB and FHFA Announce Borrower Protection Program
                         </span>
                     </a>
                 </td>
@@ -1738,9 +1759,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/kids-home-money-skills-tl/">
+                    <a href="/about-us/blog/actividades-padres-ninos-en-casa/">
                         <span class="h4 u-mb0">
-                            Bigyan ng kasanayan ang iyong mga anak pagdating sa pera habang sila ay nasa bahay nang walang sa eskuwela
+                            Desarrolle las habilidades de sus niños con el dinero, mientras los tiene en casa sin escuela
                         </span>
                     </a>
                 </td>
@@ -1762,6 +1783,27 @@
                     <a href="/about-us/newsroom/cfpb-guidance-remittance-transfers-during-covid-19-pandemic/">
                         <span class="h4 u-mb0">
                             Consumer Financial Protection Bureau Announces Guidance on Remittance Transfers During COVID-19 Pandemic
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-04-10T00:00:00">APR 10, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/kids-home-money-skills-tl/">
+                        <span class="h4 u-mb0">
+                            Bigyan ng kasanayan ang iyong mga anak pagdating sa pera habang sila ay nasa bahay nang walang sa eskuwela
                         </span>
                     </a>
                 </td>
@@ -1804,27 +1846,6 @@
                     <a href="/about-us/blog/kids-home-money-skills/">
                         <span class="h4 u-mb0">
                             Build your kids’ money skills while they’re home from school
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-04-10T00:00:00">APR 10, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/actividades-padres-ninos-en-casa/">
-                        <span class="h4 u-mb0">
-                            Desarrolle las habilidades de sus niños con el dinero, mientras los tiene en casa sin escuela
                         </span>
                     </a>
                 </td>
@@ -1914,6 +1935,27 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2020-04-07T00:00:00">APR 07, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/federal-agencies-encourage-mortgage-servicers-work-struggling-homeowners-affected-covid-19/">
+                        <span class="h4 u-mb0">
+                            Federal Agencies Encourage Mortgage Servicers to Work with Struggling Homeowners Affected by COVID-19
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-04-03T00:00:00">APR 03, 2020</time>
 </span>
                 </td>
             </tr>
@@ -2074,14 +2116,14 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/federal-agencies-encourage-mortgage-servicers-work-struggling-homeowners-affected-covid-19/">
+                    <a href="/about-us/newsroom/cfpb-settles-short-term-lender-unfair-deceptive-acts-and-practices/">
                         <span class="h4 u-mb0">
-                            Federal Agencies Encourage Mortgage Servicers to Work with Struggling Homeowners Affected by COVID-19
+                            Consumer Financial Protection Bureau Settles with Short-Term Lender for Unfair and Deceptive Acts and Practices
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-04-03T00:00:00">APR 03, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-04-01T00:00:00">APR 01, 2020</time>
 </span>
                 </td>
             </tr>
@@ -2161,27 +2203,6 @@
                     <a href="/about-us/newsroom/cfpb-issues-credit-reporting-guidance-during-covid-19-pandemic/">
                         <span class="h4 u-mb0">
                             CFPB Issues Credit Reporting Guidance During COVID-19 Pandemic
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-04-01T00:00:00">APR 01, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-settles-short-term-lender-unfair-deceptive-acts-and-practices/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Settles with Short-Term Lender for Unfair and Deceptive Acts and Practices
                         </span>
                     </a>
                 </td>
@@ -2360,6 +2381,27 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-releases-2019-administration-fair-debt-collection-practices-act-report/">
+                        <span class="h4 u-mb0">
+                            Consumer Financial Protection Bureau Releases Report on 2019 Administration of the Fair Debt Collection Practices Act
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-03-20T00:00:00">MAR 20, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
         <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
@@ -2434,27 +2476,6 @@
                     <a href="/about-us/blog/tips-for-financial-caregivers-during-coronavirus-pandemic-tl/">
                         <span class="h4 u-mb0">
                             Mga tips [payo] para sa mga tagapag-alaga pampananalapi sa panahon ng pandaigdigang salot ng coronavirus
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-03-20T00:00:00">MAR 20, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-releases-2019-administration-fair-debt-collection-practices-act-report/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Releases Report on 2019 Administration of the Fair Debt Collection Practices Act
                         </span>
                     </a>
                 </td>
@@ -2851,9 +2872,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/cinco-formas-de-reconocer-estafa-con-seguro-social/">
+                    <a href="/about-us/blog/five-ways-to-recognize-social-security-scam/">
                         <span class="h4 u-mb0">
-                            Cinco formas de reconocer una estafa con su Seguro Social
+                            Five ways to recognize a Social Security scam
                         </span>
                     </a>
                 </td>
@@ -2872,9 +2893,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/five-ways-to-recognize-social-security-scam/">
+                    <a href="/about-us/blog/cinco-formas-de-reconocer-estafa-con-seguro-social/">
                         <span class="h4 u-mb0">
-                            Five ways to recognize a Social Security scam
+                            Cinco formas de reconocer una estafa con su Seguro Social
                         </span>
                     </a>
                 </td>
@@ -2927,27 +2948,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=testimony"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 19" class="cf-icon-svg"><path d="M6.808 11.29a3.19 3.19 0 0 1 .097 1.464 3.236 3.236 0 0 1-.535 1.277 3.15 3.15 0 0 1-2.286 1.316 3.43 3.43 0 0 1-2.628-.836A3.905 3.905 0 0 1 .26 12.269a4.433 4.433 0 0 1-.052-.653 5.807 5.807 0 0 1 .027-.74 5.497 5.497 0 0 1 .33-1.388 5.684 5.684 0 0 1 1.498-2.193A6.744 6.744 0 0 1 4.41 5.923q.344-.118.699-.201a1.241 1.241 0 0 1 .606-.046.792.792 0 0 1-.066 1.548 5.624 5.624 0 0 0-1.356.458 4.567 4.567 0 0 0-1.988 1.812 3.05 3.05 0 0 1 .998-.367 3.092 3.092 0 0 1 3.248 1.552 3.057 3.057 0 0 1 .257.611zm8.941.435a3.053 3.053 0 0 1 .038.708 3.185 3.185 0 0 1-1.207 2.265 3.334 3.334 0 0 1-2.609.615 3.375 3.375 0 0 1-2.165-1.35 3.722 3.722 0 0 1-.55-1.085 4.446 4.446 0 0 1-.203-1.224 5.63 5.63 0 0 1 .567-2.656 5.76 5.76 0 0 1 1.598-1.967 6.88 6.88 0 0 1 2.357-1.21 4.863 4.863 0 0 1 .676-.162.792.792 0 0 1 .602 1.404 1.277 1.277 0 0 1-.542.201 5.487 5.487 0 0 0-1.278.47 4.536 4.536 0 0 0-1.885 1.76 3.051 3.051 0 0 1 1.242-.4 3.098 3.098 0 0 1 3.359 2.631z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Testimony
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/kathleen-kraninger-written-testimony-house-committee-financial-services/">
-                        <span class="h4 u-mb0">
-                            Written Testimony of Kathleen L. Kraninger before the House Committee on Financial Services
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-02-06T00:00:00">FEB 06, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=speech"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 19" class="cf-icon-svg"><path d="M11.665 7.915v1.31a5.257 5.257 0 0 1-1.514 3.694 5.174 5.174 0 0 1-1.641 1.126 5.04 5.04 0 0 1-1.456.384v1.899h2.312a.554.554 0 0 1 0 1.108H3.634a.554.554 0 0 1 0-1.108h2.312v-1.899a5.045 5.045 0 0 1-1.456-.384 5.174 5.174 0 0 1-1.641-1.126 5.257 5.257 0 0 1-1.514-3.695v-1.31a.554.554 0 1 1 1.109 0v1.31a4.131 4.131 0 0 0 1.195 2.917 3.989 3.989 0 0 0 5.722 0 4.133 4.133 0 0 0 1.195-2.917v-1.31a.554.554 0 1 1 1.109 0zM3.77 10.37a2.875 2.875 0 0 1-.233-1.146V4.738A2.905 2.905 0 0 1 3.77 3.58a3 3 0 0 1 1.59-1.59 2.902 2.902 0 0 1 1.158-.233 2.865 2.865 0 0 1 1.152.233 2.977 2.977 0 0 1 1.793 2.748l-.012 4.487a2.958 2.958 0 0 1-.856 2.09 3.025 3.025 0 0 1-.937.634 2.865 2.865 0 0 1-1.152.233 2.905 2.905 0 0 1-1.158-.233A2.957 2.957 0 0 1 3.77 10.37z"/></svg>
@@ -2959,6 +2959,27 @@
                     <a href="/about-us/newsroom/statement-director-kraninger-house-financial-services-committee/">
                         <span class="h4 u-mb0">
                             Statement of Director Kraninger before House Financial Services Committee
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-02-06T00:00:00">FEB 06, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=testimony"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 19" class="cf-icon-svg"><path d="M6.808 11.29a3.19 3.19 0 0 1 .097 1.464 3.236 3.236 0 0 1-.535 1.277 3.15 3.15 0 0 1-2.286 1.316 3.43 3.43 0 0 1-2.628-.836A3.905 3.905 0 0 1 .26 12.269a4.433 4.433 0 0 1-.052-.653 5.807 5.807 0 0 1 .027-.74 5.497 5.497 0 0 1 .33-1.388 5.684 5.684 0 0 1 1.498-2.193A6.744 6.744 0 0 1 4.41 5.923q.344-.118.699-.201a1.241 1.241 0 0 1 .606-.046.792.792 0 0 1-.066 1.548 5.624 5.624 0 0 0-1.356.458 4.567 4.567 0 0 0-1.988 1.812 3.05 3.05 0 0 1 .998-.367 3.092 3.092 0 0 1 3.248 1.552 3.057 3.057 0 0 1 .257.611zm8.941.435a3.053 3.053 0 0 1 .038.708 3.185 3.185 0 0 1-1.207 2.265 3.334 3.334 0 0 1-2.609.615 3.375 3.375 0 0 1-2.165-1.35 3.722 3.722 0 0 1-.55-1.085 4.446 4.446 0 0 1-.203-1.224 5.63 5.63 0 0 1 .567-2.656 5.76 5.76 0 0 1 1.598-1.967 6.88 6.88 0 0 1 2.357-1.21 4.863 4.863 0 0 1 .676-.162.792.792 0 0 1 .602 1.404 1.277 1.277 0 0 1-.542.201 5.487 5.487 0 0 0-1.278.47 4.536 4.536 0 0 0-1.885 1.76 3.051 3.051 0 0 1 1.242-.4 3.098 3.098 0 0 1 3.359 2.631z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Testimony
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/kathleen-kraninger-written-testimony-house-committee-financial-services/">
+                        <span class="h4 u-mb0">
+                            Written Testimony of Kathleen L. Kraninger before the House Committee on Financial Services
                         </span>
                     </a>
                 </td>
@@ -3242,6 +3263,27 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release"
+           class="a-heading a-heading__icon ">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-issues-no-action-letter-to-facilitate-housing-counseling-services/">
+                        <span class="h4 u-mb0">
+                            Consumer Financial Protection Bureau Issues No-Action Letter to Facilitate Housing Counseling Services for Prospective Home Buyers
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2020-01-10T00:00:00">JAN 10, 2020</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
         <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
@@ -3271,14 +3313,14 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-issues-no-action-letter-to-facilitate-housing-counseling-services/">
+                    <a href="/about-us/newsroom/cfpb-announces-action-against-monster-loans-lend-tech-loans-and-student-loan-debt-relief-companies/">
                         <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Issues No-Action Letter to Facilitate Housing Counseling Services for Prospective Home Buyers
+                            Consumer Financial Protection Bureau Announces Action Against Monster Loans, Lend Tech Loans, and Student-Loan Debt-Relief Companies
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-01-10T00:00:00">JAN 10, 2020</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2020-01-09T00:00:00">JAN 09, 2020</time>
 </span>
                 </td>
             </tr>
@@ -3316,27 +3358,6 @@
                     <a href="/about-us/newsroom/cfpb-and-utah-attorney-general-announce-joint-office-hours/">
                         <span class="h4 u-mb0">
                             CFPB, Utah's Attorney General Announce Inaugural Joint Office Hours in Salt Lake City
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2020-01-09T00:00:00">JAN 09, 2020</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-announces-action-against-monster-loans-lend-tech-loans-and-student-loan-debt-relief-companies/">
-                        <span class="h4 u-mb0">
-                            Consumer Financial Protection Bureau Announces Action Against Monster Loans, Lend Tech Loans, and Student-Loan Debt-Relief Companies
                         </span>
                     </a>
                 </td>
@@ -3473,38 +3494,17 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=speech"
+        <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 19" class="cf-icon-svg"><path d="M11.665 7.915v1.31a5.257 5.257 0 0 1-1.514 3.694 5.174 5.174 0 0 1-1.641 1.126 5.04 5.04 0 0 1-1.456.384v1.899h2.312a.554.554 0 0 1 0 1.108H3.634a.554.554 0 0 1 0-1.108h2.312v-1.899a5.045 5.045 0 0 1-1.456-.384 5.174 5.174 0 0 1-1.641-1.126 5.257 5.257 0 0 1-1.514-3.695v-1.31a.554.554 0 1 1 1.109 0v1.31a4.131 4.131 0 0 0 1.195 2.917 3.989 3.989 0 0 0 5.722 0 4.133 4.133 0 0 0 1.195-2.917v-1.31a.554.554 0 1 1 1.109 0zM3.77 10.37a2.875 2.875 0 0 1-.233-1.146V4.738A2.905 2.905 0 0 1 3.77 3.58a3 3 0 0 1 1.59-1.59 2.902 2.902 0 0 1 1.158-.233 2.865 2.865 0 0 1 1.152.233 2.977 2.977 0 0 1 1.793 2.748l-.012 4.487a2.958 2.958 0 0 1-.856 2.09 3.025 3.025 0 0 1-.937.634 2.865 2.865 0 0 1-1.152.233 2.905 2.905 0 0 1-1.158-.233A2.957 2.957 0 0 1 3.77 10.37z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
         <span class="u-visually-hidden">Category:</span>
-        Speech
+        Press release
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/director-kraningers-remarks-national-association-attorneys-general-capital-forum/">
+                    <a href="/about-us/newsroom/kraninger-marks-first-year-director-consumer-financial-protection-bureau/">
                         <span class="h4 u-mb0">
-                            Director Kraninger's Remarks Before the National Association of Attorneys General Capital Forum
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2019-12-10T00:00:00">DEC 10, 2019</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/new-retrospective-on-removing-public-records/">
-                        <span class="h4 u-mb0">
-                            A new retrospective on the removal of public records
+                            Kraninger Marks First Year as Director of the Consumer Financial Protection Bureau
                         </span>
                     </a>
                 </td>
@@ -3557,17 +3557,17 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release"
+        <a href="/activity-log/?categories=speech"
            class="a-heading a-heading__icon ">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 13 19" class="cf-icon-svg"><path d="M11.665 7.915v1.31a5.257 5.257 0 0 1-1.514 3.694 5.174 5.174 0 0 1-1.641 1.126 5.04 5.04 0 0 1-1.456.384v1.899h2.312a.554.554 0 0 1 0 1.108H3.634a.554.554 0 0 1 0-1.108h2.312v-1.899a5.045 5.045 0 0 1-1.456-.384 5.174 5.174 0 0 1-1.641-1.126 5.257 5.257 0 0 1-1.514-3.695v-1.31a.554.554 0 1 1 1.109 0v1.31a4.131 4.131 0 0 0 1.195 2.917 3.989 3.989 0 0 0 5.722 0 4.133 4.133 0 0 0 1.195-2.917v-1.31a.554.554 0 1 1 1.109 0zM3.77 10.37a2.875 2.875 0 0 1-.233-1.146V4.738A2.905 2.905 0 0 1 3.77 3.58a3 3 0 0 1 1.59-1.59 2.902 2.902 0 0 1 1.158-.233 2.865 2.865 0 0 1 1.152.233 2.977 2.977 0 0 1 1.793 2.748l-.012 4.487a2.958 2.958 0 0 1-.856 2.09 3.025 3.025 0 0 1-.937.634 2.865 2.865 0 0 1-1.152.233 2.905 2.905 0 0 1-1.158-.233A2.957 2.957 0 0 1 3.77 10.37z"/></svg>
         <span class="u-visually-hidden">Category:</span>
-        Press release
+        Speech
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/kraninger-marks-first-year-director-consumer-financial-protection-bureau/">
+                    <a href="/about-us/newsroom/director-kraningers-remarks-national-association-attorneys-general-capital-forum/">
                         <span class="h4 u-mb0">
-                            Kraninger Marks First Year as Director of the Consumer Financial Protection Bureau
+                            Director Kraninger's Remarks Before the National Association of Attorneys General Capital Forum
                         </span>
                     </a>
                 </td>
@@ -3586,14 +3586,14 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/six-tips-when-offered-retail-store-credit-card/">
+                    <a href="/about-us/blog/new-retrospective-on-removing-public-records/">
                         <span class="h4 u-mb0">
-                            Six tips to consider when you’re offered a retail store credit card
+                            A new retrospective on the removal of public records
                         </span>
                     </a>
                 </td>
                 <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2019-12-09T00:00:00">DEC 09, 2019</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2019-12-10T00:00:00">DEC 10, 2019</time>
 </span>
                 </td>
             </tr>

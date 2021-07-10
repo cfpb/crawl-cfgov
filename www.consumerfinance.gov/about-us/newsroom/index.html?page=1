@@ -1302,7 +1302,7 @@
             </div>
         </div>
         <div class="content-l_col
-                    content-l_col-1-3">
+                    content-l_col-1-2">
             <div class="o-form_group">
                 <div class="m-form-field">
                     <label class="a-label a-label__heading"
@@ -1335,7 +1335,7 @@
             </div>
         </div>
     <div class="content-l_col
-                content-l_col-1-3">
+                content-l_col-1-2">
         <div class="o-form_group">
             <div class="m-form-field">
                 <label class="a-label a-label__heading"
@@ -1447,29 +1447,6 @@
   <option value="credit">Credit</option>
   <option value="fraud-and-scams_1">Fraud and scams</option>
   <option value="military-lending-act">Military Lending Act</option>
-</select>
-            </div>
-        </div>
-    </div>
-    <div class="content-l_col
-                content-l_col-1-3">
-        <div class="o-form_group">
-            <div class="m-form-field">
-                <label class="a-label a-label__heading"
-                        for="o-filterable-list-controls_language">
-                    Language
-                </label>
-                <select name="language" id="o-filterable-list-controls_language" class="o-multiselect" data-placeholder="Search for language" multiple>
-  <option value="ar">Arabic</option>
-  <option value="zh-Hans">Chinese (Simplified)</option>
-  <option value="zh-Hant">Chinese (Traditional)</option>
-  <option value="en">English</option>
-  <option value="ht">Haitian Creole</option>
-  <option value="ko">Korean</option>
-  <option value="ru">Russian</option>
-  <option value="es">Spanish</option>
-  <option value="tl">Tagalog</option>
-  <option value="vi">Vietnamese</option>
 </select>
             </div>
         </div>
