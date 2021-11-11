@@ -2428,33 +2428,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=auto-loans" class="tags_link">
+            <a href="/data-research/research-reports/?topics=disasters-and-emergencies" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Auto loans
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Disasters and emergencies
             </a>
         </li>
         <li class="tags_tag">
@@ -2464,9 +2440,33 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=disasters-and-emergencies" class="tags_link">
+            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Disasters and emergencies
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=auto-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Auto loans
             </a>
         </li>
     </ul>

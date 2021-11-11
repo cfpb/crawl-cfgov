@@ -1951,7 +1951,7 @@
         <p>The school uses these estimates to calculate how much aid you can receive. If you think you will spend more, contact the school’s financial aid office—you may be eligible for more aid.</p>
     </div>
     <div class="costs_content-section costs_content-section_content block block__sub" data-state-based-visibility="costs-question-no">
-        <p> This is the most recent data from the U.S. Department of Education, but it is at least one year old. Ask the financial aid office for up-to-date estimates. Your actual spending will depend on which courses you take, whether you have dependents, your personal budgeting, and other factors.</p> 
+        <p> This is the most recent data from the U.S. Department of Education, but it is at least one year old. Ask the financial aid office for up-to-date estimates. Your actual spending will depend on which courses you take, whether you have dependents, your personal budgeting, and other factors.</p>
         <p> The school uses these estimates to calculate how much aid you can receive. If you will spend more, contact the school’s financial aid office—you may be eligible for more aid.</p>
     </div>
     <div class="costs_content-section financial-items" id="costs_inputs-section">
@@ -1991,17 +1991,17 @@
 </div>
 <div class="financial-item">
     <div class="financial-item_label">
-        <label class="a-label a-label__heading" for="costs__otherDirect-board">
+        <label class="a-label a-label__heading" for="costs__other-direct">
             Other direct costs
-        </label><p id="ht_costs__otherDirect-board"><small>Anything else your school will bill you for</small></p></div>
+        </label><p id="ht_costs__other-direct"><small>Anything else your school will bill you for</small></p></div>
     <div class="financial-item_value">
         <input class="a-text-input"
                type="text"
                autocomplete="off"
-               id="costs__otherDirect-board"
-               name="costs__otherDirect-board"
+               id="costs__other-direct"
+               name="costs__other-direct"
                value="0"
-               aria-describedby="ht_costs__otherDirect-board"
+               aria-describedby="ht_costs__other-direct"
                data-financial-item="dirCost_other">
     </div>
 </div>
@@ -2054,17 +2054,17 @@
 </div>
 <div class="financial-item">
     <div class="financial-item_label">
-        <label class="a-label a-label__heading" for="costs__other">
+        <label class="a-label a-label__heading" for="costs__other-indirect">
             Personal/other/miscellaneous expenses
-        </label><p id="ht_costs__other"><small>Everything else! Ask the financial aid office what they include in this number and then check if it is realistic for you. Typically includes laundry and entertainment.</small></p></div>
+        </label><p id="ht_costs__other-indirect"><small>Everything else! Ask the financial aid office what they include in this number and then check if it is realistic for you. Typically includes laundry and entertainment.</small></p></div>
     <div class="financial-item_value">
         <input class="a-text-input"
                type="text"
                autocomplete="off"
-               id="costs__other"
-               name="costs__other"
+               id="costs__other-indirect"
+               name="costs__other-indirect"
                value="0"
-               aria-describedby="ht_costs__other"
+               aria-describedby="ht_costs__other-indirect"
                data-financial-item="indiCost_other">
     </div>
 </div>
@@ -2072,7 +2072,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zM9.64 5.78a1.136 1.136 0 1 0-1.136 1.135A1.136 1.136 0 0 0 9.64 5.781zm-.344 2.884a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
       <div class="m-notification_content"
           >
-              <div class="m-notification_explanation"><p>If your actual costs will be higher than the estimates from the school, talk to the financial aid office. You may be able to appeal for more aid.</p> 
+              <div class="m-notification_explanation"><p>If your actual costs will be higher than the estimates from the school, talk to the financial aid office. You may be able to appeal for more aid.</p>
                 <ul>
                     <li>You may also qualify for additional aid if you will be paying for health insurance, childcare, a personal computer, disability support, or study abroad.</li>
                     <li>Just because you qualify for more aid doesn’t mean you will receive it. And remember, financial aid includes student loans. More financial aid can mean an offer to borrow more money.</li>
@@ -2093,17 +2093,17 @@
 </div>
 <div class="financial-item">
     <div class="financial-item_label">
-        <label class="a-label a-label__heading" for="costs__otherIndirect">
+        <label class="a-label a-label__heading" for="otherCost_additional">
             Additional financial obligations
-        </label><p id="ht_costs__otherIndirect"><small>Expenses not related to school and not eligible for financial aid, like car payments, credit card payments, helping family with bills, etc. Ask the financial aid office if you're not sure if an expense qualifies for financial aid.</small></p></div>
+        </label><p id="ht_otherCost_additional"><small>Expenses not related to school and not eligible for financial aid, like car payments, credit card payments, helping family with bills, etc. Ask the financial aid office if you're not sure if an expense qualifies for financial aid.</small></p></div>
     <div class="financial-item_value">
         <input class="a-text-input"
                type="text"
                autocomplete="off"
-               id="costs__otherIndirect"
-               name="costs__otherIndirect"
+               id="otherCost_additional"
+               name="otherCost_additional"
                value="0"
-               aria-describedby="ht_costs__otherIndirect"
+               aria-describedby="ht_otherCost_additional"
                data-financial-item="otherCost_additional">
     </div>
 </div>

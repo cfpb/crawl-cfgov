@@ -1584,39 +1584,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=compliance" class="tags_link">
+            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=students" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Students
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=private-education-loan-ombudsman" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Private Education Loan Ombudsman
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial education
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer complaints
+                Debt collection
             </a>
         </li>
         <li class="tags_tag">
@@ -1626,9 +1596,39 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+            <a href="/data-research/research-reports/?topics=consumer-complaints" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Consumer complaints
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=financial-education" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial education
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=private-education-loan-ombudsman" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Private Education Loan Ombudsman
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=students" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Students
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Student loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=compliance" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Compliance
             </a>
         </li>
     </ul>

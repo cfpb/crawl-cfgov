@@ -1321,18 +1321,18 @@
   <option value="credit-union-advisory-council">Credit Union Advisory Council</option>
   <option value="community-bank-advisory-council">Community Bank Advisory Council</option>
   <option value="video">Video</option>
-  <option value="academic-research-council">Academic Research Council</option>
   <option value="financial-education">Financial education</option>
+  <option value="academic-research-council">Academic Research Council</option>
+  <option value="student-loans">Student loans</option>
   <option value="debt-collection">Debt collection</option>
   <option value="research">Research</option>
-  <option value="student-loans">Student loans</option>
   <option value="financial-well-being">Financial well-being</option>
   <option value="rulemaking">Rulemaking</option>
   <option value="data">Data</option>
   <option value="older-americans">Older Americans</option>
+  <option value="students">Students</option>
   <option value="access-to-credit">Access to credit</option>
   <option value="youth">Youth</option>
-  <option value="students">Students</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="financial-coaching">Financial coaching</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
@@ -1425,13 +1425,255 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">135 filtered results</div>
+          <div class="h4 m-notification_message">139 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    On
+                        <span class="datetime"><time class="datetime_date" datetime="2016-07-28T14:00:00-0400">JUL 28, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+                <div class="o-post-preview_image-container">
+                        <img class="o-post-preview_image"
+                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-89.2739521,43.0888575,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
+                             alt="">
+                </div>
+        <div class="o-post-preview_content">
+                <time class="calendar-icon"
+                      data-month="Jul"
+                      data-day="28"
+                      datetime="Thu 28 Jul 2016 02:00:00 PM EDT"
+                      aria-hidden="true">
+                </time>
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/events/archive-past-events/field-hearing-debt-collection-sacramento-calif/">
+                    Field hearing on debt collection in Sacramento, Calif.
+                </a>
+            </h3>
+                    <div class="o-post-preview_subtitle">
+                        McClellan Park, CA
+                            McClellan Conference Center, Hall A
+                     -
+                    <span class="datetime"><time class="datetime_date" datetime="2016-07-28T14:00:00-0400">JUL 28, 2016</time>
+    <span class="datetime_divider">@</span>
+    <time class="datetime_time" datetime="2016-07-28T14:00:00-0400">
+        02:00 PM EDT
+    </time>
+</span>
+                    </div>
+                <div class="o-post-preview_description">
+                    <p>Note: Time shown above is Eastern time. Event will begin locally at 11 a.m. PDT</p><p>Featuring remarks from CFPB Director Richard Cordray, as well as testimony from consumer groups, industry representatives, and members of the public.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    On
+                        <span class="datetime"><time class="datetime_date" datetime="2016-06-09T11:00:00-0400">JUN 09, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+                <div class="o-post-preview_image-container">
+                        <img class="o-post-preview_image"
+                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-92.2896,34.7465,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
+                             alt="">
+                </div>
+        <div class="o-post-preview_content">
+                <time class="calendar-icon"
+                      data-month="Jun"
+                      data-day="9"
+                      datetime="Thu 09 Jun 2016 11:00:00 AM EDT"
+                      aria-hidden="true">
+                </time>
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/events/archive-past-events/june-2016-consumer-advisory-board-meeting/">
+                    June 2016 Consumer Advisory Board meeting
+                </a>
+            </h3>
+                    <div class="o-post-preview_subtitle">
+                        Little Rock, AR
+                            Statehouse Convention Center
+                     -
+                    <span class="datetime"><time class="datetime_date" datetime="2016-06-09T11:00:00-0400">JUN 09, 2016</time>
+    <span class="datetime_divider">@</span>
+    <time class="datetime_time" datetime="2016-06-09T11:00:00-0400">
+        11:00 AM EDT
+    </time>
+</span>
+                    </div>
+                <div class="o-post-preview_description">
+                    <p>Consumer Advisory Board meeting with Director Cordray to discuss an auto lending education initiative, trends and themes, and payday lending.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=payday-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Payday loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial education
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Consumer Advisory Board
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=auto-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Auto loans
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    On
+                        <span class="datetime"><time class="datetime_date" datetime="2016-06-02T10:00:00-0400">JUN 02, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+                <div class="o-post-preview_image-container">
+                        <img class="o-post-preview_image"
+                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-94.563,39.0845,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
+                             alt="">
+                </div>
+        <div class="o-post-preview_content">
+                <time class="calendar-icon"
+                      data-month="Jun"
+                      data-day="2"
+                      datetime="Thu 02 Jun 2016 10:00:00 AM EDT"
+                      aria-hidden="true">
+                </time>
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/events/archive-past-events/field-hearing-small-dollar-lending-kansas-city-mo/">
+                    Field hearing on small dollar lending in Kansas City, Mo.
+                </a>
+            </h3>
+                    <div class="o-post-preview_subtitle">
+                        Kansas City, MO
+                            Kansas City Convention Center Municipal Auditorium Complex - Music Hall
+                     -
+                    <span class="datetime"><time class="datetime_date" datetime="2016-06-02T10:00:00-0400">JUN 02, 2016</time>
+    <span class="datetime_divider">@</span>
+    <time class="datetime_time" datetime="2016-06-02T10:00:00-0400">
+        10:00 AM EDT
+    </time>
+</span>
+                    </div>
+                <div class="o-post-preview_description">
+                    <p>Featuring remarks from CFPB Director Richard Cordray, as well as testimony from consumer groups, industry representatives, and members of the public.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=payday-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Payday loans
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    On
+                        <span class="datetime"><time class="datetime_date" datetime="2016-05-20T09:00:00-0400">MAY 20, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+                <div class="o-post-preview_image-container">
+                        <img class="o-post-preview_image"
+                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-77.0366,38.895,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
+                             alt="">
+                </div>
+        <div class="o-post-preview_content">
+                <time class="calendar-icon"
+                      data-month="May"
+                      data-day="20"
+                      datetime="Fri 20 May 2016 09:00:00 AM EDT"
+                      aria-hidden="true">
+                </time>
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/events/archive-past-events/2016-academic-research-council-meeting/">
+                    2016 Academic Research Council Meeting
+                </a>
+            </h3>
+                    <div class="o-post-preview_subtitle">
+                        Washington, DC
+                            Consumer Financial Protection Bureau Headquarters
+                     -
+                    <span class="datetime"><time class="datetime_date" datetime="2016-05-20T09:00:00-0400">MAY 20, 2016</time>
+    <span class="datetime_divider">@</span>
+    <time class="datetime_time" datetime="2016-05-20T09:00:00-0400">
+        09:00 AM EDT
+    </time>
+</span>
+                    </div>
+                <div class="o-post-preview_description">
+                    <p>The CFPB’s Academic Research Council meets with Director Cordray to discuss methodologies for research at the Bureau.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=academic-research-council" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Academic Research Council
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2480,191 +2722,6 @@
                     </div>
                 <div class="o-post-preview_description">
                     <p>The CFPB released a study indicating that arbitration clauses in agreements between consumers and financial service providers restrict dispute relief for consumers by limiting their ability to sue the financial service provider in court.</p>
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    On
-                        <span class="datetime"><time class="datetime_date" datetime="2015-02-19T10:00:00-0500">FEB 19, 2015</time>
-</span>
-                </span>
-            </div>
-        </div>
-                <div class="o-post-preview_image-container">
-                        <img class="o-post-preview_image"
-                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-77.0366,38.895,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
-                             alt="">
-                </div>
-        <div class="o-post-preview_content">
-                <time class="calendar-icon"
-                      data-month="Feb"
-                      data-day="19"
-                      datetime="Thu 19 Feb 2015 10:00:00 AM EST"
-                      aria-hidden="true">
-                </time>
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/events/archive-past-events/winter-consumer-advisory-board-meeting-in-washington-dc/">
-                    Winter 2015 Consumer Advisory Board meeting in Washington, DC
-                </a>
-            </h3>
-                    <div class="o-post-preview_subtitle">
-                        Washington, DC
-                            Consumer Financial Protection Bureau
-                     -
-                    <span class="datetime"><time class="datetime_date" datetime="2015-02-19T10:00:00-0500">FEB 19, 2015</time>
-    <span class="datetime_divider">@</span>
-    <time class="datetime_time" datetime="2015-02-19T10:00:00-0500">
-        10:00 AM EST
-    </time>
-</span>
-                    </div>
-                <div class="o-post-preview_description">
-                    <p>The CFPB Consumer Advisory Board met to discuss trends and themes related to consumer financial well being and medical debt.<br/></p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer Advisory Board
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    On
-                        <span class="datetime"><time class="datetime_date" datetime="2014-12-11T12:00:00-0500">DEC 11, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-                <div class="o-post-preview_image-container">
-                        <img class="o-post-preview_image"
-                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-97.5171,35.473,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
-                             alt="">
-                </div>
-        <div class="o-post-preview_content">
-                <time class="calendar-icon"
-                      data-month="Dec"
-                      data-day="11"
-                      datetime="Thu 11 Dec 2014 12:00:00 PM EST"
-                      aria-hidden="true">
-                </time>
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/events/archive-past-events/field-hearing-on-medical-debt-collection/">
-                    Field hearing on medical debt collection in Oklahoma City, OK
-                </a>
-            </h3>
-                    <div class="o-post-preview_subtitle">
-                        Oklahoma City, OK
-                            Oklahoma City University Meinders School of Business
-                     -
-                    <span class="datetime"><time class="datetime_date" datetime="2014-12-11T12:00:00-0500">DEC 11, 2014</time>
-    <span class="datetime_divider">@</span>
-    <time class="datetime_time" datetime="2014-12-11T12:00:00-0500">
-        12:00 PM EST
-    </time>
-</span>
-                    </div>
-                <div class="o-post-preview_description">
-                    <p>CFPB Director Richard Cordray announced the release of a report that found medical debt has a significant impact on consumer credit, as 43 million Americans have overdue medical debt on their credit reports. </p>
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    On
-                        <span class="datetime"><time class="datetime_date" datetime="2014-11-13T11:00:00-0500">NOV 13, 2014</time>
-</span>
-                </span>
-            </div>
-        </div>
-                <div class="o-post-preview_image-container">
-                        <img class="o-post-preview_image"
-                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-75.5466,39.7459,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
-                             alt="">
-                </div>
-        <div class="o-post-preview_content">
-                <time class="calendar-icon"
-                      data-month="Nov"
-                      data-day="13"
-                      datetime="Thu 13 Nov 2014 11:00:00 AM EST"
-                      aria-hidden="true">
-                </time>
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/events/archive-past-events/field-hearing-on-prepaid-products/">
-                    Field hearing on prepaid accounts in Wilmington, DE
-                </a>
-            </h3>
-                    <div class="o-post-preview_subtitle">
-                        Wilmington, DE
-                            Delaware Technical Community College 
-                     -
-                    <span class="datetime"><time class="datetime_date" datetime="2014-11-13T11:00:00-0500">NOV 13, 2014</time>
-    <span class="datetime_divider">@</span>
-    <time class="datetime_time" datetime="2014-11-13T11:00:00-0500">
-        11:00 AM EST
-    </time>
-</span>
-                    </div>
-                <div class="o-post-preview_description">
-                    CFPB Director Richard Cordray announced a proposal for strong, new federal consumer protections for the prepaid market.
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    On
-                        <span class="datetime"><time class="datetime_date" datetime="2013-11-14T12:00:00-0500">NOV 14, 2013</time>
-</span>
-                </span>
-            </div>
-        </div>
-                <div class="o-post-preview_image-container">
-                        <img class="o-post-preview_image"
-                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-77.0366,38.895,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
-                             alt="">
-                </div>
-        <div class="o-post-preview_content">
-                <time class="calendar-icon"
-                      data-month="Nov"
-                      data-day="14"
-                      datetime="Thu 14 Nov 2013 12:00:00 PM EST"
-                      aria-hidden="true">
-                </time>
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/events/archive-past-events/forum-auto-finance-washington-dc/">
-                    Forum on auto finance in Washington, DC
-                </a>
-            </h3>
-                    <div class="o-post-preview_subtitle">
-                        Washington, DC
-                            Consumer Financial Protection Bureau
-                     -
-                    <span class="datetime"><time class="datetime_date" datetime="2013-11-14T12:00:00-0500">NOV 14, 2013</time>
-    <span class="datetime_divider">@</span>
-    <time class="datetime_time" datetime="2013-11-14T12:00:00-0500">
-        12:00 PM EST
-    </time>
-</span>
-                    </div>
-                <div class="o-post-preview_description">
-                    <p>The forum featured remarks from CFPB Director Richard Cordray, as well as panel discussions with senior CFPB officials, federal regulators, consumer group representatives, and industry stakeholders.</p>
                 </div>
         </div>
     </article>
