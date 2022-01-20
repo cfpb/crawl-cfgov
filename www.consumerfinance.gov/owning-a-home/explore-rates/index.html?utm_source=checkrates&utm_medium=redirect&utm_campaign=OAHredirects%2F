@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-<!--[if IE 7]>         <html lang="en" class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html lang="en" class="no-js lt-ie10 lt-ie9"> <![endif]-->
 <!--[if IE 9]>         <html lang="en" class="no-js lt-ie10"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="en" class="no-js"> <!--<![endif]-->
@@ -69,7 +68,7 @@ home price, down payment, and more can affect mortgage interest rates.
                     wrapper__match-content">
 <div class="a-tagline">
 	<span class="u-usa-flag"></span>
-   <div>
+   <div class="a-tagline_text">
       An official website of the
       <span class="u-nowrap">United States government</span>
    </div>
@@ -1150,7 +1149,7 @@ home price, down payment, and more can affect mortgage interest rates.
                     ">
 <div class="a-tagline">
 	<span class="u-usa-flag"></span>
-   <div>
+   <div class="a-tagline_text">
       An official website of the
       <span class="u-nowrap">United States government</span>
    </div>
@@ -1930,7 +1929,7 @@ home price, down payment, and more can affect mortgage interest rates.
         Sign up for our 2-week Get Homebuyer Ready boot camp. We’ll take you step-by-step through the entire homebuying process.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_3a5907f99b695c"
+          id="o-form__email-signup_3a5b5ba87eb328"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -1941,11 +1940,11 @@ home price, down payment, and more can affect mortgage interest rates.
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_3a5907f99b695c">
+            <label class="a-label a-label__heading" for="email_3a5b5ba87eb328">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_3a5907f99b695c"
+                   id="email_3a5b5ba87eb328"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"
@@ -2129,7 +2128,7 @@ home price, down payment, and more can affect mortgage interest rates.
         <div class="o-footer-post">
 <div class="a-tagline a-tagline__large">
 	<span class="u-usa-flag"></span>
-   <div>
+   <div class="a-tagline_text">
       An official website of the
       <span class="u-nowrap">United States government</span>
    </div>
