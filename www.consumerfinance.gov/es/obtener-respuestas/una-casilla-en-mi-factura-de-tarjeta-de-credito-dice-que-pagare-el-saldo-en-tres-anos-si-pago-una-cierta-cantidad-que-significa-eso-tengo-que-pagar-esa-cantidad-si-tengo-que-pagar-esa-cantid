@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!--[if IE 7]>         <html lang="es" class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html lang="es" class="no-js lt-ie10 lt-ie9"> <![endif]-->
 <!--[if IE 9]>         <html lang="es" class="no-js lt-ie10"> <![endif]-->
 <!--[if gt IE 8]><!--> <html lang="es" class="no-js"> <!--<![endif]-->
@@ -62,7 +63,7 @@
                     wrapper__match-content">
 <div class="a-tagline">
 	<span class="u-usa-flag"></span>
-   <div class="a-tagline_text">
+   <div>
       Un sitio web oficial del
       <span class="u-nowrap">gobierno federal de los Estados Unidos</span>
    </div>
@@ -278,7 +279,7 @@
                     ">
 <div class="a-tagline">
 	<span class="u-usa-flag"></span>
-   <div class="a-tagline_text">
+   <div>
       Un sitio web oficial del
       <span class="u-nowrap">gobierno federal de los Estados Unidos</span>
    </div>
@@ -448,7 +449,7 @@
   </div>
         </div>
         <input type="hidden" name="form_id" value="form-user_feedback-0">
-        <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/ask-cfpb/a-box-on-my-credit-card-bill-says-that-i-will-pay-off-the-balance-in-three-years-if-i-pay-a-certain-amount-what-does-that-mean-do-i-have-to-pay-that-much-if-i-pay-that-much-and-make-new-purchases-will-i-still-owe-nothing-after-three-years-en-36/">
+        <input type="hidden" name="referrer" value="https://www.consumerfinance.gov/es/obtener-respuestas/hay-un-saldo-a-favor-que-aparece-en-la-cuenta-de-mi-tarjeta-de-credito-es-42/">
         <input type="hidden" name="language" value="es">
         <div class="o-form_group">
             <h3>
@@ -673,7 +674,7 @@
         <div class="o-footer-post">
 <div class="a-tagline a-tagline__large">
 	<span class="u-usa-flag"></span>
-   <div class="a-tagline_text">
+   <div>
       Un sitio web oficial del
       <span class="u-nowrap">gobierno federal de los Estados Unidos</span>
    </div>
