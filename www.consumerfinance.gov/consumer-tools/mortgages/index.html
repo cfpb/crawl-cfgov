@@ -1208,7 +1208,7 @@
                 block__flush-top block__flush-bottom"
         >
 <section class="m-hero m-hero__overlay">
-    <div class="m-hero_wrapper wrapper">
+    <div class="m-hero_wrapper">
         <div class="m-hero_text">
             <h1 class="m-hero_heading">Mortgages</h1>
             <div class="m-hero_subhead">
@@ -1238,9 +1238,10 @@
                     sizingMethod='scale');
                 padding-bottom: 23.089430894308943%;
             }
+            .m-hero__jumbo .m-hero_wrapper,
+            .m-hero__50-50 .m-hero_wrapper,
             .m-hero__overlay .m-hero_wrapper {
                 background-image: url('https://files.consumerfinance.gov/f/images/Mortgages_hero_large.original.png');
-                background-size: cover;
                 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
                     src='https://files.consumerfinance.gov/f/images/Mortgages_hero_large.original.png',
                     sizingMethod='scale');
@@ -1285,7 +1286,7 @@
     </div>
             <div class="block">
 <section class="o-featured-content-module
-                o-featured-content-module__center">
+                ">
     <div class="o-featured-content-module_text">
         <h2 class="h3">Coronavirus affecting your mortgage or housing?</h2>
         <p>We have resources from multiple federal agencies to help homeowners and renters understand options for relief and protection in light of the coronavirus emergency.</p>
@@ -1702,6 +1703,11 @@
             </div>
             <div class="o-footer_col">
                 <ul class="o-footer_list m-list">
+                    <li class="m-list_item">
+                        <a class="m-list_link" href="/about-us/diversity-and-inclusion/">
+                            Diversity & Inclusion
+                        </a>
+                    </li>
                     <li class="m-list_item">
                         <a class="m-list_link" href="/administrative-adjudication-proceedings/">
                             Administrative Adjudication

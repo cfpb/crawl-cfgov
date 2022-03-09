@@ -1205,7 +1205,7 @@
     <main class="content content__2-1 content__bleedbar"
           id="main">
 <section class="m-hero m-hero__bleeding">
-    <div class="m-hero_wrapper wrapper">
+    <div class="m-hero_wrapper">
         <div class="m-hero_text">
             <h1 class="m-hero_heading">Consumer resources</h1>
             <div class="m-hero_subhead">
@@ -1235,9 +1235,10 @@
                     sizingMethod='scale');
                 padding-bottom: 135.74468085106383%;
             }
+            .m-hero__jumbo .m-hero_wrapper,
+            .m-hero__50-50 .m-hero_wrapper,
             .m-hero__overlay .m-hero_wrapper {
                 background-image: url('https://files.consumerfinance.gov/f/images/bcfp_consumer_tools_hero_large.original.png');
-                background-size: cover;
                 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
                     src='https://files.consumerfinance.gov/f/images/bcfp_consumer_tools_hero_large.original.png',
                     sizingMethod='scale');
@@ -1747,6 +1748,11 @@
             </div>
             <div class="o-footer_col">
                 <ul class="o-footer_list m-list">
+                    <li class="m-list_item">
+                        <a class="m-list_link" href="/about-us/diversity-and-inclusion/">
+                            Diversity & Inclusion
+                        </a>
+                    </li>
                     <li class="m-list_item">
                         <a class="m-list_link" href="/administrative-adjudication-proceedings/">
                             Administrative Adjudication
