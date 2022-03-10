@@ -1209,7 +1209,7 @@
                 block__flush-top block__flush-bottom"
         >
 <section class="m-hero m-hero__bleeding m-hero__overlay">
-    <div class="m-hero_wrapper wrapper">
+    <div class="m-hero_wrapper">
         <div class="m-hero_text">
             <h1 class="m-hero_heading">Money transfers</h1>
             <div class="m-hero_subhead">
@@ -1239,9 +1239,10 @@
                     sizingMethod='scale');
                 padding-bottom: 23.2520325203252%;
             }
+            .m-hero__jumbo .m-hero_wrapper,
+            .m-hero__50-50 .m-hero_wrapper,
             .m-hero__overlay .m-hero_wrapper {
                 background-image: url('https://files.consumerfinance.gov/f/images/Money_transfers_large.original.png');
-                background-size: cover;
                 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
                     src='https://files.consumerfinance.gov/f/images/Money_transfers_large.original.png',
                     sizingMethod='scale');
@@ -1254,7 +1255,7 @@
     <div class="content_main "><section >
             <div class="block block__flush-top">
 <section class="o-featured-content-module
-                o-featured-content-module__center">
+                ">
     <div class="o-featured-content-module_text">
         <h2 class="h3">Know your rights when transferring money</h2>
         <p>You have federal rights protecting your money, including special rules that generally apply even when sending it to another country.</p>
@@ -1607,6 +1608,11 @@
             </div>
             <div class="o-footer_col">
                 <ul class="o-footer_list m-list">
+                    <li class="m-list_item">
+                        <a class="m-list_link" href="/about-us/diversity-and-inclusion/">
+                            Diversity & Inclusion
+                        </a>
+                    </li>
                     <li class="m-list_item">
                         <a class="m-list_link" href="/administrative-adjudication-proceedings/">
                             Administrative Adjudication
