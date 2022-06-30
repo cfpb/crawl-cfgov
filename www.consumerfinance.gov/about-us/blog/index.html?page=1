@@ -1343,8 +1343,8 @@
   <option value="mortgage-closing">Mortgage closing</option>
   <option value="saving">Saving</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
-  <option value="deceptive-practices">Deceptive practices</option>
   <option value="access-to-credit">Access to credit</option>
+  <option value="deceptive-practices">Deceptive practices</option>
   <option value="auto-loans">Auto loans</option>
   <option value="bureau-milestones">Bureau milestones</option>
   <option value="academic-research-council">Academic Research Council</option>
@@ -1519,13 +1519,85 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1456 filtered results</div>
+          <div class="h4 m-notification_message">1457 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Data, research, and reports
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2022-06-29T00:00:00">JUN 29, 2022</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/new-report-explores-the-impact-of-credit-card-line-decreases-on-consumers/">
+                    New report explores the impact of credit card line decreases on consumers
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p data-block-key="gtvd0">Access to credit plays a critical role in financial resiliency, especially during an economic downturn. Credit card companies used credit card line decreases to reduce their credit exposure during the Great Recession and the COVID-19 pandemic. New research explores the impact of credit line decrease decisions on consumers.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Logan Herman</a>
+                    and 
+                    Jonah Kaplan</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2849,52 +2921,6 @@
             <a href="/about-us/blog/?topics=cfpb-en-espanol" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 CFPB en español
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2022-04-21T00:00:00">APR 21, 2022</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/you-have-rights-and-protections-when-you-send-money-abroad-zh-trad/">
-                    當您向國外匯款時，您享有一些權利，並會受到保護
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="lhsvd">當您向海外匯款時，匯款服務機構必須遵守有關披露成本和費用、處理取消和退款、糾正錯誤等規定。</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=cfpb-in-traditional-chinese" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                CFPB in Traditional Chinese
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
             </a>
         </li>
     </ul>
