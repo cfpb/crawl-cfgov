@@ -1345,12 +1345,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1081" href="/ask-cfpb/can-my-bankcredit-union-charge-me-a-fee-to-use-another-bank-or-credit-unions-atm-en-1081/">Can my bank/credit union charge me a fee to use another bank or credit union's ATM?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1079" href="/ask-cfpb/i-lost-my-debit-card-or-it-was-stolen-and-someone-took-money-out-of-my-account-can-i-get-my-money-back-en-1079/">I lost my debit card, or it was stolen, and someone took money out of my account. Can I get my money back?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1077" href="/ask-cfpb/someone-stole-my-debit-card-number-and-used-it-can-i-get-my-money-back-en-1077/">Someone stole my debit card number and used it. Can I get my money back?</a></div>
             </article>
             <article>
@@ -1418,6 +1412,12 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1027" href="/ask-cfpb/should-i-enroll-in-direct-deposit-en-1027/">Should I enroll in direct deposit?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1025" href="/ask-cfpb/i-get-my-paycheck-by-direct-deposit-when-can-i-withdraw-the-funds-en-1025/">I get my paycheck by direct deposit. When can I withdraw the funds?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1023" href="/ask-cfpb/how-quickly-can-i-get-money-after-i-deposit-a-check-into-my-checking-account-what-is-a-deposit-hold-en-1023/">How quickly can I get money after I deposit a check into my checking account? What is a deposit hold?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
