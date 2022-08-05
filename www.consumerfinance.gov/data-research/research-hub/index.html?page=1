@@ -1437,13 +1437,53 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">125 filtered results</div>
+          <div class="h4 m-notification_message">126 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2022-08-04T00:00:00">AUG 04, 2022</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/the-convergence-of-payments-and-commerce-implications-for-consumers/">
+                    The Convergence of Payments and Commerce: Implications for Consumers
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p data-block-key="80ybd">In recent years, the payment space has moved from an ecosystem with clear constraints and established players to a rapidly evolving environment.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=electronic-payments" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Electronic payments
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2748,80 +2788,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2021-05-27T00:00:00">MAY 27, 2021</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/manufactured-housing-finance-new-insights-hmda/">
-                    Manufactured Housing Finance: New Insights from the Home Mortgage Disclosure Act
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="0cyt1">This report analyzes manufactured home loans, using two new fields in the Home Mortgage Disclosure Act (HMDA) data to understand the manufactured housing finance market and compare chattel loans and mortgages.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    Office of Research</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Home Mortgage Disclosure Act
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2841,7 +2807,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    1 out of 5 total pages
+                    1 out of 6 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -2849,11 +2815,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="5"
+                   max="6"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="1">
-            <span class="m-pagination_label"> of 5</span>
+            <span class="m-pagination_label"> of 6</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"
