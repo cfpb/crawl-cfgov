@@ -1733,42 +1733,6 @@
         <div class="m-meta-header">
             <div class="m-meta-header_right">
                 <span class="a-date">
-                        <span class="datetime"><time class="datetime_date" datetime="2022-04-07T13:00:00-0400">APR 07, 2022</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-                <time class="calendar-icon"
-                      data-month="Apr"
-                      data-day="7"
-                      datetime="Thu 07 Apr 2022 01:00:00 PM EDT"
-                      aria-hidden="true">
-                </time>
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/events/archive-past-events/april-2022-combined-community-bank-advisory-council-and-credit-union-advisory-council-meeting/">
-                    April 2022 Combined Community Bank Advisory Council and Credit Union Advisory Council Meeting
-                </a>
-            </h3>
-                    <div class="o-post-preview_subtitle">
-                            Via WebEx
-                     -
-                    <span class="datetime"><time class="datetime_date" datetime="2022-04-07T13:00:00-0400">APR 07, 2022</time>
-    <span class="datetime_divider">@</span>
-    <time class="datetime_time" datetime="2022-04-07T13:00:00-0400">
-        01:00 PM EDT
-    </time>
-</span>
-                    </div>
-                <div class="o-post-preview_description">
-                    <p data-block-key="u61cj">The Community Bank Advisory Council and the Credit Union Advisory Council will meet and discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority.</p>
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
                         <span class="datetime"><time class="datetime_date" datetime="2022-04-06T13:00:00-0400">APR 06, 2022</time>
 </span>
                 </span>
@@ -1798,6 +1762,42 @@
                     </div>
                 <div class="o-post-preview_description">
                     <p data-block-key="gzcrl">The CAB will discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority.</p>
+                </div>
+        </div>
+    </article>
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                        <span class="datetime"><time class="datetime_date" datetime="2022-04-07T13:00:00-0400">APR 07, 2022</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+                <time class="calendar-icon"
+                      data-month="Apr"
+                      data-day="7"
+                      datetime="Thu 07 Apr 2022 01:00:00 PM EDT"
+                      aria-hidden="true">
+                </time>
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/events/archive-past-events/april-2022-combined-community-bank-advisory-council-and-credit-union-advisory-council-meeting/">
+                    April 2022 Combined Community Bank Advisory Council and Credit Union Advisory Council Meeting
+                </a>
+            </h3>
+                    <div class="o-post-preview_subtitle">
+                            Via WebEx
+                     -
+                    <span class="datetime"><time class="datetime_date" datetime="2022-04-07T13:00:00-0400">APR 07, 2022</time>
+    <span class="datetime_divider">@</span>
+    <time class="datetime_time" datetime="2022-04-07T13:00:00-0400">
+        01:00 PM EDT
+    </time>
+</span>
+                    </div>
+                <div class="o-post-preview_description">
+                    <p data-block-key="u61cj">The Community Bank Advisory Council and the Credit Union Advisory Council will meet and discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority.</p>
                 </div>
         </div>
     </article>
