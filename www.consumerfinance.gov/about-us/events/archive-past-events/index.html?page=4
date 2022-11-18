@@ -1939,15 +1939,15 @@ records.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer Advisory Board
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/events/archive-past-events/?topics=video" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Video
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Consumer Advisory Board
             </a>
         </li>
     </ul>
@@ -2304,21 +2304,9 @@ youth financial capability and debt collection.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=debt-collection" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=financial-well-being" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Community Bank Advisory Council
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial education
+                Financial well-being
             </a>
         </li>
         <li class="tags_tag">
@@ -2328,9 +2316,21 @@ youth financial capability and debt collection.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-well-being" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
+                Financial education
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Community Bank Advisory Council
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
             </a>
         </li>
     </ul>

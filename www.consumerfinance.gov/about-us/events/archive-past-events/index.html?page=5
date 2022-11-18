@@ -1973,9 +1973,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-well-being" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=video" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
+                Video
             </a>
         </li>
         <li class="tags_tag">
@@ -1985,9 +1985,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=video" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=financial-well-being" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Video
+                Financial well-being
             </a>
         </li>
     </ul>

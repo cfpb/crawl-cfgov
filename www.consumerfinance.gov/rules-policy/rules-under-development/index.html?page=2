@@ -1535,9 +1535,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=debt-collection" class="tags_link">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Rulemaking
             </a>
         </li>
         <li class="tags_tag">
@@ -1547,9 +1547,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
+            <a href="/rules-policy/rules-under-development/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
+                Debt collection
             </a>
         </li>
     </ul>
@@ -1587,15 +1587,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=civil-penalty-fund" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Civil Penalty Fund
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/rules-under-development/?topics=civil-penalty-fund" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Civil Penalty Fund
             </a>
         </li>
     </ul>
@@ -1633,9 +1633,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="tags_link">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Mortgage servicing
             </a>
         </li>
         <li class="tags_tag">
@@ -1645,9 +1645,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="tags_link">
+            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
+                Truth in Lending Act (TILA)
             </a>
         </li>
     </ul>
@@ -1685,15 +1685,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
             </a>
         </li>
     </ul>

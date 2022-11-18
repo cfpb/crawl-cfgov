@@ -1267,15 +1267,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
+            <a href="/about-us/blog/?topics=deceptive-practices" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Servicemembers
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Deceptive practices
             </a>
         </li>
         <li class="tags_tag">
@@ -1285,9 +1279,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=deceptive-practices" class="tags_link">
+            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
+                Debt collection
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Servicemembers
             </a>
         </li>
     </ul>
@@ -1452,7 +1452,7 @@
     </ul>
         </div>
     <a class="a-link a-link__jump"
-       href="/activity-log/?topics=servicemembers&amp;topics=debt-collection&amp;topics=fair-credit-reporting-act&amp;topics=deceptive-practices"
+       href="/activity-log/?topics=deceptive-practices&amp;topics=fair-credit-reporting-act&amp;topics=debt-collection&amp;topics=servicemembers"
        aria-label="View more related posts">
         <span class="a-link_text">
             View more

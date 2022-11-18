@@ -1443,15 +1443,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Access to credit
             </a>
         </li>
         <li class="tags_tag">
@@ -1461,9 +1455,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
             </a>
         </li>
     </ul>
@@ -1821,15 +1821,9 @@ disclosure forms for prepaid accounts.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=overdrafts" class="tags_link">
+            <a href="/data-research/research-reports/?topics=everyone-has-a-story" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Overdrafts
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=checking-account" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Checking account
+                Everyone has a story
             </a>
         </li>
         <li class="tags_tag">
@@ -1839,9 +1833,15 @@ disclosure forms for prepaid accounts.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=everyone-has-a-story" class="tags_link">
+            <a href="/data-research/research-reports/?topics=checking-account" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Everyone has a story
+                Checking account
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=overdrafts" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Overdrafts
             </a>
         </li>
     </ul>
@@ -1877,15 +1877,15 @@ disclosure forms for prepaid accounts.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=money-transfers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Money transfers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
             </a>
         </li>
     </ul>
@@ -1921,9 +1921,9 @@ disclosure forms for prepaid accounts.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Credit reports and scores
             </a>
         </li>
         <li class="tags_tag">
@@ -1933,9 +1933,9 @@ disclosure forms for prepaid accounts.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
+            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Debt collection
             </a>
         </li>
     </ul>
@@ -2051,9 +2051,9 @@ disclosure forms for prepaid accounts.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+            <a href="/data-research/research-reports/?topics=payday-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Payday loans
             </a>
         </li>
         <li class="tags_tag">
@@ -2063,9 +2063,9 @@ disclosure forms for prepaid accounts.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=payday-loans" class="tags_link">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Payday loans
+                Data
             </a>
         </li>
     </ul>
@@ -2181,15 +2181,15 @@ disclosure forms for prepaid accounts.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=research" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
             </a>
         </li>
     </ul>
@@ -2660,6 +2660,18 @@ disclosure forms for prepaid accounts.</p>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/enhancing-public-data-on-auto-lending/">
+                        Enhancing public data on auto lending
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2022-11-17T00:00:00">NOV 17, 2022</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/office-of-research-blog-update-on-student-loan-borrowers-during-payment-suspension/">
                         Office of Research blog: Update on student loan borrowers during payment suspension
                     </a>
@@ -2678,18 +2690,6 @@ disclosure forms for prepaid accounts.</p>
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2022-09-19T00:00:00">SEP 19, 2022</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/exploring-connection-between-financial-assistance-for-medical-care-and-medical-collections/">
-                        Exploring the connection between financial assistance for medical care and medical collections
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2022-08-24T00:00:00">AUG 24, 2022</time>
 </span>
                 </p>
             </li>

@@ -1310,8 +1310,8 @@
   <option value="fair-lending">Fair lending</option>
   <option value="parents">Parents</option>
   <option value="mortgage-closing">Mortgage closing</option>
-  <option value="saving">Saving</option>
   <option value="auto-loans">Auto loans</option>
+  <option value="saving">Saving</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="access-to-credit">Access to credit</option>
   <option value="deceptive-practices">Deceptive practices</option>
@@ -1484,13 +1484,70 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1488 filtered results</div>
+          <div class="h4 m-notification_message">1489 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zM5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534zm2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-11-10T00:00:00">NOV 10, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/how-help-homeowners-protect-their-homes-vi/">
+                    Cách giúp chủ nhà bảo vệ ngôi nhà của họ
+                </a>
+            </h3>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Consumer Financial Protection Bureau</a>
+                    and 
+                    Department of Housing and Urban Development</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -1527,9 +1584,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
+            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
+                Mortgage origination
             </a>
         </li>
         <li class="tags_tag">
@@ -1539,9 +1596,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
+            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -1584,9 +1641,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
+            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
+                Mortgage origination
             </a>
         </li>
         <li class="tags_tag">
@@ -1596,9 +1653,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
+            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -1665,9 +1722,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
+            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
+                Mortgage origination
             </a>
         </li>
         <li class="tags_tag">
@@ -1677,9 +1734,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
+            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -1723,9 +1780,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
+            <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
+                Servicemembers
             </a>
         </li>
         <li class="tags_tag">
@@ -1735,9 +1792,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
+            <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Servicemembers
+                Financial well-being
             </a>
         </li>
     </ul>
@@ -1823,15 +1880,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
             </a>
         </li>
     </ul>
@@ -1967,15 +2024,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=compliance" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
             </a>
         </li>
     </ul>
@@ -2019,15 +2076,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=older-americans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Older Americans
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Identity theft and fraud
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=older-americans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Older Americans
             </a>
         </li>
     </ul>
@@ -2071,15 +2128,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Disasters and emergencies
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=saving" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Saving
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
             </a>
         </li>
     </ul>
@@ -2172,9 +2229,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=deceptive-practices" class="tags_link">
+            <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
+                Identity theft and fraud
             </a>
         </li>
         <li class="tags_tag">
@@ -2184,9 +2241,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
+            <a href="/about-us/blog/?topics=deceptive-practices" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Identity theft and fraud
+                Deceptive practices
             </a>
         </li>
     </ul>
@@ -2230,15 +2287,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=academic-research-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Academic Research Council
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=research" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=academic-research-council" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Academic Research Council
             </a>
         </li>
     </ul>
@@ -2285,27 +2342,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=diversity-and-inclusion" class="tags_link">
+            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Diversity and inclusion
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial education
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
+                Disasters and emergencies
             </a>
         </li>
         <li class="tags_tag">
@@ -2315,9 +2354,27 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+            <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Disasters and emergencies
+                Fair lending
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial education
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=diversity-and-inclusion" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Diversity and inclusion
             </a>
         </li>
     </ul>
@@ -2364,15 +2421,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Disasters and emergencies
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
             </a>
         </li>
     </ul>
@@ -2418,21 +2475,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
+            <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial education
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=youth" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Youth
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=saving" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Saving
+                Financial well-being
             </a>
         </li>
         <li class="tags_tag">
@@ -2442,9 +2487,21 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
+            <a href="/about-us/blog/?topics=saving" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
+                Saving
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=youth" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Youth
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial education
             </a>
         </li>
     </ul>
@@ -2536,9 +2593,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
+            <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
+                Access to credit
             </a>
         </li>
         <li class="tags_tag">
@@ -2548,9 +2605,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
+            <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
+                Fair lending
             </a>
         </li>
     </ul>
@@ -2590,15 +2647,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Servicemembers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial well-being
             </a>
         </li>
     </ul>
@@ -2642,15 +2699,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Disasters and emergencies
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
             </a>
         </li>
     </ul>
@@ -2694,15 +2751,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Disasters and emergencies
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
             </a>
         </li>
     </ul>
@@ -2746,9 +2803,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
+            <a href="/about-us/blog/?topics=discrimination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
+                Discrimination
             </a>
         </li>
         <li class="tags_tag">
@@ -2758,73 +2815,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=discrimination" class="tags_link">
+            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Discrimination
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 19" class="cf-icon-svg"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Data, research, and reports
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2020-07-24T00:00:00">JUL 24, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/what-to-consider-when-sharing-your-financial-data/">
-                    What to consider when sharing your financial data
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>A growing number of financial services are powered by data sharing. Learn the key things to consider before sharing your data, and tips for sharing your data in the best way.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    Max Bentovim</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=privacy" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Privacy
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
+                Equal Credit Opportunity Act
             </a>
         </li>
     </ul>

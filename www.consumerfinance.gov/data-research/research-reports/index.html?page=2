@@ -1612,15 +1612,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="tags_link">
+            <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Diversity and inclusion
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=people-with-disabilities" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                People with disabilities
+                Open government
             </a>
         </li>
         <li class="tags_tag">
@@ -1630,9 +1624,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
+            <a href="/data-research/research-reports/?topics=people-with-disabilities" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Open government
+                People with disabilities
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Diversity and inclusion
             </a>
         </li>
     </ul>
@@ -1671,9 +1671,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+            <a href="/data-research/research-reports/?topics=consumer-complaints" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Consumer complaints
             </a>
         </li>
         <li class="tags_tag">
@@ -1683,9 +1683,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=consumer-complaints" class="tags_link">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer complaints
+                Data
             </a>
         </li>
     </ul>
@@ -1729,27 +1729,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=community-banks" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Community banks
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Access to credit
             </a>
         </li>
         <li class="tags_tag">
@@ -1759,9 +1741,27 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=community-banks" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Community banks
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
             </a>
         </li>
     </ul>
@@ -1800,15 +1800,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=fair-debt-collection-practices-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Debt Collection Practices Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
             </a>
         </li>
     </ul>
@@ -1840,15 +1840,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=equity" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Equity
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Diversity and inclusion
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=equity" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Equity
             </a>
         </li>
     </ul>
@@ -1891,15 +1891,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Student loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
             </a>
         </li>
     </ul>
@@ -2066,15 +2066,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=consumer-complaints" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
             </a>
         </li>
     </ul>
@@ -2113,15 +2113,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-card-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit CARD Act
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-card-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit CARD Act
             </a>
         </li>
     </ul>
@@ -2164,9 +2164,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=mortgage-servicing" class="tags_link">
+            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -2176,9 +2176,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
+            <a href="/data-research/research-reports/?topics=mortgage-servicing" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -2221,9 +2221,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=financial-well-being" class="tags_link">
+            <a href="/data-research/research-reports/?topics=saving" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
+                Saving
             </a>
         </li>
         <li class="tags_tag">
@@ -2233,9 +2233,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=saving" class="tags_link">
+            <a href="/data-research/research-reports/?topics=financial-well-being" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Saving
+                Financial well-being
             </a>
         </li>
     </ul>
@@ -2315,15 +2315,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="tags_link">
+            <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Diversity and inclusion
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=people-with-disabilities" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                People with disabilities
+                Open government
             </a>
         </li>
         <li class="tags_tag">
@@ -2333,9 +2327,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
+            <a href="/data-research/research-reports/?topics=people-with-disabilities" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Open government
+                People with disabilities
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Diversity and inclusion
             </a>
         </li>
     </ul>
@@ -2463,15 +2463,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+            <a href="/data-research/research-reports/?topics=disasters-and-emergencies" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=medical-debt" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Medical debt
+                Disasters and emergencies
             </a>
         </li>
         <li class="tags_tag">
@@ -2481,9 +2475,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=disasters-and-emergencies" class="tags_link">
+            <a href="/data-research/research-reports/?topics=medical-debt" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Disasters and emergencies
+                Medical debt
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
             </a>
         </li>
     </ul>
@@ -2556,15 +2556,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=open-government" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Open government
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=compliance" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Compliance
             </a>
         </li>
     </ul>
@@ -2739,15 +2739,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Diversity and inclusion
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=financial-service-providers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Financial service providers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Diversity and inclusion
             </a>
         </li>
     </ul>
@@ -2786,9 +2786,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+            <a href="/data-research/research-reports/?topics=consumer-complaints" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Consumer complaints
             </a>
         </li>
         <li class="tags_tag">
@@ -2798,9 +2798,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=consumer-complaints" class="tags_link">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer complaints
+                Data
             </a>
         </li>
     </ul>
@@ -2843,21 +2843,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=financial-well-being" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -2867,9 +2855,21 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
+            <a href="/data-research/research-reports/?topics=financial-well-being" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Financial well-being
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
             </a>
         </li>
     </ul>
@@ -2989,6 +2989,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/enhancing-public-data-on-auto-lending/">
+                        Enhancing public data on auto lending
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2022-11-17T00:00:00">NOV 17, 2022</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/office-of-research-blog-update-on-student-loan-borrowers-during-payment-suspension/">
                         Office of Research blog: Update on student loan borrowers during payment suspension
                     </a>
@@ -3003,18 +3015,6 @@
                     <a class="m-list_link"
                        href="/about-us/blog/your-voices-help-drive-our-work/">
                         Your voices help drive our work
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2022-10-31T00:00:00">OCT 31, 2022</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/sus-voces-guian-nuestro-trabajo/">
-                        Sus voces guían nuestro trabajo
                     </a>
                 </h3>
                 <p class="a-date">
@@ -3119,7 +3119,7 @@
     </ul>
         </div>
     <a class="a-link a-link__jump"
-       href="/activity-log/?topics=data&amp;topics=research&amp;topics=consumer-complaints"
+       href="/activity-log/?topics=consumer-complaints&amp;topics=research&amp;topics=data"
        aria-label="View more related posts">
         <span class="a-link_text">
             View more

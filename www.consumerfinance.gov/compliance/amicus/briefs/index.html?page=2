@@ -1489,15 +1489,15 @@ interest.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=students" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Students
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/amicus/briefs/?topics=student-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Student loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/amicus/briefs/?topics=students" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Students
             </a>
         </li>
     </ul>
@@ -1533,15 +1533,9 @@ judicial foreclosure proceedings that can lead to a deficiency judgment.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Fair Debt Collection Practices Act
             </a>
         </li>
         <li class="tags_tag">
@@ -1551,9 +1545,15 @@ judicial foreclosure proceedings that can lead to a deficiency judgment.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Debt Collection Practices Act
+                Debt collection
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
             </a>
         </li>
     </ul>
@@ -1598,15 +1598,9 @@ standing.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Fair Debt Collection Practices Act
             </a>
         </li>
         <li class="tags_tag">
@@ -1616,9 +1610,15 @@ standing.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Debt Collection Practices Act
+                Debt collection
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
             </a>
         </li>
     </ul>
@@ -1785,15 +1785,15 @@ Security Funds.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Credit Reporting Act
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
             </a>
         </li>
     </ul>
@@ -1976,15 +1976,9 @@ filed.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=financial-service-providers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Financial service providers
             </a>
         </li>
         <li class="tags_tag">
@@ -1994,9 +1988,15 @@ filed.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=financial-service-providers" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
+                Debt collection
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
             </a>
         </li>
     </ul>
@@ -2135,15 +2135,15 @@ filed.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-credit-billing-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Credit Billing Act
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/amicus/briefs/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/amicus/briefs/?topics=fair-credit-billing-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Billing Act
             </a>
         </li>
     </ul>
@@ -2238,9 +2238,9 @@ filed.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Credit Reporting Act
+                Credit reports and scores
             </a>
         </li>
         <li class="tags_tag">
@@ -2250,9 +2250,9 @@ filed.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Fair Credit Reporting Act
             </a>
         </li>
     </ul>
@@ -2344,15 +2344,9 @@ filed.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=financial-service-providers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Financial service providers
             </a>
         </li>
         <li class="tags_tag">
@@ -2362,9 +2356,15 @@ filed.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=financial-service-providers" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
+                Debt collection
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
             </a>
         </li>
     </ul>
@@ -2465,15 +2465,15 @@ filed.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/amicus/briefs/?topics=equal-credit-opportunity-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/amicus/briefs/?topics=fair-lending" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
             </a>
         </li>
     </ul>
@@ -2618,9 +2618,9 @@ filed.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=mortgage-closing" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=financial-service-providers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
+                Financial service providers
             </a>
         </li>
         <li class="tags_tag">
@@ -2630,9 +2630,9 @@ filed.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=financial-service-providers" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=mortgage-closing" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
+                Mortgage closing
             </a>
         </li>
     </ul>
@@ -2733,15 +2733,9 @@ filed.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Debt Collection Practices Act
+                Deceptive practices
             </a>
         </li>
         <li class="tags_tag">
@@ -2751,9 +2745,15 @@ filed.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="tags_link">
+            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
+                Fair Debt Collection Practices Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
             </a>
         </li>
     </ul>

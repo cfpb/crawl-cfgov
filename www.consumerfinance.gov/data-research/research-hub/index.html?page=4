@@ -1579,9 +1579,9 @@ benefits programs ensure that borrowers receive the maximum value. </p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=innovation" class="tags_link">
+            <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Innovation
+                Student loans
             </a>
         </li>
         <li class="tags_tag">
@@ -1591,9 +1591,9 @@ benefits programs ensure that borrowers receive the maximum value. </p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
+            <a href="/data-research/research-reports/?topics=innovation" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
+                Innovation
             </a>
         </li>
     </ul>
@@ -1629,9 +1629,9 @@ benefits programs ensure that borrowers receive the maximum value. </p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+            <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Student loans
             </a>
         </li>
         <li class="tags_tag">
@@ -1641,9 +1641,9 @@ benefits programs ensure that borrowers receive the maximum value. </p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=student-loans" class="tags_link">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
+                Data
             </a>
         </li>
     </ul>
@@ -1679,27 +1679,9 @@ benefits programs ensure that borrowers receive the maximum value. </p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=overdrafts" class="tags_link">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Overdrafts
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=regulation-e" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Regulation E
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=checking-account" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Checking account
+                Data
             </a>
         </li>
         <li class="tags_tag">
@@ -1709,9 +1691,27 @@ benefits programs ensure that borrowers receive the maximum value. </p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+            <a href="/data-research/research-reports/?topics=checking-account" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Checking account
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=regulation-e" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation E
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=overdrafts" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Overdrafts
             </a>
         </li>
     </ul>
@@ -1747,15 +1747,9 @@ benefits programs ensure that borrowers receive the maximum value. </p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
+                Credit reports and scores
             </a>
         </li>
         <li class="tags_tag">
@@ -1765,9 +1759,15 @@ benefits programs ensure that borrowers receive the maximum value. </p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Access to credit
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
             </a>
         </li>
     </ul>
@@ -1904,15 +1904,9 @@ strengthening diversity and inclusion within organizations.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Research
             </a>
         </li>
         <li class="tags_tag">
@@ -1922,9 +1916,15 @@ strengthening diversity and inclusion within organizations.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
             </a>
         </li>
     </ul>
@@ -1994,15 +1994,15 @@ from the outset.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=innovation" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Innovation
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=project-catalyst" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Project Catalyst
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=innovation" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Innovation
             </a>
         </li>
     </ul>
@@ -2086,27 +2086,9 @@ disclosure forms for prepaid accounts.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=innovation" class="tags_link">
+            <a href="/data-research/research-reports/?topics=project-catalyst" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Innovation
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=payday-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Payday loans
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
+                Project Catalyst
             </a>
         </li>
         <li class="tags_tag">
@@ -2116,9 +2098,27 @@ disclosure forms for prepaid accounts.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=project-catalyst" class="tags_link">
+            <a href="/data-research/research-reports/?topics=prepaid-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Project Catalyst
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=payday-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Payday loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=innovation" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Innovation
             </a>
         </li>
     </ul>
@@ -2154,9 +2154,9 @@ disclosure forms for prepaid accounts.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Research
             </a>
         </li>
         <li class="tags_tag">
@@ -2166,9 +2166,9 @@ disclosure forms for prepaid accounts.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+            <a href="/data-research/research-reports/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
+                Debt collection
             </a>
         </li>
     </ul>
@@ -2204,15 +2204,15 @@ disclosure forms for prepaid accounts.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=payday-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Payday loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
             </a>
         </li>
     </ul>
@@ -2248,15 +2248,15 @@ disclosure forms for prepaid accounts.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=auto-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Auto loans
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/data-research/research-reports/?topics=payday-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Payday loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=auto-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Auto loans
             </a>
         </li>
     </ul>
@@ -2372,21 +2372,9 @@ disclosure forms for prepaid accounts.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=older-americans" class="tags_link">
+            <a href="/data-research/research-reports/?topics=identity-theft-fraud" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Older Americans
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-unions" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit unions
+                Identity theft and fraud
             </a>
         </li>
         <li class="tags_tag">
@@ -2396,9 +2384,21 @@ disclosure forms for prepaid accounts.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=identity-theft-fraud" class="tags_link">
+            <a href="/data-research/research-reports/?topics=credit-unions" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Identity theft and fraud
+                Credit unions
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=older-americans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Older Americans
             </a>
         </li>
     </ul>
@@ -2833,6 +2833,18 @@ disclosure forms for prepaid accounts.</p>
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/blog/enhancing-public-data-on-auto-lending/">
+                        Enhancing public data on auto lending
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2022-11-17T00:00:00">NOV 17, 2022</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/blog/office-of-research-blog-update-on-student-loan-borrowers-during-payment-suspension/">
                         Office of Research blog: Update on student loan borrowers during payment suspension
                     </a>
@@ -2851,18 +2863,6 @@ disclosure forms for prepaid accounts.</p>
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2022-09-19T00:00:00">SEP 19, 2022</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/blog/exploring-connection-between-financial-assistance-for-medical-care-and-medical-collections/">
-                        Exploring the connection between financial assistance for medical care and medical collections
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2022-08-24T00:00:00">AUG 24, 2022</time>
 </span>
                 </p>
             </li>

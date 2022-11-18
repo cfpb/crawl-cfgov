@@ -1552,13 +1552,67 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1614 filtered results</div>
+          <div class="h4 m-notification_message">1615 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Press release
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2022-09-22T00:00:00">SEP 22, 2022</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/cfpb-launches-effort-to-spur-new-opportunities-for-homeowners-in-the-mortgage-market/">
+                    CFPB Launches Effort to Spur New Opportunities for Homeowners in the Mortgage Market
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p data-block-key="t6a9g">The Consumer Financial Protection Bureau (CFPB) is asking for public input on ways to spur new mortgage products that help households.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -1592,9 +1646,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=student-loans" class="tags_link">
+            <a href="/about-us/newsroom/?topics=open-government" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
+                Open government
             </a>
         </li>
         <li class="tags_tag">
@@ -1604,9 +1658,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=open-government" class="tags_link">
+            <a href="/about-us/newsroom/?topics=student-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Open government
+                Student loans
             </a>
         </li>
     </ul>
@@ -1717,15 +1771,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/newsroom/?topics=small-dollar-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Small-dollar loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
             </a>
         </li>
     </ul>
@@ -1794,9 +1848,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=older-americans" class="tags_link">
+            <a href="/about-us/newsroom/?topics=medical-debt" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Older Americans
+                Medical debt
             </a>
         </li>
         <li class="tags_tag">
@@ -1806,9 +1860,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=medical-debt" class="tags_link">
+            <a href="/about-us/newsroom/?topics=older-americans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Medical debt
+                Older Americans
             </a>
         </li>
     </ul>
@@ -1848,9 +1902,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=medical-debt" class="tags_link">
+            <a href="/about-us/newsroom/?topics=student-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Medical debt
+                Student loans
             </a>
         </li>
         <li class="tags_tag">
@@ -1860,9 +1914,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=student-loans" class="tags_link">
+            <a href="/about-us/newsroom/?topics=medical-debt" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
+                Medical debt
             </a>
         </li>
     </ul>
@@ -1902,9 +1956,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=student-loans" class="tags_link">
+            <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -1914,9 +1968,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
+            <a href="/about-us/newsroom/?topics=student-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Student loans
             </a>
         </li>
     </ul>
@@ -1956,15 +2010,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/newsroom/?topics=identity-theft-fraud" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Identity theft and fraud
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
             </a>
         </li>
     </ul>
@@ -2004,9 +2058,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=data" class="tags_link">
+            <a href="/about-us/newsroom/?topics=financial-service-providers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Financial service providers
             </a>
         </li>
         <li class="tags_tag">
@@ -2016,9 +2070,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=financial-service-providers" class="tags_link">
+            <a href="/about-us/newsroom/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
+                Data
             </a>
         </li>
     </ul>
@@ -2058,9 +2112,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=data" class="tags_link">
+            <a href="/about-us/newsroom/?topics=financial-service-providers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Financial service providers
             </a>
         </li>
         <li class="tags_tag">
@@ -2070,9 +2124,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=financial-service-providers" class="tags_link">
+            <a href="/about-us/newsroom/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
+                Data
             </a>
         </li>
     </ul>
@@ -2112,9 +2166,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+            <a href="/about-us/newsroom/?topics=banking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
+                Banking
             </a>
         </li>
         <li class="tags_tag">
@@ -2124,9 +2178,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=banking" class="tags_link">
+            <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
+                Enforcement
             </a>
         </li>
     </ul>
@@ -2166,15 +2220,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=servicemembers" class="tags_link">
+            <a href="/about-us/newsroom/?topics=supervision" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Servicemembers
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=servicemember-civil-relief-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Servicemember Civil Relief Act
+                Supervision
             </a>
         </li>
         <li class="tags_tag">
@@ -2184,9 +2232,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=supervision" class="tags_link">
+            <a href="/about-us/newsroom/?topics=servicemember-civil-relief-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Supervision
+                Servicemember Civil Relief Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=servicemembers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Servicemembers
             </a>
         </li>
     </ul>
@@ -2226,15 +2280,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+            <a href="/about-us/newsroom/?topics=banking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
+                Banking
             </a>
         </li>
         <li class="tags_tag">
@@ -2244,9 +2292,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=banking" class="tags_link">
+            <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
             </a>
         </li>
     </ul>
@@ -2292,21 +2346,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=redlining" class="tags_link">
+            <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Redlining
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=discrimination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Discrimination
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -2316,9 +2358,21 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
+            <a href="/about-us/newsroom/?topics=fair-lending" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Fair lending
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=discrimination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Discrimination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=redlining" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Redlining
             </a>
         </li>
     </ul>
@@ -2358,21 +2412,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=redlining" class="tags_link">
+            <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Redlining
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=discrimination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Discrimination
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -2382,9 +2424,21 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
+            <a href="/about-us/newsroom/?topics=fair-lending" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Fair lending
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=discrimination" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Discrimination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=redlining" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Redlining
             </a>
         </li>
     </ul>
@@ -2424,9 +2478,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=medical-debt" class="tags_link">
+            <a href="/about-us/newsroom/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Medical debt
+                Credit reports and scores
             </a>
         </li>
         <li class="tags_tag">
@@ -2436,9 +2490,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=credit-reports-and-scores" class="tags_link">
+            <a href="/about-us/newsroom/?topics=medical-debt" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Medical debt
             </a>
         </li>
     </ul>
@@ -2478,15 +2532,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+            <a href="/about-us/newsroom/?topics=consumer-complaints" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=auto-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Auto loans
+                Consumer complaints
             </a>
         </li>
         <li class="tags_tag">
@@ -2496,9 +2544,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=consumer-complaints" class="tags_link">
+            <a href="/about-us/newsroom/?topics=auto-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer complaints
+                Auto loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
             </a>
         </li>
     </ul>
@@ -2538,21 +2592,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=regulation-e" class="tags_link">
+            <a href="/about-us/newsroom/?topics=electronic-payments" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Regulation E
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
+                Electronic payments
             </a>
         </li>
         <li class="tags_tag">
@@ -2562,9 +2604,21 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=electronic-payments" class="tags_link">
+            <a href="/about-us/newsroom/?topics=banking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Electronic payments
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=regulation-e" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation E
             </a>
         </li>
     </ul>
@@ -2604,9 +2658,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=financial-well-being" class="tags_link">
+            <a href="/about-us/newsroom/?topics=financial-education" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
+                Financial education
             </a>
         </li>
         <li class="tags_tag">
@@ -2616,9 +2670,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=financial-education" class="tags_link">
+            <a href="/about-us/newsroom/?topics=financial-well-being" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial education
+                Financial well-being
             </a>
         </li>
     </ul>
@@ -2687,15 +2741,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+            <a href="/about-us/newsroom/?topics=payday-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=small-dollar-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Small-dollar loans
+                Payday loans
             </a>
         </li>
         <li class="tags_tag">
@@ -2705,9 +2753,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=payday-loans" class="tags_link">
+            <a href="/about-us/newsroom/?topics=small-dollar-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Payday loans
+                Small-dollar loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=enforcement" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
             </a>
         </li>
     </ul>
@@ -2747,9 +2801,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=fair-credit-reporting-act" class="tags_link">
+            <a href="/about-us/newsroom/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Credit Reporting Act
+                Credit reports and scores
             </a>
         </li>
         <li class="tags_tag">
@@ -2759,9 +2813,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=credit-reports-and-scores" class="tags_link">
+            <a href="/about-us/newsroom/?topics=fair-credit-reporting-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Fair Credit Reporting Act
             </a>
         </li>
     </ul>
@@ -2794,35 +2848,6 @@
             </h3>
                 <div class="o-post-preview_description">
                     <p data-block-key="x9nue">The Consumer Financial Protection Bureau (CFPB) issued an order today terminating Payactiv’s Sandbox Approval Order relating to its earned wage access products. The CFPB had given Payactiv special regulatory treatment, including as to liability under a relevant federal consumer financial law with respect to these products. Payactiv requested the termination in order to make changes to its fee model.</p>
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2022-06-29T00:00:00">JUN 29, 2022</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-moves-to-reduce-junk-fees-charged-by-debt-collectors/">
-                    CFPB Moves to Reduce Junk Fees Charged by Debt Collectors
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="x9nue">Today, the Consumer Financial Protection Bureau (CFPB) issued an advisory opinion affirming that federal law often prohibits debt collectors from charging “pay-to-pay” fees. These charges, commonly described by debt collectors as “convenience fees,” are imposed on consumers who want to make a payment in a particular way, such as online or by phone.</p>
                 </div>
         </div>
     </article>

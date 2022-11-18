@@ -1594,15 +1594,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
             </a>
         </li>
     </ul>
@@ -1680,15 +1680,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Access to credit
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial service providers
             </a>
         </li>
     </ul>
@@ -1726,9 +1726,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -1738,9 +1738,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Truth in Lending Act (TILA)
             </a>
         </li>
     </ul>
@@ -1778,15 +1778,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgage-closing" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -1796,9 +1790,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=rulemaking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
             </a>
         </li>
     </ul>
@@ -1876,9 +1876,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Access to credit
             </a>
         </li>
         <li class="tags_tag">
@@ -1888,9 +1888,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
+                Truth in Lending Act (TILA)
             </a>
         </li>
     </ul>
@@ -1928,9 +1928,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=credit-cards" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
+                Access to credit
             </a>
         </li>
         <li class="tags_tag">
@@ -1940,9 +1940,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=credit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
+                Credit cards
             </a>
         </li>
     </ul>
@@ -1980,15 +1980,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=regulation-e" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Regulation E
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/rules-policy/final-rules/?topics=money-transfers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Money transfers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=regulation-e" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation E
             </a>
         </li>
     </ul>
@@ -2026,15 +2026,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -2044,9 +2038,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -2084,15 +2084,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=foia" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                FOIA
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/rules-policy/final-rules/?topics=privacy" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Privacy
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=foia" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                FOIA
             </a>
         </li>
     </ul>
@@ -2130,15 +2130,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -2148,9 +2142,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -2188,9 +2188,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=foia" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=privacy" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                FOIA
+                Privacy
             </a>
         </li>
         <li class="tags_tag">
@@ -2200,9 +2200,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=privacy" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=foia" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Privacy
+                FOIA
             </a>
         </li>
     </ul>
@@ -2273,33 +2273,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Home Mortgage Disclosure Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=fair-debt-collection-practices-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Debt Collection Practices Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Access to credit
             </a>
         </li>
         <li class="tags_tag">
@@ -2309,9 +2285,33 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=fair-debt-collection-practices-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Debt Collection Practices Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
             </a>
         </li>
     </ul>
@@ -2389,9 +2389,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=debt-collection" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Access to credit
             </a>
         </li>
         <li class="tags_tag">
@@ -2401,9 +2401,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
+                Debt collection
             </a>
         </li>
     </ul>
@@ -2441,9 +2441,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Home Mortgage Disclosure Act
+                Truth in Lending Act (TILA)
             </a>
         </li>
         <li class="tags_tag">
@@ -2453,9 +2453,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Home Mortgage Disclosure Act
             </a>
         </li>
     </ul>
@@ -2493,15 +2493,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=banking" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=privacy" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Credit Reporting Act
+                Privacy
             </a>
         </li>
         <li class="tags_tag">
@@ -2511,9 +2505,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=privacy" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=fair-credit-reporting-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Privacy
+                Fair Credit Reporting Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
             </a>
         </li>
     </ul>
@@ -2551,21 +2551,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=personnel" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=enforcement" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Personnel
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer complaints
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=people-with-disabilities" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                People with disabilities
+                Enforcement
             </a>
         </li>
         <li class="tags_tag">
@@ -2575,9 +2563,21 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=enforcement" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=people-with-disabilities" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
+                People with disabilities
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=consumer-complaints" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Consumer complaints
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=personnel" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Personnel
             </a>
         </li>
     </ul>
@@ -2615,15 +2615,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=financial-service-providers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial service providers
             </a>
         </li>
     </ul>

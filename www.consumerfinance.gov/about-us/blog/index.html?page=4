@@ -1310,8 +1310,8 @@
   <option value="fair-lending">Fair lending</option>
   <option value="parents">Parents</option>
   <option value="mortgage-closing">Mortgage closing</option>
-  <option value="saving">Saving</option>
   <option value="auto-loans">Auto loans</option>
+  <option value="saving">Saving</option>
   <option value="equal-credit-opportunity-act">Equal Credit Opportunity Act</option>
   <option value="access-to-credit">Access to credit</option>
   <option value="deceptive-practices">Deceptive practices</option>
@@ -1484,13 +1484,80 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 20.4" class="cf-icon-svg"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1488 filtered results</div>
+          <div class="h4 m-notification_message">1489 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zM5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534zm2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2022-04-08T00:00:00">APR 08, 2022</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/homebuyers-homeowners-renters-should-consider-climate-risks-in-decisions-about-future/">
+                    Climate risk should be considered in housing decisions
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p data-block-key="aeqko">Flooding, fire, drought, and other climate risks have always been a danger to property and safety. However, with the changing climate, these risks are increasing, impacting the probability of damage, cost of utilities, price of insurance, and potential resale value of homes.</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Mark McArdle</a>, 
+                    Mikayla Mitchell</a>, 
+                    and 
+                    Erik Rubinyi</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=homebuying" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Homebuying
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial education
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -1528,15 +1595,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
+            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -1546,9 +1607,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
+            <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Financial service providers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -1592,15 +1659,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=overdrafts" class="tags_link">
+            <a href="/about-us/blog/?topics=everyone-has-a-story" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Overdrafts
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer complaints
+                Everyone has a story
             </a>
         </li>
         <li class="tags_tag">
@@ -1610,9 +1671,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=everyone-has-a-story" class="tags_link">
+            <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Everyone has a story
+                Consumer complaints
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=overdrafts" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Overdrafts
             </a>
         </li>
     </ul>
@@ -1656,21 +1723,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
+            <a href="/about-us/blog/?topics=enforcement" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
+                Enforcement
             </a>
         </li>
         <li class="tags_tag">
@@ -1680,9 +1735,21 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=enforcement" class="tags_link">
+            <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial service providers
             </a>
         </li>
     </ul>
@@ -1726,9 +1793,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=banking" class="tags_link">
+            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -1738,9 +1805,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
+            <a href="/about-us/blog/?topics=banking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Banking
             </a>
         </li>
     </ul>
@@ -1786,15 +1853,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=discrimination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Discrimination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
             </a>
         </li>
     </ul>
@@ -1968,27 +2035,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=payday-loans" class="tags_link">
+            <a href="/about-us/blog/?topics=everyone-has-a-story" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Payday loans
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=community-banks" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Community banks
+                Everyone has a story
             </a>
         </li>
         <li class="tags_tag">
@@ -1998,9 +2047,27 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=everyone-has-a-story" class="tags_link">
+            <a href="/about-us/blog/?topics=community-banks" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Everyone has a story
+                Community banks
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial service providers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=payday-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Payday loans
             </a>
         </li>
     </ul>
@@ -2044,9 +2111,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
+            <a href="/about-us/blog/?topics=privacy" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Privacy
             </a>
         </li>
         <li class="tags_tag">
@@ -2056,9 +2123,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=privacy" class="tags_link">
+            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Privacy
+                Debt collection
             </a>
         </li>
     </ul>
@@ -2153,9 +2220,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=deceptive-practices" class="tags_link">
+            <a href="/about-us/blog/?topics=business-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
+                Business loans
             </a>
         </li>
         <li class="tags_tag">
@@ -2165,9 +2232,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=business-loans" class="tags_link">
+            <a href="/about-us/blog/?topics=deceptive-practices" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Business loans
+                Deceptive practices
             </a>
         </li>
     </ul>
@@ -2211,21 +2278,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
+            <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer complaints
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Credit Reporting Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Access to credit
             </a>
         </li>
         <li class="tags_tag">
@@ -2235,9 +2290,21 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=fair-credit-reporting-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Consumer complaints
             </a>
         </li>
     </ul>
@@ -2277,27 +2344,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
+            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=foreclosure" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Foreclosure
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=housing-counselor" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Housing counselor
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Identity theft and fraud
+                Disasters and emergencies
             </a>
         </li>
         <li class="tags_tag">
@@ -2307,9 +2356,27 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
+            <a href="/about-us/blog/?topics=identity-theft-fraud" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Disasters and emergencies
+                Identity theft and fraud
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=housing-counselor" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Housing counselor
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=foreclosure" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Foreclosure
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -2401,9 +2468,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
+                Credit reports and scores
             </a>
         </li>
         <li class="tags_tag">
@@ -2413,9 +2480,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
+            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Debt collection
             </a>
         </li>
     </ul>
@@ -2459,15 +2526,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Servicemembers
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Servicemembers
             </a>
         </li>
     </ul>
@@ -2511,15 +2578,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
+            <a href="/about-us/blog/?topics=homebuying" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
+                Homebuying
             </a>
         </li>
         <li class="tags_tag">
@@ -2529,9 +2590,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=homebuying" class="tags_link">
+            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Homebuying
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
             </a>
         </li>
     </ul>
@@ -2571,27 +2638,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
+                Money transfers
             </a>
         </li>
         <li class="tags_tag">
@@ -2601,9 +2650,27 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
+            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
             </a>
         </li>
     </ul>
@@ -2643,27 +2710,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
+                Money transfers
             </a>
         </li>
         <li class="tags_tag">
@@ -2673,9 +2722,27 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
+            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
             </a>
         </li>
     </ul>
@@ -2715,27 +2782,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
+                Money transfers
             </a>
         </li>
         <li class="tags_tag">
@@ -2745,9 +2794,27 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
+            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
             </a>
         </li>
     </ul>
@@ -2787,27 +2854,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
+                Money transfers
             </a>
         </li>
         <li class="tags_tag">
@@ -2817,9 +2866,27 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
+            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
             </a>
         </li>
     </ul>
@@ -2859,27 +2926,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
+                Money transfers
             </a>
         </li>
         <li class="tags_tag">
@@ -2889,9 +2938,27 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
+            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage closing
             </a>
         </li>
     </ul>
@@ -2931,27 +2998,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
+            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
+                Money transfers
             </a>
         </li>
         <li class="tags_tag">
@@ -2961,57 +3010,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
+            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zM5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534zm2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2022-02-02T00:00:00">FEB 02, 2022</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/hidden-cost-junk-fees-vi/">
-                    Sự ảnh hưởng của phụ phí ẩn
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="ogn4t">Các hộ gia đình trên khắp Hoa Kỳ đang bị ảnh hưởng bởi giá chi phí cao. Khi các cá nhân và gia đình dần thích nghi với chi phí cao, nhưng có một số khoản phí mà họ dường như không thể thoát được là phụ phí. CFPB muốn nghe ý kiến của quý vị về sự ảnh hưởng của các khoản phí phụ đến tài chính hàng ngày của quý vị. Dịch vụ ngân hàng, thẻ tín dụng, tình trạng tài chính, phí hoàn thành giao dịch vay thế chấp, thẻ trả trước, phí chuyển tiền</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
+                Credit cards
             </a>
         </li>
         <li class="tags_tag">
@@ -3021,21 +3022,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
+            <a href="/about-us/blog/?topics=prepaid-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
+                Prepaid cards
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-well-being" class="tags_link">
+            <a href="/about-us/blog/?topics=mortgage-closing" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=money-transfers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
+                Mortgage closing
             </a>
         </li>
     </ul>

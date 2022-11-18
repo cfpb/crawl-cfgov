@@ -1350,12 +1350,12 @@
                 <select name="topics" id="o-filterable-list-controls_topics" class="o-multiselect" data-placeholder="Search for topics" multiple>
   <option value="supervision">Supervision</option>
   <option value="compliance">Compliance</option>
-  <option value="enforcement">Enforcement</option>
   <option value="mortgages">Mortgages</option>
+  <option value="enforcement">Enforcement</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
-  <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="credit-reports-and-scores">Credit reports and scores</option>
   <option value="financial-service-providers">Financial service providers</option>
   <option value="fair-lending">Fair lending</option>
   <option value="credit-cards">Credit cards</option>
@@ -1522,15 +1522,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
             </a>
         </li>
     </ul>
@@ -1562,15 +1562,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=interstate-land-sales-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Interstate Land Sales Act
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=interstate-land-sales-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Interstate Land Sales Act
             </a>
         </li>
     </ul>
@@ -1602,15 +1602,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -1642,15 +1642,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
             </a>
         </li>
     </ul>
@@ -1682,15 +1682,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=privacy" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Privacy
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Supervision
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=privacy" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Privacy
             </a>
         </li>
     </ul>
@@ -1790,9 +1790,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=deceptive-practices" class="tags_link">
+            <a href="/compliance/supervisory-guidance/?topics=access-to-credit" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
+                Access to credit
             </a>
         </li>
         <li class="tags_tag">
@@ -1802,9 +1802,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=access-to-credit" class="tags_link">
+            <a href="/compliance/supervisory-guidance/?topics=deceptive-practices" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
+                Deceptive practices
             </a>
         </li>
     </ul>
@@ -1836,15 +1836,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -1876,15 +1876,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
             </a>
         </li>
     </ul>
@@ -2018,15 +2018,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=housing-counselor" class="tags_link">
+            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Housing counselor
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -2036,9 +2030,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
+            <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=housing-counselor" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Housing counselor
             </a>
         </li>
     </ul>
@@ -2070,15 +2070,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="tags_link">
+            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -2088,9 +2082,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
+            <a href="/compliance/supervisory-guidance/?topics=real-estate-settlement-procedures-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -2122,9 +2122,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=home-mortgage-disclosure-act" class="tags_link">
+            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Home Mortgage Disclosure Act
+                Compliance
             </a>
         </li>
         <li class="tags_tag">
@@ -2134,9 +2134,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
+            <a href="/compliance/supervisory-guidance/?topics=home-mortgage-disclosure-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
+                Home Mortgage Disclosure Act
             </a>
         </li>
     </ul>
@@ -2168,15 +2168,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=older-americans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Older Americans
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=privacy" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Privacy
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=older-americans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Older Americans
             </a>
         </li>
     </ul>
@@ -2208,15 +2208,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=money-transfers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=electronic-payments" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Electronic payments
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=money-transfers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Money transfers
             </a>
         </li>
     </ul>
@@ -2316,15 +2316,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
             </a>
         </li>
     </ul>
@@ -2390,15 +2390,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=consumer-complaints" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
             </a>
         </li>
     </ul>
@@ -2430,15 +2430,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/compliance/supervisory-guidance/?topics=auto-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Auto loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
             </a>
         </li>
     </ul>

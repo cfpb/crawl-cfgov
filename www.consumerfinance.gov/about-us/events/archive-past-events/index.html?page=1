@@ -1591,9 +1591,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-institutions" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial Institutions
+                Data
             </a>
         </li>
         <li class="tags_tag">
@@ -1603,9 +1603,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=data" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=financial-institutions" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Financial Institutions
             </a>
         </li>
     </ul>
@@ -1652,9 +1652,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-institutions" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial Institutions
+                Data
             </a>
         </li>
         <li class="tags_tag">
@@ -1664,9 +1664,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=data" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=financial-institutions" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Financial Institutions
             </a>
         </li>
     </ul>
@@ -2101,9 +2101,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=student-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial education
+                Student loans
             </a>
         </li>
         <li class="tags_tag">
@@ -2113,9 +2113,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=student-loans" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
+                Financial education
             </a>
         </li>
     </ul>
@@ -2162,9 +2162,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=student-loans" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial education
+                Student loans
             </a>
         </li>
         <li class="tags_tag">
@@ -2174,9 +2174,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=student-loans" class="tags_link">
+            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
+                Financial education
             </a>
         </li>
     </ul>
@@ -2272,15 +2272,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Community Bank Advisory Council
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Credit Union Advisory Council
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Community Bank Advisory Council
             </a>
         </li>
     </ul>
@@ -2474,15 +2474,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Community Bank Advisory Council
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Credit Union Advisory Council
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Community Bank Advisory Council
             </a>
         </li>
     </ul>

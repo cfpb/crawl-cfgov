@@ -1581,15 +1581,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=fair-credit-reporting-act" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Credit Reporting Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
+                Credit reports and scores
             </a>
         </li>
         <li class="tags_tag">
@@ -1599,9 +1593,15 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-reports-and-scores" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=fair-credit-reporting-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
             </a>
         </li>
     </ul>
@@ -1723,33 +1723,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=servicemembers" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Servicemembers
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=checking-account" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Checking account
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=students" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Students
+                Mortgages
             </a>
         </li>
         <li class="tags_tag">
@@ -1759,9 +1735,33 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=students" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Students
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=prepaid-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=checking-account" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Checking account
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=servicemembers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Servicemembers
             </a>
         </li>
     </ul>
@@ -1800,21 +1800,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mobile-financial-services" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=electronic-payments" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mobile financial services
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=debit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debit cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
+                Electronic payments
             </a>
         </li>
         <li class="tags_tag">
@@ -1824,9 +1812,21 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=electronic-payments" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-service-providers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Electronic payments
+                Financial service providers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=debit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mobile-financial-services" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mobile financial services
             </a>
         </li>
     </ul>
@@ -1865,15 +1865,15 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="tags_tag">
             <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-service-providers" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Financial service providers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
             </a>
         </li>
     </ul>
@@ -2007,21 +2007,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=innovation" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Innovation
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=discrimination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Discrimination
+                Call for evidence
             </a>
         </li>
         <li class="tags_tag">
@@ -2031,9 +2019,21 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=discrimination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Call for evidence
+                Discrimination
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=innovation" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Innovation
             </a>
         </li>
     </ul>
@@ -2072,15 +2072,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=debt-collection" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
+                Compliance
             </a>
         </li>
         <li class="tags_tag">
@@ -2090,9 +2084,15 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
             </a>
         </li>
     </ul>
@@ -2131,27 +2131,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=disasters-and-emergencies" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=foreclosure" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Foreclosure
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
+                Disasters and emergencies
             </a>
         </li>
         <li class="tags_tag">
@@ -2161,9 +2143,27 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=disasters-and-emergencies" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Disasters and emergencies
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=foreclosure" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Foreclosure
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=real-estate-settlement-procedures-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
             </a>
         </li>
     </ul>
@@ -2202,15 +2202,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-origination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Mortgage origination
             </a>
         </li>
         <li class="tags_tag">
@@ -2220,9 +2214,15 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-origination" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
             </a>
         </li>
     </ul>
@@ -2261,9 +2261,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=innovation" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Innovation
             </a>
         </li>
         <li class="tags_tag">
@@ -2273,9 +2273,9 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=innovation" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Innovation
+                Data
             </a>
         </li>
     </ul>
@@ -2314,15 +2314,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-origination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Mortgage origination
             </a>
         </li>
         <li class="tags_tag">
@@ -2332,9 +2326,15 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-origination" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
             </a>
         </li>
     </ul>
@@ -2373,33 +2373,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-card-act" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit CARD Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=community-banks" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Community banks
+                Call for evidence
             </a>
         </li>
         <li class="tags_tag">
@@ -2409,9 +2385,33 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=community-banks" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Call for evidence
+                Community banks
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-service-providers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial service providers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-card-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit CARD Act
             </a>
         </li>
     </ul>
@@ -2474,15 +2474,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-origination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
+                Mortgage origination
             </a>
         </li>
         <li class="tags_tag">
@@ -2492,9 +2486,15 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-origination" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
             </a>
         </li>
     </ul>
@@ -2533,15 +2533,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=debt-collection" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
+                Compliance
             </a>
         </li>
         <li class="tags_tag">
@@ -2551,9 +2545,15 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=debt-collection" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
             </a>
         </li>
     </ul>
@@ -2681,15 +2681,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=discrimination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Call for evidence
+                Discrimination
             </a>
         </li>
         <li class="tags_tag">
@@ -2699,9 +2693,15 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=discrimination" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Discrimination
+                Call for evidence
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
             </a>
         </li>
     </ul>
@@ -2740,15 +2740,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=discrimination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Call for evidence
+                Discrimination
             </a>
         </li>
         <li class="tags_tag">
@@ -2758,9 +2752,15 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=discrimination" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Discrimination
+                Call for evidence
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
             </a>
         </li>
     </ul>
@@ -2890,27 +2890,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-e" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=electronic-payments" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Regulation E
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-unions" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit unions
+                Electronic payments
             </a>
         </li>
         <li class="tags_tag">
@@ -2920,9 +2902,27 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=electronic-payments" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-unions" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Electronic payments
+                Credit unions
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-e" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation E
             </a>
         </li>
     </ul>
@@ -2961,9 +2961,9 @@ of the notice or the comments that were received.</p>
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=real-estate-settlement-procedures-act" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-origination" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
+                Mortgage origination
             </a>
         </li>
         <li class="tags_tag">
@@ -2973,9 +2973,9 @@ of the notice or the comments that were received.</p>
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-origination" class="tags_link">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=real-estate-settlement-procedures-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
+                Real Estate Settlement Procedures Act (RESPA)
             </a>
         </li>
     </ul>
