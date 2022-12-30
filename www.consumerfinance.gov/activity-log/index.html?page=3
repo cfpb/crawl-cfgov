@@ -1184,8 +1184,8 @@
 <div class="wrapper content_wrapper">
     <div class="content_main "><section class="content_main-inner" >
     <div class="block block__flush-top">
-        <h1 data-qa-hook="main-title">Recent updates</h1>
-        <p class="lead-paragraph" data-qa-hook="main-summary">
+        <h1>Recent updates</h1>
+        <p class="lead-paragraph">
             Find the latest CFPB activities and publications here. Use the filters
             below to browse by date, specific topics, or types of posts.
         </p>
@@ -1193,8 +1193,7 @@
             <div class="block block__flush-top">
     <div class="o-filterable-list">
     <div id="o-filterable-list-controls" class="o-filterable-list-controls">
-<div data-qa-hook="expandable"
-     class="o-expandable
+<div class="o-expandable
             o-expandable__padded
             o-expandable__background
             o-expandable__border"
@@ -1521,7 +1520,7 @@
             <section class="o-filterable-list_results
                             block
                             block__sub">
-    <table class="u-w100pct" data-qa-hook="filter-results">
+    <table class="u-w100pct">
         <tbody>
             <tr class="u-visually-hidden">
                 <th>
@@ -3405,27 +3404,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=report"
-           class="a-heading a-heading__icon ">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Report
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/data-research/research-reports/annual-report-consumer-credit-reporting-complaints-analysis-of-complaint-responses-equifax-experian-transunion/">
-                        <span class="h4 u-mb0">
-                            Annual report of consumer and credit reporting complaints: An analysis of complaint responses by Equifax, Experian, TransUnion
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2022-01-05T00:00:00">JAN 05, 2022</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=blog"
            class="a-heading a-heading__icon ">
        <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
@@ -3437,6 +3415,27 @@
                     <a href="/about-us/blog/hold-credit-reporting-companies-accountable-incorrect-reports-shoddy-service/">
                         <span class="h4 u-mb0">
                             Hold credit reporting companies accountable for incorrect reports and shoddy service
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2022-01-05T00:00:00">JAN 05, 2022</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon ">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/annual-report-consumer-credit-reporting-complaints-analysis-of-complaint-responses-equifax-experian-transunion-2021/">
+                        <span class="h4 u-mb0">
+                            Annual report of consumer and credit reporting complaints: An analysis of complaint responses by Equifax, Experian, TransUnion
                         </span>
                     </a>
                 </td>

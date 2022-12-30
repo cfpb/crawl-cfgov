@@ -1216,8 +1216,7 @@
             <div class="block block__flush-top">
     <div class="o-filterable-list">
     <div id="o-filterable-list-controls" class="o-filterable-list-controls">
-<div data-qa-hook="expandable"
-     class="o-expandable
+<div class="o-expandable
             o-expandable__padded
             o-expandable__background
             o-expandable__border"
@@ -1690,7 +1689,7 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/annual-report-consumer-credit-reporting-complaints-analysis-of-complaint-responses-equifax-experian-transunion/">
+                <a href="/data-research/research-reports/annual-report-consumer-credit-reporting-complaints-analysis-of-complaint-responses-equifax-experian-transunion-2021/">
                     Annual report of consumer and credit reporting complaints: An analysis of complaint responses by Equifax, Experian, TransUnion
                 </a>
             </h3>
@@ -3133,7 +3132,7 @@
         </h2>
     </header>
     <p>
-        Sign up for updates from the CFPB’s Office of Research.
+        <p data-block-key="2al7k">Sign up for updates from the CFPB’s Office of Research.</p>
     </p>
     <form class="o-form o-form__email-signup"
           id="o-form__email-signup_1"

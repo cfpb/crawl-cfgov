@@ -1184,8 +1184,8 @@
 <div class="wrapper content_wrapper">
     <div class="content_main "><section class="content_main-inner" >
     <div class="block block__flush-top">
-        <h1 data-qa-hook="main-title">Recent updates</h1>
-        <p class="lead-paragraph" data-qa-hook="main-summary">
+        <h1>Recent updates</h1>
+        <p class="lead-paragraph">
             Find the latest CFPB activities and publications here. Use the filters
             below to browse by date, specific topics, or types of posts.
         </p>
@@ -1193,8 +1193,7 @@
             <div class="block block__flush-top">
     <div class="o-filterable-list">
     <div id="o-filterable-list-controls" class="o-filterable-list-controls">
-<div data-qa-hook="expandable"
-     class="o-expandable
+<div class="o-expandable
             o-expandable__padded
             o-expandable__background
             o-expandable__border"
@@ -1521,7 +1520,7 @@
             <section class="o-filterable-list_results
                             block
                             block__sub">
-    <table class="u-w100pct" data-qa-hook="filter-results">
+    <table class="u-w100pct">
         <tbody>
             <tr class="u-visually-hidden">
                 <th>

@@ -1189,8 +1189,7 @@
 <nav class="o-secondary-navigation
             o-secondary-navigation__no-children"
      aria-label="Section navigation">
-<div data-qa-hook="expandable"
-     class="o-expandable
+<div class="o-expandable
             o-expandable__padded
             o-expandable__background
             "
@@ -1300,8 +1299,7 @@
             <div class="block block__flush-top">
     <div class="o-filterable-list">
     <div id="o-filterable-list-controls" class="o-filterable-list-controls">
-<div data-qa-hook="expandable"
-     class="o-expandable
+<div class="o-expandable
             o-expandable__padded
             o-expandable__background
             o-expandable__border"
