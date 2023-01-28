@@ -1390,10 +1390,10 @@
   <option value="tenant-screening">Tenant screening</option>
   <option value="hmda">HMDA</option>
   <option value="equity">Equity</option>
+  <option value="junk-fees">Junk fees</option>
   <option value="behavioral-economics">Behavioral economics</option>
   <option value="fraud-and-scams_1">Fraud and scams</option>
   <option value="regulation-c">Regulation C</option>
-  <option value="junk-fees">Junk fees</option>
   <option value="servicemember-civil-relief-act">Servicemember Civil Relief Act</option>
   <option value="cfpb">CFPB</option>
   <option value="youth-employment">Youth employment</option>
@@ -1412,6 +1412,7 @@
   <option value="fair-credit-billing-act">Fair Credit Billing Act</option>
   <option value="credit">Credit</option>
   <option value="education">education</option>
+  <option value="cfpb-in-arabic">CFPB in Arabic</option>
   <option value="small-dollar-lending-market">small dollar lending market</option>
   <option value="ffiec">FFIEC</option>
   <option value="credit-applications">Credit Applications</option>
@@ -1513,7 +1514,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">3304 filtered results</div>
+          <div class="h4 m-notification_message">3305 filtered results</div>
       </div>
   </div>
         </div>
@@ -2068,27 +2069,6 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/know-your-rights-and-protections-when-it-comes-to-medical-bills-and-collections-ht/">
-                        <span class="h4 u-mb0">
-                            Ou dwe konnen ki dwa ak pwoteksyon ou genyen nan sa ki gen pou wè avèk bòdwo medikal ak rekouvreman
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2022-04-11T00:00:00">APR 11, 2022</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
                     <a href="/about-us/blog/know-your-rights-and-protections-when-it-comes-to-medical-bills-and-collections-tl/">
                         <span class="h4 u-mb0">
                             Alamin ang iyong mga karapatan at proteksyon pagdating sa mga medikal na singil at pangongolekta
@@ -2110,9 +2090,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/know-your-rights-and-protections-when-it-comes-to-medical-bills-and-collections/">
+                    <a href="/about-us/blog/know-your-rights-and-protections-when-it-comes-to-medical-bills-and-collections-ht/">
                         <span class="h4 u-mb0">
-                            Know your rights and protections when it comes to medical bills and collections
+                            Ou dwe konnen ki dwa ak pwoteksyon ou genyen nan sa ki gen pou wè avèk bòdwo medikal ak rekouvreman
                         </span>
                     </a>
                 </td>
@@ -2134,6 +2114,27 @@
                     <a href="/about-us/blog/know-your-rights-and-protections-when-it-comes-to-medical-bills-and-collections-vi/">
                         <span class="h4 u-mb0">
                             Biết các quyền và biện pháp bảo vệ của quý vị khi đề cập tới hóa đơn và thu nợ y tế
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2022-04-11T00:00:00">APR 11, 2022</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog"
+           class="a-heading a-heading__icon ">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/know-your-rights-and-protections-when-it-comes-to-medical-bills-and-collections/">
+                        <span class="h4 u-mb0">
+                            Know your rights and protections when it comes to medical bills and collections
                         </span>
                     </a>
                 </td>
@@ -3300,9 +3301,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/hidden-cost-junk-fees/">
+                    <a href="/about-us/blog/hidden-cost-junk-fees-ar/">
                         <span class="h4 u-mb0">
-                            The hidden cost of junk fees
+                            التكلفة الخفية للرسوم المفاجئة وغير المتوقعة
                         </span>
                     </a>
                 </td>
@@ -3342,9 +3343,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/blog/hidden-cost-junk-fees-ar/">
+                    <a href="/about-us/blog/hidden-cost-junk-fees/">
                         <span class="h4 u-mb0">
-                            التكلفة الخفية للرسوم المفاجئة وغير المتوقعة
+                            The hidden cost of junk fees
                         </span>
                     </a>
                 </td>
