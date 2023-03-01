@@ -31,7 +31,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.df94f0ce0474.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.086f7c42fb30.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -1109,13 +1109,6 @@
                 m-global-eyebrow__list">
         <div class="wrapper
                     ">
-<div class="a-tagline">
-	<span class="u-usa-flag"></span>
-   <div class="a-tagline_text">
-      An official website of the
-      <span class="u-nowrap">United States government</span>
-   </div>
-</div>
             <div class="m-global-eyebrow_actions">
                 <ul class="m-list
                            m-list__horizontal
@@ -1305,9 +1298,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1133" href="/ask-cfpb/can-i-use-the-military-savings-deposit-program-sdp-if-im-deployed-overseas-but-not-to-a-combat-zone-en-1133/">Can I use the Military Savings Deposit Program SDP if I'm deployed overseas but not to a combat zone?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1131" href="/ask-cfpb/i-heard-there-is-a-special-savings-account-for-military-members-when-they-are-deployed-am-i-eligible-for-that-en-1131/">I heard there is a special savings account for military members when they are deployed. Am I eligible for that?</a></div>
             </article>
             <article>
@@ -1378,6 +1368,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1075" href="/ask-cfpb/i-gave-my-debitatm-card-to-a-friend-and-told-them-only-to-take-out-a-small-amount-but-they-took-out-more-money-my-bankcredit-union-wont-refund-the-money-does-the-bankcredit-union-have-to-give-it-back-to-me-en-1075/">I gave my debit/ATM card to a friend and told them only to take out a small amount, but they took out more money. My bank/credit union won't refund the money. Does the bank/credit union have to give it back to me?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1073" href="/ask-cfpb/a-telemarketer-took-money-from-my-checking-account-even-though-i-did-not-agree-to-buy-anything-can-i-get-the-money-back-en-1073/">A telemarketer took money from my checking account even though I did not agree to buy anything. Can I get the money back?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

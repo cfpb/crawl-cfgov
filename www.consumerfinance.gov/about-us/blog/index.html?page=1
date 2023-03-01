@@ -31,7 +31,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.df94f0ce0474.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.086f7c42fb30.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -1108,13 +1108,6 @@
                 m-global-eyebrow__list">
         <div class="wrapper
                     ">
-<div class="a-tagline">
-	<span class="u-usa-flag"></span>
-   <div class="a-tagline_text">
-      An official website of the
-      <span class="u-nowrap">United States government</span>
-   </div>
-</div>
             <div class="m-global-eyebrow_actions">
                 <ul class="m-list
                            m-list__horizontal
@@ -1474,13 +1467,68 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1521 filtered results</div>
+          <div class="h4 m-notification_message">1522 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                        <span class="m-meta-header_category">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 16 19"><path d="M15.442 14.75v.491H.558v-.49a.476.476 0 0 1 .475-.476h.478a.487.487 0 0 1-.003-.048v-.443a.476.476 0 0 1 .475-.475h.713V7.164H1.508a.554.554 0 0 1-.22-1.063L7.78 3.288a.554.554 0 0 1 .44 0L14.712 6.1a.554.554 0 0 1-.22 1.063h-1.188v6.145h.713a.476.476 0 0 1 .475.475v.443a.443.443 0 0 1-.003.048h.478a.476.476 0 0 1 .475.475zM3.804 13.31h2.058V8.264H3.804zm.377-7.254h7.639L8 4.4zm2.79 2.21v5.043h2.058V8.265zm5.225 5.043V8.265h-2.059v5.044z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Policy and compliance
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2023-02-28T00:00:00">FEB 28, 2023</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/tell-us-about-your-experiences-with-rental-background-checks-and-fees/">
+                    Tell us about your experiences with rental background checks and fees
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p data-block-key="jkz3w">The CFPB and the FTC want to hear about challenges you’ve faced because of rental background checks</p>
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Lissan Anfune</a>, 
+                    Sophie Sahaf</a>, 
+                    and 
+                    Irene Skricki</a>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/blog/?topics=fair-credit-reporting-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -1506,7 +1554,7 @@
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p data-block-key="jkz3w">The Independent Community Bankers Association has filed an application to create an alternative mortgage disclosure to improve understanding and facilitation of construction loans. The application is open to the public and available for comment through March 29, 2023</p>
+                    <p data-block-key="jkz3w">The Independent Community Bankers of America has filed an application to create an alternative mortgage disclosure to improve understanding and facilitation of construction loans. The application is open to the public and available for comment through March 29, 2023</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">
@@ -2760,66 +2808,6 @@
             <a href="/about-us/blog/?topics=enforcement" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="ar">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                        <span class="m-meta-header_category">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zM5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534zm2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2023-01-15T00:00:00">JAN 15, 2023</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/whats-ahead-for-wells-fargo-and-its-customers-ar/">
-                    ما هو المستقبل لمصرف Wells Fargo وعملائه
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="jkz3w">نتيجة لإجراءات الإنفاذ التي اتخذها مكتب الحماية المالية للمستهلكين CFPB ضد مصرف Wells Fargo، قد يتوقع عملاء قروض السيارات والرهون العقارية والأعمال المصرفية تلقي مدفوعات تساعد في تعويضهم عن الممارسات غير القانونية للمصرف.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=auto-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Auto loans
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
             </a>
         </li>
     </ul>

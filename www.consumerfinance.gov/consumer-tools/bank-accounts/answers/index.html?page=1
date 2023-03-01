@@ -31,7 +31,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.df94f0ce0474.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.086f7c42fb30.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -1109,13 +1109,6 @@
                 m-global-eyebrow__list">
         <div class="wrapper
                     ">
-<div class="a-tagline">
-	<span class="u-usa-flag"></span>
-   <div class="a-tagline_text">
-      An official website of the
-      <span class="u-nowrap">United States government</span>
-   </div>
-</div>
             <div class="m-global-eyebrow_actions">
                 <ul class="m-list
                            m-list__horizontal
@@ -1344,9 +1337,6 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1715" href="/ask-cfpb/i-was-offered-a-pension-advance-what-is-this-what-should-i-look-out-for-en-1715/">I was offered a pension advance. What is this? What should I look out for?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1637" href="/ask-cfpb/how-do-i-find-my-states-bank-regulator-en-1637/">How do I find my state's bank regulator?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1549" href="/ask-cfpb/how-do-i-find-an-attorney-in-my-state-en-1549/">How do I find an attorney in my state?</a></div>
             </article>
             <article>
@@ -1378,6 +1368,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1135" href="/ask-cfpb/how-much-can-i-deposit-in-the-military-savings-deposit-program-sdp-en-1135/">How much can I deposit in the Military Savings Deposit Program (SDP)?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1133" href="/ask-cfpb/can-i-use-the-military-savings-deposit-program-sdp-if-im-deployed-overseas-but-not-to-a-combat-zone-en-1133/">Can I use the Military Savings Deposit Program SDP if I'm deployed overseas but not to a combat zone?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

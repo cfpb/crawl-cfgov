@@ -31,7 +31,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.df94f0ce0474.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.086f7c42fb30.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -1108,13 +1108,6 @@
                 m-global-eyebrow__list">
         <div class="wrapper
                     ">
-<div class="a-tagline">
-	<span class="u-usa-flag"></span>
-   <div class="a-tagline_text">
-      An official website of the
-      <span class="u-nowrap">United States government</span>
-   </div>
-</div>
             <div class="m-global-eyebrow_actions">
                 <ul class="m-list
                            m-list__horizontal
@@ -1197,17 +1190,14 @@
                 <p>You should exhaust scholarships, grants, and federal student loans before taking out an income share agreement.</p>
             </div>
         <div class="block block__sub">
-            <div class="o-summary o-summary__mobile"
-                 data-js-hook="behavior_flyout-menu">
-                <div class="o-summary_content answer-text"
-                     data-js-hook="behavior_flyout-menu_content">
+            <div class="o-summary o-summary__mobile">
+                <div class="o-summary_content answer-text">
     <div class="row text-row"
         >
         <p>You have a choice about how you pay for your education. Understanding your choices can help you make the right decision for your situation.</p><p><b>Income share agreements</b> are credit products where providers advance money to consumers to finance their education. In exchange for the advanced money, students generally promise to make payments based on a percentage of their income until either they have repaid a defined amount or a specified period has elapsed.</p><p>Terms and conditions of income-share agreements may vary. For example, the percentage of your income you are obligated to pay may vary based on your educational program.</p><p>It is best to max out your federal student loans (if available) before you enter into an income share agreement or take out a traditional private student loan. Federal student loans can be better for students than private student loans in <a class="" data-pretty-href="cfpb.gov/askcfpb/545" href="https://www.consumerfinance.gov/ask-cfpb/what-are-the-main-differences-between-federal-student-loans-and-private-student-loans-en-545/">several important ways</a>. Private student loans are any student loans that are not federal student loans. These loans, including contracts like income share agreements, do not offer the same protections provided by federal student loans.</p><p>Payments made under an income share agreement are based on your income, which may cause your payments to fluctuate over time. If you earn more income, you may be required to pay more each month until you have paid an agreed upon maximum amount (or “payment cap”) or reached the end of the repayment period. On the other hand, if your income is below a certain threshold, you may not owe anything each month. Consider what your future income is likely to look like to help you determine how much you will pay over the life of the obligation. Be sure to read the terms and conditions and make sure you understand them before opting for an income share agreement. If you’re considering taking on more than one income share agreement, keep in mind that the income percentage obligation is contract specific, which means that you are committing an additional percentage of your income with each new agreement.</p><p></p><p><b>Next Step:</b> Make a budget, especially if you have other loans, to make sure you will be able to manage your financial obligations. Check out our web tool, <a href="http://www.consumerfinance.gov/gradpath">Your financial path to graduation</a>, to explore potential salaries for different programs and majors. This tool will help you estimate how much you may owe for your student loans after graduation and help you determine if you may be able to afford that debt.</p><p></p>
     </div>
                 </div>
-                <button class="o-summary_btn u-hidden"
-                        data-js-hook="behavior_flyout-menu_trigger">
+                <button class="o-summary_btn u-hidden">
                     Read full answer
                     <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
                 </button>
