@@ -146,7 +146,7 @@
             <span class="u-hide-on-mobile">Search</span>
         </span>
         <span class="m-global-search_trigger-close-label">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__delete" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
             <span class="u-hide-on-mobile">Close</span>
         </span>
     </button>
@@ -185,7 +185,7 @@
                               class="input-contains-label_after
                                      input-contains-label_after__clear
                                      u-hidden">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__delete" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
                             <span class="u-visually-hidden">Clear search</span>
                        </label>
                    </div>
@@ -211,7 +211,7 @@
             </span>
         </span>
         <span class="o-mega-menu_trigger-close">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__close" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
             <span class="u-visually-hidden">
                 Close the main menu
             </span>
@@ -1200,7 +1200,7 @@
                                    placeholder="Enter search term"
                                    value=""
                                    aria-label="The term to search for">
-                            <a class="a-btn a-btn__link" href="?page=2"><svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__remove" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg> Clear</a>
+                            <a class="a-btn a-btn__link" href="?page=2"><svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg> Clear</a>
                         </div>
                     </div>
                     <button class="a-btn flex-fixed">Search</button>
@@ -2094,39 +2094,6 @@
 </article>
 <article class="results_item">
     <h4 class="h3">
-      <a href="detail/194504">ACE Elite Visa Prepaid Debit Card</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>MetaBank</dd>
-                <dt>Prepaid product type</dt>
-                <dd>GPR (General Purpose Reloadable)</dd>
-                <dt>Program manager</dt>
-                <dd>No information provided</dd>
-                <dt>Other relevant parties</dt>
-                <dd>No information provided</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/ACE_Elite_Visa_Prepaid_Debit_Card_09_07_2020.zip"><span class="a-link_text">
-                    ACE_Elite_Visa_Prepaid_Debit_Card_09_07_2020.zip
-                </span> <svg class="cf-icon-svg cf-icon-svg__download" viewbox="0 0 12 19" xmlns="http://www.w3.org/2000/svg"><path d="M11.16 16.153a.477.477 0 0 1-.476.475H1.316a.476.476 0 0 1-.475-.475V3.046a.476.476 0 0 1 .475-.475h6.95l2.893 2.893zm-1.11-9.925H8.059a.575.575 0 0 1-.574-.573V3.679H1.95v11.84h8.102zm-1.234 5.604L6.388 14.26a.554.554 0 0 1-.784 0l-2.428-2.428a.554.554 0 1 1 .783-.784l1.483 1.482V7.41a.554.554 0 1 1 1.108 0v5.12l1.482-1.482a.554.554 0 0 1 .784.783z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/194504">View all agreements for ACE Elite Visa Prepaid Debit Card</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
       <a href="detail/48458">ACE Elite Visa Prepaid Debit Card</a>
     </h4>
     <div class="content-l">
@@ -2259,6 +2226,39 @@
 </article>
 <article class="results_item">
     <h4 class="h3">
+      <a href="detail/194504">ACE Elite Visa Prepaid Debit Card</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>MetaBank</dd>
+                <dt>Prepaid product type</dt>
+                <dd>GPR (General Purpose Reloadable)</dd>
+                <dt>Program manager</dt>
+                <dd>No information provided</dd>
+                <dt>Other relevant parties</dt>
+                <dd>No information provided</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/ACE_Elite_Visa_Prepaid_Debit_Card_09_07_2020.zip"><span class="a-link_text">
+                    ACE_Elite_Visa_Prepaid_Debit_Card_09_07_2020.zip
+                </span> <svg class="cf-icon-svg cf-icon-svg__download" viewbox="0 0 12 19" xmlns="http://www.w3.org/2000/svg"><path d="M11.16 16.153a.477.477 0 0 1-.476.475H1.316a.476.476 0 0 1-.475-.475V3.046a.476.476 0 0 1 .475-.475h6.95l2.893 2.893zm-1.11-9.925H8.059a.575.575 0 0 1-.574-.573V3.679H1.95v11.84h8.102zm-1.234 5.604L6.388 14.26a.554.554 0 0 1-.784 0l-2.428-2.428a.554.554 0 1 1 .783-.784l1.483 1.482V7.41a.554.554 0 1 1 1.108 0v5.12l1.482-1.482a.554.554 0 0 1 .784.783z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/194504">View all agreements for ACE Elite Visa Prepaid Debit Card</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
       <a href="detail/46051">AchieveCard Visa Prepaid Card</a>
     </h4>
     <div class="content-l">
@@ -2358,39 +2358,6 @@
 </article>
 <article class="results_item">
     <h4 class="h3">
-      <a href="detail/44550">AcurianHealth Prepaid Mastercard</a>
-    </h4>
-    <div class="content-l">
-        <div class="content-l_col content-l_col-1-2">
-            <dl>
-                <dt>Issuer name</dt>
-                <dd>Sunrise Banks, National Association</dd>
-                <dt>Prepaid product type</dt>
-                <dd>Other</dd>
-                <dt>Program manager</dt>
-                <dd>FiCentive, Inc.</dd>
-                <dt>Other relevant parties</dt>
-                <dd>No information provided</dd>
-                <dt>Current status</dt>
-                <dd>Active</dd>
-            </dl>
-        </div>
-        <div class="content-l_col content-l_col-1-2">
-            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
-            <p class="u-break-word">
-                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/AcurianHealth_Prepaid_Mastercard_04_01_2019.zip"><span class="a-link_text">
-                    AcurianHealth_Prepaid_Mastercard_04_01_2019.zip
-                </span> <svg class="cf-icon-svg cf-icon-svg__download" viewbox="0 0 12 19" xmlns="http://www.w3.org/2000/svg"><path d="M11.16 16.153a.477.477 0 0 1-.476.475H1.316a.476.476 0 0 1-.475-.475V3.046a.476.476 0 0 1 .475-.475h6.95l2.893 2.893zm-1.11-9.925H8.059a.575.575 0 0 1-.574-.573V3.679H1.95v11.84h8.102zm-1.234 5.604L6.388 14.26a.554.554 0 0 1-.784 0l-2.428-2.428a.554.554 0 1 1 .783-.784l1.483 1.482V7.41a.554.554 0 1 1 1.108 0v5.12l1.482-1.482a.554.554 0 0 1 .784.783z"></path></svg></a>
-            </p>
-            <div class="block block__sub">
-                <h5 class="h4 u-mb5">View all agreement files</h5>
-            <p><a href="detail/44550">View all agreements for AcurianHealth Prepaid Mastercard</a></p>
-            </div>
-        </div>
-    </div>
-</article>
-<article class="results_item">
-    <h4 class="h3">
       <a href="detail/44551">AcurianHealth Prepaid Mastercard</a>
     </h4>
     <div class="content-l">
@@ -2418,6 +2385,39 @@
             <div class="block block__sub">
                 <h5 class="h4 u-mb5">View all agreement files</h5>
             <p><a href="detail/44551">View all agreements for AcurianHealth Prepaid Mastercard</a></p>
+            </div>
+        </div>
+    </div>
+</article>
+<article class="results_item">
+    <h4 class="h3">
+      <a href="detail/44550">AcurianHealth Prepaid Mastercard</a>
+    </h4>
+    <div class="content-l">
+        <div class="content-l_col content-l_col-1-2">
+            <dl>
+                <dt>Issuer name</dt>
+                <dd>Sunrise Banks, National Association</dd>
+                <dt>Prepaid product type</dt>
+                <dd>Other</dd>
+                <dt>Program manager</dt>
+                <dd>FiCentive, Inc.</dd>
+                <dt>Other relevant parties</dt>
+                <dd>No information provided</dd>
+                <dt>Current status</dt>
+                <dd>Active</dd>
+            </dl>
+        </div>
+        <div class="content-l_col content-l_col-1-2">
+            <h5 class="h4 u-mb5">Download most recent agreement files</h5>
+            <p class="u-break-word">
+                <a class="a-link a-link__icon" href="https://files.consumerfinance.gov/a/assets/prepaid-agreements/AcurianHealth_Prepaid_Mastercard_04_01_2019.zip"><span class="a-link_text">
+                    AcurianHealth_Prepaid_Mastercard_04_01_2019.zip
+                </span> <svg class="cf-icon-svg cf-icon-svg__download" viewbox="0 0 12 19" xmlns="http://www.w3.org/2000/svg"><path d="M11.16 16.153a.477.477 0 0 1-.476.475H1.316a.476.476 0 0 1-.475-.475V3.046a.476.476 0 0 1 .475-.475h6.95l2.893 2.893zm-1.11-9.925H8.059a.575.575 0 0 1-.574-.573V3.679H1.95v11.84h8.102zm-1.234 5.604L6.388 14.26a.554.554 0 0 1-.784 0l-2.428-2.428a.554.554 0 1 1 .783-.784l1.483 1.482V7.41a.554.554 0 1 1 1.108 0v5.12l1.482-1.482a.554.554 0 0 1 .784.783z"></path></svg></a>
+            </p>
+            <div class="block block__sub">
+                <h5 class="h4 u-mb5">View all agreement files</h5>
+            <p><a href="detail/44550">View all agreements for AcurianHealth Prepaid Mastercard</a></p>
             </div>
         </div>
     </div>

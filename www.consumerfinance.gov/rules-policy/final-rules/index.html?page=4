@@ -147,7 +147,7 @@
             <span class="u-hide-on-mobile">Search</span>
         </span>
         <span class="m-global-search_trigger-close-label">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__delete" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
             <span class="u-hide-on-mobile">Close</span>
         </span>
     </button>
@@ -186,7 +186,7 @@
                               class="input-contains-label_after
                                      input-contains-label_after__clear
                                      u-hidden">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__delete" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
                             <span class="u-visually-hidden">Clear search</span>
                        </label>
                    </div>
@@ -212,7 +212,7 @@
             </span>
         </span>
         <span class="o-mega-menu_trigger-close">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__close" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
             <span class="u-visually-hidden">
                 Close the main menu
             </span>
@@ -2511,33 +2511,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
+                Home Mortgage Disclosure Act
             </a>
         </li>
         <li class="tags_tag">
@@ -2547,9 +2523,33 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/rules-policy/final-rules/?topics=home-mortgage-disclosure-act" class="tags_link">
+            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Home Mortgage Disclosure Act
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=equal-credit-opportunity-act" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=access-to-credit" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
             </a>
         </li>
     </ul>

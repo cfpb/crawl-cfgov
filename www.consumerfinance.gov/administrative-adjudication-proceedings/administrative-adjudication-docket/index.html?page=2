@@ -148,7 +148,7 @@
             <span class="u-hide-on-mobile">Search</span>
         </span>
         <span class="m-global-search_trigger-close-label">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__delete" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
             <span class="u-hide-on-mobile">Close</span>
         </span>
     </button>
@@ -187,7 +187,7 @@
                               class="input-contains-label_after
                                      input-contains-label_after__clear
                                      u-hidden">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__delete" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
                             <span class="u-visually-hidden">Clear search</span>
                        </label>
                    </div>
@@ -213,7 +213,7 @@
             </span>
         </span>
         <span class="o-mega-menu_trigger-close">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__close" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
             <span class="u-visually-hidden">
                 Close the main menu
             </span>
@@ -1966,12 +1966,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/administrative-adjudication-proceedings/administrative-adjudication-docket/prime-choice-funding-inc/">
-                    Prime Choice Funding, Inc.
+                <a href="/administrative-adjudication-proceedings/administrative-adjudication-docket/sovereign-lending-group-inc/">
+                    Sovereign Lending Group, Inc.
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>On July 24, 2020, the Consumer Financial Protection Bureau issued a consent order against Prime Choice Funding, Inc. (Prime Choice), a California corporation that is licensed as a mortgage broker or lender in about 35 states and the District of Columbia. The Bureau found that Prime Choice violated the CFPA’s prohibition against deceptive acts and practices, the MAP Rule, and Regulation Z.</p>
+                    <p>On July 24, 2020, the Consumer Financial Protection Bureau issued a consent order against Sovereign Lending Group, Inc. (Sovereign), a California corporation that is licensed as a mortgage broker or lender in about 44 states and the District of Columbia. The Bureau found that Sovereign violated the CFPA’s prohibition against deceptive acts and practices, the MAP Rule, and Regulation Z.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">
@@ -2031,12 +2031,12 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/administrative-adjudication-proceedings/administrative-adjudication-docket/sovereign-lending-group-inc/">
-                    Sovereign Lending Group, Inc.
+                <a href="/administrative-adjudication-proceedings/administrative-adjudication-docket/prime-choice-funding-inc/">
+                    Prime Choice Funding, Inc.
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>On July 24, 2020, the Consumer Financial Protection Bureau issued a consent order against Sovereign Lending Group, Inc. (Sovereign), a California corporation that is licensed as a mortgage broker or lender in about 44 states and the District of Columbia. The Bureau found that Sovereign violated the CFPA’s prohibition against deceptive acts and practices, the MAP Rule, and Regulation Z.</p>
+                    <p data-block-key="bbqpi">On July 24, 2020, the Consumer Financial Protection Bureau issued a consent order against Prime Choice Funding, Inc. (Prime Choice), a California corporation that is licensed as a mortgage broker or lender in about 35 states and the District of Columbia. The Bureau found that Prime Choice violated the CFPA’s prohibition against deceptive acts and practices, the MAP Rule, and Regulation Z.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">

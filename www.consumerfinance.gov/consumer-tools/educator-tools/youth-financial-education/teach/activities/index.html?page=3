@@ -146,7 +146,7 @@
             <span class="u-hide-on-mobile">Search</span>
         </span>
         <span class="m-global-search_trigger-close-label">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__delete" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
             <span class="u-hide-on-mobile">Close</span>
         </span>
     </button>
@@ -185,7 +185,7 @@
                               class="input-contains-label_after
                                      input-contains-label_after__clear
                                      u-hidden">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__delete" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
                             <span class="u-visually-hidden">Clear search</span>
                        </label>
                    </div>
@@ -211,7 +211,7 @@
             </span>
         </span>
         <span class="o-mega-menu_trigger-close">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__close" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
             <span class="u-visually-hidden">
                 Close the main menu
             </span>
@@ -1191,7 +1191,7 @@
                                   class="input-contains-label_after
                                          input-contains-label_after__clear
                                          u-hidden" data-js-hook="behavior_clear-search">
-                                Clear <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__delete" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+                                Clear <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
                             </label>
                         </div>
                     </div>
@@ -1258,13 +1258,13 @@
                                 <span class="u-visually-hidden">
                                     Show
                                 </span>
-                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chevron-down" viewBox="0 0 17 19"><path d="M8.5 15.313a1.026 1.026 0 0 1-.728-.302l-6.8-6.8a1.03 1.03 0 0 1 1.455-1.456L8.5 12.828l6.073-6.073a1.03 1.03 0 0 1 1.455 1.456l-6.8 6.8a1.026 1.026 0 0 1-.728.302z"/></svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__down" viewBox="0 0 17 19"><path d="M8.5 15.313a1.026 1.026 0 0 1-.728-.302l-6.8-6.8a1.03 1.03 0 0 1 1.455-1.456L8.5 12.828l6.073-6.073a1.03 1.03 0 0 1 1.455 1.456l-6.8 6.8a1.026 1.026 0 0 1-.728.302z"/></svg>
                             </span>
                             <span class="o-expandable-facets_cue o-expandable-facets_cue-close">
                                 <span class="u-visually-hidden">
                                     Hide
                                 </span>
-                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chevron-up" viewBox="0 0 17 19"><path d="M15.3 15.32a1.026 1.026 0 0 1-.727-.302L8.5 8.946l-6.073 6.072a1.03 1.03 0 0 1-1.456-1.455l6.801-6.8a1.03 1.03 0 0 1 1.456 0l6.8 6.8a1.03 1.03 0 0 1-.727 1.757z"/></svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__up" viewBox="0 0 17 19"><path d="M15.3 15.32a1.026 1.026 0 0 1-.727-.302L8.5 8.946l-6.073 6.072a1.03 1.03 0 0 1-1.456-1.455l6.801-6.8a1.03 1.03 0 0 1 1.456 0l6.8 6.8a1.03 1.03 0 0 1-.727 1.757z"/></svg>
                             </span>
                         </button>
                     </div>
@@ -1320,13 +1320,13 @@
                                 <span class="u-visually-hidden">
                                     Show
                                 </span>
-                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chevron-down" viewBox="0 0 17 19"><path d="M8.5 15.313a1.026 1.026 0 0 1-.728-.302l-6.8-6.8a1.03 1.03 0 0 1 1.455-1.456L8.5 12.828l6.073-6.073a1.03 1.03 0 0 1 1.455 1.456l-6.8 6.8a1.026 1.026 0 0 1-.728.302z"/></svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__down" viewBox="0 0 17 19"><path d="M8.5 15.313a1.026 1.026 0 0 1-.728-.302l-6.8-6.8a1.03 1.03 0 0 1 1.455-1.456L8.5 12.828l6.073-6.073a1.03 1.03 0 0 1 1.455 1.456l-6.8 6.8a1.026 1.026 0 0 1-.728.302z"/></svg>
                             </span>
                             <span class="o-expandable-facets_cue o-expandable-facets_cue-close">
                                 <span class="u-visually-hidden">
                                     Hide
                                 </span>
-                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chevron-up" viewBox="0 0 17 19"><path d="M15.3 15.32a1.026 1.026 0 0 1-.727-.302L8.5 8.946l-6.073 6.072a1.03 1.03 0 0 1-1.456-1.455l6.801-6.8a1.03 1.03 0 0 1 1.456 0l6.8 6.8a1.03 1.03 0 0 1-.727 1.757z"/></svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__up" viewBox="0 0 17 19"><path d="M15.3 15.32a1.026 1.026 0 0 1-.727-.302L8.5 8.946l-6.073 6.072a1.03 1.03 0 0 1-1.456-1.455l6.801-6.8a1.03 1.03 0 0 1 1.456 0l6.8 6.8a1.03 1.03 0 0 1-.727 1.757z"/></svg>
                             </span>
                         </button>
                     </div>
@@ -1388,13 +1388,13 @@
                                 <span class="u-visually-hidden">
                                     Show
                                 </span>
-                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chevron-down" viewBox="0 0 17 19"><path d="M8.5 15.313a1.026 1.026 0 0 1-.728-.302l-6.8-6.8a1.03 1.03 0 0 1 1.455-1.456L8.5 12.828l6.073-6.073a1.03 1.03 0 0 1 1.455 1.456l-6.8 6.8a1.026 1.026 0 0 1-.728.302z"/></svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__down" viewBox="0 0 17 19"><path d="M8.5 15.313a1.026 1.026 0 0 1-.728-.302l-6.8-6.8a1.03 1.03 0 0 1 1.455-1.456L8.5 12.828l6.073-6.073a1.03 1.03 0 0 1 1.455 1.456l-6.8 6.8a1.026 1.026 0 0 1-.728.302z"/></svg>
                             </span>
                             <span class="o-expandable-facets_cue o-expandable-facets_cue-close">
                                 <span class="u-visually-hidden">
                                     Hide
                                 </span>
-                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chevron-up" viewBox="0 0 17 19"><path d="M15.3 15.32a1.026 1.026 0 0 1-.727-.302L8.5 8.946l-6.073 6.072a1.03 1.03 0 0 1-1.456-1.455l6.801-6.8a1.03 1.03 0 0 1 1.456 0l6.8 6.8a1.03 1.03 0 0 1-.727 1.757z"/></svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__up" viewBox="0 0 17 19"><path d="M15.3 15.32a1.026 1.026 0 0 1-.727-.302L8.5 8.946l-6.073 6.072a1.03 1.03 0 0 1-1.456-1.455l6.801-6.8a1.03 1.03 0 0 1 1.456 0l6.8 6.8a1.03 1.03 0 0 1-.727 1.757z"/></svg>
                             </span>
                         </button>
                     </div>
@@ -1432,13 +1432,13 @@
                                 <span class="u-visually-hidden">
                                     Show
                                 </span>
-                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chevron-down" viewBox="0 0 17 19"><path d="M8.5 15.313a1.026 1.026 0 0 1-.728-.302l-6.8-6.8a1.03 1.03 0 0 1 1.455-1.456L8.5 12.828l6.073-6.073a1.03 1.03 0 0 1 1.455 1.456l-6.8 6.8a1.026 1.026 0 0 1-.728.302z"/></svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__down" viewBox="0 0 17 19"><path d="M8.5 15.313a1.026 1.026 0 0 1-.728-.302l-6.8-6.8a1.03 1.03 0 0 1 1.455-1.456L8.5 12.828l6.073-6.073a1.03 1.03 0 0 1 1.455 1.456l-6.8 6.8a1.026 1.026 0 0 1-.728.302z"/></svg>
                             </span>
                             <span class="o-expandable-facets_cue o-expandable-facets_cue-close">
                                 <span class="u-visually-hidden">
                                     Hide
                                 </span>
-                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chevron-up" viewBox="0 0 17 19"><path d="M15.3 15.32a1.026 1.026 0 0 1-.727-.302L8.5 8.946l-6.073 6.072a1.03 1.03 0 0 1-1.456-1.455l6.801-6.8a1.03 1.03 0 0 1 1.456 0l6.8 6.8a1.03 1.03 0 0 1-.727 1.757z"/></svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__up" viewBox="0 0 17 19"><path d="M15.3 15.32a1.026 1.026 0 0 1-.727-.302L8.5 8.946l-6.073 6.072a1.03 1.03 0 0 1-1.456-1.455l6.801-6.8a1.03 1.03 0 0 1 1.456 0l6.8 6.8a1.03 1.03 0 0 1-.727 1.757z"/></svg>
                             </span>
                         </button>
                     </div>
@@ -1488,13 +1488,13 @@
                                 <span class="u-visually-hidden">
                                     Show
                                 </span>
-                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chevron-down" viewBox="0 0 17 19"><path d="M8.5 15.313a1.026 1.026 0 0 1-.728-.302l-6.8-6.8a1.03 1.03 0 0 1 1.455-1.456L8.5 12.828l6.073-6.073a1.03 1.03 0 0 1 1.455 1.456l-6.8 6.8a1.026 1.026 0 0 1-.728.302z"/></svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__down" viewBox="0 0 17 19"><path d="M8.5 15.313a1.026 1.026 0 0 1-.728-.302l-6.8-6.8a1.03 1.03 0 0 1 1.455-1.456L8.5 12.828l6.073-6.073a1.03 1.03 0 0 1 1.455 1.456l-6.8 6.8a1.026 1.026 0 0 1-.728.302z"/></svg>
                             </span>
                             <span class="o-expandable-facets_cue o-expandable-facets_cue-close">
                                 <span class="u-visually-hidden">
                                     Hide
                                 </span>
-                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chevron-up" viewBox="0 0 17 19"><path d="M15.3 15.32a1.026 1.026 0 0 1-.727-.302L8.5 8.946l-6.073 6.072a1.03 1.03 0 0 1-1.456-1.455l6.801-6.8a1.03 1.03 0 0 1 1.456 0l6.8 6.8a1.03 1.03 0 0 1-.727 1.757z"/></svg>
+                                <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__up" viewBox="0 0 17 19"><path d="M15.3 15.32a1.026 1.026 0 0 1-.727-.302L8.5 8.946l-6.073 6.072a1.03 1.03 0 0 1-1.456-1.455l6.801-6.8a1.03 1.03 0 0 1 1.456 0l6.8 6.8a1.03 1.03 0 0 1-.727 1.757z"/></svg>
                             </span>
                         </button>
                     </div>
@@ -2261,7 +2261,7 @@
     </p>
     <p>
         <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__star-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zm-3.08-1.993-1.472-.174-1.485-.176-1.247-2.704c-.345-.747-.908-.747-1.253 0L6.633 7.24l-1.485.176-1.471.174c-.817.097-.991.633-.387 1.192l1.088 1.006 1.098 1.015-.292 1.467-.289 1.453c-.16.807.296 1.138 1.014.737l2.598-1.455 2.598 1.455c.717.401 1.173.07 1.013-.737l-.58-2.92 1.097-1.015 1.089-1.006c.604-.559.43-1.095-.387-1.192z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__favorite-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zm-3.08-1.993-1.472-.174-1.485-.176-1.247-2.704c-.345-.747-.908-.747-1.253 0L6.633 7.24l-1.485.176-1.471.174c-.817.097-.991.633-.387 1.192l1.088 1.006 1.098 1.015-.292 1.467-.289 1.453c-.16.807.296 1.138 1.014.737l2.598-1.455 2.598 1.455c.717.401 1.173.07 1.013-.737l-.58-2.92 1.097-1.015 1.089-1.006c.604-.559.43-1.095-.387-1.192z"/></svg>
         </span>
         <span class="activity_for">Ideal for: Elementary school (4-5), Middle school (6-8)</span>
     </p>
@@ -2311,7 +2311,7 @@
     </p>
     <p>
         <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__star-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zm-3.08-1.993-1.472-.174-1.485-.176-1.247-2.704c-.345-.747-.908-.747-1.253 0L6.633 7.24l-1.485.176-1.471.174c-.817.097-.991.633-.387 1.192l1.088 1.006 1.098 1.015-.292 1.467-.289 1.453c-.16.807.296 1.138 1.014.737l2.598-1.455 2.598 1.455c.717.401 1.173.07 1.013-.737l-.58-2.92 1.097-1.015 1.089-1.006c.604-.559.43-1.095-.387-1.192z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__favorite-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zm-3.08-1.993-1.472-.174-1.485-.176-1.247-2.704c-.345-.747-.908-.747-1.253 0L6.633 7.24l-1.485.176-1.471.174c-.817.097-.991.633-.387 1.192l1.088 1.006 1.098 1.015-.292 1.467-.289 1.453c-.16.807.296 1.138 1.014.737l2.598-1.455 2.598 1.455c.717.401 1.173.07 1.013-.737l-.58-2.92 1.097-1.015 1.089-1.006c.604-.559.43-1.095-.387-1.192z"/></svg>
         </span>
         <span class="activity_for">Ideal for: Elementary school (4-5), Middle school (6-8)</span>
     </p>
@@ -2361,7 +2361,7 @@
     </p>
     <p>
         <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__star-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zm-3.08-1.993-1.472-.174-1.485-.176-1.247-2.704c-.345-.747-.908-.747-1.253 0L6.633 7.24l-1.485.176-1.471.174c-.817.097-.991.633-.387 1.192l1.088 1.006 1.098 1.015-.292 1.467-.289 1.453c-.16.807.296 1.138 1.014.737l2.598-1.455 2.598 1.455c.717.401 1.173.07 1.013-.737l-.58-2.92 1.097-1.015 1.089-1.006c.604-.559.43-1.095-.387-1.192z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__favorite-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zm-3.08-1.993-1.472-.174-1.485-.176-1.247-2.704c-.345-.747-.908-.747-1.253 0L6.633 7.24l-1.485.176-1.471.174c-.817.097-.991.633-.387 1.192l1.088 1.006 1.098 1.015-.292 1.467-.289 1.453c-.16.807.296 1.138 1.014.737l2.598-1.455 2.598 1.455c.717.401 1.173.07 1.013-.737l-.58-2.92 1.097-1.015 1.089-1.006c.604-.559.43-1.095-.387-1.192z"/></svg>
         </span>
         <span class="activity_for">Ideal for: Elementary school (2-3), Elementary school (4-5)</span>
     </p>
@@ -2417,7 +2417,7 @@
     </p>
     <p>
         <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__star-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zm-3.08-1.993-1.472-.174-1.485-.176-1.247-2.704c-.345-.747-.908-.747-1.253 0L6.633 7.24l-1.485.176-1.471.174c-.817.097-.991.633-.387 1.192l1.088 1.006 1.098 1.015-.292 1.467-.289 1.453c-.16.807.296 1.138 1.014.737l2.598-1.455 2.598 1.455c.717.401 1.173.07 1.013-.737l-.58-2.92 1.097-1.015 1.089-1.006c.604-.559.43-1.095-.387-1.192z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__favorite-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zm-3.08-1.993-1.472-.174-1.485-.176-1.247-2.704c-.345-.747-.908-.747-1.253 0L6.633 7.24l-1.485.176-1.471.174c-.817.097-.991.633-.387 1.192l1.088 1.006 1.098 1.015-.292 1.467-.289 1.453c-.16.807.296 1.138 1.014.737l2.598-1.455 2.598 1.455c.717.401 1.173.07 1.013-.737l-.58-2.92 1.097-1.015 1.089-1.006c.604-.559.43-1.095-.387-1.192z"/></svg>
         </span>
         <span class="activity_for">Ideal for: High school (9-10), High school (11-12)</span>
     </p>
@@ -2473,7 +2473,7 @@
     </p>
     <p>
         <span class="a-icon a-icon__large a-icon__gold a-icon__space-after">
-            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__star-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zm-3.08-1.993-1.472-.174-1.485-.176-1.247-2.704c-.345-.747-.908-.747-1.253 0L6.633 7.24l-1.485.176-1.471.174c-.817.097-.991.633-.387 1.192l1.088 1.006 1.098 1.015-.292 1.467-.289 1.453c-.16.807.296 1.138 1.014.737l2.598-1.455 2.598 1.455c.717.401 1.173.07 1.013-.737l-.58-2.92 1.097-1.015 1.089-1.006c.604-.559.43-1.095-.387-1.192z"/></svg>
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__favorite-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zm-3.08-1.993-1.472-.174-1.485-.176-1.247-2.704c-.345-.747-.908-.747-1.253 0L6.633 7.24l-1.485.176-1.471.174c-.817.097-.991.633-.387 1.192l1.088 1.006 1.098 1.015-.292 1.467-.289 1.453c-.16.807.296 1.138 1.014.737l2.598-1.455 2.598 1.455c.717.401 1.173.07 1.013-.737l-.58-2.92 1.097-1.015 1.089-1.006c.604-.559.43-1.095-.387-1.192z"/></svg>
         </span>
         <span class="activity_for">Ideal for: Elementary school (4-5)</span>
     </p>
