@@ -1780,7 +1780,7 @@
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>The Bureau of Consumer Financial Protection is issuing this Enforcement compliance bulletin and policy guidance regarding consumer reporting of rental information in light of heightened risks to renters associated with inaccurate consumer reporting as pandemic-related protections for renters begin to expire.</p>
+                    <p data-block-key="rajo3">The Bureau of Consumer Financial Protection is issuing this Enforcement compliance bulletin and policy guidance regarding consumer reporting of rental information in light of heightened risks to renters associated with inaccurate consumer reporting as pandemic-related protections for renters begin to expire.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">
@@ -1788,9 +1788,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=credit-reports-and-scores" class="tags_link">
+            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Compliance
             </a>
         </li>
         <li class="tags_tag">
@@ -1800,9 +1800,15 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
+            <a href="/compliance/supervisory-guidance/?topics=tenant-screening" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
+                Tenant screening
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
             </a>
         </li>
     </ul>

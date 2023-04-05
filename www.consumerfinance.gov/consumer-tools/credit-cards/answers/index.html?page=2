@@ -1270,12 +1270,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/85" href="/ask-cfpb/i-let-the-card-issuer-know-i-was-closing-my-account-they-are-still-charging-me-interest-can-they-do-that-en-85/">I let the card issuer know I was closing my account. They are still charging me interest. Can they do that?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/84" href="/ask-cfpb/i-want-to-close-my-credit-card-account-what-should-i-do-en-84/">I want to close my credit card account. What should I do? </a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/83" href="/ask-cfpb/i-received-a-notice-from-my-card-issuer-telling-me-that-they-were-closing-my-account-and-that-i-cannot-use-my-credit-card-any-more-can-they-do-that-en-83/">I received a notice from my card issuer telling me that they were closing my account and that I cannot use my credit card any more. Can they do that?</a></div>
             </article>
             <article>
@@ -1343,6 +1337,12 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/47" href="/ask-cfpb/what-is-a-grace-period-for-a-credit-card-en-47/">What is a grace period for a credit card?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/46" href="/ask-cfpb/what-is-a-daily-periodic-rate-on-a-credit-card-en-46/">What is a "daily periodic rate" on a credit card?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/45" href="/ask-cfpb/what-is-the-difference-between-a-fixed-apr-and-a-variable-apr-en-45/">What is the difference between a fixed APR and a variable APR?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

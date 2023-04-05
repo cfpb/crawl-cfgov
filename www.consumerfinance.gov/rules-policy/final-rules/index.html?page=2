@@ -1487,7 +1487,7 @@
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p>This Advisory Opinion highlights that a consumer reporting agency that uses inadequate matching procedures to match information to consumers, including name-only matching, in preparing consumer reports is not using reasonable procedures to assure maximum possible accuracy under section 607(b) of the Fair Credit Reporting Act.</p>
+                    <p data-block-key="5atst">This Advisory Opinion highlights that a consumer reporting agency that uses inadequate matching procedures to match information to consumers, including name-only matching, in preparing consumer reports is not using reasonable procedures to assure maximum possible accuracy under section 607(b) of the Fair Credit Reporting Act.</p>
                 </div>
 <div class="tags tags__hide-heading">
     <span class="u-visually-hidden">
@@ -1498,6 +1498,12 @@
             <a href="/rules-policy/final-rules/?topics=credit-reports-and-scores" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/rules-policy/final-rules/?topics=tenant-screening" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Tenant screening
             </a>
         </li>
         <li class="tags_tag">
@@ -2930,12 +2936,12 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
-                       href="/about-us/newsroom/cfpb-finalizes-rule-to-create-a-new-data-set-on-small-business-lending-in-america/">
-                        CFPB Finalizes Rule to Create a New Data Set on Small Business Lending in America
+                       href="/about-us/newsroom/director-chopra-remarks-at-the-university-of-california-irvine-law-school/">
+                        Director Rohit Chopra’s Prepared Remarks at the University of California Irvine Law School
                     </a>
                 </h3>
                 <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2023-03-30T00:00:00">MAR 30, 2023</time>
+                    <span class="datetime"><time class="datetime_date" datetime="2023-04-03T00:00:00">APR 03, 2023</time>
 </span>
                 </p>
             </li>

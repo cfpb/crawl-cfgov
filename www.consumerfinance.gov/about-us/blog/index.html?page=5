@@ -1613,6 +1613,12 @@
             </a>
         </li>
         <li class="tags_tag">
+            <a href="/about-us/blog/?topics=junk-fees" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Junk fees
+            </a>
+        </li>
+        <li class="tags_tag">
             <a href="/about-us/blog/?topics=overdrafts" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Overdrafts

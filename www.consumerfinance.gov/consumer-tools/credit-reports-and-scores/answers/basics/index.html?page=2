@@ -1263,7 +1263,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 61 results within basics</p>
+        <p class="results-message">Showing 60 results within basics</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1283,9 +1283,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1245" href="/ask-cfpb/should-i-use-a-credit-monitoring-service-to-protect-myself-from-identity-theft-en-1245/">Should I use a credit monitoring service to protect myself from identity theft?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1243" href="/ask-cfpb/what-is-identity-theft-en-1243/">What is identity theft?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1237" href="/ask-cfpb/does-a-credit-inquiry-have-a-different-impact-on-my-score-if-im-approved-or-denied-en-1237/">Does a credit inquiry have a different impact on my score if I'm approved or denied?</a></div>
@@ -1340,6 +1337,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/312" href="/ask-cfpb/when-should-i-review-my-credit-report-en-312/">When should I review my credit report?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/309" href="/ask-cfpb/what-is-a-credit-report-en-309/">What is a credit report?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
