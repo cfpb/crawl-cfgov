@@ -7,6 +7,7 @@
     <title>
   Search the Consumer Complaint Database | Consumer Financial Protection Bureau
 </title>
+    <meta name="template" content="ccdb-complaint/ccdb-search.html">
     <meta name="description"
           content="
     The Consumer Complaint Database is a collection of complaints about consumer financial products and services that we sent to companies for response.
