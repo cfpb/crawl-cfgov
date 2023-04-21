@@ -1174,8 +1174,7 @@
             </span>
         </span>
     </button>
-    <div class="o-expandable_content
-                "
+    <div class="o-expandable_content"
           >
         <ul class="m-list
                    m-list__unstyled
@@ -1217,7 +1216,8 @@
 <div class="o-expandable
             o-expandable__padded
             o-expandable__background
-            o-expandable__border"
+            o-expandable__border
+            o-expandable__onload-open"
       >
     <button class="o-expandable_header o-expandable_target" type="button">
         <span class="h4 o-expandable_label"
@@ -1241,8 +1241,7 @@
             </span>
         </span>
     </button>
-    <div class="o-expandable_content
-                o-expandable_content__onload-open"
+    <div class="o-expandable_content"
           >
     <form method="get" action=".">
         <div class="content-l">
@@ -1369,10 +1368,10 @@
   <option value="electronic-payments">Electronic payments</option>
   <option value="junk-fees">Junk fees</option>
   <option value="business-loans">Business loans</option>
+  <option value="redlining">Redlining</option>
   <option value="privacy">Privacy</option>
   <option value="real-estate-settlement-procedures-act">Real Estate Settlement Procedures Act (RESPA)</option>
   <option value="saving">Saving</option>
-  <option value="redlining">Redlining</option>
   <option value="debit-cards">Debit cards</option>
   <option value="regulation-m">Regulation M</option>
   <option value="partnerships">Partnerships</option>

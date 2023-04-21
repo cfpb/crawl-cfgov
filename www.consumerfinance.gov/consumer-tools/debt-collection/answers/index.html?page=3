@@ -1182,8 +1182,7 @@
             </span>
         </span>
     </button>
-    <div class="o-expandable_content
-                "
+    <div class="o-expandable_content"
           >
         <ul class="m-list
                    m-list__unstyled
@@ -1271,24 +1270,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/333" href="/ask-cfpb/if-a-debt-collector-is-asking-me-to-pay-more-than-one-debt-do-i-have-any-control-over-which-debt-my-payment-is-applied-to-en-333/">If a debt collector is asking me to pay more than one debt, do I have any control over which debt my payment is applied to?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1381" href="/ask-cfpb/what-is-a-judgment-en-1381/">What is a judgment?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1387" href="/ask-cfpb/what-is-an-original-creditor-and-what-is-the-difference-between-an-original-creditor-and-a-debt-collector-en-1387/">What is an original creditor and what is the difference between an original creditor and a debt collector?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1457" href="/ask-cfpb/what-are-debt-settlementdebt-relief-services-and-should-i-use-them-en-1457/">What are debt settlement/debt relief services and should I use them?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1385" href="/ask-cfpb/what-is-a-garnishment-en-1385/">What is a garnishment?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1383" href="/ask-cfpb/what-is-a-paid-collection-en-1383/">What is a paid collection?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2123" href="/ask-cfpb/what-is-a-surprise-medical-bill-and-what-should-i-know-about-the-no-surprises-act-en-2123/">What is a “surprise medical bill” and what should I know about the No Surprises Act?</a></div>
             </article>
             <article>
@@ -1298,19 +1279,37 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1417" href="/ask-cfpb/can-a-debt-collector-increase-the-interest-rate-on-a-debt-i-owe-en-1417/">Can a debt collector increase the interest rate on a debt I owe?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1411" href="/ask-cfpb/how-do-i-get-a-debt-collector-to-stop-contacting-me-en-1411/">How do I get a debt collector to stop contacting me?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1981" href="/ask-cfpb/can-my-bank-or-credit-union-charge-me-a-fee-for-processing-a-garnishment-if-i-receive-social-security-or-va-benefits-en-1981/">Can my bank or credit union charge me a fee for processing a garnishment if I receive Social Security or VA benefits?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1413" href="/ask-cfpb/i-am-divorced-and-getting-calls-about-a-debt-that-is-no-longer-my-responsibility-under-the-divorce-decree-or-property-settlement-agreement-can-a-debt-collector-try-to-collect-this-debt-from-me-en-1413/">I am divorced and getting calls about a debt that is no longer my responsibility under the divorce decree or property settlement agreement. Can a debt collector try to collect this debt from me?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1423" href="/ask-cfpb/my-debt-is-several-years-old-can-debt-collectors-still-collect-en-1423/">My debt is several years old. Can debt collectors still collect?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/655" href="/ask-cfpb/what-are-my-options-debt-collection-agency-contacts-me-about-student-loans-en-655/">What are my options if a debt collection agency contacts me about my student loans?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/336" href="/ask-cfpb/what-is-harassment-by-a-debt-collector-en-336/">What is harassment by a debt collector?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1423" href="/ask-cfpb/can-debt-collectors-collect-a-debt-thats-several-years-old-en-1423/">Can debt collectors collect a debt that’s several years old?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/338" href="/ask-cfpb/can-a-debt-collector-still-collect-a-debt-after-ive-disputed-it-en-338/">Can a debt collector still collect a debt after I’ve disputed it?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/329" href="/ask-cfpb/what-laws-limit-what-debt-collectors-can-say-or-do-en-329/">What laws limit what debt collectors can say or do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1413" href="/ask-cfpb/can-a-debt-collector-contact-me-about-a-debt-after-a-divorce-en-1413/">Can a debt collector contact me about a debt after a divorce?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2110" href="/ask-cfpb/how-often-can-a-debt-collector-call-me-en-2110/">When and how often can a debt collector call me on the phone?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1411" href="/ask-cfpb/how-do-i-get-a-debt-collector-to-stop-contacting-me-en-1411/">How do I get a debt collector to stop calling or contacting me?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1537" href="/ask-cfpb/can-i-be-arrested-for-an-unpaid-debt-en-1537/">Can I be arrested for an unpaid debt?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/331" href="/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/">What information does a debt collector have to give me about a debt they’re trying to collect from me?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

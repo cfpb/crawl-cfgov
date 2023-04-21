@@ -1182,8 +1182,7 @@
             </span>
         </span>
     </button>
-    <div class="o-expandable_content
-                "
+    <div class="o-expandable_content"
           >
         <ul class="m-list
                    m-list__unstyled
@@ -1280,9 +1279,6 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1583" href="/ask-cfpb/should-i-get-a-payday-loan-if-i-need-money-now-en-1583/">Should I get a payday loan if I need money now?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1537" href="/ask-cfpb/can-a-debt-collection-agency-try-to-have-me-arrested-over-a-debt-collection-en-1537/">Can a debt collection agency try to have me arrested over a debt collection?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1499" href="/ask-cfpb/im-a-servicemember-and-im-being-sued-what-can-i-do-if-i-cant-make-it-to-court-to-defend-myself-or-a-default-judgment-is-entered--because-i-didnt--appear-in-court-en-1499/">I'm a servicemember and I'm being sued. What can I do if I can't make it to court to defend myself or a default judgment is entered  because I didn't appear in court?</a></div>
             </article>
             <article>
@@ -1344,6 +1340,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1389" href="/ask-cfpb/what-is-a-statute-of-limitations-on-a-debt-en-1389/">What is a statute of limitations on a debt?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1157" href="/ask-cfpb/can-a-debt-collector-take-my-social-security-or-va-benefits-en-1157/">Can a debt collector take my Social Security or VA benefits?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

@@ -1787,7 +1787,7 @@
                     </option>
             </select>
         </div>
-        <div class="filter-section">
+        <div class="o-expandable-group">
 <div class="o-expandable
             o-expandable__padded
             o-expandable__background
@@ -1813,8 +1813,7 @@
             </span>
         </span>
     </button>
-    <div class="o-expandable_content
-                "
+    <div class="o-expandable_content"
           >
              <div class="o-form_group">
                 <fieldset class="o-form_fieldset">
@@ -1964,8 +1963,6 @@
             </div>
     </div>
 </div>
-        </div>
-        <div class="filter-section">
 <div class="o-expandable
             o-expandable__padded
             o-expandable__background
@@ -1991,8 +1988,7 @@
             </span>
         </span>
     </button>
-    <div class="o-expandable_content
-                "
+    <div class="o-expandable_content"
           >
              <div class="o-form_group">
                 <fieldset class="o-form_fieldset">
@@ -2038,7 +2034,7 @@
     <div class="results_header">
             <div class="results_count">
                 <h3>Showing
-                    3177 total products
+                    3186 total products
                 </h3>
             </div>
     </div>

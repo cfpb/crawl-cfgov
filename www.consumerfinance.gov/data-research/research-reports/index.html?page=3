@@ -1176,7 +1176,8 @@
 <div class="o-expandable
             o-expandable__padded
             o-expandable__background
-            o-expandable__border"
+            o-expandable__border
+            "
       >
     <button class="o-expandable_header o-expandable_target" type="button">
         <span class="h4 o-expandable_label"
@@ -1200,8 +1201,7 @@
             </span>
         </span>
     </button>
-    <div class="o-expandable_content
-                "
+    <div class="o-expandable_content"
           >
     <form method="get" action=".">
         <div class="content-l">
