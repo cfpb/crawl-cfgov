@@ -803,6 +803,14 @@
         Amicus Program
     </a>
 </li>
+<li class="o-mega-menu_content-item o-mega-menu_content-2-item"
+    >
+    <a class="o-mega-menu_content-link o-mega-menu_content-2-link"
+       href="/compliance/consumer-complaint-program/"
+       >
+        Consumer Complaint Program
+    </a>
+</li>
             </ul>
         </div>
     </div>
@@ -1254,8 +1262,8 @@
   <option value="consumer-complaints">Consumer complaints</option>
   <option value="credit-cards">Credit cards</option>
   <option value="debt-collection">Debt collection</option>
-  <option value="student-loans">Student loans</option>
   <option value="banking">Banking</option>
+  <option value="student-loans">Student loans</option>
   <option value="rulemaking">Rulemaking</option>
   <option value="students">Students</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
@@ -1351,6 +1359,7 @@
   <option value="equity">Equity</option>
   <option value="calls-for-evidence">Calls for evidence</option>
   <option value="servicemember-civil-relief-act">Servicemember Civil Relief Act</option>
+  <option value="financial-institutions">Financial Institutions</option>
   <option value="behavioral-economics">Behavioral economics</option>
   <option value="fraud-and-scams_1">Fraud and scams</option>
   <option value="regulation-c">Regulation C</option>
@@ -1360,7 +1369,6 @@
   <option value="youth-employment">Youth employment</option>
   <option value="regulation-p">Regulation P</option>
   <option value="truth-in-savings-act">Truth in Savings Act</option>
-  <option value="financial-institutions">Financial Institutions</option>
   <option value="identity-theft">Identity theft</option>
   <option value="regulation-o">Regulation O</option>
   <option value="regulation-n">Regulation N</option>
@@ -1473,7 +1481,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">3414 filtered results</div>
+          <div class="h4 m-notification_message">3415 filtered results</div>
       </div>
   </div>
         </div>
@@ -1492,6 +1500,27 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon ">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/annual-report-consumer-credit-reporting-complaints-analysis-of-complaint-responses-equifax-experian-transunion-2022/">
+                        <span class="h4 u-mb0">
+                            Annual report of consumer and credit reporting complaints: An analysis of complaint responses by Equifax, Experian, TransUnion
+                        </span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2023-01-03T00:00:00">JAN 03, 2023</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -2343,9 +2372,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-and-new-york-attorney-general-take-action-against-companies-that-cheated-9-11-victims/">
+                    <a href="/about-us/newsroom/la-cfpb-y-el-fiscal-general-de-new-york-tomaran-acciones-contra-las-companias-que-enganaron-a-las-victimas-de-los-atentados-del-11-9/">
                         <span class="h4 u-mb0">
-                            CFPB and New York Attorney General Take Action Against Companies that Cheated 9/11 Victims
+                            La CFPB y el Fiscal General de New York Tomarán Acciones Contra las Compañías que Engañaron a las Víctimas de los Atentados del 11/9
                         </span>
                     </a>
                 </td>
@@ -2364,9 +2393,9 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/la-cfpb-y-el-fiscal-general-de-new-york-tomaran-acciones-contra-las-companias-que-enganaron-a-las-victimas-de-los-atentados-del-11-9/">
+                    <a href="/about-us/newsroom/cfpb-and-new-york-attorney-general-take-action-against-companies-that-cheated-9-11-victims/">
                         <span class="h4 u-mb0">
-                            La CFPB y el Fiscal General de New York Tomarán Acciones Contra las Compañías que Engañaron a las Víctimas de los Atentados del 11/9
+                            CFPB and New York Attorney General Take Action Against Companies that Cheated 9/11 Victims
                         </span>
                     </a>
                 </td>
@@ -3572,27 +3601,6 @@
 </span>
                 </td>
             </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon ">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/market-monitoring-examining-potential-credit-impact-high-vehicle-costs-for-consumers/">
-                        <span class="h4 u-mb0">
-                            Market monitoring insights: Examining the potential credit impact of high vehicle costs for consumers
-                        </span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2022-09-19T00:00:00">SEP 19, 2022</time>
-</span>
-                </td>
-            </tr>
         </tbody>
     </table>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
@@ -3782,8 +3790,8 @@
                         </a>
                     </li>
                     <li class="m-list_item">
-                        <a class="m-list_link" href="/office-civil-rights/no-fear-act/">
-                            No FEAR Act Data
+                        <a class="m-list_link" href="/office-civil-rights/no-fear-act-cummings-act/">
+                            No FEAR Act &amp; Cummings Act
                         </a>
                     </li>
                     <li class="m-list_item">
