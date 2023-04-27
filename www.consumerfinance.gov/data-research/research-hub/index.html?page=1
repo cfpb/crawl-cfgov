@@ -1233,6 +1233,7 @@
   <option value="business-loans">Business loans</option>
   <option value="checking-account">Checking account</option>
   <option value="consumer-credit-panel">Consumer Credit Panel</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="coronavirus">coronavirus</option>
   <option value="credit-applications">Credit Applications</option>
   <option value="credit-card-act">Credit CARD Act</option>
@@ -1259,6 +1260,7 @@
   <option value="mortgage-origination">Mortgage origination</option>
   <option value="mortgages">Mortgages</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
+  <option value="office-of-research">Office of Research</option>
   <option value="office-of-research-publication">Office of Research Publication</option>
   <option value="overdrafts">Overdrafts</option>
   <option value="payday-loans">Payday loans</option>
@@ -1340,13 +1342,77 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">81 filtered results</div>
+          <div class="h4 m-notification_message">82 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2023-04-26T00:00:00">APR 26, 2023</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/">
+                    Consumer Credit and the Removal of Medical Collections from Credit Reports
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p data-block-key="n8fmh">The three nationwide consumer reporting companies removed medical collections under $500 from credit reports in April 2023. We study removals of medical collections from credit reports that occurred between 2012-2020 to shed light on the potential effects of this reporting change. We find associated increases in credit score and credit availability.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=research" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=medical-debt" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Medical debt
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=office-of-research-publication" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Office of Research Publication
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2807,86 +2873,6 @@
             <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
                 Home Mortgage Disclosure Act
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2021-05-27T00:00:00">MAY 27, 2021</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/manufactured-housing-finance-new-insights-hmda/">
-                    Manufactured Housing Finance: New Insights from the Home Mortgage Disclosure Act
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="0cyt1">This report analyzes manufactured home loans, using two new fields in the Home Mortgage Disclosure Act (HMDA) data to understand the manufactured housing finance market and compare chattel loans and mortgages.</p>
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    Office of Research</a>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Home Mortgage Disclosure Act
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=office-of-research-publication" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Office of Research Publication
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
             </a>
         </li>
     </ul>
