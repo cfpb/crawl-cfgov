@@ -1269,9 +1269,6 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1213" href="/ask-cfpb/can-my-partner-family-or-dependents-if-i-have-a-reverse-mortgage-en-1213/">Can my partner, family, or dependents live in my home if I have a reverse mortgage?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/787" href="/ask-cfpb/what-is-a-truth-in-lending-disclosure-when-do-i-get-to-see-it-en-787/">What is a Truth-in-Lending Disclosure? When do I get to see it?</a></div>
             </article>
             <article>
@@ -1342,6 +1339,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/226" href="/ask-cfpb/are-there-different-types-of-reverse-mortgages-en-226/">Are there different types of reverse mortgages?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/224" href="/ask-cfpb/what-is-a-reverse-mortgage-en-224/">What is a reverse mortgage?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
