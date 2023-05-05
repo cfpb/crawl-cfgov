@@ -1531,7 +1531,7 @@
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
                 <a href="/about-us/newsroom/cfpb-report-highlights-costly-credit-cards-and-loans-pushed-on-patients/">
-                    CFPB Proposes New Consumer Protections for Homeowners Seeking Clean Energy Financing
+                    CFPB Report Highlights Costly Credit Cards and Loans Pushed on Patients
                 </a>
             </h3>
                 <div class="o-post-preview_description">
@@ -1543,27 +1543,15 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=mortgages" class="tags_link">
+            <a href="/about-us/newsroom/?topics=medical-debt" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Medical debt
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=compliance" class="tags_link">
+            <a href="/about-us/newsroom/?topics=credit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
+                Credit cards
             </a>
         </li>
     </ul>
@@ -1981,39 +1969,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=electronic-payments" class="tags_link">
+            <a href="/about-us/newsroom/?topics=overdrafts" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Electronic payments
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=checking-account" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Checking account
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial education
+                Overdrafts
             </a>
         </li>
         <li class="tags_tag">
@@ -2023,9 +1981,39 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=overdrafts" class="tags_link">
+            <a href="/about-us/newsroom/?topics=financial-education" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Overdrafts
+                Financial education
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=financial-service-providers" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial service providers
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=checking-account" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Checking account
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=banking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=rulemaking" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/about-us/newsroom/?topics=electronic-payments" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Electronic payments
             </a>
         </li>
     </ul>
@@ -2743,9 +2731,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=virtual-currency" class="tags_link">
+            <a href="/about-us/newsroom/?topics=competition" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Virtual currency
+                Competition
             </a>
         </li>
         <li class="tags_tag">
@@ -2755,9 +2743,9 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/about-us/newsroom/?topics=competition" class="tags_link">
+            <a href="/about-us/newsroom/?topics=virtual-currency" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Competition
+                Virtual currency
             </a>
         </li>
     </ul>
