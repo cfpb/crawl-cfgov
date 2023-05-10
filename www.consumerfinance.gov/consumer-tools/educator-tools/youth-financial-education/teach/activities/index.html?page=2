@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.d8282d32bd28.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.eecbebbcfb71.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -1229,7 +1229,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             Topic
         </span>
@@ -1491,7 +1491,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             School subject
         </span>
@@ -1576,7 +1576,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             Grade level
         </span>
@@ -1640,7 +1640,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             Age range
         </span>
@@ -1705,7 +1705,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             Student characteristics
         </span>
@@ -1766,7 +1766,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             Activity duration
         </span>
@@ -1811,7 +1811,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             Activity type
         </span>
@@ -1869,7 +1869,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             Bloom&#39;s Taxonomy level
         </span>
@@ -1933,7 +1933,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             Building block
         </span>
@@ -1978,7 +1978,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             National standards
         </span>
@@ -2041,7 +2041,7 @@
             o-expandable__padded
             o-expandable__background
             ">
-    <button class="o-expandable_header o-expandable_target" type="button">
+    <button class="o-expandable_header" type="button">
         <span class="h4 o-expandable_label">
             Teaching strategy
         </span>
