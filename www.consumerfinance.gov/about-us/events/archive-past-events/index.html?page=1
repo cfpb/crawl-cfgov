@@ -1375,13 +1375,62 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">165 filtered results</div>
+          <div class="h4 m-notification_message">166 filtered results</div>
       </div>
   </div>
         </div>
             <section class="o-filterable-list_results
                             block
                             block__sub">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                        <span class="datetime"><time class="datetime_date" datetime="2023-05-23T15:00:00-0400">MAY 23, 2023</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+                <time class="calendar-icon"
+                      data-month="May"
+                      data-day="23"
+                      datetime="Tue 23 May 2023 03:00:00 PM EDT"
+                      aria-hidden="true">
+                </time>
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/events/archive-past-events/data-enforcers-convening-advanced-technologies-real-world-implications-how-enforcers-approach-artificial-intelligence/">
+                    Data Enforcers Convening: Advanced Technologies and Real World Implications, How Enforcers Approach “Artificial Intelligence”
+                </a>
+            </h3>
+                    <div class="o-post-preview_subtitle">
+                            Virtual
+                     -
+                    <span class="datetime"><time class="datetime_date" datetime="2023-05-23T15:00:00-0400">MAY 23, 2023</time>
+    <span class="datetime_divider">@</span>
+    <time class="datetime_time" datetime="2023-05-23T15:00:00-0400">
+        03:00 PM EDT
+    </time>
+</span>
+                    </div>
+                <div class="o-post-preview_description">
+                    <p data-block-key="b30jw">Please join us for a convening of government agencies on the real world implications of advanced technologies. Our speakers will discuss topics of interest to enforcers working with advanced technologies, including some ways to think about advanced technologies and how they have been handled in enforcement cases.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+        <li class="tags_tag">
+            <a href="/about-us/events/archive-past-events/?topics=enforcement" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2380,42 +2429,6 @@
                     </div>
                 <div class="o-post-preview_description">
                     <p data-block-key="gzcrl">The CAB will discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority.</p>
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                        <span class="datetime"><time class="datetime_date" datetime="2022-03-11T15:00:00-0500">MAR 11, 2022</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-                <time class="calendar-icon"
-                      data-month="Mar"
-                      data-day="11"
-                      datetime="Fri 11 Mar 2022 03:00:00 PM EST"
-                      aria-hidden="true">
-                </time>
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/events/archive-past-events/open-house-data-science-jobs-at-cfpb/">
-                    Open House: Data Science Jobs at CFPB
-                </a>
-            </h3>
-                    <div class="o-post-preview_subtitle">
-                            This event will be held online
-                     -
-                    <span class="datetime"><time class="datetime_date" datetime="2022-03-11T15:00:00-0500">MAR 11, 2022</time>
-    <span class="datetime_divider">@</span>
-    <time class="datetime_time" datetime="2022-03-11T15:00:00-0500">
-        03:00 PM EST
-    </time>
-</span>
-                    </div>
-                <div class="o-post-preview_description">
-                    <p data-block-key="nc6qg">Come hear about open roles, how to apply for federal jobs, and what it’s like to be a data scientist in government!</p>
                 </div>
         </div>
     </article>

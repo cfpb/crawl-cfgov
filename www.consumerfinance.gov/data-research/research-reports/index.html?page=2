@@ -2174,39 +2174,9 @@
     </span>
     <ul class="tags_list" aria-label="Topics">
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=electronic-payments" class="tags_link">
+            <a href="/data-research/research-reports/?topics=technologist" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Electronic payments
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=financial-well-being" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=small-dollar-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Small-dollar loans
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-        <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=debit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Debit cards
+                Technologist
             </a>
         </li>
         <li class="tags_tag">
@@ -2216,9 +2186,39 @@
             </a>
         </li>
         <li class="tags_tag">
-            <a href="/data-research/research-reports/?topics=technologist" class="tags_link">
+            <a href="/data-research/research-reports/?topics=debit-cards" class="tags_link">
                 <span class="tags_bullet" aria-hidden="true">&bull;</span>
-                Technologist
+                Debit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=credit-cards" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=small-dollar-loans" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Small-dollar loans
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=financial-well-being" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Financial well-being
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="tags_tag">
+            <a href="/data-research/research-reports/?topics=electronic-payments" class="tags_link">
+                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+                Electronic payments
             </a>
         </li>
     </ul>
