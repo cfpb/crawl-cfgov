@@ -1264,7 +1264,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 56 results within basics</p>
+        <p class="results-message">Showing 55 results within basics</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1293,9 +1293,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/42" href="/ask-cfpb/there-is-a-credit-balance-shown-on-my-statement-what-is-a-credit-balance-en-42/">There is a "credit balance" shown on my statement. What is a credit balance?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/38" href="/ask-cfpb/my-bill-shows-the-amount-of-fees-i-have-paid-for-the-entire-year-whats-that-about-en-38/">My bill shows the amount of fees I have paid for the entire year. What's that about?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/37" href="/ask-cfpb/my-bill-shows-the-amount-of-interest-i-have-paid-for-the-entire-year-whats-that-about-en-37/">My bill shows the amount of interest I have paid for the entire year. What's that about?</a></div>
@@ -1341,6 +1338,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1861" href="/ask-cfpb/what-do-i-need-to-know-if-im-thinking-about-consolidating-my-credit-card-debt-en-1861/">What do I need to know about consolidating my credit card debt?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/64" href="/ask-cfpb/how-long-can-the-card-issuer-take-to-resolve-my-billing-error-or-dispute-en-64/">How long can the card issuer take to resolve my credit card billing error dispute?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

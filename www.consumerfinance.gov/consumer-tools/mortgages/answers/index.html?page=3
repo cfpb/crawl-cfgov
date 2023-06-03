@@ -1267,7 +1267,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 276 results  within mortgages</p>
+        <p class="results-message">Showing 270 results  within mortgages</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1337,13 +1337,13 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/363" href="/ask-cfpb/i-heard-about-the-new-federal-housing-authority-refinancing-option-with-reduced-fees-can-you-tell-me-more-about-it-en-363/">I heard about the new Federal Housing Authority refinancing option with reduced fees. Can you tell me more about it?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/360" href="/ask-cfpb/if-i-need-to-have-a-co-signer-can-a-lender-or-broker-require-that-it-be-my-spouse-en-360/">If I need to have a co-signer, can a lender or broker require that it be my spouse?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/359" href="/ask-cfpb/my-lender-or-broker-said-that-my-spouse-had-to-co-sign-my-mortgage-loan-is-this-right-en-359/">My lender or broker said that my spouse had to co-sign my mortgage loan. Is this right?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/358" href="/ask-cfpb/i-got-divorced-and-my-lender-terminated-my-home-equity-line-of-credit-can-they-do-that-en-358/">I got divorced, and my lender terminated my home equity line of credit. Can they do that?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/357" href="/ask-cfpb/i-am-not-married-but-want-to-submit-a-joint-application-for-a-mortgage-or-home-equity-loan-with-another-person-can-we-be-treated-differently-from-married-joint-applicants-en-357/">I am not married but want to submit a joint application for a mortgage or home equity loan with another person. Can we be treated differently from married joint applicants?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
@@ -1362,7 +1362,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    3 out of 12 total pages
+                    3 out of 11 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -1370,11 +1370,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="12"
+                   max="11"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="3">
-            <span class="m-pagination_label"> of 12</span>
+            <span class="m-pagination_label"> of 11</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

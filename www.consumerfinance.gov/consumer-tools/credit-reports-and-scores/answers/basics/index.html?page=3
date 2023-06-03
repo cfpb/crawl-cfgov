@@ -1264,15 +1264,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 58 results within basics</p>
+        <p class="results-message">Showing 57 results within basics</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/31" href="/ask-cfpb/what-do-i-do-if-i-think-i-have-been-a-victim-of-identity-theft-en-31/">What do I do if I’ve been a victim of identity theft?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/4" href="/ask-cfpb/will-my-credit-score-be-damaged-by-card-issuers-getting-my-name-from-a-credit-reporting-agency-and-sending-me-an-offer-en-4/">Will my credit score be damaged by card issuers getting my name from a credit reporting agency and sending me an offer?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/3" href="/ask-cfpb/when-can-a-credit-card-company-look-at-my-credit-reports-en-3/">When can a credit card company look at my credit reports?</a></div>
             </article>
@@ -1290,6 +1284,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/309" href="/ask-cfpb/what-is-a-credit-report-en-309/">What is a credit report?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/31" href="/ask-cfpb/what-do-i-do-if-i-think-i-have-been-a-victim-of-identity-theft-en-31/">What do I do if I’ve been a victim of identity theft?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
