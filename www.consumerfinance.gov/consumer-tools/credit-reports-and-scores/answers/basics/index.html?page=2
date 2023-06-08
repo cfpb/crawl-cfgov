@@ -1162,70 +1162,59 @@
     </nav>
                 </div>
         <aside class="u-layout-grid_secondary-nav">
-            <nav class="o-secondary-navigation
+            <nav class="o-secondary-nav
             "
      aria-label="Section navigation">
-<div class="o-expandable
-            o-expandable__padded
-            o-expandable__background
-            "
-      >
-    <button class="o-expandable_header" type="button">
-        <span class="h4 o-expandable_label"
-              >
+    <button class="o-secondary-nav_header" type="button" aria-expanded="false">
+        <span class="o-secondary-nav_label">
             In this section
         </span>
-        <span class="o-expandable_link">
-            <span class="o-expandable_cue-open" role="img" aria-label="Show">
+        <span class="o-secondary-nav_cues">
+            <span class="o-secondary-nav_cue-open" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
-            <span class="o-expandable_cue-close" role="img" aria-label="Hide">
+            <span class="o-secondary-nav_cue-close" aria-label="Hide">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__minus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H4.32a.792.792 0 0 0 0 1.583h8.346a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
         </span>
     </button>
-    <div class="o-expandable_content"
-          >
-        <ul class="m-list
-                   m-list__unstyled
-                   o-secondary-navigation_list
-                   o-secondary-navigation_list__parents">
-            <li class="m-list_item" data-nav-is-active="True">
-<a class="m-nav-link
-          m-nav-link__parent
+    <div class="o-secondary-nav_content">
+        <ul class="o-secondary-nav_list
+                   o-secondary-nav_list__parents">
+            <li data-nav-is-active="True">
+<a class="o-secondary-nav_link
+          o-secondary-nav_link__parent
           "
    href=/consumer-tools/credit-reports-and-scores/answers/>
     Credit reports and scores
 </a>
-<ul class="m-list
-                           m-list__unstyled
-                           o-secondary-navigation_list
-                           o-secondary-navigation_list__children"><li class="m-list_item">
-<a class="m-nav-link
-          m-nav-link__current"
+<ul class="o-secondary-nav_list
+                           o-secondary-nav_list__children"><li>
+<a class="o-secondary-nav_link
+          o-secondary-nav_link__current"
    >
     Basics
 </a>
-                    </li><li class="m-list_item">
-<a class="m-nav-link
+                    </li><li>
+<a class="o-secondary-nav_link
           "
    href=/consumer-tools/credit-reports-and-scores/answers/key-terms/>
     Key terms
 </a>
-                    </li><li class="m-list_item">
-<a class="m-nav-link
+                    </li><li>
+<a class="o-secondary-nav_link
           "
    href=/consumer-tools/credit-reports-and-scores/answers/common-issues/>
     Common issues
 </a>
-                    </li><li class="m-list_item">
-<a class="m-nav-link
+                    </li><li>
+<a class="o-secondary-nav_link
           "
    href=/consumer-tools/credit-reports-and-scores/answers/know-your-rights/>
     Know your rights
 </a>
-                    </li><li class="m-list_item">
-<a class="m-nav-link
+                    </li><li>
+<a class="o-secondary-nav_link
           "
    href=/consumer-tools/credit-reports-and-scores/answers/how-to-guides/>
     How-to guides
@@ -1234,7 +1223,6 @@
                 </ul></li>
         </ul>
     </div>
-</div>
 </nav>
         </aside>
         <div class="u-layout-grid_main"
@@ -1268,40 +1256,52 @@
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1271" href="/ask-cfpb/should-i-request-credit-reports-for-my-children-en-1271/">Should I request credit reports for my children?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/314" href="/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/">How do I dispute an error on my credit report?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1263" href="/ask-cfpb/how-do-credit-reporting-companies-get-my-information-en-1263/">How do credit reporting companies get my information?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/313" href="/ask-cfpb/what-are-common-credit-report-errors-that-i-should-look-for-on-my-credit-report-en-313/">What are common credit report errors that I should look for on my credit report?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1251" href="/ask-cfpb/what-is-a-credit-reporting-company-en-1251/">What is a credit reporting company?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/66" href="/ask-cfpb/will-i-damage-my-credit-score-if-i-do-not-pay-a-portion-of-my-bill-that-i-am-disputing-en-66/">Will I damage my credit score if I do not pay a portion of my bill that I am disputing?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1249" href="/ask-cfpb/is-it-possible-to-remove-accurate-negative-information-from-my-credit-report-en-1249/">Is it possible to remove accurate, negative information from my credit report?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/4" href="/ask-cfpb/will-my-credit-score-be-damaged-by-card-issuers-getting-my-name-from-a-credit-reporting-agency-and-sending-me-an-offer-en-4/">Will my credit score be damaged by card issuers getting my name from a credit reporting agency and sending me an offer?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1247" href="/ask-cfpb/if-i-dispute-a-debt-does-that-mean-it-will-stay-on-my-credit-report-longer-en-1247/">If I dispute a debt, does that mean it will stay on my credit report longer?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/3" href="/ask-cfpb/when-can-a-credit-card-company-look-at-my-credit-reports-en-3/">When can a credit card company look at my credit reports?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1245" href="/ask-cfpb/should-i-use-a-credit-monitoring-service-to-protect-myself-from-identity-theft-en-1245/">Should I use a credit monitoring service to protect myself from identity theft?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1293" href="/ask-cfpb/will-paying-off-my-credit-card-balance-every-month-improve-my-score-en-1293/">Will paying off my credit card balance every month improve my credit score?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1237" href="/ask-cfpb/does-a-credit-inquiry-have-a-different-impact-on-my-score-if-im-approved-or-denied-en-1237/">Does a credit inquiry have a different impact on my score if I'm approved or denied?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/5" href="/ask-cfpb/how-do-i-get-a-copy-of-my-credit-reports-en-5/">How do I get a copy of my credit reports?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1231" href="/ask-cfpb/will-closing-credit-cards-i-already-have-increase-my-credit-score-en-1231/">Will closing credit cards I already have increase my credit score?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/309" href="/ask-cfpb/what-is-a-credit-report-en-309/">What is a credit report?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1229" href="/ask-cfpb/will-requesting-my-credit-report-hurt-my-credit-score-en-1229/">Will requesting my credit report hurt my credit score?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/31" href="/ask-cfpb/what-do-i-do-if-i-think-i-have-been-a-victim-of-identity-theft-en-31/">What do I do if I’ve been a victim of identity theft?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1227" href="/ask-cfpb/how-long-after-getting-my-first-credit-account-will-a-credit-score-be-created-en-1227/">How long after getting my first credit account will a credit score be created?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1295" href="/ask-cfpb/are-credit-scores-used-in-employment-screening-en-1295/">Are credit scores used in employment screening?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1265" href="/ask-cfpb/do-i-have-to-pay-for-my-credit-score-en-1265/">Do I have to pay for my credit score?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1225" href="/ask-cfpb/how-can-i-contact-the-nationwide-credit-reporting-companies-with-general-inquiries-en-1225/">How can I contact the nationwide credit reporting companies with general inquiries?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1223" href="/ask-cfpb/what-information-do-i-need-to-provide-to-get-my-free-credit-report-en-1223/">What information do I need to provide to get my free credit report?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1237" href="/ask-cfpb/does-a-credit-inquiry-have-a-different-impact-on-my-score-if-im-approved-or-denied-en-1237/">Does a credit inquiry have a different impact on my score if I'm approved or denied?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1337" href="/ask-cfpb/how-can-i-find-out-who-has-accessed-my-credit-report-en-1337/">How can I find out who has accessed my credit report?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1289" href="/ask-cfpb/do-joint-credit-card-accounts-with-my-spouse-affect-my-credit-score-en-1289/">Do joint credit card accounts with my spouse affect my credit score?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1263" href="/ask-cfpb/how-do-credit-reporting-companies-get-my-information-en-1263/">How do credit reporting companies get my information?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1221" href="/ask-cfpb/how-long-does-it-take-to-get-my-free-credit-report-after-i-order-it-en-1221/">How long does it take to get my free credit report after I order it?</a></div>
@@ -1313,34 +1313,22 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/323" href="/ask-cfpb/how-long-does-negative-information-remain-on-my-credit-report-en-323/">How long does negative information remain on my credit report?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/322" href="/ask-cfpb/when-will-my-lender-run-or-obtain-a-copy-of-my-credit-report-en-322/">When will my lender run or obtain a copy of my credit report?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1339" href="/ask-cfpb/if-a-credit-reporting-error-is-corrected-how-long-will-it-take-before-i-find-out-the-results-en-1339/">If a credit reporting error is corrected, how long will it take before I find out the results?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/321" href="/ask-cfpb/will-a-lender-getting-a-copy-of-my-credit-report-affect-my-score-en-321/">Will a lender getting a copy of my credit report affect my score?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1291" href="/ask-cfpb/if-my-spouse-has-a-bad-credit-score-does-it-affect-my-credit-score-en-1291/">If my spouse has a bad credit score, does it affect my credit score?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/320" href="/ask-cfpb/will-i-automatically-get-good-interest-rates-if-i-have-a-good-credit-score-en-320/">Will I automatically get good interest rates if I have a good credit score?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1283" href="/ask-cfpb/if-i-have-a-bad-credit-score-will-it-affect-my-fiances-score-if-we-get-married-en-1283/">If I have a bad credit score, will it affect my fiancé's score if we get married?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/319" href="/ask-cfpb/how-does-my-credit-score-affect-my-ability-to-get-a-mortgage-loan-en-319/">How does my credit score affect my ability to get a mortgage loan?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1279" href="/ask-cfpb/im-blind-or-visually-challenged-how-can-i-review-my-credit-report-en-1279/">I'm blind or visually challenged. How can I review my credit report?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/318" href="/ask-cfpb/how-do-i-get-and-keep-a-good-credit-score-en-318/">How do I get and keep a good credit score?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1863" href="/ask-cfpb/my-credit-card-statement-now-has-a-credit-score-what-does-this-mean-en-1863/">My credit card statement now has a credit score. What does this mean?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/314" href="/ask-cfpb/how-do-i-dispute-an-error-on-my-credit-report-en-314/">How do I dispute an error on my credit report?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/313" href="/ask-cfpb/what-are-common-credit-report-errors-that-i-should-look-for-on-my-credit-report-en-313/">What are common credit report errors that I should look for on my credit report?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/312" href="/ask-cfpb/when-should-i-review-my-credit-report-en-312/">When should I review my credit report?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/66" href="/ask-cfpb/will-i-damage-my-credit-score-if-i-do-not-pay-a-portion-of-my-bill-that-i-am-disputing-en-66/">Will I damage my credit score if I do not pay a portion of my bill that I am disputing?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/4" href="/ask-cfpb/will-my-credit-score-be-damaged-by-card-issuers-getting-my-name-from-a-credit-reporting-agency-and-sending-me-an-offer-en-4/">Will my credit score be damaged by card issuers getting my name from a credit reporting agency and sending me an offer?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1819" href="/ask-cfpb/my-bank-or-credit-union-closed-my-checking-account-will-this-hurt-my-credit-en-1819/">My bank or credit union closed my checking account. Will this hurt my credit?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
