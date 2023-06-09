@@ -1421,13 +1421,41 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">326 filtered results</div>
+          <div class="h4 m-notification_message">327 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2022-03-30T00:00:00">MAR 30, 2022</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/edfinancial-services/">
+                    Edfinancial Services
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p data-block-key="vfhhf">On March 30, 2022, the Bureau issued an order against Edfinancial Services, LLC. (Edfinancial). Edfinancial, headquartered in Knoxville, Tennessee, is a student loan servicer that services both FFELP loans, which are loans from private companies, and Direct Loans, which are loans directly from the Department of Education.</p>
+                </div>
+<div class="tags tags__hide-heading">
+    <span class="u-visually-hidden">
+        Topics:
+    </span>
+    <ul class="tags_list" aria-label="Topics">
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2072,27 +2100,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2020-12-11T00:00:00">DEC 11, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/alder-holdings-llc/">
-                    Alder Holdings, LLC
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>On December 11, 2020, the Consumer Financial Protection Bureau (Bureau) and the Arkansas Attorney General filed a proposed stipulated final judgment and order in the United States District Court for the Eastern District of Arkansas against Alder Holdings, LLC (Alder).</p>
-                </div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2203,6 +2210,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/cfpb-takes-action-against-phoenix-financial-services-for-illegal-medical-debt-collection-and-credit-reporting-practices/">
+                        CFPB Takes Action Against Phoenix Financial Services for Illegal Medical Debt Collection and Credit Reporting Practices
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2023-06-08T00:00:00">JUN 08, 2023</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/cfpb-orders-installment-lender-onemain-to-pay-20-million-for-deceptive-sales-practices/">
                         CFPB Orders Installment Lender OneMain to Pay $20 Million for Deceptive Sales Practices
                     </a>
@@ -2221,18 +2240,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2023-05-23T00:00:00">MAY 23, 2023</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/director-chopra-remarks-justice-department-interagency-event-combat-modern-day-redlining/">
-                        Director Chopra’s Prepared Remarks at Justice Department Interagency Event in Newark, New Jersey to Highlight Efforts to Combat Modern-Day Redlining
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2023-04-19T00:00:00">APR 19, 2023</time>
 </span>
                 </p>
             </li>

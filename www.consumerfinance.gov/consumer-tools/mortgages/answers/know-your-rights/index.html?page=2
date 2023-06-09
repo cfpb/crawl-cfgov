@@ -1156,7 +1156,7 @@
                 <div class="u-layout-grid_breadcrumbs">
     <nav class="breadcrumbs" aria-label="Breadcrumbs">
         <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__left" viewBox="0 0 10 19"><path d="M8.4 17.269a1.026 1.026 0 0 1-.727-.302l-6.801-6.8a1.03 1.03 0 0 1 0-1.456l6.8-6.8a1.03 1.03 0 0 1 1.456 1.455L3.055 9.439l6.073 6.073A1.03 1.03 0 0 1 8.4 17.27z"/></svg>
-                <a class="breadcrumbs_link" href="/consumer-tools/mortgages/">
+                <a href="/consumer-tools/mortgages/">
                     Mortgages
                 </a>
     </nav>
@@ -1252,12 +1252,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 55 results within know your rights</p>
+        <p class="results-message">Showing 54 results within know your rights</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/343" href="/ask-cfpb/a-mortgage-lender-gave-me-a-higher-interest-rate-than-i-should-have-gotten-based-on-my-creditworthiness-what-can-i-do-if-i-think-the-lender-discriminated-against-me-en-343/">A mortgage lender gave me a higher interest rate than I should have gotten based on my creditworthiness. What can I do if I think the lender discriminated against me?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/342" href="/ask-cfpb/my-application-for-a-home-mortgage-loan-was-denied-what-can-i-do-if-i-think-the-lender-discriminated-against-me-en-342/">I applied for a home mortgage loan. What can I do if I think a lender discriminated against me?</a></div>
             </article>
@@ -1329,6 +1326,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/260" href="/ask-cfpb/do-i-have-to-pay-for-someone-to-help-me-modify-my-mortgage-en-260/">Do I have to pay for someone to help me modify my mortgage?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/267" href="/ask-cfpb/i-am-at-least-two-payments-behind-on-my-mortgage-payments-i-tried-to-pay-one-month146s-worth-of-what-i-owe-but-my-servicer-said-i-have-to-pay-the-whole-amount-can-the-servicer-do-this-en-267/">I am at least two payments behind on my mortgage payments. I tried to pay one month's worth of what I owe, but my servicer said I have to pay the whole amount. Can the servicer do this?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
