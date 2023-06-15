@@ -1252,12 +1252,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 103 results within common issues</p>
+        <p class="results-message">Showing 99 results within common issues</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/170" href="/ask-cfpb/i-applied-for-a-mortgage-loan-and-my-lender-denied-my-application-what-can-i-do-en-170/">I applied for a mortgage loan and my lender denied my application. What can I do?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1849" href="/ask-cfpb/i-cant-make-my-mortgage-payments-how-long-will-it-take-before-ill-face-foreclosure-en-1849/">I can’t make my mortgage payments. How long will it take before I’ll face foreclosure?</a></div>
             </article>
@@ -1295,13 +1292,7 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1719" href="/ask-cfpb/i-saw-an-ad-for-a-no-payment-reverse-mortgage-from-the-department-of-veterans-affairs-va-is-this-legitimate-en-1719/">I saw an ad for a no-payment reverse mortgage from the Department of Veterans Affairs (VA). Is this legitimate?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/266" href="/ask-cfpb/i-talked-to-someone-who-promised-i-could-stay-in-my-home-if-i-paid-him-or-her-to-help-me-is-that-true-en-266/">I talked to someone who promised I could stay in my home if I paid him or her to help me. Is that true?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/273" href="/ask-cfpb/i-think-i146ve-been-scammed-by-someone-promising-to-help-me-with-my-mortgage-loan-what-should-i-do-en-273/">I think I've been scammed by someone promising to help me with my mortgage loan. What should I do?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/285" href="/ask-cfpb/i-want-to-sell-my-home-but-i-cant-get-enough-money-in-the-sale-to-pay-off-my-mortgage-loan-what-are-my-options-en-285/">I want to sell my home, but I can't get enough money in the sale to pay off my mortgage loan. What are my options?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/250" href="/ask-cfpb/i-wanted-to-take-out-a-home-equity-line-of-credit-but-my-lender-told-me-the-terms-have-changed-what-can-i-do-en-250/">I wanted to take out a Home Equity Line of Credit but my lender told me the terms have changed. What can I do?</a></div>
@@ -1330,6 +1321,15 @@
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/326" href="/ask-cfpb/if-i-lose-my-home-to-foreclosure-can-i-ever-buy-a-home-again-what-impact-will-a-foreclosure-have-on-my-credit-report-en-326/">If I lose my home to foreclosure, can I ever buy a home again? What impact will a foreclosure have on my credit report?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/354" href="/ask-cfpb/if-i-want-to-rely-on-the-alimony-or-child-support-that-i-receive-in-my-mortgage-or-home-equity-loan-application-does-a-lender-or-broker-have-to-consider-that-income-en-354/">If I want to rely on the alimony or child support that I receive in my mortgage or home equity loan application, does a lender or broker have to consider that income?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/132" href="/ask-cfpb/is-my-broker-being-paid-for-getting-me-a-mortgage-loan-en-132/">Is my broker being paid for getting me a mortgage loan?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/200" href="/ask-cfpb/is-there-a-limit-on-how-much-my-mortgage-lender-can-make-me-pay-each-month-for-insurance-and-taxes-the-escrow-en-200/">Is there a limit on how much my mortgage lender can make me pay into an escrow account for interest and taxes?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -1347,7 +1347,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    2 out of 5 total pages
+                    2 out of 4 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -1355,11 +1355,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="5"
+                   max="4"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="2">
-            <span class="m-pagination_label"> of 5</span>
+            <span class="m-pagination_label"> of 4</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"
