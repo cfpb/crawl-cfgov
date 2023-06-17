@@ -1733,7 +1733,7 @@ home price, down payment, and more can affect mortgage interest rates.
                     <div class="content-l_col content-l_col-1">
                         <h3 class="subhead">About our data source for this tool</h3>
                         <p>The lenders in our data include a mix of large banks, regional banks, and credit unions. The data is updated semiweekly every Wednesday and Friday at 7 a.m. In the event of a holiday, data will be refreshed on the next available business day.</p>
-                        <p>The data is provided by Informa Research Services, Inc., Calabasas, CA. <a class="a-link a-link__icon" data-pretty-href="https://www.informars.com" href="/external-site/?ext_url=https%3A%2F%2Fwww.informars.com&amp;signature=zyTatxYveZupmxZzAy_gSqpDOhA8e4pjY3X0IPZWda0" id="informars" rel="noopener noreferrer" target="_blank"><span class="a-link_text">www.informars.com</span> <svg class="cf-icon-svg cf-icon-svg__external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554zM8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a>. Informa collects the data directly from lenders and every effort is made to collect the most accurate data possible, but they cannot guarantee the data’s accuracy.</p>
+                        <p>The data is provided by <a class="a-link a-link__icon" data-pretty-href="https://curinos.com/" href="/external-site/?ext_url=https%3A%2F%2Fcurinos.com%2F&amp;signature=kdIYBj36c4-xvgUAl4DCvWFbgi6cNeXpLsuAY18M8LY" rel="noopener noreferrer" target="_blank"><span class="a-link_text">Curinos</span> <svg class="cf-icon-svg cf-icon-svg__external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554zM8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a>, New York, NY. Curinos collects the data directly from lenders and every effort is made to collect the most accurate data possible, but they cannot guarantee the data’s accuracy.</p>
                     </div>
                 </section>
             </div>
@@ -1800,7 +1800,7 @@ home price, down payment, and more can affect mortgage interest rates.
         Sign up for our 2-week Get Homebuyer Ready boot camp. We’ll take you step-by-step through the entire homebuying process.
     </p>
     <form class="o-form o-form__email-signup"
-          id="o-form__email-signup_3becb00092b91c"
+          id="o-form__email-signup_3bededcf97dbce"
           method="POST"
           action="/subscriptions/new/"
           enctype="application/x-www-form-urlencoded">
@@ -1811,11 +1811,11 @@ home price, down payment, and more can affect mortgage interest rates.
       </div>
   </div>
         <div class="m-form-field">
-            <label class="a-label a-label__heading" for="email_3becb00092b91c">
+            <label class="a-label a-label__heading" for="email_3bededcf97dbce">
                 Email address
             </label>
             <input class="a-text-input a-text-input__full"
-                   id="email_3becb00092b91c"
+                   id="email_3bededcf97dbce"
                    name="email"
                    type="email"
                    placeholder="mail@example.com"

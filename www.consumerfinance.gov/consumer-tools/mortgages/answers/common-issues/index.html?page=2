@@ -1151,7 +1151,8 @@
 </header>
     <main class="u-layout-grid u-layout-grid__1-3
                   ask-cfpb-page ask-cfpb-page__see-all"
-          id="main">
+          id="main"
+          >
         <div class="u-layout-grid_wrapper">
                 <div class="u-layout-grid_breadcrumbs">
     <nav class="breadcrumbs" aria-label="Breadcrumbs">
@@ -1252,32 +1253,56 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 103 results within common issues</p>
+        <p class="results-message">Showing 99 results within common issues</p>
         <section class="results">
             <div class="page-links">
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1217" href="/ask-cfpb/what-happens-if-my-reverse-mortgage-loan-balance-grows-larger-than-the-value-of-my-home-en-1217/">What happens if my reverse mortgage loan balance grows larger than the value of my home?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1849" href="/ask-cfpb/i-cant-make-my-mortgage-payments-how-long-will-it-take-before-ill-face-foreclosure-en-1849/">I can’t make my mortgage payments. How long will it take before I’ll face foreclosure?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/359" href="/ask-cfpb/my-lender-or-broker-said-that-my-spouse-had-to-co-sign-my-mortgage-loan-is-this-right-en-359/">My lender or broker said that my spouse had to co-sign my mortgage loan. Is this right?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/212" href="/ask-cfpb/i-disagree-with-my-mortgage-servicer-about-the-amount-it-says-that-i-owe-what-can-i-do-en-212/">I disagree with my mortgage servicer about the amount it says that I owe. What can I do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1807" href="/ask-cfpb/i-got-a-letter-from-my-mortgage-servicer-about-my-application-for-help-to-prevent-foreclosure-of-my-mortgage-can-you-help-me-understand-some-of-the-terms-en-1807/">I got a letter from my mortgage servicer about my application for help to prevent foreclosure of my mortgage. Can you help me understand some of the terms?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/358" href="/ask-cfpb/i-got-divorced-and-my-lender-terminated-my-home-equity-line-of-credit-can-they-do-that-en-358/">I got divorced, and my lender terminated my home equity line of credit. Can they do that?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/357" href="/ask-cfpb/i-am-not-married-but-want-to-submit-a-joint-application-for-a-mortgage-or-home-equity-loan-with-another-person-can-we-be-treated-differently-from-married-joint-applicants-en-357/">I am not married but want to submit a joint application for a mortgage or home equity loan with another person. Can we be treated differently from married joint applicants?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/216" href="/ask-cfpb/i-mailed-my-mortgage-payment-before-it-was-due-but-my-servicer-received-it-after-the-due-date-and-charged-me-a-late-fee-can-my-servicer-do-this-en-216/">I mailed my mortgage payment before it was due but my servicer received it after the due date and charged me a late fee. Can my servicer do this?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/354" href="/ask-cfpb/if-i-want-to-rely-on-the-alimony-or-child-support-that-i-receive-in-my-mortgage-or-home-equity-loan-application-does-a-lender-or-broker-have-to-consider-that-income-en-354/">If I want to rely on the alimony or child support that I receive in my mortgage or home equity loan application, does a lender or broker have to consider that income?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/148" href="/ask-cfpb/i-never-received-a-loan-estimate-what-can-i-do-en-148/">I never received a Loan Estimate. What can I do?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/352" href="/ask-cfpb/i-am-married-or-was-previously-married-and-i-am-applying-for-a-mortgage-loan-or-home-equity-line-of-credit-in-my-own-name-can-a-lender-or-broker-ask-me-about-my-spouse-or-former-spouse-en-352/">I am married or was previously married, and I am applying for a mortgage loan or home equity line of credit in my own name. Can a lender or broker ask me about my spouse or former spouse?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/222" href="/ask-cfpb/i-paid-off-my-mortgage-but-it-is-still-listed-on-my-credit-report-as-outstanding-what-can-i-do-en-222/">I paid off my mortgage but it is still listed on my credit report as outstanding. What can I do?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/326" href="/ask-cfpb/if-i-lose-my-home-to-foreclosure-can-i-ever-buy-a-home-again-what-impact-will-a-foreclosure-have-on-my-credit-report-en-326/">If I lose my home to foreclosure, can I ever buy a home again? What impact will a foreclosure have on my credit report?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1991" href="/ask-cfpb/i-received-a-revised-loan-estimate-from-my-lender-showing-a-higher-interest-rate-and-increased-closing-costs-what-does-this-mean-en-1991/">I received a revised Loan Estimate from my lender showing a higher interest rate and increased closing costs. What does this mean?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/305" href="/ask-cfpb/my-spouse-and-i-are-both-servicemembers-or-veterans-and-are-eligible-for-va-home-loans-can-we-use-one-of-our-loans-to-purchase-a-vacation-home-or-a-rental-investment-property-en-305/">My spouse and I are both servicemembers or veterans and are eligible for VA home loans. Can we use one of our loans to purchase a vacation home or a rental investment property?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1843" href="/ask-cfpb/i-received-notice-of-an-upcoming-rate-change-on-my-adjustable-rate-mortgage-arm-why-did-i-receive-this-and-what-should-i-do-now-en-1843/">I received notice of an upcoming rate change on my adjustable-rate mortgage (ARM). Why did I receive this and what should I do now?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1937" href="/ask-cfpb/i-recently-declared-bankruptcy-now-my-mortgage-servicer-said-its-not-allowed-to-send-me-a-monthly-mortgage-statement-is-that-correct-en-1937/">I recently declared bankruptcy. Now my mortgage servicer said it’s not allowed to send me a monthly mortgage statement. Is that correct?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1939" href="/ask-cfpb/i-recently-inherited-a-house-the-mortgage-lender-said-its-required-to-determine-my-ability-to-repay-before-it-will-let-me-take-over-the-mortgage-loan-is-this-true-en-1939/">I recently inherited a house. The mortgage lender said it’s required to determine my “ability to repay” before it will let me take over the mortgage loan. Is this true?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1719" href="/ask-cfpb/i-saw-an-ad-for-a-no-payment-reverse-mortgage-from-the-department-of-veterans-affairs-va-is-this-legitimate-en-1719/">I saw an ad for a no-payment reverse mortgage from the Department of Veterans Affairs (VA). Is this legitimate?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/273" href="/ask-cfpb/i-think-i146ve-been-scammed-by-someone-promising-to-help-me-with-my-mortgage-loan-what-should-i-do-en-273/">I think I've been scammed by someone promising to help me with my mortgage loan. What should I do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/250" href="/ask-cfpb/i-wanted-to-take-out-a-home-equity-line-of-credit-but-my-lender-told-me-the-terms-have-changed-what-can-i-do-en-250/">I wanted to take out a Home Equity Line of Credit but my lender told me the terms have changed. What can I do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1799" href="/ask-cfpb/i-was-told-im-buying-a-home-that-was-flipped-and-that-i-have-to-get-a-second-appraisal-how-does-that-work-en-1799/">I was told I’m buying a home that was flipped and that I have to get a second appraisal. How does that work?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/279" href="/ask-cfpb/i146d-like-to-refinance-but-i-think-the-value-of-my-home-has-fallen-is-there-a-program-for-me-en-279/">I'd like to refinance, but I think the value of my home has fallen. Is there a program for me?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/304" href="/ask-cfpb/i146m-a-servicemember-or-veteran-and-i-have-a-certificate-of-eligibility-coe-from-the-va-why-do-i-have-to-apply-and-qualify-at-a-bank-if-the-va-has-already-certified-me-en-304/">I'm a servicemember or veteran and I have a Certificate of Eligibility (COE) from the VA. Why do I have to apply and qualify at a bank if the VA has already certified me?</a></div>
@@ -1286,49 +1311,25 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/298" href="/ask-cfpb/i146m-a-servicemember-or-veteran-and-currently-have-a-conventional-mortgage-at-an-adjustable-rate-now-that-rates-are-low-i146d-like-to-refinance-to-a-lower-fixed-rate-would-i-be-eligible-for-a-va-loan-en-298/">I'm a servicemember or veteran and currently have a conventional mortgage at an adjustable rate. Now that rates are low, I'd like to refinance to a lower fixed rate. Would I be eligible for a VA loan?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/297" href="/ask-cfpb/i-am-a-servicemember-or-veteran-and-i146ve-already-bought-and-sold-one-house-that-was-financed-through-a-va-loan-can-i-qualify-for-another-va-loan-en-297/">I am a servicemember or veteran and I've already bought and sold one house that was financed through a VA loan. Can I qualify for another VA loan?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/351" href="/ask-cfpb/if-i-am-married-can-a-lender-or-broker-turn-down-my-application-for-a-mortgage-or-home-equity-loan-in-my-own-name-en-351/">If I am married, can a lender or broker turn down my application for a mortgage or home equity loan in my own name?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/295" href="/ask-cfpb/i-am-in-the-military-and-im-in-the-process-of-closing-on-my-first-va-home-loan-i-hear-that-servicemembers-and-veterans-do-not-have-to-pay-many-of-the-closing-costs-associated-with-a-typical-closing-how-do-i-know-what-i-should-pay-and-what-i-en-295/">I am in the military and I’m in the process of closing on my first VA home loan. I hear that servicemembers and veterans do not have to pay many of the closing costs associated with a typical closing. How do I know what I should pay and what I should not pay?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/268" href="/ask-cfpb/if-i-cant-pay-my-mortgage-loan-what-are-my-options-en-268/">If I can't pay my mortgage loan, what are my options?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/270" href="/ask-cfpb/my-servicer-offered-me-a-shared-appreciation-mortgage-as-a-means-of-modification-what-does-that-mean-en-270/">My servicer offered me a shared appreciation mortgage as a means of modification. What does that mean?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/324" href="/ask-cfpb/if-i-have-problems-with-my-credit-history-can-i-still-get-a-mortgage-en-324/">If I have problems with my credit history, can I still get a mortgage?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/251" href="/ask-cfpb/why-can146t-i-get-any-more-money-from-my-heloc-en-251/">Why can't I get any more money from my HELOC?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/326" href="/ask-cfpb/if-i-lose-my-home-to-foreclosure-can-i-ever-buy-a-home-again-what-impact-will-a-foreclosure-have-on-my-credit-report-en-326/">If I lose my home to foreclosure, can I ever buy a home again? What impact will a foreclosure have on my credit report?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/250" href="/ask-cfpb/i-wanted-to-take-out-a-home-equity-line-of-credit-but-my-lender-told-me-the-terms-have-changed-what-can-i-do-en-250/">I wanted to take out a Home Equity Line of Credit but my lender told me the terms have changed. What can I do?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/354" href="/ask-cfpb/if-i-want-to-rely-on-the-alimony-or-child-support-that-i-receive-in-my-mortgage-or-home-equity-loan-application-does-a-lender-or-broker-have-to-consider-that-income-en-354/">If I want to rely on the alimony or child support that I receive in my mortgage or home equity loan application, does a lender or broker have to consider that income?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/243" href="/ask-cfpb/what-happens-if-i-have-to-move-out-of-my-home-into-a-nursing-home-or-assisted-living-and-i-have-a-reverse-mortgage-en-243/">What happens if I have a reverse mortgage and I have to move out of my home, such as moving into a nursing home or to live with family?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/132" href="/ask-cfpb/is-my-broker-being-paid-for-getting-me-a-mortgage-loan-en-132/">Is my broker being paid for getting me a mortgage loan?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/223" href="/ask-cfpb/my-payment-was-returned-to-me-and-the-servicer-notified-me-it-is-no-longer-servicing-my-loan-then-i-got-another-notice-in-the-mail-saying-i-was-late-on-my-payment-but-no-one-ever-notified-me-that-i-needed-to-send-my-payment-somewhere-else-w-en-223/">My payment was returned to me, and the servicer notified me it is no longer servicing my loan. Then I got another notice in the mail saying I was late on my payment, but no one ever notified me that I needed to send my payment somewhere else. What can I do?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/222" href="/ask-cfpb/i-paid-off-my-mortgage-but-it-is-still-listed-on-my-credit-report-as-outstanding-what-can-i-do-en-222/">I paid off my mortgage but it is still listed on my credit report as outstanding. What can I do?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/219" href="/ask-cfpb/what-can-i-do-if-my-mortgage-lender-servicer-is-charging-me-for-force-placed-homeowners-insurance-en-219/">What can I do if my mortgage lender or servicer is charging me for force-placed homeowner’s insurance?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/218" href="/ask-cfpb/what-should-i-do-if-get-tax-bill-from-city-county-saying-mortgage-servicer-did-not-pay-my-taxes-en-218/">What should I do if I get a tax bill from the city or county saying that my mortgage servicer did not pay my taxes?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/216" href="/ask-cfpb/i-mailed-my-mortgage-payment-before-it-was-due-but-my-servicer-received-it-after-the-due-date-and-charged-me-a-late-fee-can-my-servicer-do-this-en-216/">I mailed my mortgage payment before it was due but my servicer received it after the due date and charged me a late fee. Can my servicer do this?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/213" href="/ask-cfpb/why-did-my-monthly-mortgage-payment-go-up-or-change-en-213/">Why did my monthly mortgage payment go up or change?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/212" href="/ask-cfpb/i-disagree-with-my-mortgage-servicer-about-the-amount-it-says-that-i-owe-what-can-i-do-en-212/">I disagree with my mortgage servicer about the amount it says that I owe. What can I do?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/204" href="/ask-cfpb/can-i-be-charged-a-penalty-for-paying-off-my-mortgage-early-en-204/">Can I be charged a penalty for paying off my mortgage early?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/203" href="/ask-cfpb/someone-offered-me-the-ability-to-make-26-bi-weekly-mortgage-payments-a-year-for-a-fee-is-there-a-way-i-can-pay-down-my-loan-faster-on-my-own-without-paying-a-fee-to-sign-up-for-this-plan-en-203/">Someone offered me the ability to make 26 bi-weekly mortgage payments a year for a fee. Is there a way I can pay down my loan faster on my own without paying a fee to sign up for this plan?</a></div>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/200" href="/ask-cfpb/is-there-a-limit-on-how-much-my-mortgage-lender-can-make-me-pay-each-month-for-insurance-and-taxes-the-escrow-en-200/">Is there a limit on how much my mortgage lender can make me pay into an escrow account for interest and taxes?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
@@ -1347,7 +1348,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    2 out of 5 total pages
+                    2 out of 4 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -1355,11 +1356,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="5"
+                   max="4"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="2">
-            <span class="m-pagination_label"> of 5</span>
+            <span class="m-pagination_label"> of 4</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

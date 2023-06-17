@@ -337,7 +337,8 @@
 </header>
     <main class="u-layout-grid u-layout-grid__1-3
                   ask-cfpb-page ask-cfpb-page__see-all"
-          id="main">
+          id="main"
+          >
         <div class="u-layout-grid_wrapper">
                 <div class="u-layout-grid_breadcrumbs">
     <nav class="breadcrumbs" aria-label="Guía de navegación">
@@ -442,15 +443,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 73 resultados en lo básico</p>
+        <p class="results-message">Se muestran 71 resultados en lo básico</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/como-obtienen-mi-informacion-las-empresas-de-informes-de-credito-es-1263/" class="hover">¿Cómo obtienen mi información las empresas de informes de crédito?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-averiguar-cuanto-vale-el-vehiculo-que-quiero-entregar-a-cambio-es-777/" class="hover">¿Cómo puedo averiguar cuánto vale el vehículo que quiero entregar a cambio?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-calificar-para-un-financiamiento-vehicular-a-una-tasa-anunciada-de-0-es-781/" class="hover">¿Cómo puedo calificar para un financiamiento vehicular a una tasa anunciada de 0%?</a></div>
             </article>
@@ -519,6 +514,12 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-el-seguro-de-credito-para-un-prestamo-vehicular-es-799/" class="hover">¿Qué es el seguro de crédito para un préstamo vehicular?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-tener-capital-negativo-en-un-prestamo-vehicular-es-749/" class="hover">¿Qué es el valor negativo en un préstamo vehicular?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-es-la-divulgacion-de-veracidad-en-prestamos-cuando-la-puedo-ver-es-787/" class="hover">¿Qué es la Divulgación de Veracidad en Préstamos? ¿Cuándo la puedo ver?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

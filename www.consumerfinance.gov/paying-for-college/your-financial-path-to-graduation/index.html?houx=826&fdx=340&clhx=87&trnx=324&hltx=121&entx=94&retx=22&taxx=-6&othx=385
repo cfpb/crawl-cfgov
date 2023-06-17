@@ -1169,26 +1169,26 @@
                 background-color: #b4d2d1;
             }
         .m-hero_image {
-            background-image: url('https://files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png');
+            background-image: url('https://s3.amazonaws.com/files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png');
             filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-                src='https://files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png',
+                src='https://s3.amazonaws.com/files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png',
                 sizingMethod='scale');
             padding-bottom: 38.61702127659574%;
         }
         @media screen and (min-width: 37.5625em) {
             .m-hero_image {
-                background-image: url('https://files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png');
+                background-image: url('https://s3.amazonaws.com/files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png');
                 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-                    src='https://files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png',
+                    src='https://s3.amazonaws.com/files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png',
                     sizingMethod='scale');
                 padding-bottom: 38.61702127659574%;
             }
             .m-hero__jumbo .m-hero_wrapper,
             .m-hero__50-50 .m-hero_wrapper,
             .m-hero__overlay .m-hero_wrapper {
-                background-image: url('https://files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png');
+                background-image: url('https://s3.amazonaws.com/files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png');
                 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-                    src='https://files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png',
+                    src='https://s3.amazonaws.com/files.consumerfinance.gov/f/images/cfpb_paying_for_college_path_to_graduation_940x.original.png',
                     sizingMethod='scale');
             }
         }

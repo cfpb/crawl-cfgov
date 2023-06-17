@@ -1180,9 +1180,9 @@
             </div>
             <div class="m-search-hero_image-wrapper">
  <img class="m-search-hero_image"
-    srcset="https://files.consumerfinance.gov/f/images/SmallSearchInterfaceImage.original.jpg,
-        https://files.consumerfinance.gov/f/images/LargeSearchInterfaceImage.original.jpg 2x"
-    src="https://files.consumerfinance.gov/f/images/LargeSearchInterfaceImage.original.jpg"
+    srcset="https://s3.amazonaws.com/files.consumerfinance.gov/f/images/SmallSearchInterfaceImage.original.jpg,
+        https://s3.amazonaws.com/files.consumerfinance.gov/f/images/LargeSearchInterfaceImage.original.jpg 2x"
+    src="https://s3.amazonaws.com/files.consumerfinance.gov/f/images/LargeSearchInterfaceImage.original.jpg"
     width="498"
     alt="">
             </div>

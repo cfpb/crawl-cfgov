@@ -337,7 +337,8 @@
 </header>
     <main class="u-layout-grid u-layout-grid__1-3
                   ask-cfpb-page ask-cfpb-page__see-all"
-          id="main">
+          id="main"
+          >
         <div class="u-layout-grid_wrapper">
                 <div class="u-layout-grid_breadcrumbs">
     <nav class="breadcrumbs" aria-label="Guía de navegación">
@@ -442,12 +443,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 59 resultados en lo básico</p>
+        <p class="results-message">Se muestran 58 resultados en lo básico</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-averiguar-quien-ha-tenido-acceso-a-mi-informe-de-credito-es-1337/" class="hover">¿Cómo puedo averiguar quién ha tenido acceso a mi informe de crédito?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-comunicarme-con-las-empresas-de-informes-de-credito-nacionales-si-necesito-formular-preguntas-generales-es-1225/" class="hover">¿Cómo puedo comunicarme con las empresas de informes de crédito nacionales si necesito formular preguntas generales?</a></div>
             </article>
@@ -519,6 +517,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/que-hace-la-compania-de-informes-de-credito-despues-de-avisarle-que-hay-un-error-en-mi-informe-de-credito-es-1323/" class="hover">¿Qué hace la compañía de informes de crédito después de avisarle que hay un error en mi informe de crédito?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/que-informacion-debo-proporcionar-para-obtener-el-informe-de-credito-gratuito-es-1223/" class="hover">¿Qué información debo proporcionar para obtener el informe de crédito gratuito?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

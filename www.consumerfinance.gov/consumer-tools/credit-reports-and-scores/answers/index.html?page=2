@@ -1151,7 +1151,8 @@
 </header>
     <main class="u-layout-grid u-layout-grid__1-3
                   ask-cfpb-page ask-cfpb-page__see-all"
-          id="main">
+          id="main"
+          >
         <div class="u-layout-grid_wrapper">
                 <div class="u-layout-grid_breadcrumbs">
     <nav class="breadcrumbs" aria-label="Breadcrumbs">
@@ -1255,7 +1256,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 89 results  within credit reports and scores</p>
+        <p class="results-message">Showing 86 results  within credit reports and scores</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1292,16 +1293,7 @@
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1485" href="/ask-cfpb/i-was-an-authorized-user-on-my-deceased-relatives-credit-card-account-am-i-liable-to-repay-the-debt-en-1485/">I was an authorized user on my deceased relative’s credit card account.  Am I liable to repay the debt?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/691" href="/ask-cfpb/i-was-told-that-i-was-too-young-to-get-credit-is-this-possible-en-691/">I was told that I was too young to get credit.  Is this possible?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1871" href="/ask-cfpb/im-a-caseworker-for-a-youth-in-foster-care-how-do-i-check-a-credit-report-for-a-youth-in-foster-care-en-1871/">I'm a caseworker for a youth in foster care. How do I check a credit report for a youth in foster care?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1869" href="/ask-cfpb/im-a-caseworker-for-a-youth-in-foster-care-what-should-i-do-if-there-is-an-error-on-a-credit-report-or-evidence-of-identity-theft-for-a-youth-in-foster-care-en-1869/">I'm a caseworker for a youth in foster care. What should I do if there is an error on a credit report or evidence of identity theft for a youth in foster care?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1279" href="/ask-cfpb/im-blind-or-visually-challenged-how-can-i-review-my-credit-report-en-1279/">I'm blind or visually challenged. How can I review my credit report?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1493" href="/ask-cfpb/im-in-the-military-can-a-debt-collector-have-my-security-clearance-revoked-if-i-fall-behind-on-paying-my-debt-en-1493/">I'm in the military, can a debt collector have my security clearance revoked if I fall behind on paying my debt?</a></div>
@@ -1332,6 +1324,15 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1819" href="/ask-cfpb/my-bank-or-credit-union-closed-my-checking-account-will-this-hurt-my-credit-en-1819/">My bank or credit union closed my checking account. Will this hurt my credit?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1253" href="/ask-cfpb/my-credit-application-was-denied-because-of-my-credit-report-what-can-i-do-en-1253/">My credit application was denied because of my credit report. What can I do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1863" href="/ask-cfpb/my-credit-card-statement-now-has-a-credit-score-what-does-this-mean-en-1863/">My credit card statement now has a credit score. What does this mean?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1349" href="/ask-cfpb/my-insurance-company-increased-my-car-insurance-rates-because-of-my-credit-report-is-that-legal-en-1349/">My insurance company increased my car insurance rates because of my credit report. Is that legal?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

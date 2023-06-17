@@ -1151,7 +1151,8 @@
 </header>
     <main class="u-layout-grid u-layout-grid__1-3
                   ask-cfpb-page ask-cfpb-page__see-all"
-          id="main">
+          id="main"
+          >
         <div class="u-layout-grid_wrapper">
                 <div class="u-layout-grid_breadcrumbs">
     <nav class="breadcrumbs" aria-label="Breadcrumbs">
@@ -1255,15 +1256,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 88 results  within auto loans</p>
+        <p class="results-message">Showing 86 results  within auto loans</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/731" href="/ask-cfpb/what-is-vendors-single-interest-vsi-insurance-en-731/">What is Vendor's Single Interest (VSI) insurance?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/747" href="/ask-cfpb/what-is-a-finance-and-insurance-fi-department-en-747/">What is a Finance and Insurance (F&amp;I) department?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/725" href="/ask-cfpb/what-is-a-manufacturer-suggested-retail-price-msrp-en-725/">What is a Manufacturer Suggested Retail Price (MSRP)?</a></div>
             </article>
@@ -1332,6 +1327,12 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/719" href="/ask-cfpb/what-should-i-do-if-i-think-an-auto-dealer-or-lender-is-violating-the-law-en-719/">What should I do if I think an auto dealer or lender is violating the law?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1171" href="/ask-cfpb/what-should-i-do-if-i-think-that-a-lender-or-auto-dealer-discriminated-against-me-in-my-auto-loan-application-such-as-by-denying-my-application-or-charging-me-a-higher-interest-rate-en-1171/">What should I do if I think that a lender or auto dealer discriminated against me in my auto loan application, such as by denying my application or charging me a higher interest rate?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/815" href="/ask-cfpb/what-should-i-know-about-the-differences-between-leasing-and-buying-a-vehicle-en-815/">What should I know about the differences between leasing and buying a vehicle?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
