@@ -1157,7 +1157,8 @@
     <main class="content "
           id="main">
 <div class="content_wrapper">
-    <div class="content_main  ccdb-search"><section class="content_main-inner" >
+    <div class="content_main  ccdb-search">
+        <section class="content_main-inner">
   <div id="ccdb-ui-root">
     <div class="u-hide-if-js wrapper u-mt60 u-mb60">
   <div class="m-notification m-notification__error m-notification__visible">
