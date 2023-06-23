@@ -1256,18 +1256,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 142 results  within bank accounts</p>
+        <p class="results-message">Showing 139 results  within bank accounts</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1001" href="/ask-cfpb/i-deposited-a-check-and-waited-until-i-was-able-to-withdraw-the-money-from-the-bank-i-later-found-out-that-the-check-was-fraudulent-the-bankcredit-union-took-the-money-back-and-now-my-account-is-overdrawn-can-they-charge-me-an-overdraft-fe-en-1001/">I deposited a check and waited until I was able to withdraw the money from the bank. I later found out that the check was fraudulent. The bank/credit union took the money back, and now my account is overdrawn. Can they charge me an overdraft fee?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1021" href="/ask-cfpb/i-discovered-an-unauthorized-check-written-on-my-account-what-rights-do-i-have-en-1021/">I discovered an unauthorized check written on my account. What rights do I have?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1075" href="/ask-cfpb/i-gave-my-debitatm-card-to-a-friend-and-told-them-only-to-take-out-a-small-amount-but-they-took-out-more-money-my-bankcredit-union-wont-refund-the-money-does-the-bankcredit-union-have-to-give-it-back-to-me-en-1075/">I gave my debit/ATM card to a friend and told them only to take out a small amount, but they took out more money. My bank/credit union won't refund the money. Does the bank/credit union have to give it back to me?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1025" href="/ask-cfpb/i-get-my-paycheck-by-direct-deposit-when-can-i-withdraw-the-funds-en-1025/">I get my paycheck by direct deposit. When can I withdraw the funds?</a></div>
             </article>
@@ -1334,6 +1325,15 @@
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/935" href="/ask-cfpb/i-tried-to-cash-a-check-at-a-bankcredit-union-where-i-dont-have-an-account-the-bankcredit-union-made-me-show-identification-is-that-allowed-en-935/">I tried to cash a check at a bank/credit union where I don't have an account. The bank/credit union made me show identification. Is that allowed?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1105" href="/ask-cfpb/i-was-at-a-store-and-the-cashier-scanned-my-check-and-then-handed-it-back-to-me-is-this-normal-en-1105/">I was at a store, and the cashier scanned my check and then handed it back to me. Is this normal?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1715" href="/ask-cfpb/i-was-offered-a-pension-advance-what-is-this-what-should-i-look-out-for-en-1715/">I was offered a pension advance. What is this? What should I look out for?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1109" href="/ask-cfpb/i-was-told-my-check-was-turned-into-an-electronic-funds-transfer-what-does-this-mean-en-1109/">I was told my check was turned into an electronic funds transfer. What does this mean?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -1374,9 +1374,12 @@
     </nav>
             </div>
         </section>
-        <p class="ask-search-link h4">
-            Don't see what you're looking for? <span class="break"><a href="/ask-cfpb/search/">Search our full library of answers</a></span>
-        </p>
+        <div class="block block__flush-bottom block__padded-bottom">
+            <p class="ask-search-link h4">
+                <span>Don't see what you're looking for?</span>
+                <a href="/ask-cfpb/search/">Search our full library of answers</a>
+            </p>
+        </div>
         </div>
         </div>
     </main>

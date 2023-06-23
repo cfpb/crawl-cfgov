@@ -443,15 +443,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 102 resultados en problemas comunes</p>
+        <p class="results-message">Se muestran 100 resultados en problemas comunes</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/soy-integrante-de-las-fuerzas-militares-o-veterano-y-tengo-un-certificado-de-elegibilidad-coe-por-sus-siglas-en-ingles-de-la-va-por-que-debo-solicitar-un-prestamo-y-cumplir-los-requisitos-de-un-banco-si-la-va-ya-me-ha-certificado-es-304/" class="hover">Soy integrante de las Fuerzas Armadas o veterano y tengo un Certificado de Elegibilidad (COE, por sus siglas en inglés) de la VA. ¿Por qué debo solicitar un préstamo y cumplir los requisitos de un banco si la VA ya me ha certificado?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/soy-un-militar-o-veterano-y-actualmente-tengo-una-hipoteca-convencional-con-una-tasa-ajustable-ahora-que-las-tasas-han-bajado-quisiera-refinanciar-a-una-tasa-fija-mas-baja-seria-yo-elegible-para-un-prestamo-de-va-es-298/" class="hover">Soy militar o veterano y actualmente tengo una hipoteca convencional con una tasa ajustable. Ahora que las tasas han bajado, quisiera refinanciar a una tasa fija más baja. ¿Sería yo elegible para un préstamo de VA?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/soy-un-militar-o-veterano-y-ya-he-comprado-y-vendido-una-vivienda-que-fue-financiada-mediante-un-prestamo-de-va-reuno-yo-los-requisitos-para-otro-prestamo-de-va-es-297/" class="hover">Soy militar o veterano y ya he comprado y vendido una vivienda que fue financiada mediante un préstamo de VA. ¿Reúno yo los requisitos para otro préstamo de VA?</a></div>
             </article>
@@ -521,6 +515,12 @@
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/por-que-no-puedo-obtener-dinero-de-mi-heloc-es-251/" class="hover">¿Por qué no puedo obtener más dinero de mi HELOC?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/por-que-subio-el-pago-de-mi-hipoteca-es-213/" class="hover">¿Por qué subió, o cambió, el pago mensual de mi hipoteca?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/puede-mi-administrador-hipotecario-reportar-informacion-negativa-sobre-mi-a-una-agencia-de-informes-de-credito-despues-de-que-yo-haya-enviado-una-disputa-de-error-o-una-solicitud-de-informacion-es-209/" class="hover">¿Puede mi administrador hipotecario reportar información negativa sobre mí a una agencia de informes de crédito, después de que yo haya enviado una disputa de error o una solicitud de información?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -538,7 +538,7 @@
                     Página
                 </span>
                 <span class="u-visually-hidden">
-                    3 out of 5 total pages
+                    3 out of 4 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -546,11 +546,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="5"
+                   max="4"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="3">
-            <span class="m-pagination_label"> de 5</span>
+            <span class="m-pagination_label"> de 4</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

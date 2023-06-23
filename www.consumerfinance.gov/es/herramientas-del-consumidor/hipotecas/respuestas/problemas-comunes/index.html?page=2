@@ -443,12 +443,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 102 resultados en problemas comunes</p>
+        <p class="results-message">Se muestran 100 resultados en problemas comunes</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/mi-corredor-o-prestamista-me-dijo-que-yo-podia-recibir-una-hipoteca-mejor-si-yo-anadia-cierta-informacion-falsa-en-mi-solicitud-de-prestamo-que-debo-hacer-es-168/" class="hover">Mi corredor o prestamista me dijo que yo podía recibir una hipoteca mejor si yo añadía cierta información falsa en mi solicitud de préstamo. ¿Qué debo hacer?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/mi-pago-me-fue-devuelto-y-el-administrador-me-notifico-que-ya-no-administraba-mi-prestamo-luego-recibi-otra-notificacion-por-correo-en-la-que-decia-que-tenia-mora-en-mis-pagos-pero-nunca-nadie-me-notifico-que-necesitaba-enviar-el-pago-a-otra-es-223/" class="hover">Mi pago me fue devuelto y el administrador me notificó que ya no administraba mi préstamo. Luego recibí otra notificación por correo en la que decía que estaba en mora con mis pagos, pero nunca nadie me notificó que necesitaba enviar el pago a otra parte. ¿Qué puedo hacer?</a></div>
             </article>
@@ -457,9 +454,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/mi-prestamista-hipotecario-me-dijo-que-el-estaba-exento-de-las-reglas-de-administracion-de-hipotecas-es-cierto-esto-es-1801/" class="hover">Mi prestamista hipotecario me dijo que él estaba exento de las reglas de administración de hipotecas. ¿Es cierto esto?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/mi-prestamista-o-administrador-del-prestamo-me-aconsejo-que-dejara-de-hacer-los-pagos-de-mi-prestamo-hipotecario-para-poder-calificar-para-una-modificacion-del-prestamo-que-puedo-hacer-es-274/" class="hover">Mi prestamista o administrador del préstamo me aconsejó que dejara de hacer los pagos de mi préstamo hipotecario para poder calificar para una modificación del préstamo. ¿Qué puedo hacer?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/mi-prestamista-o-administrador-hipotecario-dijo-que-podria-inscribirme-en-un-plan-de-pagos-que-significa-eso-es-280/" class="hover">Mi prestamista o administrador dijo que yo podría tomar un plan de pagos. ¿Qué significa eso?</a></div>
@@ -521,6 +515,12 @@
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/solicite-un-prestamo-hipotecario-y-el-prestamista-nego-mi-solicitud-que-puedo-hacer-es-170/" class="hover">Solicité un préstamo hipotecario y el prestamista negó mi solicitud. ¿Qué puedo hacer?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/soy-integrante-de-las-fuerzas-militares-o-veterano-y-tengo-un-certificado-de-elegibilidad-coe-por-sus-siglas-en-ingles-de-la-va-por-que-debo-solicitar-un-prestamo-y-cumplir-los-requisitos-de-un-banco-si-la-va-ya-me-ha-certificado-es-304/" class="hover">Soy integrante de las Fuerzas Armadas o veterano y tengo un Certificado de Elegibilidad (COE, por sus siglas en inglés) de la VA. ¿Por qué debo solicitar un préstamo y cumplir los requisitos de un banco si la VA ya me ha certificado?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/soy-un-militar-o-veterano-y-actualmente-tengo-una-hipoteca-convencional-con-una-tasa-ajustable-ahora-que-las-tasas-han-bajado-quisiera-refinanciar-a-una-tasa-fija-mas-baja-seria-yo-elegible-para-un-prestamo-de-va-es-298/" class="hover">Soy militar o veterano y actualmente tengo una hipoteca convencional con una tasa ajustable. Ahora que las tasas han bajado, quisiera refinanciar a una tasa fija más baja. ¿Sería yo elegible para un préstamo de VA?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -538,7 +538,7 @@
                     Página
                 </span>
                 <span class="u-visually-hidden">
-                    2 out of 5 total pages
+                    2 out of 4 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -546,11 +546,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="5"
+                   max="4"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="2">
-            <span class="m-pagination_label"> de 5</span>
+            <span class="m-pagination_label"> de 4</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

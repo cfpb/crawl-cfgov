@@ -1256,18 +1256,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 142 results  within bank accounts</p>
+        <p class="results-message">Showing 139 results  within bank accounts</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1053" href="/ask-cfpb/how-can-i-avoid-debit-card-overdrafts-en-1053/">How can I avoid debit card overdrafts?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1005" href="/ask-cfpb/how-can-i-be-sure-my-money-is-safe-in-my-bank-account-en-1005/">How can I be sure my money is safe in my bank account?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1159" href="/ask-cfpb/how-can-i-find-an-attorney-who-specializes-in-elder-law-en-1159/">How can I find an attorney who specializes in elder law?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1137" href="/ask-cfpb/how-can-i-put-money-in-a-military-savings-deposit-program-sdp-account-en-1137/">How can I put money in a Military Savings Deposit Program SDP account?</a></div>
             </article>
@@ -1334,6 +1325,15 @@
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1013" href="/ask-cfpb/i-closed-my-interest-bearing-account-but-the-bankcredit-union-did-not-pay-me-interest-up-until-the-day-i-withdrew-the-money-why-en-1013/">I closed my interest-bearing account, but the bank/credit union did not pay me interest up until the day I withdrew the money. Why?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1001" href="/ask-cfpb/i-deposited-a-check-and-waited-until-i-was-able-to-withdraw-the-money-from-the-bank-i-later-found-out-that-the-check-was-fraudulent-the-bankcredit-union-took-the-money-back-and-now-my-account-is-overdrawn-can-they-charge-me-an-overdraft-fe-en-1001/">I deposited a check and waited until I was able to withdraw the money from the bank. I later found out that the check was fraudulent. The bank/credit union took the money back, and now my account is overdrawn. Can they charge me an overdraft fee?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1021" href="/ask-cfpb/i-discovered-an-unauthorized-check-written-on-my-account-what-rights-do-i-have-en-1021/">I discovered an unauthorized check written on my account. What rights do I have?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1075" href="/ask-cfpb/i-gave-my-debitatm-card-to-a-friend-and-told-them-only-to-take-out-a-small-amount-but-they-took-out-more-money-my-bankcredit-union-wont-refund-the-money-does-the-bankcredit-union-have-to-give-it-back-to-me-en-1075/">I gave my debit/ATM card to a friend and told them only to take out a small amount, but they took out more money. My bank/credit union won't refund the money. Does the bank/credit union have to give it back to me?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -1374,9 +1374,12 @@
     </nav>
             </div>
         </section>
-        <p class="ask-search-link h4">
-            Don't see what you're looking for? <span class="break"><a href="/ask-cfpb/search/">Search our full library of answers</a></span>
-        </p>
+        <div class="block block__flush-bottom block__padded-bottom">
+            <p class="ask-search-link h4">
+                <span>Don't see what you're looking for?</span>
+                <a href="/ask-cfpb/search/">Search our full library of answers</a>
+            </p>
+        </div>
         </div>
         </div>
     </main>

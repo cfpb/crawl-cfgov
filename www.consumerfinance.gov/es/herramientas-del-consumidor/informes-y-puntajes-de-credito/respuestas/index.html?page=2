@@ -446,12 +446,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 91 resultados  en informes y puntajes de crédito</p>
+        <p class="results-message">Se muestran 90 resultados  en informes y puntajes de crédito</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/yo-era-usuario-autorizado-de-la-cuenta-de-tarjeta-de-credito-de-mi-familiar-fallecido-soy-responsable-de-pagar-la-deuda-es-1485/" class="hover">Yo era usuario autorizado de la cuenta de tarjeta de crédito de mi familiar fallecido. ¿Soy responsable de pagar la deuda?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/afecta-mi-puntaje-que-un-prestamista-pida-una-copia-de-mi-informe-de-credito-es-321/" class="hover">¿Afecta mi puntaje que un prestamista pida una copia de mi informe de crédito?</a></div>
             </article>
@@ -524,6 +521,9 @@
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-encontrar-a-un-asesor-de-credito-es-1351/" class="hover">¿Cómo puedo encontrar a un asesor de crédito?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/estoy-en-el-ejercito-y-me-preocupa-que-alguien-pueda-tratar-de-utilizar-mi-informacion-personal-para-obtener-credito-mientras-estoy-desplegado-en-el-extranjero-como-puedo-evitarlo-es-1367/" class="hover">¿Cómo puedo evitar que alguien use mi información personal para obtener crédito mientras me encuentro con las Fuerzas Armadas desplegado en el extranjero?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -564,9 +564,12 @@
     </nav>
             </div>
         </section>
-        <p class="ask-search-link h4">
-            ¿No encuentra lo que busca? <span class="break"><a href="/es/obtener-respuestas/buscar/">Buscar en toda la lista de respuestas</a></span>
-        </p>
+        <div class="block block__flush-bottom block__padded-bottom">
+            <p class="ask-search-link h4">
+                <span>¿No encuentra lo que busca?</span>
+                <a href="/es/obtener-respuestas/buscar/">Buscar en toda la lista de respuestas</a>
+            </p>
+        </div>
         </div>
         </div>
     </main>
