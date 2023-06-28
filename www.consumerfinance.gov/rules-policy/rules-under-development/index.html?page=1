@@ -1264,7 +1264,7 @@
               >
             Filter rules under development
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1472,14 +1472,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="raznv">The proposed rule would implement quality control standards for the use of automated valuation models by mortgage originators and secondary market issuers in determining the collateral worth of a mortgage secured by a consumer’s principal dwelling.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
@@ -1512,26 +1509,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="raznv">Property Assessed Clean Energy (PACE) financing is financing to cover the costs of home improvements that results in a tax assessment on the real property of the consumer. In this notice of proposed rulemaking, the Bureau proposes to address how the Truth in Lending Act applies to PACE transactions to account for the unique nature of PACE.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -1564,20 +1558,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="raznv">The Consumer Financial Protection Bureau (Bureau) proposes to amend Regulation Z, which implements the Truth in Lending Act (TILA), to better ensure that the late fees charged on credit card accounts are “reasonable and proportional” to the late payment as required under TILA.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=credit-card-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=credit-card-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit CARD Act
             </a>
         </li>
@@ -1610,134 +1601,131 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="raznv">The Bureau is proposing to establish a public registry for nonbanks subject to the Bureau’s supervisory authority that use covered terms or conditions, as described in the proposed rule, in a new part 1092 in title 12 of the Code of Federal Regulations.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=arbitration" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=arbitration" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Arbitration
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=payday-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=payday-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Payday loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=auto-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=auto-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Auto loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=medical-debt" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=medical-debt" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Medical debt
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=financial-service-providers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial service providers
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=student-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=student-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Student loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=supervision" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=supervision" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Supervision
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-closing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-closing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage closing
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=foreclosure" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=foreclosure" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Foreclosure
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=small-dollar-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=small-dollar-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Small-dollar loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=servicemembers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=servicemembers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Servicemembers
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=military-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=military-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Military Lending Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=deceptive-practices" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=deceptive-practices" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Deceptive practices
             </a>
         </li>
@@ -1770,50 +1758,47 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="1ko3i">Pursuant to sections 1022(b) and 1022(c) of the Consumer Financial Protection Act of 2010 (CFPA), the Bureau is proposing to require certain nonbank covered person entities (with exclusions for insured depository institutions, insured credit unions, related persons, States, certain other entities, and natural persons) that are under certain final public orders obtained or issued by a Federal, State, or local agency in connection with the offering or provision of a consumer financial product or service to report the existence of such orders to a Bureau registry.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=supervision" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=supervision" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Supervision
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=deceptive-practices" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=deceptive-practices" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Deceptive practices
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=financial-service-providers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial service providers
             </a>
         </li>
@@ -1846,20 +1831,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="raznv">The CFPB is seeking information on credit card late fees and late payments, and card issuers’ revenue and expenses.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=credit-card-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=credit-card-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit CARD Act
             </a>
         </li>
@@ -1892,32 +1874,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="1ko3i">The Bureau seeks comment on proposed amendments to Regulation V, which would establish a method for a victim of trafficking to submit documentation identifying any adverse item of information about the consumer that resulted from certain types of human trafficking and prohibit the consumer reporting agencies from furnishing a consumer report containing the adverse item(s) of information.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Access to credit
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Credit Reporting Act
             </a>
         </li>
@@ -1950,68 +1929,65 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="eijnx">The Bureau is issuing this proposed rule to implement section 1071 of the Dodd-Frank Act, governing small business lending data collection under ECOA and Regulation B.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=business-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=business-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Business loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Equal Credit Opportunity Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=redlining" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=redlining" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Redlining
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=privacy" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=privacy" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Privacy
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=discrimination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=discrimination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Discrimination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair lending
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=regulation-b" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=regulation-b" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Regulation B
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Access to credit
             </a>
         </li>
@@ -2044,32 +2020,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xqs1f">The Bureau is proposing to extend the effective date of two final rules titled Debt Collection Practices (Regulation F) from November 30, 2021 until January 29, 2022.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=fair-debt-collection-practices-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Debt Collection Practices Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2102,44 +2075,41 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="5qn0s">The Bureau of Consumer Financial Protection (Bureau) is proposing amending Regulation X to assist borrowers affected by the COVID-19 emergency. The proposed amendments would generally prohibit servicers from making the first notice or filing required for foreclosure until after December 31, 2021, amend early intervention and reasonable diligence obligations to ensure that servicers are communicating timely and accurate information to borrowers about their loss mitigation options during the current crisis, and temporarily permit mortgage servicers to offer certain loss mitigation options made available to borrowers experiencing a COVID-19-related hardship based on the evaluation of an incomplete application.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=disasters-and-emergencies" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=disasters-and-emergencies" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Disasters and emergencies
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=foreclosure" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=foreclosure" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Foreclosure
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Real Estate Settlement Procedures Act (RESPA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
@@ -2172,32 +2142,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="h5s0a">The Bureau proposes to amend Regulation Z to replace the Temporary GSE QM loan definition’s sunset date with a provision that extends the definition to expire upon the effective date of final amendments to the General QM loan definition.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -2230,14 +2197,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="tor5g">The Bureau and other agencies are inviting comment on a proposed rule that would codify the Interagency Statement Clarifying the Role of Supervisory Guidance.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=supervision" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=supervision" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Supervision
             </a>
         </li>
@@ -2270,32 +2234,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="o6yci">The Bureau of Consumer Financial Protection is proposing to create a new category of QMs (Seasoned QMs) for first-lien, fixed-rate covered transactions that have met certain performance requirements over a 36-month seasoning period, are held in portfolio until the end of the seasoning period, comply with general restrictions on product features and points and fees, and meet certain underwriting requirements.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -2328,32 +2289,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="w3p04">The Bureau is proposing to exempt certain insured depository institutions and insured credit unions from the requirement to establish escrow accounts for certain higher-priced mortgage loans.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
@@ -2386,32 +2344,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="w2j50">The Bureau proposes to amend Regulation Z to replace the Temporary GSE QM loan definition’s sunset date with a provision that extends the definition to expire upon the effective date of final amendments to the General QM loan definition.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -2444,32 +2399,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="2bcxp">In this notice, the Bureau proposes certain amendments to the General QM loan definition in Regulation Z.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -2502,62 +2454,59 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="ksnlu">The Bureau is proposing to amend Regulation Z, which implements the Truth in Lending Act, generally to address the sunset of LIBOR, expected to be discontinued after 2021.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=auto-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=auto-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Auto loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=student-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=student-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Student loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=reverse-mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=reverse-mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Reverse mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=small-dollar-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=small-dollar-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Small-dollar loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
@@ -2590,32 +2539,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="mq5lb">The Bureau of Consumer Financial Protection proposes to amend Regulation F, which implements the Fair Debt Collection Practices Act (FDCPA), by proposing to require debt collectors to make certain disclosures when collecting time-barred debts.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=fair-debt-collection-practices-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Debt Collection Practices Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2648,44 +2594,41 @@
                 <div class="o-post-preview_description">
                     <p>This notice proposes changes to the Remittance Rule to mitigate the expiration of an exception that allows insured institutions to estimate certain costs associated with sending a remittance transfer to increase the normal course of business safe harbor.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=electronic-payments" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=electronic-payments" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Electronic payments
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=money-transfers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=money-transfers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Money transfers
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=credit-unions" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=credit-unions" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit unions
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=banking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=banking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Banking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=regulation-e" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=regulation-e" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Regulation E
             </a>
         </li>
@@ -2711,32 +2654,29 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau is extending the comment period for the debt collection NPRM published May 21, 2019. Responses to the NPRM must now be received on or before September 18, 2019.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=fair-debt-collection-practices-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Debt Collection Practices Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2762,20 +2702,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="3sck4">The Bureau is reopening the comment period for certain aspects of the 2019 Notice of Proposed Rulemaking related to Regulation C, which implements the Home Mortgage Disclosure Act.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=home-mortgage-disclosure-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Home Mortgage Disclosure Act
             </a>
         </li>
@@ -2808,26 +2745,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="a7spm">The Bureau of Consumer Financial Protection (Bureau) is issuing this Advance Notice of Proposed Rulemaking (ANPR) because it is considering whether to propose revisions to Regulation Z’s general qualified mortgage definition.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -2853,20 +2787,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="albim">The Bureau is extending the comment period on the Bureau’s Advance Notice of Proposed Rulemaking relating to Regulation C, which implements the Home Mortgage Disclosure Act.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=home-mortgage-disclosure-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Home Mortgage Disclosure Act
             </a>
         </li>
@@ -2899,32 +2830,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="j159j">The Bureau proposes to amend Regulation F, which implements the Fair Debt Collection Practices Act (FDCPA), to prescribe Federal rules governing the activities of debt collectors covered by the FDCPA.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=fair-debt-collection-practices-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Debt Collection Practices Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2957,20 +2885,17 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau is issuing this advance notice of proposed rulemaking relating to certain data points in the Bureau’s October 2015 final rule that were added to Regulation C or revised to require additional information, and coverage of certain business- or commercial-purpose loans.</p><p><br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/rules-under-development/?topics=home-mortgage-disclosure-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/rules-under-development/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Home Mortgage Disclosure Act
             </a>
         </li>

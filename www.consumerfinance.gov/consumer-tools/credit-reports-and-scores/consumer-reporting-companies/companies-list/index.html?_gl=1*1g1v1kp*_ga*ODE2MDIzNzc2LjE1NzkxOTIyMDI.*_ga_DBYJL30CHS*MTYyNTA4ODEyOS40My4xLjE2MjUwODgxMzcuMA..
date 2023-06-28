@@ -1247,7 +1247,7 @@
               >
             Search companies by name or filter by market area
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1431,14 +1431,11 @@
                     DISA Global Solutions, Inc.
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1461,14 +1458,11 @@
                     Asurint
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1491,14 +1485,11 @@
                     CCC Verify
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1521,14 +1512,11 @@
                     Cisive
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1551,14 +1539,11 @@
                     Social Intelligence
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1581,14 +1566,11 @@
                     uConfirm
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1611,14 +1593,11 @@
                     AmRent
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1641,14 +1620,11 @@
                     Universal Background Screening
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1671,14 +1647,11 @@
                     NCC (National Cred-A-Chek, Inc.)
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1701,14 +1674,11 @@
                     Accurate Background
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-credit-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-credit-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free credit report
             </a>
         </li>
@@ -1731,14 +1701,11 @@
                     backgroundchecks.com
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1761,20 +1728,17 @@
                     Equifax
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Freeze your report
             </a>
         </li>
@@ -1797,14 +1761,11 @@
                     Certegy Payment Solutions, LLC
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1827,20 +1788,17 @@
                     National Consumer Telecom & Utilities Exchange (NCTUE)
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Freeze your report
             </a>
         </li>
@@ -1863,14 +1821,11 @@
                     Info Cubic, LLC
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1893,14 +1848,11 @@
                     Pre-employ.com
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1923,20 +1875,17 @@
                     LexisNexis C.L.U.E. (Auto & Property Reports)
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Freeze your report
             </a>
         </li>
@@ -1959,14 +1908,11 @@
                     Insurance Information Exchange (iiX)
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -1989,20 +1935,17 @@
                     DataX
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Freeze your report
             </a>
         </li>
@@ -2025,20 +1968,17 @@
                     Innovis
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Freeze your report
             </a>
         </li>
@@ -2061,14 +2001,11 @@
                     ADP Screening & Selection Services, Inc.
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -2091,20 +2028,17 @@
                     The Work Number
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=freeze-your-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Freeze your report
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>
@@ -2127,14 +2061,11 @@
                     CoreLogic Credco
                 </a>
             </h3>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/companies-list/?topics=free-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Free report
             </a>
         </li>

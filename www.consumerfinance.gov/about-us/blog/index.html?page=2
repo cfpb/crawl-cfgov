@@ -1169,7 +1169,7 @@
               >
             Filter posts
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1485,38 +1485,35 @@
                     and 
                     Erie Meyer</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Credit Reporting Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=technologist" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=technologist" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Technologist
             </a>
         </li>
@@ -1551,14 +1548,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="jkz3w">Consumidores afectados por GST Factoring, Inc., Champion Marketing Solutions, Amanda Johnson, David Mize, Jacob Slaughter, y Daniel Ruggiero, recibirán dinero de nuestro Fondo de Penalidades Civiles</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=civil-penalty-fund" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=civil-penalty-fund" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Civil Penalty Fund
             </a>
         </li>
@@ -1593,14 +1587,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="jkz3w">In 2020, the CFPB filed a complaint against student-loan debt-relief companies, their owners, and attorneys for charging illegal upfront fees to thousands of consumers saddled with private student-loan debt.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=civil-penalty-fund" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=civil-penalty-fund" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Civil Penalty Fund
             </a>
         </li>
@@ -1639,20 +1630,17 @@
                     By 
                     Erie Meyer</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=technologist" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=technologist" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Technologist
             </a>
         </li>
@@ -1694,38 +1682,35 @@
                     and 
                     Jon Seward</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair lending
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=discrimination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=discrimination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Discrimination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Equal Credit Opportunity Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=homebuying" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=homebuying" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Homebuying
             </a>
         </li>
@@ -1760,20 +1745,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="jkz3w">The CFPB issued a standard Request for Information on the economic impact of mortgage loan originator rules on small mortgage companies as part of a mandated 10-year review.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
@@ -1815,20 +1797,17 @@
                     and 
                     Irene Skricki</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Credit Reporting Act
             </a>
         </li>
@@ -1870,20 +1849,17 @@
                     and 
                     Irene Skricki</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Credit Reporting Act
             </a>
         </li>
@@ -1918,20 +1894,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="jkz3w">The Independent Community Bankers of America has filed an application to create an alternative mortgage disclosure to improve understanding and facilitation of construction loans. The application is open to the public and available for comment through March 29, 2023</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
@@ -1966,20 +1939,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="jkz3w">Hasta el 29 de marzo del 2023 pueden ser enviados los comentarios públicos para crear una declaración hipotecaria alternativa que mejore el entendimiento y facilitación de préstamos a la construcción.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
@@ -2018,20 +1988,17 @@
                     By 
                     Seth Frotman</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
@@ -2079,26 +2046,23 @@
                     and 
                     Ashwin Vasan</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Research
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=auto-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=auto-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Auto loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
@@ -2143,32 +2107,29 @@
                     By 
                     John McNamara</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Access to credit
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Research
             </a>
         </li>
@@ -2213,32 +2174,29 @@
                     By 
                     John McNamara</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Research
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Access to credit
             </a>
         </li>
@@ -2285,14 +2243,11 @@
                     and 
                     Krystle Good</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=servicemembers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Servicemembers
             </a>
         </li>
@@ -2334,14 +2289,11 @@
                     and 
                     Stephanie Osan</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>
@@ -2383,14 +2335,11 @@
                     and 
                     Stephanie Osan</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>
@@ -2432,14 +2381,11 @@
                     and 
                     Stephanie Osan</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>
@@ -2480,26 +2426,23 @@
                     and 
                     Tim Lambert</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=homebuying" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=homebuying" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Homebuying
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=discrimination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=discrimination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Discrimination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Equal Credit Opportunity Act
             </a>
         </li>
@@ -2540,26 +2483,23 @@
                     and 
                     Tim Lambert</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=homebuying" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=homebuying" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Homebuying
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=discrimination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=discrimination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Discrimination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Equal Credit Opportunity Act
             </a>
         </li>
@@ -2601,14 +2541,11 @@
                     and 
                     Stephanie Osan</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>
@@ -2650,14 +2587,11 @@
                     and 
                     Stephanie Osan</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>
@@ -2699,14 +2633,11 @@
                     and 
                     Stephanie Osan</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>
@@ -2745,26 +2676,23 @@
                     By 
                     John McNamara</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=medical-debt" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=medical-debt" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Medical debt
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2806,14 +2734,11 @@
                     and 
                     Stephanie Osan</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>

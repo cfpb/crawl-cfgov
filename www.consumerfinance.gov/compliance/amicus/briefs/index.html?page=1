@@ -1224,7 +1224,7 @@
               >
             Filter amicus briefs
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1422,32 +1422,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The CFPB filed an amicus brief in the U.S. Court of Appeals for the Second Circuit to explain why it should affirm a jury verdict against a mortgage lender who targeted Black and Latino borrowers and neighborhoods with predatory products in violation of the Equal Credit Opportunity Act.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=homebuying" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=homebuying" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Homebuying
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=discrimination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=discrimination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Discrimination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair lending
             </a>
         </li>
@@ -1484,20 +1481,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau filed an amicus brief with the U.S. Court of Appeals for the Eleventh Circuit arguing that the Fair Credit Reporting Act requires an entity that furnishes credit information to a consumer reporting agency (CRA) to perform a reasonable investigation when a consumer disputes the accuracy of information furnished to the CRA, even if the dispute could be characterized as a legal, rather than factual, dispute.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Credit Reporting Act
             </a>
         </li>
@@ -1534,26 +1528,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau filed a Statement of Interest (amicus brief) in U.S. District Court for the Southern District of Florida addressing the Equal Credit Opportunity Act’s prohibition of discriminatory targeting, the act or practice of directing unfair or predatory products or practices at people on a prohibited basis.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=student-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=student-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Student loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Equal Credit Opportunity Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=regulation-b" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=regulation-b" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Regulation B
             </a>
         </li>
@@ -1590,38 +1581,35 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The CFPB and DOJ filed a joint Statement of Interest in the U.S. District Court for the District of Maryland explaining that mortgage lenders violate the Equal Credit Opportunity Act if they rely on an appraisal that they knew, or should have known, was discriminatory when assessing the creditworthiness of an applicant.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair lending
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=discrimination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=discrimination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Discrimination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Equal Credit Opportunity Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=homebuying" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=homebuying" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Homebuying
             </a>
         </li>
@@ -1658,26 +1646,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau filed an amicus brief with the U.S. Court of Appeals for the Fourth Circuit arguing that EFTA’s protections for people who experience errors in their accounts apply to prepaid accounts loaded with government benefits, including unemployment assistance related to the pandemic.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=electronic-payments" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=electronic-payments" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Electronic payments
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=prepaid-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=prepaid-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Prepaid cards
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=regulation-e" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=regulation-e" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Regulation E
             </a>
         </li>
@@ -1714,14 +1699,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau filed an amicus brief with the U.S. Court of Appeals for the Eleventh Circuit, in two related cases, arguing that the Fair Credit Reporting Act requires an entity that furnishes credit information to a consumer reporting agency (CRA) to perform a reasonable investigation when a consumer disputes the accuracy of information furnished to the CRA, even if the dispute could be characterized as a legal, rather than factual, dispute.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Credit Reporting Act
             </a>
         </li>
@@ -1758,26 +1740,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau filed an amicus brief with the U.S. Court of Appeals for the Fourth Circuit arguing that a Truth in Lending Act protection that prohibits banks from taking money from a borrower’s checking or savings account to cover amounts the consumer owes on certain types of debts covers home-equity lines of credit linked to a credit card.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
@@ -1814,20 +1793,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau, joined by the Federal Trade Commission, filed an amicus brief with the U.S. Court of Appeals for the Eleventh Circuit arguing that an American servicemember and his wife who took out a loan to purchase a timeshare have Article III standing to challenge the legality of the loan under the Military Lending Act. The brief argues that the plaintiffs have standing because they were injured when they made a down payment on the loan and their injury is both traceable to the loan and redressable by an order of the court.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=military-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=military-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Military Lending Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=servicemembers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=servicemembers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Servicemembers
             </a>
         </li>
@@ -1864,14 +1840,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau, joined by the Federal Trade Commission, filed an amicus brief with the U.S. Court of Appeals for the Third Circuit arguing that when a consumer reporting agency forwards a consumer’s dispute to the company that furnished the disputed information, the furnisher is required to conduct an investigation. There is no exception to this requirement for disputes that are frivolous or lack adequate support.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
@@ -1908,14 +1881,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau, joined by the Federal Trade Commission, filed an amicus brief with the U.S. Court of Appeals for the Second Circuit arguing that (1) the Fair Credit Reporting Act (FCRA) requires credit reporting agencies to follow reasonable procedures to ensure that consumer reports are both legally and factually accurate, (2) a credit reporting agency’s reliance on information provided by a furnisher does not absolve it of potential liability under this provision of the FCRA.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
@@ -1952,20 +1922,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau filed an amicus brief with the U.S. Court of Appeals for the Eleventh Circuit arguing that (1) the Fair Credit Reporting Act requires furnishers to conduct reasonable investigations of both legal and factual questions posted in consumer disputes, and (2) each time a furnisher fails to reasonably investigate a dispute results in a new statutory violation, with its own statute of limitations.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Credit Reporting Act
             </a>
         </li>
@@ -2002,26 +1969,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau filed an amicus brief with the U.S. Court of Appeals for the Ninth Circuit arguing that Regulation X requires a mortgage loan servicer to respond to a borrower’s request for information regarding the borrower’s loan, including when the information requested does not relate specifically to servicing.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Real Estate Settlement Procedures Act (RESPA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=regulation-x" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=regulation-x" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Regulation X
             </a>
         </li>
@@ -2058,26 +2022,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The government filed an amicus brief with the U.S. Court of Appeals for the Fourth Circuit arguing that the Military Lending Act covers a loan issued to a servicemember when it is used to finance both the purchase of a vehicle and the purchase of a GAP insurance policy.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=military-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=military-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Military Lending Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=auto-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=auto-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Auto loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=servicemembers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=servicemembers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Servicemembers
             </a>
         </li>
@@ -2114,26 +2075,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xkq7k">The Bureau, along with three partner agencies, jointly filed an amicus brief arguing that the “applicants” protected by the Equal Credit Opportunity Act and its implementing rule include those who have received credit.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Equal Credit Opportunity Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair lending
             </a>
         </li>
@@ -2170,20 +2128,17 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau filed an amicus brief arguing that the Fair Debt Collection Practices Act prohibits the collection of pay-to-pay fees (also known as “convenience fees”) where neither the contract creating the debt nor a specific law expressly authorizes the collection of such fees.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Debt Collection Practices Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2220,14 +2175,11 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau, the Federal Trade Commission, and the North Carolina Department of Justice jointly filed an amicus brief with the U.S. Court of Appeals for the Fourth Circuit arguing that Section 230 of the Communications Decency Act does not bar a private plaintiff&#x27;s claims under the Fair Credit Reporting Act.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Credit Reporting Act
             </a>
         </li>
@@ -2264,20 +2216,17 @@
                 <div class="o-post-preview_description">
                     <p>In response to the court’s invitation, the Bureau filed an amicus brief addressing how to interpret a servicer’s obligation under RESPA and its implementing regulation to respond to errors relating to the servicing of a borrower’s mortgage loan.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Real Estate Settlement Procedures Act (RESPA)
             </a>
         </li>
@@ -2314,26 +2263,23 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau filed an amicus brief addressing the Truth in Lending Act’s restriction on mandatory arbitration clauses in home loans and other agreements “relating to” home loans.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=arbitration" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=arbitration" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Arbitration
             </a>
         </li>
@@ -2370,14 +2316,11 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau filed an amicus brief arguing that the Fair Credit Reporting Act does not exempt “legal disputes” from its requirement that furnishers of information to consumer reporting agencies must reasonably investigate disputes about information they furnished.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Credit Reporting Act
             </a>
         </li>
@@ -2414,20 +2357,17 @@
                 <div class="o-post-preview_description">
                     <p>The government filed a brief with the Supreme Court in TransUnion v. Ramirez, arguing that a plaintiff class had Article III standing to sue under the Fair Credit Reporting Act where the defendant produced consumer reports that erroneously designated the class members as individuals who are legally barred from transacting business in the United States.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Credit Reporting Act
             </a>
         </li>
@@ -2464,20 +2404,17 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau filed an amicus brief with the U.S. Court of Appeals for the Third Circuit arguing that a debt collector does not violate the Fair Debt Collection Practices Act when it accurately states in an itemization of a consumer’s debt that $0.00 in interest and collection fees have been applied to the debt.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Debt Collection Practices Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2514,20 +2451,17 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau and the FTC jointly filed an amicus brief arguing that the “applicants” protected by the Equal Credit Opportunity Act and its implementing rule include those who have received credit.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=equal-credit-opportunity-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Equal Credit Opportunity Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair lending
             </a>
         </li>
@@ -2564,20 +2498,17 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau filed an amicus brief with the U.S. Court of Appeals for the Seventh Circuit arguing that a debt collector does not violate the Fair Debt Collection Practices Act when it accurately itemizes the interest and fees that are included in a consumer’s debt.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Debt Collection Practices Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2614,20 +2545,17 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau filed a motion in the Maryland Court of Appeals seeking permission to file a brief in Linton v. Consumer Protection Division, arguing that the court should not permit the approval of a class-action settlement agreement that threatens to interfere with the Bureau’s authority under the Consumer Financial Protection Act by purporting to release the Bureau’s claims in a pending Bureau enforcement action, to enjoin class members from receiving any benefits from the Bureau’s action, and to assign to the parties who caused the class members’ injuries all benefits the Bureau may obtain for class members in that action.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=civil-penalty-fund" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=civil-penalty-fund" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Civil Penalty Fund
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
@@ -2664,14 +2592,11 @@
                 <div class="o-post-preview_description">
                     <p>The Bureau filed a brief in the Third Circuit arguing that section 1042 of the Consumer Financial Protection Act, which permits states to bring actions to enforce the CFPA, does not prohibit a state from bringing an action against a defendant merely because the Bureau has already brought an action against the same defendant.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/amicus/briefs/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>

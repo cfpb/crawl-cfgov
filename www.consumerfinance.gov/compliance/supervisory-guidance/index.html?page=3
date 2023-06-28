@@ -1255,7 +1255,7 @@
               >
             Filter supervisory guidance documents
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1427,14 +1427,11 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Compliance Bulletin 2015-07</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -1461,20 +1458,17 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2015-06<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=electronic-payments" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=electronic-payments" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Electronic payments
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
@@ -1501,14 +1495,11 @@
                 <div class="o-post-preview_description">
                     <p>Process for appeals of supervisory matters. (Includes CFPB Bulletin 2012-07 and Revised Process documents).</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=supervision" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Supervision
             </a>
         </li>
@@ -1535,20 +1526,17 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2015-05<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Real Estate Settlement Procedures Act (RESPA)
             </a>
         </li>
@@ -1575,20 +1563,17 @@
                 <div class="o-post-preview_description">
                     <p>Compliance bulletin posted in the Federal Register.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=interstate-land-sales-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=interstate-land-sales-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Interstate Land Sales Act
             </a>
         </li>
@@ -1615,20 +1600,17 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2015-03</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
@@ -1655,20 +1637,17 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2015-02</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair lending
             </a>
         </li>
@@ -1695,20 +1674,17 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2015-01</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=supervision" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Supervision
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=privacy" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=privacy" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Privacy
             </a>
         </li>
@@ -1735,14 +1711,11 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2014-03</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair lending
             </a>
         </li>
@@ -1769,14 +1742,11 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2014-02</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
@@ -1803,26 +1773,23 @@
                 <div class="o-post-preview_description">
                     <p>Interagency guidance regarding unfair or deceptive credit practices.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Access to credit
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair lending
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=deceptive-practices" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=deceptive-practices" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Deceptive practices
             </a>
         </li>
@@ -1849,20 +1816,17 @@
                 <div class="o-post-preview_description">
                     <p>Compliance bulletin and policy guidance regarding mortgage servicing transfers. (CFPB Bulletin 2014-01 and superseded CFPB Bulletin 2013-01)</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
@@ -1889,20 +1853,17 @@
                 <div class="o-post-preview_description">
                     <p>Policy guidance on supervisory and enforcement considerations relevant to mortgage brokers transitioning to mini-correspondent lenders.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
@@ -1929,14 +1890,11 @@
                 <div class="o-post-preview_description">
                     <p>Application of Regulation Z’s Ability-to-Repay rule to certain situations involving successors-in-interest.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
@@ -1963,14 +1921,11 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2014-01</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
@@ -1997,14 +1952,11 @@
                 <div class="o-post-preview_description">
                     <p>Federal Financial Institutions Examination Council (FFIEC) final supervisory guidance entitled “Social Media: Consumer Compliance Risk Management Guidance”<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=supervision" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=supervision" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Supervision
             </a>
         </li>
@@ -2031,32 +1983,29 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2013-13</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=housing-counselor" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=housing-counselor" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Housing counselor
             </a>
         </li>
@@ -2083,32 +2032,29 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2013-12</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=real-estate-settlement-procedures-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Real Estate Settlement Procedures Act (RESPA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
@@ -2135,26 +2081,23 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2013-11</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=home-mortgage-disclosure-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Home Mortgage Disclosure Act
             </a>
         </li>
@@ -2181,20 +2124,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="ue990">Issued with the Board of Governors of the Federal Reserve System, Commodity Futures Trading Commission, Federal Deposit Insurance Corporation, Federal Trade Commission, National Credit Union Administration, Office of the Comptroller of the Currency, and Securities and Exchange Commission.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=privacy" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=privacy" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Privacy
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=older-americans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=older-americans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Older Americans
             </a>
         </li>
@@ -2221,20 +2161,17 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2013-10</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=electronic-payments" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=electronic-payments" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Electronic payments
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=money-transfers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=money-transfers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Money transfers
             </a>
         </li>
@@ -2261,14 +2198,11 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2013-09</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
@@ -2295,14 +2229,11 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2013-07</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2329,20 +2260,17 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2013-08</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2369,14 +2297,11 @@
                 <div class="o-post-preview_description">
                     <p>CFPB Bulletin 2013-05</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>

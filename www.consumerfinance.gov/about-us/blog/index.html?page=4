@@ -1169,7 +1169,7 @@
               >
             Filter posts
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1484,14 +1484,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="jkz3w">Los consumidores recibirán cheques provenientes de nuestra acción de cumplimiento de ley contra cinco compañías de alivio de deuda de préstamos estudiantiles, asociadas a Monster Loan y Tech Loans, por violar leyes de protección al consumidor</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=civil-penalty-fund" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=civil-penalty-fund" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Civil Penalty Fund
             </a>
         </li>
@@ -1532,14 +1529,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="jkz3w">Consumers will receive checks in the mail from the CFPB’s enforcement action against five student loan debt relief companies.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=civil-penalty-fund" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=civil-penalty-fund" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Civil Penalty Fund
             </a>
         </li>
@@ -1580,26 +1574,23 @@
                     and 
                     Edwin Walker</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=medical-debt" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=medical-debt" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Medical debt
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=older-americans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=older-americans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Older Americans
             </a>
         </li>
@@ -1640,20 +1631,17 @@
                     and 
                     Cheryl Parker Rose</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=consumer-complaints" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
@@ -1700,26 +1688,23 @@
                     and 
                     Edwin Walker</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=older-americans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=older-americans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Older Americans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=medical-debt" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=medical-debt" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Medical debt
             </a>
         </li>
@@ -1758,20 +1743,17 @@
                     By 
                     Seth Frotman</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -1813,14 +1795,11 @@
                     and 
                     Timothy Lambert</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=home-mortgage-disclosure-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Home Mortgage Disclosure Act
             </a>
         </li>
@@ -1863,20 +1842,17 @@
                     and 
                     Ashwin Vasan</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Research
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=auto-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=auto-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Auto loans
             </a>
         </li>
@@ -1915,14 +1891,11 @@
                     By 
                     Wendy Kamenshine</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=cfpb-ombudsman" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=cfpb-ombudsman" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 CFPB Ombudsman
             </a>
         </li>
@@ -1961,44 +1934,41 @@
                     By 
                     Feng Liu</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Research
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=homebuying" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=homebuying" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Homebuying
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=office-of-research-publication" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=office-of-research-publication" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Office of Research Publication
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=home-mortgage-disclosure-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Home Mortgage Disclosure Act
             </a>
         </li>
@@ -2037,20 +2007,17 @@
                     By 
                     Seth Frotman</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
@@ -2091,20 +2058,17 @@
                     and 
                     Jim Rice</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=military-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=military-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Military Lending Act
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=servicemembers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=servicemembers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Servicemembers
             </a>
         </li>
@@ -2145,20 +2109,17 @@
                     and 
                     Cheryl Parker Rose</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=consumer-complaints" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
@@ -2201,20 +2162,17 @@
                     and 
                     Ashwin Vasan</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Research
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=auto-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=auto-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Auto loans
             </a>
         </li>
@@ -2249,20 +2207,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="vknpn">Today, we finalized changes to our procedural rule related to nonbank supervision based on a risk determination.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=supervision" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=supervision" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Supervision
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -2303,26 +2258,23 @@
                     and 
                     Christa Gibbs</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=student-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=student-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Student loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=office-of-research-publication" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=office-of-research-publication" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Office of Research Publication
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Research
             </a>
         </li>
@@ -2357,20 +2309,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="vknpn">The CFPB is seeking additional public input on companies’ acceptable use policies and their use of fines, liquidated damages provisions, and other penalties.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=financial-service-providers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial service providers
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
@@ -2411,26 +2360,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="vknpn">Esta semana hemos alcanzado los tres millones de quejas contenidas en nuestra base de datos pública. Esta acumulación de quejas representa 10 años de trabajo compartiendo las experiencias de los consumidores, para aumentar así nuestra transparencia y crear responsabilidades frente al público al clarificar los problemas que enfrentan los consumidores.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=everyone-has-a-story" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=everyone-has-a-story" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Everyone has a story
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=consumer-complaints" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=bureau-milestones" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=bureau-milestones" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Bureau milestones
             </a>
         </li>
@@ -2471,20 +2417,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="vknpn">Hoy, hemos anunciado la reapertura por 30 días del plazo para recibir comentarios del público y hemos agregado nuevas preguntas, sobre las plataformas de pago de las compañías “big tech.”</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=financial-service-providers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial service providers
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
@@ -2529,44 +2472,41 @@
                     By 
                     Darian Dorsey</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=consumer-report" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=consumer-report" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer report
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=everyone-has-a-story" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=everyone-has-a-story" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Everyone has a story
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=medical-debt" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=medical-debt" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Medical debt
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=bureau-milestones" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=bureau-milestones" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Bureau milestones
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=consumer-complaints" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=debt-collection" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
             </a>
         </li>
@@ -2601,14 +2541,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="vknpn">People who were charged illegal fees by Howard Law, P.C. for seeking debt relief may receive compensation from the CFPB.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=civil-penalty-fund" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=civil-penalty-fund" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Civil Penalty Fund
             </a>
         </li>
@@ -2647,14 +2584,11 @@
                     By 
                     Kristen Evans</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=civil-penalty-fund" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=civil-penalty-fund" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Civil Penalty Fund
             </a>
         </li>
@@ -2696,20 +2630,17 @@
                     and 
                     Tim Lambert</a>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=financial-service-providers" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=financial-service-providers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial service providers
             </a>
         </li>
@@ -2744,14 +2675,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="yrkqb">Una vez que usted haya atendido sus necesidades más urgentes, hay pasos que puede seguir para asegurar sus finanzas personales luego de los huracanes Fiona e Ian.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Disasters and emergencies
             </a>
         </li>
@@ -2786,14 +2714,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="t31cu">Once you have addressed your most urgent needs, there are steps to secure your finances after Hurricanes Fiona and Ian.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Disasters and emergencies
             </a>
         </li>

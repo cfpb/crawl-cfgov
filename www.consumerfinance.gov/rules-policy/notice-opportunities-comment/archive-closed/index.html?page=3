@@ -1223,7 +1223,7 @@
               >
             Filter archived notices
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1473,32 +1473,29 @@ is a request for OMB to renew approval without change for the information
 collections in Regulation G the Secure and Fair Enforcement for Mortgage
 Licensing Act (the S.A.F.E. Act)</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-origination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-origination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage origination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-g" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-g" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Regulation G
             </a>
         </li>
@@ -1534,14 +1531,11 @@ Licensing Act (the S.A.F.E. Act)</p>
 is a request for OMB to renew approval without change for the information
 collections in<b> </b>Consumer Leasing Act (Regulation M) 12 CFR 1013.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-m" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-m" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Regulation M
             </a>
         </li>
@@ -1578,26 +1572,23 @@ is a request for OMB to renew approval without change for the information
 collections in “Mortgage Acts And
 Practices (Regulation N) 12 CFR 1014.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-n" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-n" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Regulation N
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
@@ -1631,26 +1622,23 @@ Practices (Regulation N) 12 CFR 1014.<br/></p>
                 <div class="o-post-preview_description">
                     <p>This is a request for OMB to renew approval without change for the information collections in "Mortgage Assistance Relief Services (Regulation O) 12 CFR 1015."<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-o" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-o" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Regulation O
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
@@ -1684,26 +1672,23 @@ Practices (Regulation N) 12 CFR 1014.<br/></p>
                 <div class="o-post-preview_description">
                     <p>In accordance with the Paperwork Reduction Act of 1995 (PRA), the Bureau of Consumer Financial Protection (Bureau) is proposing to renew the Office of Management and Budget (OMB) approval for an existing information collection, titled, “Consumer and College Credit Card Agreements.”</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-card-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-card-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit CARD Act
             </a>
         </li>
@@ -1741,14 +1726,11 @@ requesting to renew the Office of Management and Budget (OMB) approval for an
 existing information collection titled, “Consumer Complaint Intake System
 Company Portal Boarding Form Information Collection System.” </p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-complaints" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
             </a>
         </li>
@@ -1782,14 +1764,11 @@ Company Portal Boarding Form Information Collection System.” </p>
                 <div class="o-post-preview_description">
                     <p data-block-key="l9ec7">The Consumer Financial Protection Bureau is issuing a call for evidence to ensure the Bureau is fulfilling its proper and appropriate functions to best protect consumers. The Bureau will be publishing in the Federal Register a series of Requests for Information (RFIs) seeking comment on enforcement, supervision, rulemaking, market monitoring, and education activities. These RFIs will provide an opportunity for the public to submit feedback and suggest ways to improve outcomes for both consumers and covered entities.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
@@ -1826,26 +1805,23 @@ Financial Protection (Bureau) is seeking comments and information from
 interested parties to assist the Bureau in considering whether any changes to
 the Bureau’s enforcement processes would be appropriate.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
@@ -1879,20 +1855,17 @@ the Bureau’s enforcement processes would be appropriate.<br/></p>
                 <div class="o-post-preview_description">
                     <p data-block-key="uowra">The Bureau is seeking comments and information to assist us in assessing potential changes to our handling of consumer complaints and inquiries.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-complaints" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
@@ -1928,26 +1901,23 @@ the Bureau’s enforcement processes would be appropriate.<br/></p>
 Bureau of Consumer Financial Protection (Bureau) is seeking comments and
 information to assist the Bureau in assessing its financial education programs.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-well-being" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-well-being" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial well-being
             </a>
         </li>
@@ -1985,20 +1955,17 @@ the Bureau in assessing the overall effectiveness and accessibility of its
 guidance materials and activities (including implementation support) to members
 of the general public, including regulated entities.  .</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
@@ -2038,20 +2005,17 @@ the Federal consumer financial laws, the Bureau should amend the regulations or
 exercise the rulemaking authorities that it inherited from certain other
 Federal agencies.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -2090,20 +2054,17 @@ whether, consistent with its statutory authority to prescribe rules pursuant to
 the Federal consumer financial laws, the Bureau should amend those rules it has
 promulgated since its creation or issue certain new rules.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -2142,26 +2103,23 @@ overall efficiency and effectiveness of its rulemaking processes and,
 consistent with law, considering whether any changes to its rulemaking
 processes would be appropriate.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=sbrefa" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=sbrefa" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 SBREFA
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -2199,20 +2157,17 @@ potential changes that can be implemented to the Bureau’s public reporting
 practices of consumer complaint information, consistent with law, to consider
 whether any changes to the practices would be appropriate.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-complaints" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
@@ -2246,14 +2201,11 @@ whether any changes to the practices would be appropriate.<br/></p>
                 <div class="o-post-preview_description">
                     <p>The Bureau of Consumer Financial Protection (Bureau) seeks comments and information from interested parties to assist the Bureau in assessing its public and non-public external engagements, including but not limited to field hearings, town halls, roundtables, and meetings of the Advisory Board and Councils.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
@@ -2287,32 +2239,29 @@ whether any changes to the practices would be appropriate.<br/></p>
                 <div class="o-post-preview_description">
                     <p>The Bureau of Consumer Financial Protection (Bureau) is seeking comments and information from interested parties to assist the Bureau in assessing the overall efficiency and effectiveness of its supervision program and whether any changes to the program would be appropriate.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=supervision" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=supervision" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Supervision
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
@@ -2349,26 +2298,23 @@ Financial Protection (Bureau) is seeking comments and information from
 interested parties to assist the Bureau in considering whether and how to amend
 the Bureau’s Rules of Practice for Adjudication Proceedings.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
@@ -2406,26 +2352,23 @@ potential changes that can be implemented to the Bureau’s Civil Investigative
 Demand (CID) processes, consistent with law, to consider whether any changes to
 the processes would be appropriate.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Call for evidence
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
             </a>
         </li>
@@ -2461,20 +2404,17 @@ the processes would be appropriate.</p>
 consumers are having with access to free credit scores and the experience of
 companies, and nonprofits, offering free access to credit scores.  </p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
@@ -2511,20 +2451,17 @@ Bureau is updating a list of companies that told us they offer credit card custo
 free access to a credit score. Responses received to this notice will be used
 to publish an updated list.  </p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit cards
             </a>
         </li>
@@ -2563,14 +2500,11 @@ existing information collection, titled, “Generic Information Collection Plan
 for Studies of Consumers using Controlled Trials in Field and Economic
 Laboratory Settings.”</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Research
             </a>
         </li>
@@ -2607,32 +2541,29 @@ issued in 2016 relating to the timing for mortgage servicers to transition to pr
 unmodified periodic statements and coupon books in connection with a consumer’s
 bankruptcy case.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Truth in Lending Act (TILA)
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgage servicing
             </a>
         </li>
@@ -2670,26 +2601,23 @@ the loan-level HMDA data that financial institutions will report under the Home
 Mortgage Disclosure (Regulation C) before the data is disclosed to the
 public.  </p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=privacy" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=privacy" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Privacy
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=home-mortgage-disclosure-act" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Home Mortgage Disclosure Act
             </a>
         </li>
@@ -2728,14 +2656,11 @@ approval for an existing information collection titled, ‘‘Generic Informatio
 Collection Plan for Consumer Complaint and Information Collection System
 (Testing and Feedback).’’</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-complaints" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
             </a>
         </li>

@@ -1257,7 +1257,7 @@
               >
             Filter enforcement actions
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1424,13 +1424,44 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">327 filtered results</div>
+          <div class="h4 m-notification_message">328 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2020-12-18T00:00:00">DEC 18, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/seterus-inc/">
+                    Seterus, Inc. and Kyanite Services, Inc.
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>On December 18, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against Seterus, Inc. (Seterus), a former mortgage servicer based in North Carolina, and Kyanite Services, Inc. (Kyanite).</p>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </span>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -1471,11 +1502,20 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="j0rig">On[DP1] December 9, 2020, the Bureau filed a lawsuit in the United States District Court for the Western District of Missouri against BounceBack, Inc.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1499,11 +1539,14 @@
                 <div class="o-post-preview_description">
                     <p>On December 8, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against RAB Performance Recoveries, LLC (RAB) threatening to sue and suing to collect debts where it did not have a legally required license to do so.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1527,11 +1570,14 @@
                 <div class="o-post-preview_description">
                     <p>On December 7, 2020, the Consumer Financial Protection Bureau (Bureau) filed a complaint and proposed stipulated judgment and order against Nationstar Mortgage, LLC, which does business as Mr. Cooper (Nationstar).</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1576,11 +1622,20 @@
                 <div class="o-post-preview_description">
                     <p>On December 1, the Consumer Financial Protection Bureau (Bureau) filed a lawsuit in the United States District Court for the District of Massachusetts against DMB Financial, LLC (DMB).</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1604,11 +1659,14 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="3sff4">On November 20, 2020, the Consumer Financial Protection Bureau (Bureau) filed a lawsuit against FDATR, Inc. (FDATR), and its owners, Dean Tucci and Kenneth Wayne Halverson.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1632,11 +1690,14 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="n9fba">On November 20, 2020, the Bureau issued a consent order against U.S. Equity Advantage, Inc. (USEA) and its owner, Robert M. Steenbergh. Robert M. Steenbergh is the founder, sole-owner, and chief executive officer of USEA, a nonbank located in Orlando, Florida.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1660,11 +1721,20 @@
                 <div class="o-post-preview_description">
                     <p>On November 12, 2020, the Bureau issued a consent order against Afni, Inc., a non-bank third-party debt collector located based in Illinois that specializes in collecting telecommunications debt.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1688,11 +1758,14 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="no2y6">On November 5, 2020, the Bureau filed a lawsuit in the federal district court for the Central District of California against Performance SLC, LLC (PSLC), a California debt-relief business focused on federal student loan debt; Performance Settlement, LLC (PSettlement), a California debt-settlement company; and Daniel Crenshaw, the owner and CEO of the two companies.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1716,11 +1789,20 @@
                 <div class="o-post-preview_description">
                     <p>On November 5, 2020, the Consumer Financial Protection Bureau (Bureau) filed a lawsuit against Driver Loan, LLC and its Chief Executive Officer, Angelo Jose Sarjeant, for violations of the Consumer Financial Protection Act of 2010 (CFPA).</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Small-dollar loans
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1744,11 +1826,14 @@
                 <div class="o-post-preview_description">
                     <p>On November 2, 2020, the Bureau issued a consent order against SMART Payment Plan, LLC (SMART), a limited liability company with its principal place of business in Austin, Texas.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1772,11 +1857,20 @@
                 <div class="o-post-preview_description">
                     <p>On October 27, 2020, the Consumer Financial Protection Bureau (Bureau) settled with Washington Federal Bank, N.A., a federally insured, for-profit national bank headquartered in Seattle, Washington.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1800,11 +1894,20 @@
                 <div class="o-post-preview_description">
                     <p>On October 26, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against Low VA Rates, LLC (Low VA Rates), a Utah-based mortgage lender and broker incorporated in Colorado and licensed in 48 states and the District of Columbia.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1828,11 +1931,20 @@
                 <div class="o-post-preview_description">
                     <p>On October 13, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against Nissan Motor Acceptance Corporation (Nissan), an auto financing subsidiary of Nissan North America, Inc., which services auto loans and leases originated by Nissan and Infiniti dealerships nationwide.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Auto loans
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1856,11 +1968,20 @@
                 <div class="o-post-preview_description">
                     <p>On September 21, 2020, the Bureau issued a consent order against Lobel Financial Corporation, an auto-loan servicer based in Anaheim, California.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Auto loans
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1884,11 +2005,20 @@
                 <div class="o-post-preview_description">
                     <p>On September 15, 2020, the Consumer Financial Protection Bureau (Bureau) filed a proposed stipulated judgment against PEAKS Trust 2009-1, along with Deutsche Bank National Trust Company, Deutsche Bank Trust Company Delaware, and Deutsche Bank Trust Company Americas, in their capacity as trustees to PEAKS Trust 2009-1 (collectively, PEAKS).</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Students
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1912,11 +2042,20 @@
                 <div class="o-post-preview_description">
                     <p>On September 14, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against ClearPath Lending, Inc. (ClearPath), a California corporation that is licensed as a mortgage broker or lender in about 22 states.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1940,11 +2079,20 @@
                 <div class="o-post-preview_description">
                     <p>On October 15, 2020, the Consumer Financial Protection Bureau (Bureau) filed a proposed stipulated final judgment and order to settle its lawsuit against Encore Capital Group, Inc., and its subsidiaries, Midland Funding, LLC; Midland Credit Management, Inc.; and Asset Acceptance Capital Corp.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1968,11 +2116,20 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="oe9ft">On September 8, 2020, the Consumer Financial Protection Bureau (Bureau), in partnership with the New York Attorney General, filed suit in the federal district court for the Western District of New York against a network of five different companies based outside of Buffalo, New York, two of their owners, and two of their managers, for their participation in a debt-collection operation using illegal methods to collect debts.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1996,11 +2153,20 @@
                 <div class="o-post-preview_description">
                     <p>On September 2, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against Accelerate Mortgage, LLC (Accelerate), a Delaware limited liability corporation that is licensed as a mortgage broker and lender in about 31 states.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -2024,11 +2190,20 @@
                 <div class="o-post-preview_description">
                     <p>On September 1, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against Service 1st Mortgage, Inc. (Service 1st), a Maryland-based corporation that is licensed as a mortgage broker or lender in about 12 states.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -2052,11 +2227,20 @@
                 <div class="o-post-preview_description">
                     <p>On September 1, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against Hypotec, Inc., a Miami-based corporation that is licensed as a mortgage broker or lender in eight states. Hypotec offers and provides mortgage loans guaranteed by the United States Department of Veterans Affairs (VA).</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -2080,39 +2264,20 @@
                 <div class="o-post-preview_description">
                     <p>On August 31, 2020, the Bureau issued a consent order against Sigue Corporation and its subsidiaries, SGS Corporation and GroupEx Corporation, which are all headquartered in Sylmar, California and provide consumers with international money-transfer services, including remittance-transfer services. Sigue and its subsidiaries have a distribution network with over 200,000 send-and-receive locations, offices in 18 countries, and operations in all 50 states.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2020-08-31T00:00:00">AUG 31, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/trans-fast-remittance-llc/">
-                    Trans-Fast Remittance LLC
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>On August 31, 2020, the Bureau issued a Consent Order against Trans-Fast Remittance LLC (Trans-Fast). Trans-Fast, which until recently was a remittance transfer provider, is based in New York, New York and licensed in over 30 states.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Money transfers
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -2227,6 +2392,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/cfpb-takes-action-aci-worldwide-illegally-processing-2-3-billion-mortgage-payments-homeowners-did-not-authorize/">
+                        CFPB Takes Action Against ACI Worldwide for Illegally Processing $2.3 Billion in Mortgage Payments that Homeowners Did Not Authorize
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2023-06-27T00:00:00">JUN 27, 2023</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/cfpb-takes-action-against-phoenix-financial-services-for-illegal-medical-debt-collection-and-credit-reporting-practices/">
                         CFPB Takes Action Against Phoenix Financial Services for Illegal Medical Debt Collection and Credit Reporting Practices
                     </a>
@@ -2245,18 +2422,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2023-05-31T00:00:00">MAY 31, 2023</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/cfpb-action-require-citizens-bank-pay-9-million-unlawful-credit-card-servicing/">
-                        CFPB Action to Require Citizens Bank to Pay $9 Million Penalty for Unlawful Credit Card Servicing
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2023-05-23T00:00:00">MAY 23, 2023</time>
 </span>
                 </p>
             </li>

@@ -1172,7 +1172,7 @@
               >
             Search for researchers by name or filter by topic of expertise
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1282,32 +1282,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="fivy7">Senior Economist<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=applied-econometrics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=applied-econometrics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Applied econometrics
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Access to credit
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=labor-economics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=labor-economics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Labor economics
             </a>
         </li>
@@ -1327,38 +1324,35 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="cl06m">Senior Economist</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=mortgages" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=aging" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=aging" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Aging
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=credit-reports-and-scores" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=urban-or-regional-economics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=urban-or-regional-economics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Urban or regional economics
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=real-estate-economics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=real-estate-economics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Real estate economics
             </a>
         </li>
@@ -1378,38 +1372,35 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="2llp1">Senior Economist<br/><br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Access to credit
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=public-finance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=public-finance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Public finance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=applied-econometrics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=applied-econometrics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Applied econometrics
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=industrial-organization" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=industrial-organization" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Industrial organization
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=applied-microeconomics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=applied-microeconomics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Applied microeconomics
             </a>
         </li>
@@ -1429,32 +1420,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="4ng7r">Economist<br/><br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=applied-econometrics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=applied-econometrics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Applied econometrics
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=labor-economics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=labor-economics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Labor economics
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=public-finance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=public-finance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Public finance
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=behavioral-economics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=behavioral-economics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Behavioral economics
             </a>
         </li>
@@ -1474,32 +1462,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="wts7x">Economist<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=applied-econometrics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=applied-econometrics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Applied econometrics
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=labor-economics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=labor-economics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Labor economics
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=applied-microeconomics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=applied-microeconomics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Applied microeconomics
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=public-finance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=public-finance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Public finance
             </a>
         </li>
@@ -1519,14 +1504,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="nfm9z">Deputy Assistant Director<br/><br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=industrial-organization" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=industrial-organization" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Industrial organization
             </a>
         </li>
@@ -1546,32 +1528,29 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="tbbts">Economist<br/><br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=discrimination" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=discrimination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Discrimination
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=access-to-credit" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Access to credit
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=applied-microeconomics" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=applied-microeconomics" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Applied microeconomics
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/data-research/cfpb-researchers/?topics=public-finance" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/data-research/cfpb-researchers/?topics=public-finance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Public finance
             </a>
         </li>

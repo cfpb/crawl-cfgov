@@ -1226,7 +1226,7 @@
               >
             Filter archived events
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1514,14 +1514,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="xvcqb">On March 3, 2022 from 12:00 – 1:30 pm ET the Consumer Financial Protection Bureau, with special guest United States Senator Jon Ossoff, will host a public event consisting of expert panelists who will discuss the complex set of challenges Georgians face when it comes to medical debt.</p><p data-block-key="av0br">The event is open to the public and will be streamed live on the Bureau’s YouTube channel.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=medical-debt" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=medical-debt" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Medical debt
             </a>
         </li>
@@ -1563,26 +1560,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="ouzko">Join Consumer Financial Protection Bureau (CFPB), Office of Federal Student Aid (FSA), and The Institute of Student Loan Advisors (TILSA) as we layout the steps to qualify and apply for Public Service Loan Forgiveness (PSLF). We will be hosting a webinar designed to help you understand the requirements and give you practical tips to help you get on track to achieve loan forgiveness.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=student-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=student-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Student loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=students" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=students" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Students
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>
@@ -1624,14 +1618,11 @@
                 <div class="o-post-preview_description">
                     <p>The Academic Research Council will discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority. The Academic Research Council will also discuss research methodologies related to small business lending and assist with providing analysis on incorporating racial and economic equity.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=academic-research-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=academic-research-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Academic Research Council
             </a>
         </li>
@@ -1673,20 +1664,17 @@
                 <div class="o-post-preview_description">
                     <p>The Community Bank Advisory Council and the Credit Union Advisory Council will meet and discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority. Discussions will include Section 1071 NPRM, Age Friendly Banking, and Youth Financial Literacy K-12 .</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit Union Advisory Council
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Community Bank Advisory Council
             </a>
         </li>
@@ -1728,26 +1716,23 @@
                 <div class="o-post-preview_description">
                     <p>The Consumer Financial Protection Bureau (CFPB), Office of Federal Student Aid (FSA), and The Institute of Student Loan Advisors (TILSA) will be hosting a webinar designed to help understand the requirements of the Public Service Loan Forgiveness (PSLF) program and give you practical tips to help you get on track to achieve loan forgiveness.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=student-loans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=student-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Student loans
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=students" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=students" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Students
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>
@@ -1789,14 +1774,11 @@
                 <div class="o-post-preview_description">
                     <p>The Consumer Advisory Board will discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority. Discussions will include Section 1071 NPRM, Age Friendly Banking, and Appraisal and Valuation Bias.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer Advisory Board
             </a>
         </li>
@@ -1838,14 +1820,11 @@
                 <div class="o-post-preview_description">
                     <p>The ARC will discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority. The ARC will also discuss research methodologies and assist with providing direction for consumer finance research at the Bureau.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=academic-research-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=academic-research-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Academic Research Council
             </a>
         </li>
@@ -1887,20 +1866,17 @@
                 <div class="o-post-preview_description">
                     <p>The Community Bank Advisory Council and the Credit Union Advisory Council will meet and discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority. Discussions will include recent Bureau initiatives related to the COVID-19 pandemic and trends and themes in the mortgage, and student lending marketplace.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit Union Advisory Council
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Community Bank Advisory Council
             </a>
         </li>
@@ -1942,14 +1918,11 @@
                 <div class="o-post-preview_description">
                     <p>The CAB will discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority. Discussions will include recent Bureau initiatives related to the COVID-19 recovery and trends and themes in the mortgage, and student lending marketplace.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer Advisory Board
             </a>
         </li>
@@ -2064,20 +2037,17 @@
                 <div class="o-post-preview_description">
                     <p>On January 5, 2021, the Bureau will host an event to share the findings, analyses, and recommendations of the Taskforce on Federal Consumer Financial Law, followed by facilitated questions and answers with the CFPB’s Consumer Advisory Board Chair, Eric Kaplan.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=taskforce-on-federal-consumer-financial-law" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=taskforce-on-federal-consumer-financial-law" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Taskforce on Federal Consumer Financial Law
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=reports" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=reports" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Reports
             </a>
         </li>
@@ -2119,14 +2089,11 @@
                 <div class="o-post-preview_description">
                     <p>The council will meet to discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority. The ARC will also discuss methodologies and assist with providing direction for consumer finance research at the Bureau.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=academic-research-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=academic-research-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Academic Research Council
             </a>
         </li>
@@ -2168,26 +2135,23 @@
                 <div class="o-post-preview_description">
                     <p>The Board and Council’s will meet and discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority; including discussions on recent Bureau initiatives and mortgage market trends and themes specifically related to the impacts of COVID-19.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit Union Advisory Council
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Community Bank Advisory Council
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer Advisory Board
             </a>
         </li>
@@ -2229,14 +2193,11 @@
                 <div class="o-post-preview_description">
                     <p>Public meeting of the <b>Financial Literacy and Education Commission</b> (FLEC) to address the <a class="a-link a-link__icon" href="https://home.treasury.gov/system/files/136/US-National-Strategy-Financial-Literacy-2020.pdf#_blank"><span class="a-link_text">National Strategy for Financial Literacy 2020</span> <svg class="cf-icon-svg cf-icon-svg__external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554zM8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a> and response to the COVID-19 emergency.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=financial-education" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial education
             </a>
         </li>
@@ -2278,14 +2239,11 @@
                 <div class="o-post-preview_description">
                     <p>The council will meet to discuss research methodologies, assist with providing direction for consumer finance research at the Bureau, and discuss the impact of COVID-19 pandemic on consumers and the financial markets.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=academic-research-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=academic-research-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Academic Research Council
             </a>
         </li>
@@ -2327,26 +2285,23 @@
                 <div class="o-post-preview_description">
                     <p>The advisory committees will meet and discuss broad policy matters related to the Bureau’s Unified Regulatory Agenda and general scope of authority; including discussions on recent Bureau initiatives and the impact of the COVID-19 pandemic on consumers and financial markets.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit Union Advisory Council
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Community Bank Advisory Council
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer Advisory Board
             </a>
         </li>
@@ -2388,26 +2343,23 @@
                 <div class="o-post-preview_description">
                     <p>The advisory committees will meet with the Bureau’s Taskforce on Federal Consumer Financial Law to share recommendations on improvements to the current state of federal consumer protection laws, regulations, and practices. This meeting is part of the Taskforce’s ongoing public outreach effort to solicit feedback to inform its work.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=credit-union-advisory-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit Union Advisory Council
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=community-bank-advisory-council" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Community Bank Advisory Council
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=consumer-advisory-board" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer Advisory Board
             </a>
         </li>
@@ -2449,14 +2401,11 @@
                 <div class="o-post-preview_description">
                     <p>The Consumer Financial Protection Bureau will hold a virtual symposium on the use of cost benefit analysis in consumer financial protection regulation.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=rulemaking" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Rulemaking
             </a>
         </li>
@@ -2498,20 +2447,17 @@
                 <div class="o-post-preview_description">
                     <p>Director Kraninger will participate in a “virtual coffee break” with the National Diversity Coalition and the National Asian American Coalition to discuss consumer protections related to mortgages and COVID-related issues.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=disasters-and-emergencies" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=disasters-and-emergencies" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Disasters and emergencies
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=diversity-and-inclusion" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=diversity-and-inclusion" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Diversity and inclusion
             </a>
         </li>
@@ -2553,14 +2499,11 @@
                 <div class="o-post-preview_description">
                     <p>The Office of Consumer Response will present the latest enhancements to the Bureau’s public-facing Consumer Complaint Database, including an all new trends feature that will enable users to view and analyze complaint data over time to help the marketplace understand current and recent conditions.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=consumer-complaints" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=consumer-complaints" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Consumer complaints
             </a>
         </li>
@@ -2602,20 +2545,17 @@
                 <div class="o-post-preview_description">
                     <p>The Taskforce will present a high-level overview of the Taskforce’s mission, highlight trends from the comments received from the Request for Information and other public research.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=taskforce-on-federal-consumer-financial-law" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=taskforce-on-federal-consumer-financial-law" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Taskforce on Federal Consumer Financial Law
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=research" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Research
             </a>
         </li>

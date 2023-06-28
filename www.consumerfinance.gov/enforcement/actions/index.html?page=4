@@ -1257,7 +1257,7 @@
               >
             Filter enforcement actions
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1424,13 +1424,50 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">327 filtered results</div>
+          <div class="h4 m-notification_message">328 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2020-08-31T00:00:00">AUG 31, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/trans-fast-remittance-llc/">
+                    Trans-Fast Remittance LLC
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>On August 31, 2020, the Bureau issued a Consent Order against Trans-Fast Remittance LLC (Trans-Fast). Trans-Fast, which until recently was a remittance transfer provider, is based in New York, New York and licensed in over 30 states.</p>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Money transfers
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -1450,11 +1487,20 @@
                 <div class="o-post-preview_description">
                     <p>On August 26, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against PHLoans.com, Inc. (PHLoans), a California corporation that is licensed as a mortgage broker or lender in about 11 states.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1478,11 +1524,20 @@
                 <div class="o-post-preview_description">
                     <p>On August 21, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against Go Direct Lenders, Inc. (Go Direct), a California corporation that is licensed as a mortgage broker or lender in about 11 states.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1506,11 +1561,32 @@
                 <div class="o-post-preview_description">
                     <p>On August 20, 2020, the Bureau issued a consent order against TD Bank, N.A. regarding its marketing and sale of its optional overdraft service: Debit Card Advance (DCA).</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Overdrafts
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation E
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1534,11 +1610,38 @@
                 <div class="o-post-preview_description">
                     <p>On July 24, 2020, the Consumer Financial Protection Bureau issued a consent order against Prime Choice Funding, Inc. (Prime Choice), a California corporation that is licensed as a mortgage broker or lender in about 35 states and the District of Columbia. The Bureau found that Prime Choice violated the CFPA’s prohibition against deceptive acts and practices, the MAP Rule, and Regulation Z.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation N
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Servicemembers
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1562,11 +1665,38 @@
                 <div class="o-post-preview_description">
                     <p>On July 24, 2020, the Consumer Financial Protection Bureau issued a consent order against Sovereign Lending Group, Inc. (Sovereign), a California corporation that is licensed as a mortgage broker or lender in about 44 states and the District of Columbia. The Bureau found that Sovereign violated the CFPA’s prohibition against deceptive acts and practices, the MAP Rule, and Regulation Z.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation N
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Servicemembers
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1590,11 +1720,20 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="ke9o7">On July 15, 2020, the Consumer Financial Protection Bureau filed a lawsuit in federal district court in the Northern District of Illinois against Townstone Financial, Inc., a nonbank retail-mortgage creditor based in Chicago. The Bureau alleges that Townstone violated the Equal Credit Opportunity Act; its implementing regulation, Regulation B; and the Consumer Financial Protection Act.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1618,11 +1757,14 @@
                 <div class="o-post-preview_description">
                     <p>On July 13, 2020, the Bureau filed a complaint in the federal district court for the Central District of California against GST Factoring, Inc., which runs a student-loan debt-relief business in Texas, and two of its owners, Rick Graff and Gregory Trimarche, as well as Champion Marketing Solutions, LLC, a customer service and marketing company, and its owner, Scott Freda. The Bureau also filed suit against four attorneys, California attorneys Amanda Johanson and Jacob Slaughter, Arizona attorney David Mize, and Florida attorney Daniel Ruggiero.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1646,11 +1788,20 @@
                 <div class="o-post-preview_description">
                     <p>On July 7, 2020, the Consumer Financial Protection Bureau settled with Timemark, Inc., a company based in Deerfield Beach, Florida, that provides debt-relief services to consumers with federal student-loan debt, and with its owners and officers, Timothy Lenihan, Sr., Mark Nagler, and Casey Gassaway.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Student loans
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1674,11 +1825,20 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="6g3fp">On July 6, 2020, the Consumer Financial Protection Bureau (Bureau) filed a lawsuit against My Loan Doctor LLC, a Delaware company operating in West Palm Beach, Florida and New York City and doing business as Loan Doctor (Loan Doctor), and its founder, Edgar Radjabli.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1702,11 +1862,20 @@
                 <div class="o-post-preview_description">
                     <p>On June 23, 2020, the Consumer Financial Protection Bureau settled with Harbour Portfolio Advisors, LLC (Harbour); National Asset Advisors, LLC (NAA); and National Asset Mortgage, LLC (NAM), companies that worked together to issue contracts for deeds to consumers.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1730,11 +1899,26 @@
                 <div class="o-post-preview_description">
                     <p>On June 2, 2020, the Bureau announced a settlement with Main Street Personal Finance, Inc. and its subsidiaries.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Payday loans
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Small-dollar loans
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1758,11 +1942,26 @@
                 <div class="o-post-preview_description">
                     <p>On May 22, 2020, the Bureau and Commonwealth of Massachusetts Attorney General Maura Healey jointly filed a lawsuit against Commonwealth Equity Group, LLC, which does business as Key Credit Repair, and Nikitas Tsoukales (also known as Nikitas Tsoukalis), Key Credit Repair’s president and owner.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1786,11 +1985,14 @@
                 <div class="o-post-preview_description">
                     <p>On May 11 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against Specialized Loan Servicing, LLC (SLS), a mortgage-loan servicer in Colorado.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1814,11 +2016,32 @@
                 <div class="o-post-preview_description">
                     <p>On April 1, 2020, the Consumer Financial Protection Bureau issued a consent order against Cottonwood Financial, Ltd., which does business under the name Cash Store.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1842,11 +2065,32 @@
                 <div class="o-post-preview_description">
                     <p>On March 9, 2020, the Bureau filed a lawsuit in federal district court in the Northern District of Illinois against Fifth Third Bank, National Association.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Savings Act
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1870,11 +2114,26 @@
                 <div class="o-post-preview_description">
                     <p>On February 20, 2020, the Consumer Financial Protection Bureau, the South Carolina Department of Consumer Affairs, and the State of Arkansas Attorney General Leslie Rutledge filed a lawsuit in federal district court in the District of South Carolina against Candy Kern-Fuller, Howard Sutter III, and Upstate Law Group LLC.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Payday loans
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Small-dollar loans
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1898,11 +2157,32 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="tlpvp">On January 30, 2020, the Bureau filed a lawsuit against Citizens Bank, N.A. (Citizens), alleging violations of the Truth and Lending Act (TILA) and its implementing Regulation Z, including TILA provisions passed under the Fair Credit Billing Act (FCBA) and Credit Card Accountability Responsibility and Disclosure Act (CARD Act), as well as violations of the Consumer Financial Protection Act of 2010 (CFPA) due to its violations of TILA and Regulation Z.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit CARD Act
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Billing Act
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1926,11 +2206,26 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="drjmv">On January 9, 2020, the Bureau filed a lawsuit in the U.S. District Court for the Central District of California against Chou Team Realty, LLC, d/b/a Monster Loans, Lend Tech Loans, associated student loan debt-relief companies and individuals.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1954,11 +2249,20 @@
                 <div class="o-post-preview_description">
                     <p>On November 25, 2019, the Consumer Financial Protection Bureau issued a consent order against Edmiston Marketing, LLC, also known as Easy Military Travel; and Brandon Edmiston, the owner and operator of Easy Military Travel.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Money transfers
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -1982,11 +2286,20 @@
                 <div class="o-post-preview_description">
                     <p>On November 25, 2019, the Consumer Financial Protection Bureau issued a consent order against Edmiston Marketing, LLC, also known as Easy Military Travel; and Brandon Edmiston, the owner and operator of Easy Military Travel.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Money transfers
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -2010,11 +2323,20 @@
                 <div class="o-post-preview_description">
                     <p>On November 22, 2019, the Consumer Financial Protection Bureau filed a proposed stipulated judgment with Sterling Infosystems, Inc., a consumer reporting agency headquartered in New York. </p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -2038,11 +2360,26 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="uotsu">On October 21, 2019, the Bureau filed a complaint and sought a temporary restraining order and preliminary injunction in federal court in the Central District of California against Consumer Advocacy Center Inc., d/b/a Premier Student Loan Center (Premier); True Count Staffing Inc., d/b/a SL Account Management (True Count); Prime Consulting LLC, d/b/a Financial Preparation Services (Prime); Albert Kim; Kaine Wen; and Tuong Nguyen.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Student loans
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -2066,11 +2403,20 @@
                 <div class="o-post-preview_description">
                     <p>On October 1, 2019, the Consumer Financial Protection Bureau and the South Carolina Department of Consumer Affairs filed a lawsuit in federal district court in the District of South Carolina against Katharine Snyder, Performance Arbitrage Company, Inc., and Life Funding Options, Inc.<br/></p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -2094,39 +2440,32 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="adt00">On September 25, 2019, the Bureau filed a complaint in federal court in the District of Maryland against Maryland-based debt collectors FCO Holding, Inc. and its subsidiaries, Fair Collections &amp; Outsourcing, Inc., Fair Collections &amp; Outsourcing of New England, Inc., and FCO Worldwide, Inc. (collectively, FCO).</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2019-09-06T00:00:00">SEP 06, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/certified-forensic-loan-auditors-llc-andrew-lehman-michael-carrigan/">
-                    Certified Forensic Loan Auditors, LLC, Andrew Lehman, and Michael Carrigan
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p>On September 6, 2019, the Consumer Financial Protection Bureau filed a complaint in federal court in the Central District of California against Certified Forensic Loan Auditors, LLC, Andrew Lehman, and Michael Carrigan, along with a proposed stipulated final judgment against Michael Carrigan.</p>
-                </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Debt Collection Practices Act
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </span>
+        </li>
     </ul>
 </div>
         </div>
@@ -2241,6 +2580,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/cfpb-takes-action-aci-worldwide-illegally-processing-2-3-billion-mortgage-payments-homeowners-did-not-authorize/">
+                        CFPB Takes Action Against ACI Worldwide for Illegally Processing $2.3 Billion in Mortgage Payments that Homeowners Did Not Authorize
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2023-06-27T00:00:00">JUN 27, 2023</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/cfpb-takes-action-against-phoenix-financial-services-for-illegal-medical-debt-collection-and-credit-reporting-practices/">
                         CFPB Takes Action Against Phoenix Financial Services for Illegal Medical Debt Collection and Credit Reporting Practices
                     </a>
@@ -2259,18 +2610,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2023-05-31T00:00:00">MAY 31, 2023</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/cfpb-action-require-citizens-bank-pay-9-million-unlawful-credit-card-servicing/">
-                        CFPB Action to Require Citizens Bank to Pay $9 Million Penalty for Unlawful Credit Card Servicing
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2023-05-23T00:00:00">MAY 23, 2023</time>
 </span>
                 </p>
             </li>

@@ -1226,7 +1226,7 @@
               >
             Filter archived events
         </span>
-        <span class="o-expandable_link">
+        <span class="o-expandable_cues">
             <span class="o-expandable_cue-open" role="img" aria-label="Show">
                 <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__plus-round" viewBox="0 0 17 20.4"><path d="M16.416 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.916 7.917zm-2.958.01a.792.792 0 0 0-.792-.792H9.284V6.12a.792.792 0 1 0-1.583 0V9.5H4.32a.792.792 0 0 0 0 1.584H7.7v3.382a.792.792 0 0 0 1.583 0v-3.382h3.382a.792.792 0 0 0 .792-.791z"/></svg>
             </span>
@@ -1405,20 +1405,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="b30jw">This webinar will discuss long-term services and support, including nursing home debt collection and financial caregiving. Carefully choosing a financial caregiver and long-term care can help prevent elder financial exploitation.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=identity-theft-fraud" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=identity-theft-fraud" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Identity theft and fraud
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=older-americans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=older-americans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Older Americans
             </a>
         </li>
@@ -1496,14 +1493,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="b30jw">Please join us for a convening of government agencies on the real world implications of advanced technologies. Our speakers will discuss topics of interest to enforcers working with advanced technologies, including some ways to think about advanced technologies and how they have been handled in enforcement cases.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
@@ -1581,20 +1575,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="b30jw">Many types of professionals come together in their efforts to prevent and respond to elder financial exploitation. This webinar will introduce you to people and teams that can bring your efforts to the next level including case review teams and identifying key players.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=identity-theft-fraud" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=identity-theft-fraud" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Identity theft and fraud
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=older-americans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=older-americans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Older Americans
             </a>
         </li>
@@ -1708,20 +1699,17 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="b30jw">This webinar will cover the planning process, resources, and promising practices from successful elder fraud convenings, lessons learned, and how to plan convenings in rural communities.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=identity-theft-fraud" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=identity-theft-fraud" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Identity theft and fraud
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=older-americans" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=older-americans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Older Americans
             </a>
         </li>
@@ -1806,14 +1794,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="vdjmr">Join us for a training designed for government agencies looking at how to handle data security cases, including evaluation and remedy design.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=enforcement" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=enforcement" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
             </a>
         </li>
@@ -2082,26 +2067,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="kow42">This in-person event will be a technical conversation to discuss the future of how CFPB approaches regulatory data collection technology.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=small-business-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=small-business-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Small business lending
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-institutions" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=financial-institutions" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial Institutions
             </a>
         </li>
@@ -2183,26 +2165,23 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="kow42">This virtual event will be a technical conversation to discuss the future of how CFPB approaches regulatory data collection technology.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=data" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Data
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=small-business-lending" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=small-business-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Small business lending
             </a>
         </li>
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=financial-institutions" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=financial-institutions" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Financial Institutions
             </a>
         </li>
@@ -2243,14 +2222,11 @@
                 <div class="o-post-preview_description">
                     <p data-block-key="67zfw">Do you want an opportunity to improve the lives of millions of Americans? Come learn more about how you could use your technical expertise to help detect and prevent unfair, deceptive, and abusive practices in financial markets.</p>
                 </div>
-<div class="tags tags__hide-heading">
-    <span class="u-visually-hidden">
-        Topics:
-    </span>
-    <ul class="tags_list" aria-label="Topics">
-        <li class="tags_tag">
-            <a href="/about-us/events/archive-past-events/?topics=personnel" class="tags_link">
-                <span class="tags_bullet" aria-hidden="true">&bull;</span>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/events/archive-past-events/?topics=personnel" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Personnel
             </a>
         </li>
