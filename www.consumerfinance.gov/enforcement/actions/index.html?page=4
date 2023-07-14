@@ -1424,13 +1424,50 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">330 filtered results</div>
+          <div class="h4 m-notification_message">331 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2020-09-01T00:00:00">SEP 01, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/service-1st-mortgage-inc/">
+                    Service 1st Mortgage, Inc.
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p>On September 1, 2020, the Consumer Financial Protection Bureau (Bureau) issued a consent order against Service 1st Mortgage, Inc. (Service 1st), a Maryland-based corporation that is licensed as a mortgage broker or lender in about 12 states.</p>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage origination
+            </span>
+        </li>
+        <li class="m-tags_item">
+            <span class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Enforcement
+            </span>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -2415,49 +2452,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2019-10-21T00:00:00">OCT 21, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/premier-student-loan-center-et-al/">
-                    Consumer Advocacy Center Inc., d/b/a Premier Student Loan Center; True Count Staffing Inc., d/b/a SL Account Management; Prime Consulting LLC, d/b/a Financial Preparation Services; Albert Kim; Kaine Wen; and Tuong Nguyen
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="uotsu">On October 21, 2019, the Bureau filed a complaint and sought a temporary restraining order and preliminary injunction in federal court in the Central District of California against Consumer Advocacy Center Inc., d/b/a Premier Student Loan Center (Premier); True Count Staffing Inc., d/b/a SL Account Management (True Count); Prime Consulting LLC, d/b/a Financial Preparation Services (Prime); Albert Kim; Kaine Wen; and Tuong Nguyen.</p>
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <span class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
-            </span>
-        </li>
-        <li class="m-tags_item">
-            <span class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
-            </span>
-        </li>
-        <li class="m-tags_item">
-            <span class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
-            </span>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2568,6 +2562,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/state-partners-and-cfpb-sue-prehired-for-illegal-student-lending-practices/">
+                        State Partners and CFPB Sue Prehired For Illegal Student Lending Practices
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2023-07-13T00:00:00">JUL 13, 2023</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/bank-of-america-for-illegally-charging-junk-fees-withholding-credit-card-rewards-opening-fake-accounts/">
                         CFPB Takes Action Against Bank of America for Illegally Charging Junk Fees, Withholding Credit Card Rewards, and Opening Fake Accounts
                     </a>
@@ -2586,18 +2592,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2023-06-27T00:00:00">JUN 27, 2023</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/cfpb-takes-action-against-phoenix-financial-services-for-illegal-medical-debt-collection-and-credit-reporting-practices/">
-                        CFPB Takes Action Against Phoenix Financial Services for Illegal Medical Debt Collection and Credit Reporting Practices
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2023-06-08T00:00:00">JUN 08, 2023</time>
 </span>
                 </p>
             </li>
