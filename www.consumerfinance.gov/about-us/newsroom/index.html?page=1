@@ -1494,13 +1494,52 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 20.4"><path d="M16.417 10.283A7.917 7.917 0 1 1 8.5 2.366a7.916 7.916 0 0 1 7.917 7.917zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.791.791 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 .608.285.83.83 0 0 0 .068-.003.791.791 0 0 0 .618-.393L12.6 6.866a.791.791 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1725 filtered results</div>
+          <div class="h4 m-notification_message">1727 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                    <span class="m-meta-header_category">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__open-quote" viewBox="0 0 16 19"><path d="M6.808 11.29a3.19 3.19 0 0 1 .097 1.464 3.236 3.236 0 0 1-.535 1.277 3.15 3.15 0 0 1-2.286 1.316 3.43 3.43 0 0 1-2.628-.836A3.905 3.905 0 0 1 .26 12.269a4.433 4.433 0 0 1-.052-.653 5.807 5.807 0 0 1 .027-.74 5.497 5.497 0 0 1 .33-1.388 5.684 5.684 0 0 1 1.498-2.193A6.744 6.744 0 0 1 4.41 5.923q.344-.118.699-.201a1.241 1.241 0 0 1 .606-.046.792.792 0 0 1-.066 1.548 5.624 5.624 0 0 0-1.356.458 4.567 4.567 0 0 0-1.988 1.812 3.05 3.05 0 0 1 .998-.367 3.092 3.092 0 0 1 3.248 1.552 3.057 3.057 0 0 1 .257.611zm8.941.435a3.053 3.053 0 0 1 .038.708 3.185 3.185 0 0 1-1.207 2.265 3.334 3.334 0 0 1-2.609.615 3.375 3.375 0 0 1-2.165-1.35 3.722 3.722 0 0 1-.55-1.085 4.446 4.446 0 0 1-.203-1.224 5.63 5.63 0 0 1 .567-2.656 5.76 5.76 0 0 1 1.598-1.967 6.88 6.88 0 0 1 2.357-1.21 4.863 4.863 0 0 1 .676-.162.792.792 0 0 1 .602 1.404 1.277 1.277 0 0 1-.542.201 5.487 5.487 0 0 0-1.278.47 4.536 4.536 0 0 0-1.885 1.76 3.051 3.051 0 0 1 1.242-.4 3.098 3.098 0 0 1 3.359 2.631z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Director's statement
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2023-07-28T00:00:00">JUL 28, 2023</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/statement-of-cfpb-director-at-the-financial-stability-oversight-council/">
+                    Statement of CFPB Director at the Financial Stability Oversight Council
+                </a>
+            </h3>
+                <div class="o-post-preview_description">
+                    <p data-block-key="psxdo">This weekend, 118 million Americans could be living somewhere with a heat index above 100 degrees.</p>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=homebuying" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Homebuying
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2650,57 +2689,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                    <span class="m-meta-header_category">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Press release
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2023-05-23T00:00:00">MAY 23, 2023</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-action-require-citizens-bank-pay-9-million-unlawful-credit-card-servicing/">
-                    CFPB Action to Require Citizens Bank to Pay $9 Million Penalty for Unlawful Credit Card Servicing
-                </a>
-            </h3>
-                <div class="o-post-preview_description">
-                    <p data-block-key="7w3t7">Today, the Consumer Financial Protection Bureau (CFPB) reached a settlement to resolve CFPB’s allegations that Citizens Bank violated consumer financial protection laws and rules that protect individuals when they dispute credit card transactions.</p>
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=banking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=credit-cards" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=enforcement" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
     <article class="o-post-preview" lang="es">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -2714,32 +2702,26 @@
             <div class="m-meta-header_right">
                 <span class="a-date">
                     Published
-                        <span class="datetime"><time class="datetime_date" datetime="2023-05-23T00:00:00">MAY 23, 2023</time>
+                        <span class="datetime"><time class="datetime_date" datetime="2023-05-31T00:00:00">MAY 31, 2023</time>
 </span>
                 </span>
             </div>
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-obliga-a-citizens-bank-a-pagar-multa-de-9-millones/">
-                    Acción de la CFPB Obliga a Citizens Bank a Pagar Multa de $9 Millones por Administración Ilegal de Tarjetas de Crédito
+                <a href="/about-us/newsroom/la-cfpb-ordena-al-prestamista-a-cuotas-onemain-pagar-20-millones-por-usar-practicas-enganosas-de-ventas/">
+                    La CFPB Ordena al Prestamista a Cuotas OneMain, Pagar $20 Millones por Usar Prácticas Engañosas de Ventas
                 </a>
             </h3>
                 <div class="o-post-preview_description">
-                    <p data-block-key="7w3t7">CFPB acordó con Citizens Bank por violar leyes que protegen a los individuos cuando disputan transacciones con sus tarjetas de crédito.</p>
+                    <p data-block-key="7w3t7">CFPB ordenó a OneMain Financial pagar $20 millones en reparaciones y multas, por fallar al no reembolsar intereses y por engañar a sus prestatarios.</p>
                 </div>
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=banking" class="m-tags_tag">
+            <a href="/about-us/newsroom/?topics=small-dollar-loans_1" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=credit-cards" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
+                Small dollar loans
             </a>
         </li>
         <li class="m-tags_item">
@@ -2771,7 +2753,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    1 out of 69 total pages
+                    1 out of 70 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -2779,11 +2761,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="69"
+                   max="70"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="1">
-            <span class="m-pagination_label"> of 69</span>
+            <span class="m-pagination_label"> of 70</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"
