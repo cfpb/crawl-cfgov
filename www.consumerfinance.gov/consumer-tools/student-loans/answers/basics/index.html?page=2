@@ -1253,12 +1253,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 51 results within basics</p>
+        <p class="results-message">Showing 50 results within basics</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/625" href="/ask-cfpb/should-i-consolidate-my-private-student-loans-en-625/">Should I consolidate my private student loans?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/561" href="/ask-cfpb/should-i-consolidate-refinance-student-loans-en-561/">Should I consolidate or refinance my student loans?</a></div>
             </article>
@@ -1331,6 +1328,9 @@
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/575" href="/ask-cfpb/who-can-i-talk-to-about-student-loans-en-575/">Who can I talk to about student loans?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/321" href="/ask-cfpb/will-a-lender-getting-a-copy-of-my-credit-report-affect-my-score-en-321/">Will a lender getting a copy of my credit report affect my score?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -1339,16 +1339,19 @@
 <span class="a-btn_icon a-btn_icon__on-left"><svg class="cf-icon-svg cf-icon-svg__left" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M8.4 17.269a1.026 1.026 0 0 1-.727-.302l-6.801-6.8a1.03 1.03 0 0 1 0-1.456l6.8-6.8a1.03 1.03 0 0 1 1.456 1.455L3.055 9.439l6.073 6.073A1.03 1.03 0 0 1 8.4 17.27z"></path></svg></span>
             Previous
         </a>
-        <a class="a-btn m-pagination_btn-next" href="?page=3">Next
-            <span class="a-btn_icon a-btn_icon__on-right"><svg class="cf-icon-svg cf-icon-svg__right" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.025 1.025 0 0 1-.727.302z"></path></svg></span>
-</a>
+        <a class="a-btn
+                  a-btn__disabled
+                  m-pagination_btn-next">
+        Next
+            <span class="a-btn_icon a-btn_icon__on-right"><svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__right" viewBox="0 0 10 19"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.025 1.025 0 0 1-.727.302z"/></svg></span>
+        </a>
         <form class="m-pagination_form" action="">
             <label for="m-pagination_current-page-0">
                 <span class="m-pagination_label">
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    2 out of 3 total pages
+                    2 out of 2 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -1356,11 +1359,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="3"
+                   max="2"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="2">
-            <span class="m-pagination_label"> of 3</span>
+            <span class="m-pagination_label"> of 2</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

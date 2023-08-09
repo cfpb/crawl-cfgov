@@ -1354,8 +1354,6 @@
   <option value="junk-fees">Junk fees</option>
   <option value="military-lending-act">Military Lending Act</option>
   <option value="money-transfers">Money transfers</option>
-  <option value="mortgage-closing">Mortgage closing</option>
-  <option value="mortgage-origination">Mortgage origination</option>
   <option value="mortgages">Mortgages</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="partnerships">Partnerships</option>
@@ -1770,27 +1768,9 @@
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
-            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
+            <a href="/rules-policy/final-rules/?topics=mortgages" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/final-rules/?topics=banking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/final-rules/?topics=credit-unions" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit unions
+                Mortgages
             </a>
         </li>
         <li class="m-tags_item">
@@ -1800,9 +1780,27 @@
             </a>
         </li>
         <li class="m-tags_item">
-            <a href="/rules-policy/final-rules/?topics=mortgages" class="m-tags_tag">
+            <a href="/rules-policy/final-rules/?topics=credit-unions" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Credit unions
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/final-rules/?topics=banking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/final-rules/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/final-rules/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
             </a>
         </li>
     </ul>
@@ -2432,15 +2430,15 @@
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
-            <a href="/rules-policy/final-rules/?topics=privacy" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Privacy
-            </a>
-        </li>
-        <li class="m-tags_item">
             <a href="/rules-policy/final-rules/?topics=foia" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 FOIA
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/final-rules/?topics=privacy" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Privacy
             </a>
         </li>
     </ul>

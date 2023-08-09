@@ -1256,12 +1256,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 257 results  within mortgages</p>
+        <p class="results-message">Showing 246 results  within mortgages</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/172" href="/ask-cfpb/can-my-final-mortgage-costs-increase-from-what-was-on-my-loan-estimate-en-172/">Can my final mortgage costs increase from what was on my Loan Estimate?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/209" href="/ask-cfpb/can-my-mortgage-servicer-report-negative-information-about-me-to-a-credit-reporting-agency-after-i-have-sent-an-error-dispute-or-information-request-en-209/">Can my mortgage servicer report negative information about me to a credit-reporting agency after I have sent an error dispute or information request?</a></div>
             </article>
@@ -1273,9 +1270,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/192" href="/ask-cfpb/do-i-have-the-right-to-receive-a-copy-of-my-home-appraisal-en-192/">Do I have the right to receive a copy of my home appraisal?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/229" href="/ask-cfpb/do-i-have-to-use-an-estate-planning-service-or-pay-to-find-a-reverse-mortgage-en-229/">Do I have to use an estate planning service or pay to find a reverse mortgage?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/177" href="/ask-cfpb/do-i-need-an-attorney-or-anyone-else-to-represent-me-when-closing-on-a-mortgage-en-177/">Do I need an attorney or anyone else to represent me when closing on a mortgage?</a></div>
@@ -1334,6 +1328,12 @@
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1263" href="/ask-cfpb/how-do-credit-reporting-companies-get-my-information-en-1263/">How do credit reporting companies get my information?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1523" href="/ask-cfpb/how-do-home-insurance-companies-pay-out-claims-en-1523/">How do home insurance companies pay out claims?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1965" href="/ask-cfpb/how-do-mortgage-lenders-calculate-monthly-payments-en-1965/">How do mortgage lenders calculate monthly payments?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -1351,7 +1351,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    2 out of 11 total pages
+                    2 out of 10 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -1359,11 +1359,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="11"
+                   max="10"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="2">
-            <span class="m-pagination_label"> of 11</span>
+            <span class="m-pagination_label"> of 10</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

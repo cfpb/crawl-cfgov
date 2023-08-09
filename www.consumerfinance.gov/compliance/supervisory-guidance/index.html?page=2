@@ -2242,15 +2242,9 @@ three-day period of early compliance with the 2016 Final Rule.</p>
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
-            <a href="/compliance/supervisory-guidance/?topics=supervision" class="m-tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=enforcement" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Supervision
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/compliance/supervisory-guidance/?topics=compliance" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
+                Enforcement
             </a>
         </li>
         <li class="m-tags_item">
@@ -2260,9 +2254,15 @@ three-day period of early compliance with the 2016 Final Rule.</p>
             </a>
         </li>
         <li class="m-tags_item">
-            <a href="/compliance/supervisory-guidance/?topics=enforcement" class="m-tags_tag">
+            <a href="/compliance/supervisory-guidance/?topics=supervision" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
+                Supervision
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Compliance
             </a>
         </li>
     </ul>

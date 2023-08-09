@@ -1354,8 +1354,6 @@
   <option value="medical-debt">Medical debt</option>
   <option value="military-lending-act">Military Lending Act</option>
   <option value="money-transfers">Money transfers</option>
-  <option value="mortgage-closing">Mortgage closing</option>
-  <option value="mortgage-origination">Mortgage origination</option>
   <option value="mortgages">Mortgages</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="payday-loans">Payday loans</option>
@@ -1367,7 +1365,7 @@
   <option value="reverse-mortgages">Reverse mortgages</option>
   <option value="rulemaking">Rulemaking</option>
   <option value="servicemembers">Servicemembers</option>
-  <option value="small-dollar-loans">Small-dollar loans</option>
+  <option value="small-dollar-lending">Small dollar lending</option>
   <option value="student-loans">Student loans</option>
   <option value="supervision">Supervision</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>

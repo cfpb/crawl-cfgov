@@ -1253,7 +1253,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 51 results within basics</p>
+        <p class="results-message">Showing 50 results within basics</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -1270,9 +1270,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/581" href="/ask-cfpb/do-student-loans-affect-my-credit-score-en-581/">Do student loans affect my credit score?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/687" href="/ask-cfpb/how-do-i-apply-for-gi-bill-education-benefits-en-687/">How do I apply for GI Bill education benefits?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/569" href="/ask-cfpb/how-do-i-apply-for-student-loans-en-569/">How do I apply for student loans?</a></div>
@@ -1331,6 +1328,9 @@
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/603" href="/ask-cfpb/should-i-consolidate-my-federal-loans-en-603/">Should I consolidate my federal student loans into a federal Direct Consolidation Loan?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/625" href="/ask-cfpb/should-i-consolidate-my-private-student-loans-en-625/">Should I consolidate my private student loans?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -1350,7 +1350,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    1 out of 3 total pages
+                    1 out of 2 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -1358,11 +1358,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="3"
+                   max="2"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="1">
-            <span class="m-pagination_label"> of 3</span>
+            <span class="m-pagination_label"> of 2</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

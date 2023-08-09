@@ -1253,18 +1253,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 101 results within basics</p>
+        <p class="results-message">Showing 98 results within basics</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/296" href="/ask-cfpb/i-am-a-servicemember-or-veteran-and-i-have-decided-to-purchase-a-home-how-do-i-know-if-a-va-loan-is-the-right-fit-for-me-en-296/">I am a servicemember or veteran and I have decided to purchase a home. How do I know if a VA loan is the right fit for me?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/302" href="/ask-cfpb/i-am-a-servicemember-or-veteran-will-i-be-able-to-get-a-conventional-or-va-mortgage-on-a-manufactured-home-en-302/">I am a servicemember or veteran. Will I be able to get a conventional or VA mortgage on a manufactured home?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2128" href="/ask-cfpb/i-am-considering-a-pace-loan-for-home-improvements-what-should-i-keep-in-mind-before-signing-up-en-2128/">I am considering a PACE loan for home improvements. What should I keep in mind before signing up?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/363" href="/ask-cfpb/i-heard-about-the-new-federal-housing-authority-refinancing-option-with-reduced-fees-can-you-tell-me-more-about-it-en-363/">I heard about the new Federal Housing Authority refinancing option with reduced fees. Can you tell me more about it?</a></div>
             </article>
@@ -1331,6 +1322,15 @@
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2005" href="/ask-cfpb/what-exactly-happens-when-a-mortgage-lender-checks-my-credit-en-2005/">What exactly happens when a mortgage lender checks my credit?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/249" href="/ask-cfpb/what-fees-can-my-lender-charge-if-i-take-out-a-heloc-en-249/">What fees can my lender charge if I take out a HELOC?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1845" href="/ask-cfpb/what-fees-or-charges-are-paid-when-closing-on-a-mortgage-and-who-pays-them-en-1845/">What fees or charges are paid when closing on a mortgage and who pays them?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/199" href="/ask-cfpb/what-happens-if-my-mortgage-is-sold-is-my-loan-safe-en-199/">What happens if my mortgage is sold? Is my loan safe?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -1348,7 +1348,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    2 out of 5 total pages
+                    2 out of 4 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -1356,11 +1356,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="5"
+                   max="4"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="2">
-            <span class="m-pagination_label"> of 5</span>
+            <span class="m-pagination_label"> of 4</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

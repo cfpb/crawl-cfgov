@@ -1256,15 +1256,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 257 results  within mortgages</p>
+        <p class="results-message">Showing 246 results  within mortgages</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1523" href="/ask-cfpb/how-do-home-insurance-companies-pay-out-claims-en-1523/">How do home insurance companies pay out claims?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1965" href="/ask-cfpb/how-do-mortgage-lenders-calculate-monthly-payments-en-1965/">How do mortgage lenders calculate monthly payments?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/287" href="/ask-cfpb/how-does-foreclosure-work-en-287/">How does foreclosure work?</a></div>
             </article>
@@ -1288,15 +1282,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/237" href="/ask-cfpb/what-are-the-costs-i-will-have-to-pay-for-a-reverse-mortgage-en-237/">How much will a reverse mortgage loan cost?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/296" href="/ask-cfpb/i-am-a-servicemember-or-veteran-and-i-have-decided-to-purchase-a-home-how-do-i-know-if-a-va-loan-is-the-right-fit-for-me-en-296/">I am a servicemember or veteran and I have decided to purchase a home. How do I know if a VA loan is the right fit for me?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/297" href="/ask-cfpb/i-am-a-servicemember-or-veteran-and-i146ve-already-bought-and-sold-one-house-that-was-financed-through-a-va-loan-can-i-qualify-for-another-va-loan-en-297/">I am a servicemember or veteran and I've already bought and sold one house that was financed through a VA loan. Can I qualify for another VA loan?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/302" href="/ask-cfpb/i-am-a-servicemember-or-veteran-will-i-be-able-to-get-a-conventional-or-va-mortgage-on-a-manufactured-home-en-302/">I am a servicemember or veteran. Will I be able to get a conventional or VA mortgage on a manufactured home?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/267" href="/ask-cfpb/i-am-at-least-two-payments-behind-on-my-mortgage-payments-i-tried-to-pay-one-month146s-worth-of-what-i-owe-but-my-servicer-said-i-have-to-pay-the-whole-amount-can-the-servicer-do-this-en-267/">I am at least two payments behind on my mortgage payments. I tried to pay one month's worth of what I owe, but my servicer said I have to pay the whole amount. Can the servicer do this?</a></div>
@@ -1334,6 +1319,21 @@
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/358" href="/ask-cfpb/i-got-divorced-and-my-lender-terminated-my-home-equity-line-of-credit-can-they-do-that-en-358/">I got divorced, and my lender terminated my home equity line of credit. Can they do that?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/363" href="/ask-cfpb/i-heard-about-the-new-federal-housing-authority-refinancing-option-with-reduced-fees-can-you-tell-me-more-about-it-en-363/">I heard about the new Federal Housing Authority refinancing option with reduced fees. Can you tell me more about it?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/216" href="/ask-cfpb/i-mailed-my-mortgage-payment-before-it-was-due-but-my-servicer-received-it-after-the-due-date-and-charged-me-a-late-fee-can-my-servicer-do-this-en-216/">I mailed my mortgage payment before it was due but my servicer received it after the due date and charged me a late fee. Can my servicer do this?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/148" href="/ask-cfpb/i-never-received-a-loan-estimate-what-can-i-do-en-148/">I never received a Loan Estimate. What can I do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/222" href="/ask-cfpb/i-paid-off-my-mortgage-but-it-is-still-listed-on-my-credit-report-as-outstanding-what-can-i-do-en-222/">I paid off my mortgage but it is still listed on my credit report as outstanding. What can I do?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1991" href="/ask-cfpb/i-received-a-revised-loan-estimate-from-my-lender-showing-a-higher-interest-rate-and-increased-closing-costs-what-does-this-mean-en-1991/">I received a revised Loan Estimate from my lender showing a higher interest rate and increased closing costs. What does this mean?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -1351,7 +1351,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    3 out of 11 total pages
+                    3 out of 10 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -1359,11 +1359,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="11"
+                   max="10"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="3">
-            <span class="m-pagination_label"> of 11</span>
+            <span class="m-pagination_label"> of 10</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

@@ -443,7 +443,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 51 resultados en problemas comunes</p>
+        <p class="results-message">Se muestran 45 resultados en problemas comunes</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -486,16 +486,7 @@
                 <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-me-pueden-negar-una-cuenta-de-cheques-en-base-a-mi-historial-bancario-es-1113/" class="hover">¿Cuándo me pueden negar una cuenta de cheques en base a mi historial bancario?</a></div>
             </article>
             <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-termina-mi-participacion-en-el-programa-de-deposito-de-ahorro-para-militares-sdp-es-1139/" class="hover">¿Cuándo termina mi participación en el Programa de Depósito de Ahorro para Militares (SDP)?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/cuanto-puedo-depositar-en-el-programa-de-deposito-de-ahorro-para-militares-es-1135/" class="hover">¿Cuánto puedo depositar en el Programa de Depósito de Ahorro para Militares?</a></div>
-            </article>
-            <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-detener-pagos-automaticos-desde-mi-cuenta-bancaria-es-2023/" class="hover">¿Cómo puedo detener pagos automáticos desde mi cuenta bancaria?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-poner-dinero-en-una-cuenta-del-programa-de-deposito-de-ahorros-para-militares-sdp-por-sus-siglas-en-ingles-es-1137/" class="hover">¿Cómo puedo poner dinero en una cuenta del Programa de Depósito de Ahorros para Militares (SDP, por sus siglas en inglés)?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/como-puedo-recuperar-mi-dinero-despues-de-descubrir-una-transaccion-no-autorizada-o-la-falta-de-dinero-de-mi-cuenta-bancaria-es-1017/" class="hover">¿Cómo puedo recuperar mi dinero después de descubrir una transacción no autorizada, o que hay dinero extraviado en mi cuenta bancaria?</a></div>
@@ -508,12 +499,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/puede-un-cobrador-de-deudas-quitarme-los-beneficios-de-seguro-social-o-de-va-es-1157/" class="hover">¿Puede un cobrador de deudas quitarme los beneficios de Seguro Social o de VA?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/puedo-retirar-dinero-de-sdp-mientras-estoy-en-una-zona-de-combate-es-1141/" class="hover">¿Puedo retirar dinero de mi &#34;Military Savings Deposit Program&#34; (SDP) o Programa Militar de Depósitos de Ahorro mientras estoy en una zona de combate?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/puedo-usar-el-sdp-programa-de-deposito-de-ahorros-para-militares-si-estoy-asignado-en-el-extranjero-pero-no-en-una-zona-de-combate-es-1133/" class="hover">¿Puedo usar el SDP (Programa de Depósito de Ahorros para Militares) si estoy asignado en el extranjero pero no en una zona de combate?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/que-debo-saber-antes-de-renunciar-a-mis-pagos-mensuales-por-discapacidad-lesiones-personales-o-por-acuerdos-estructurados-a-cambio-de-un-pago-unico-de-suma-total-es-2025/" class="hover">¿Qué debería saber antes de renunciar a mis pagos mensuales por  discapacidad o daños personales, o a mis pagos estructurados resultado de un algún acuerdo legal, a cambio de un sólo pago de una suma global?</a></div>
@@ -529,16 +514,19 @@
 <span class="a-btn_icon a-btn_icon__on-left"><svg class="cf-icon-svg cf-icon-svg__left" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M8.4 17.269a1.026 1.026 0 0 1-.727-.302l-6.801-6.8a1.03 1.03 0 0 1 0-1.456l6.8-6.8a1.03 1.03 0 0 1 1.456 1.455L3.055 9.439l6.073 6.073A1.03 1.03 0 0 1 8.4 17.27z"></path></svg></span>
             Anterior
         </a>
-        <a class="a-btn m-pagination_btn-next" href="?page=3">Siguiente
-            <span class="a-btn_icon a-btn_icon__on-right"><svg class="cf-icon-svg cf-icon-svg__right" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.025 1.025 0 0 1-.727.302z"></path></svg></span>
-</a>
+        <a class="a-btn
+                  a-btn__disabled
+                  m-pagination_btn-next">
+        Siguiente
+            <span class="a-btn_icon a-btn_icon__on-right"><svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__right" viewBox="0 0 10 19"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.025 1.025 0 0 1-.727.302z"/></svg></span>
+        </a>
         <form class="m-pagination_form" action="">
             <label for="m-pagination_current-page-0">
                 <span class="m-pagination_label">
                     Página
                 </span>
                 <span class="u-visually-hidden">
-                    2 out of 3 total pages
+                    2 out of 2 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -546,11 +534,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="3"
+                   max="2"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="2">
-            <span class="m-pagination_label"> de 3</span>
+            <span class="m-pagination_label"> de 2</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

@@ -1254,7 +1254,6 @@
   <option value="junk-fees">Junk fees</option>
   <option value="medical-debt">Medical debt</option>
   <option value="money-transfers">Money transfers</option>
-  <option value="mortgage-origination">Mortgage origination</option>
   <option value="mortgages">Mortgages</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="office-of-research">Office of Research</option>
@@ -1475,6 +1474,12 @@
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=money-transfers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Money transfers
+            </a>
+        </li>
+        <li class="m-tags_item">
             <a href="/data-research/research-reports/?topics=office-of-research-publication" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Office of Research Publication
@@ -1484,12 +1489,6 @@
             <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Credit reports and scores
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=money-transfers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
             </a>
         </li>
     </ul>

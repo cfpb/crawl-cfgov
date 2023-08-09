@@ -1254,7 +1254,6 @@
   <option value="junk-fees">Junk fees</option>
   <option value="medical-debt">Medical debt</option>
   <option value="money-transfers">Money transfers</option>
-  <option value="mortgage-origination">Mortgage origination</option>
   <option value="mortgages">Mortgages</option>
   <option value="mortgage-servicing">Mortgage servicing</option>
   <option value="office-of-research">Office of Research</option>
@@ -1499,33 +1498,9 @@
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+            <a href="/data-research/research-reports/?topics=mortgages" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Home Mortgage Disclosure Act
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=office-of-research-publication" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Office of Research Publication
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=research" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=data" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Data
+                Mortgages
             </a>
         </li>
         <li class="m-tags_item">
@@ -1535,9 +1510,33 @@
             </a>
         </li>
         <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=mortgages" class="m-tags_tag">
+            <a href="/data-research/research-reports/?topics=data" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
+                Data
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=office-of-research-publication" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Office of Research Publication
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
             </a>
         </li>
     </ul>

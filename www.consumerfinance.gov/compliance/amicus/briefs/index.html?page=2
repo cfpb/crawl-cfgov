@@ -1944,6 +1944,12 @@ standing.</p>
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </a>
+        </li>
+        <li class="m-tags_item">
             <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Fair Debt Collection Practices Act
@@ -1959,12 +1965,6 @@ standing.</p>
             <a href="/compliance/amicus/briefs/?topics=debt-collection" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/compliance/amicus/briefs/?topics=deceptive-practices" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
             </a>
         </li>
     </ul>
