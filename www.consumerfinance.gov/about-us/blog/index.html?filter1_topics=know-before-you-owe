@@ -1615,15 +1615,21 @@
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+        <li class="m-tags_item">
             <a href="/about-us/blog/?topics=saving" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Saving
             </a>
         </li>
         <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=credit-reports-and-scores" class="m-tags_tag">
+            <a href="/about-us/blog/?topics=checking-account" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
+                Checking account
             </a>
         </li>
         <li class="m-tags_item">
@@ -1633,9 +1639,9 @@
             </a>
         </li>
         <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=checking-account" class="m-tags_tag">
+            <a href="/about-us/blog/?topics=office-of-research-publication" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Checking account
+                Office of Research Publication
             </a>
         </li>
     </ul>
