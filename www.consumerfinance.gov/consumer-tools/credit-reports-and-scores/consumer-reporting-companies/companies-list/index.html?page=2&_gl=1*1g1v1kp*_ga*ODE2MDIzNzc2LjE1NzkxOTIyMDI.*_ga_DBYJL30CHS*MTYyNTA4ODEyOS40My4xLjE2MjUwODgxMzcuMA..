@@ -1286,49 +1286,49 @@
                             class="o-multiselect"
                             data-placeholder="Search for categories"
                             multiple>
-                        <option value="nationwide"
+                        <option value="check-bank-screening"
                                 >
-                            Nationwide
+                            Check and bank account screening
                         </option>
                         <option value="employment-screening"
                                 >
                             Employment screening
                         </option>
-                        <option value="tenant-screening"
+                        <option value="gaming"
                                 >
-                            Tenant screening
-                        </option>
-                        <option value="check-bank-screening"
-                                >
-                            Check and bank account screening
-                        </option>
-                        <option value="personal-property-insurance"
-                                >
-                            Personal property insurance
-                        </option>
-                        <option value="medical"
-                                >
-                            Medical
+                            Gaming
                         </option>
                         <option value="low-income-and-subprime"
                                 >
                             Low-income and subprime
                         </option>
-                        <option value="supplementary-reports"
+                        <option value="medical"
                                 >
-                            Supplementary reports
+                            Medical
                         </option>
-                        <option value="utilities"
+                        <option value="nationwide"
                                 >
-                            Utilities
+                            Nationwide
+                        </option>
+                        <option value="personal-property-insurance"
+                                >
+                            Personal property insurance
                         </option>
                         <option value="retail"
                                 >
                             Retail
                         </option>
-                        <option value="gaming"
+                        <option value="supplementary-reports"
                                 >
-                            Gaming
+                            Supplementary reports
+                        </option>
+                        <option value="tenant-screening"
+                                >
+                            Tenant screening
+                        </option>
+                        <option value="utilities"
+                                >
+                            Utilities
                         </option>
                     </select>
                 </div>

@@ -1254,33 +1254,33 @@
                                 >
                             Advance notice of proposed rulemaking
                         </option>
-                        <option value="proposed-rule"
+                        <option value="info-collect-activity"
                                 >
-                            Proposed rule
-                        </option>
-                        <option value="interim-final-rule-2"
-                                >
-                            Interim final rule
-                        </option>
-                        <option value="request-comment-info"
-                                >
-                            Request for comment or information
-                        </option>
-                        <option value="proposed-policy"
-                                >
-                            Proposed policy
+                            Information collection activities
                         </option>
                         <option value="intent-preempt-determ"
                                 >
                             Intent to make preemption determination
                         </option>
-                        <option value="info-collect-activity"
+                        <option value="interim-final-rule-2"
                                 >
-                            Information collection activities
+                            Interim final rule
                         </option>
                         <option value="notice-privacy-act"
                                 >
                             Notice related to Privacy Act
+                        </option>
+                        <option value="proposed-policy"
+                                >
+                            Proposed policy
+                        </option>
+                        <option value="proposed-rule"
+                                >
+                            Proposed rule
+                        </option>
+                        <option value="request-comment-info"
+                                >
+                            Request for comment or information
                         </option>
                     </select>
                 </div>

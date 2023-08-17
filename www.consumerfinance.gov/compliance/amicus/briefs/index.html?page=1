@@ -1251,10 +1251,6 @@
                             class="o-multiselect"
                             data-placeholder="Search for categories"
                             multiple>
-                        <option value="us-supreme-court"
-                                >
-                            U.S. Supreme Court
-                        </option>
                         <option value="fed-circuit-court"
                                 >
                             Federal Circuit Court
@@ -1266,6 +1262,10 @@
                         <option value="state-court"
                                 >
                             State Court
+                        </option>
+                        <option value="us-supreme-court"
+                                >
+                            U.S. Supreme Court
                         </option>
                     </select>
                 </div>
