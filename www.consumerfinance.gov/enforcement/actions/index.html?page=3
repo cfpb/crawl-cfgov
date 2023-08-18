@@ -1424,13 +1424,51 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg cf-icon-svg__approved-round"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0Zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">333 filtered results</div>
+          <div class="h4 m-notification_message">335 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2021-03-03T00:00:00">MAR 03, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/brightspeed-solutions-inc-and-kevin-howard/">BrightSpeed Solutions, Inc. and Kevin Howard</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    On March 3, 2021, the Bureau filed a lawsuit in the U.S. District Court for the Northern District of Illinois against BrightSpeed Solutions, Inc. (BrightSpeed) and its founder and former chief executive officer, Kevin Howard.
+                </div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2021-02-22T00:00:00">FEB 22, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/nexus-services-inc-et-al/">Nexus Services, Inc., Libre by Nexus, Inc., Micheal Donovan, Richard Moore, and Evan Ajin</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    On February 22, 2021, the Bureau filed a lawsuit in the United States District Court for the Western District of Virginia against Nexus Services, Inc. (Nexus Services), Libre by Nexus, Inc. (Libre), and their principals, Micheal Donovan, Richard Moore, and Evan Ajin.
+                </div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -1868,44 +1906,6 @@
                 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2020-09-14T00:00:00">SEP 14, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/clearpath-lending-inc/">ClearPath Lending, Inc.</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    On September 14, 2020, the Consumer Financial Protection Bureau issued a consent order against ClearPath Lending, Inc. (ClearPath), a California corporation that is licensed as a mortgage broker or lender in about 22 states.
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2020-09-08T00:00:00">SEP 08, 2020</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/encore-capital-group-et-al/">Encore Capital Group, Midland Funding, Midland Credit Management, and Asset Acceptance Capital Corp.</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    On October 15, 2020, the Consumer Financial Protection Bureau (Bureau) filed a proposed stipulated final judgment and order to settle its lawsuit against Encore Capital Group, Inc., and its subsidiaries, Midland Funding, LLC; Midland Credit Management, Inc.; and Asset Acceptance Capital Corp.
-                </div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2016,6 +2016,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/cfpb-penalizes-freedom-mortgage-and-realty-connect-for-illegal-kickbacks/">
+                        CFPB Penalizes Freedom Mortgage and Realty Connect for Illegal Kickbacks
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2023-08-17T00:00:00">AUG 17, 2023</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/cfpb-sues-usasf-servicing-for-illegally-disabling-vehicles-and-for-improper-double-billing-practices/">
                         CFPB Sues USASF Servicing for Illegally Disabling Vehicles and for Improper Double-Billing Practices
                     </a>
@@ -2034,18 +2046,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2023-07-19T00:00:00">JUL 19, 2023</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/state-partners-and-cfpb-sue-prehired-for-illegal-student-lending-practices/">
-                        State Partners and CFPB Sue Prehired For Illegal Student Lending Practices
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2023-07-13T00:00:00">JUL 13, 2023</time>
 </span>
                 </p>
             </li>

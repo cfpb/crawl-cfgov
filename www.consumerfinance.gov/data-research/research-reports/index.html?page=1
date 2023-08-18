@@ -1236,33 +1236,33 @@
                                 >
                             Consumer complaint
                         </option>
-                        <option value="super-highlight"
+                        <option value="consumer-edu-empower"
                                 >
-                            Supervisory Highlights
+                            Consumer education and empowerment
                         </option>
                         <option value="data-point"
                                 >
                             Data point
                         </option>
-                        <option value="industry-markets"
-                                >
-                            Industry and markets
-                        </option>
-                        <option value="consumer-edu-empower"
-                                >
-                            Consumer education and empowerment
-                        </option>
-                        <option value="to-congress"
-                                >
-                            To Congress
-                        </option>
                         <option value="data-spotlight"
                                 >
                             Data spotlight
                         </option>
+                        <option value="industry-markets"
+                                >
+                            Industry and markets
+                        </option>
                         <option value="issue-spotlight"
                                 >
                             Issue spotlight
+                        </option>
+                        <option value="super-highlight"
+                                >
+                            Supervisory Highlights
+                        </option>
+                        <option value="to-congress"
+                                >
+                            To Congress
                         </option>
                     </select>
                 </div>

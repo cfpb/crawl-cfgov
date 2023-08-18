@@ -1212,21 +1212,21 @@
                                 >
                             At the CFPB
                         </option>
-                        <option value="directors-notebook"
-                                >
-                            Director&#39;s notebook
-                        </option>
-                        <option value="policy-compliance"
-                                >
-                            Policy and compliance
-                        </option>
                         <option value="data-research-reports"
                                 >
                             Data, research, and reports
                         </option>
+                        <option value="directors-notebook"
+                                >
+                            Director&#39;s notebook
+                        </option>
                         <option value="info-for-consumers"
                                 >
                             Info for consumers
+                        </option>
+                        <option value="policy-compliance"
+                                >
+                            Policy and compliance
                         </option>
                     </select>
                 </div>

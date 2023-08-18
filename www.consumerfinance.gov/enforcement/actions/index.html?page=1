@@ -1424,13 +1424,51 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg cf-icon-svg__approved-round"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0Zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">333 filtered results</div>
+          <div class="h4 m-notification_message">335 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2023-08-17T00:00:00">AUG 17, 2023</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/freedom-mortgage-corporation-2023-respa/">Freedom Mortgage Corporation</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    On August 17, 2023, the Bureau issued an order against Freedom Mortgage Corporation (Freedom), a residential mortgage loan originator and servicer headquartered in Boca Raton, Florida.
+                </div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Date filed:
+                        <span class="datetime"><time class="datetime_date" datetime="2023-08-17T00:00:00">AUG 17, 2023</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/enforcement/actions/realty-connect-usa-long-island-inc/">Realty Connect USA Long Island, Inc.</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    On August 17, 2023, the Bureau issued an order against Realty Connect USA Long Island, Inc. (Realty Connect), a real estate brokerage firm based in Suffolk County, New York.
+                </div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_right">
@@ -1868,44 +1906,6 @@
                 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2022-07-26T00:00:00">JUL 26, 2022</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/hyundai-capital-america/">Hyundai Capital America</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    On July 26, 2022, the Bureau issued a consent order against Hyundai Capital America (HCA), a nonbank automotive finance company based in Irvine, California.
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Date filed:
-                        <span class="datetime"><time class="datetime_date" datetime="2022-07-14T00:00:00">JUL 14, 2022</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/enforcement/actions/bank-of-america-na-2/">Bank of America, N.A.</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    On July 14, 2022, the Bureau issued an order against Bank of America, N.A., which is a national bank headquartered in Charlotte, North Carolina with branches and ATMs located in 38 states and the District of Columbia.
-                </div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2018,6 +2018,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/cfpb-penalizes-freedom-mortgage-and-realty-connect-for-illegal-kickbacks/">
+                        CFPB Penalizes Freedom Mortgage and Realty Connect for Illegal Kickbacks
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2023-08-17T00:00:00">AUG 17, 2023</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/cfpb-sues-usasf-servicing-for-illegally-disabling-vehicles-and-for-improper-double-billing-practices/">
                         CFPB Sues USASF Servicing for Illegally Disabling Vehicles and for Improper Double-Billing Practices
                     </a>
@@ -2036,18 +2048,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time class="datetime_date" datetime="2023-07-19T00:00:00">JUL 19, 2023</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/state-partners-and-cfpb-sue-prehired-for-illegal-student-lending-practices/">
-                        State Partners and CFPB Sue Prehired For Illegal Student Lending Practices
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2023-07-13T00:00:00">JUL 13, 2023</time>
 </span>
                 </p>
             </li>
