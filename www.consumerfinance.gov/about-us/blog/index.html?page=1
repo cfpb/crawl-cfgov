@@ -1430,13 +1430,50 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg cf-icon-svg__approved-round"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0Zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1579 filtered results</div>
+          <div class="h4 m-notification_message">1580 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_left">
+                    <span class="m-meta-header_category">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__information" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zM5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534zm2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Info for consumers
+</span>
+                <span class="m-meta-header_separator">|</span>
+            </div>
+            <div class="m-meta-header_right">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2023-08-18T00:00:00">AUG 18, 2023</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/recovering-financially-from-the-hawaii-wildfires/">Recovering financially from the Hawaii wildfires</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    In the wake of the wildfires affecting Hawaii, the CFPB has tips to help you recover financially, and how to help those affected by the major disaster.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=disasters-and-emergencies" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
@@ -1836,7 +1873,7 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="zh-Hant">
+    <article class="o-post-preview" lang="vi">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                     <span class="m-meta-header_category">
@@ -1856,10 +1893,10 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/whats-ahead-for-bank-of-america-and-its-customers-zh/">Bank of America（美國銀行）及其客戶的未來展望</a>
+                <a href="/about-us/blog/whats-ahead-for-bank-of-america-and-its-customers-vi/">Tương lai dành cho Bank of America và Khách hàng của mình</a>
             </h3>
                 <div class="o-post-preview_description">
-                    CFPB 對 Bank of America 銀行執法行動的基本情況、受影響的客戶以及違反聯邦法律的做法。
+                    Thông tin cơ bản về các hành động thực thi CFPB đối với Bank of America, những khách hàng bị ảnh hưởng và các hành vi vi phạm luật liên bang.
                 </div>
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
@@ -1885,7 +1922,7 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="vi">
+    <article class="o-post-preview" lang="zh-Hant">
         <div class="m-meta-header">
             <div class="m-meta-header_left">
                     <span class="m-meta-header_category">
@@ -1905,10 +1942,10 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/whats-ahead-for-bank-of-america-and-its-customers-vi/">Tương lai dành cho Bank of America và Khách hàng của mình</a>
+                <a href="/about-us/blog/whats-ahead-for-bank-of-america-and-its-customers-zh/">Bank of America（美國銀行）及其客戶的未來展望</a>
             </h3>
                 <div class="o-post-preview_description">
-                    Thông tin cơ bản về các hành động thực thi CFPB đối với Bank of America, những khách hàng bị ảnh hưởng và các hành vi vi phạm luật liên bang.
+                    CFPB 對 Bank of America 銀行執法行動的基本情況、受影響的客戶以及違反聯邦法律的做法。
                 </div>
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
@@ -2632,74 +2669,6 @@
                     By 
                     Emma Oppenheim</a>
                 </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="es">
-        <div class="m-meta-header">
-            <div class="m-meta-header_left">
-                    <span class="m-meta-header_category">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__information" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zM5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534zm2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Info for consumers
-</span>
-                <span class="m-meta-header_separator">|</span>
-            </div>
-            <div class="m-meta-header_right">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2023-06-20T00:00:00">JUN 20, 2023</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/protegiendo-a-propietarios-de-tasaciones-discriminatorias-de-viviendas/">Protegiendo a propietarios de tasaciones discriminatorias de viviendas</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    Hemos introducido una Declaración de Interés junto al Departamento de Justicia para proteger a compradores y propietarios de viviendas de tasaciones discriminatorias.
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    Seth Frotman</a>, 
-                    Zixta Q. Martinez</a>, 
-                    and 
-                    Jon Seward</a>
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=mortgages" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=fair-lending" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=discrimination" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Discrimination
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=equal-credit-opportunity-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=homebuying" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Homebuying
-            </a>
-        </li>
-    </ul>
-</div>
         </div>
     </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
