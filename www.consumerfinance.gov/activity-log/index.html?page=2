@@ -1470,6 +1470,25 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
+        <a href="/activity-log/?categories=report"
+           class="a-heading a-heading__icon">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
+        <span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/consumer-credit-and-the-removal-of-medical-collections-from-credit-reports/">
+                        <span class="h4 u-mb0">Consumer Credit and the Removal of Medical Collections from Credit Reports</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2023-04-26T00:00:00">APR 26, 2023</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
         <a href="/activity-log/?categories=press-release"
            class="a-heading a-heading__icon">
        <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
@@ -3346,25 +3365,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time class="datetime_date" datetime="2023-01-19T00:00:00">JAN 19, 2023</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog"
-           class="a-heading a-heading__icon">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108zm-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
-        <span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/cfpb-releases-updates-to-mortgage-servicing-exam-procedures/">
-                        <span class="h4 u-mb0">CFPB releases updates to mortgage servicing exam procedures</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2023-01-18T00:00:00">JAN 18, 2023</time>
 </span>
                 </td>
             </tr>
