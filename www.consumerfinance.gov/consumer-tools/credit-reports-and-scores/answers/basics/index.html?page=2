@@ -1253,12 +1253,9 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 52 results within basics</p>
+        <p class="results-message">Showing 51 results within basics</p>
         <section class="results">
             <div class="page-links">
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1819" href="/ask-cfpb/my-bank-or-credit-union-closed-my-checking-account-will-this-hurt-my-credit-en-1819/">My bank or credit union closed my checking account. Will this hurt my credit?</a></div>
-            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1863" href="/ask-cfpb/my-credit-card-statement-now-has-a-credit-score-what-does-this-mean-en-1863/">My credit card statement now has a credit score. What does this mean?</a></div>
             </article>
@@ -1330,6 +1327,9 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/4" href="/ask-cfpb/will-my-credit-score-be-damaged-by-card-issuers-getting-my-name-from-a-credit-reporting-agency-and-sending-me-an-offer-en-4/">Will my credit score be damaged by card issuers getting my name from a credit reporting agency and sending me an offer?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1293" href="/ask-cfpb/will-paying-off-my-credit-card-balance-every-month-improve-my-score-en-1293/">Will paying off my credit card balance every month improve my credit score?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"
