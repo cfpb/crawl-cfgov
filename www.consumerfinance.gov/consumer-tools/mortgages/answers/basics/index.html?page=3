@@ -1253,9 +1253,12 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Showing 92 results within basics</p>
+        <p class="results-message">Showing 93 results within basics</p>
         <section class="results">
             <div class="page-links">
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1995" href="/ask-cfpb/what-is-a-loan-estimate-en-1995/">What is a Loan Estimate?</a></div>
+            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/1789" href="/ask-cfpb/what-is-a-qualified-mortgage-en-1789/">What is a Qualified Mortgage?</a></div>
             </article>
@@ -1327,9 +1330,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/100" href="/ask-cfpb/what-is-the-difference-between-a-fixed-rate-and-adjustable-rate-mortgage-arm-loan-en-100/">What is the difference between a fixed-rate and adjustable-rate mortgage (ARM) loan?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/130" href="/ask-cfpb/what-is-the-difference-between-a-mortgage-broker-and-a-mortgage-lender-en-130/">What is the difference between a mortgage broker and a mortgage lender?</a></div>
             </article>
             <div class="block block__sub">
     <nav class="m-pagination"

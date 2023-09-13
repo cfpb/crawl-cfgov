@@ -443,7 +443,7 @@
                 </div>
             </form>
         </aside>
-        <p class="results-message">Se muestran 103 resultados en lo básico</p>
+        <p class="results-message">Se muestran 97 resultados en lo básico</p>
         <section class="results">
             <div class="page-links">
             <article>
@@ -451,9 +451,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/con-una-hipoteca-de-tasa-ajustable-arm-cuales-son-los-limites-de-las-tasas-y-como-funcionan-es-1951/" class="hover">Con una hipoteca de tasa ajustable (ARM), ¿cuáles son los límites de las tasas y cómo funcionan?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/escuche-acerca-de-la-nueva-opcion-de-refinanciamiento-de-la-administracion-de-vivienda-federal-con-cargos-reducidos-puede-decirme-algo-mas-al-respecto-es-363/" class="hover">Escuché acerca de la nueva opción de refinanciamiento de la Administración de Vivienda Federal con cargos reducidos. ¿Puede decirme algo más al respecto?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/escuche-sobre-algo-llamado-la-linea-de-ayuda-hope-que-es-eso-es-263/" class="hover">Escuché sobre algo llamado la línea de ayuda HOPE(R). ¿Qué es eso?</a></div>
@@ -475,9 +472,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/si-obtengo-un-prestamo-de-hipoteca-inversa-es-el-prestamista-dueno-de-mi-vivienda-es-234/" class="hover">Si obtengo un préstamo de hipoteca inversa, ¿es el prestamista dueño de mi vivienda?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a href="/es/obtener-respuestas/si-obtengo-una-linea-de-credito-garantizada-por-el-capital-acumulado-en-la-vivienda-o-heloc-cuanto-puedo-pedir-prestado-es-248/" class="hover">Si obtengo una línea de crédito garantizada por el capital acumulado en la vivienda o HELOC, ¿cuánto puedo pedir prestado?</a></div>
             </article>
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/si-pierdo-mi-vivienda-en-una-ejecucion-hipotecaria-puedo-volver-a-comprar-una-vivienda-que-efecto-tendra-una-ejecucion-hipotecaria-en-mi-informe-de-credito-es-326/" class="hover">Si pierdo mi vivienda en una ejecución hipotecaria, ¿puedo volver a comprar una vivienda? ¿Qué efecto tendrá una ejecución hipotecaria en mi informe de crédito?</a></div>
@@ -521,6 +515,12 @@
             <article>
                 <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-recibo-un-formulario-de-divulgacion-de-cierre-es-179/" class="hover">¿Cuándo es que recibo un formulario de Divulgación de Cierre?</a></div>
             </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-puedo-eliminar-el-seguro-de-hipoteca-privado-de-mi-prestamo-pmi-es-202/" class="hover">¿Cuándo puedo eliminar de mi préstamo el Seguro de Hipoteca Privado (PMI, por sus siglas en inglés)?</a></div>
+            </article>
+            <article>
+                <div class="h3 hover"><a href="/es/obtener-respuestas/cuando-solicitara-u-obtendra-una-copia-de-mi-informe-de-credito-mi-prestamista-es-322/" class="hover">¿Cuándo solicitará u obtendrá una copia de mi informe de crédito mi prestamista?</a></div>
+            </article>
             <div class="block block__sub">
     <nav class="m-pagination"
          role="navigation"
@@ -540,7 +540,7 @@
                     Página
                 </span>
                 <span class="u-visually-hidden">
-                    1 out of 5 total pages
+                    1 out of 4 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -548,11 +548,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="5"
+                   max="4"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="1">
-            <span class="m-pagination_label"> de 5</span>
+            <span class="m-pagination_label"> de 4</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"
