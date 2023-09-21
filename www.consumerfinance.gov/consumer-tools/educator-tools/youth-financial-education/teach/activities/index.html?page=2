@@ -1216,11 +1216,11 @@
         </div>
         <div id="tdp-search-facets-and-results">
 <a class="skip-filters u-visually-hidden" href="#tdp-search-results">Skip to search results</a>
-    <div class="results_count block__padded-bottom u-hide-on-med u-hide-on-lg u-hide-on-xl" data-results-count="274">
-        <h3>
-            274 activities
-        </h3>
-    </div>
+<div class="results_count block__padded-bottom u-hide-on-med u-hide-on-lg u-hide-on-xl" data-results-count="274">
+    <h3>
+        274 activities
+    </h3>
+</div>
 <aside class="content_sidebar content__flush-top-on-small content__flush-sides-on-small filters">
     <h3 class="h2">Filter results by</h3>
     <form action="." method="get" data-js-hook="behavior_change-filter">
@@ -1547,7 +1547,6 @@
     </form>
 </aside>
 <section id="tdp-search-results" class="content_main content__flush-all-on-small content__flush-bottom results" tabindex="-1">
-    <a class="u-visually-hidden" id="content_main"></a>
     <div class="results_header">
             <div class="results_count u-hide-on-sm u-hide-on-xs" data-results-count="274">
                 <h3>
