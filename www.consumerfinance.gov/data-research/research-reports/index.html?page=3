@@ -1435,13 +1435,93 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg cf-icon-svg__approved-round"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0Zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">533 filtered results</div>
+          <div class="h4 m-notification_message">535 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Consumer complaint
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2022-11-15T00:00:00">NOV 15, 2022</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/consumer-snapshot-tenant-background-checks/">Consumer Snapshot: Tenant Background Checks</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    This bulletin outlines difficulties prospective renters encountered in connection with a landlord’s use of a tenant screening report, based on complaints submitted to the CFPB and CFPB-commissioned qualitative research.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=tenant-screening" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Tenant screening
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Industry and markets
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2022-11-15T00:00:00">NOV 15, 2022</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/tenant-background-checks-market-report/">Tenant Background Checks Market Report</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    Each year, millions of consumers encounter tenant screening as a gateway in their path to rental housing.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=tenant-screening" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Tenant screening
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
@@ -2726,104 +2806,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        To Congress
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2022-04-22T00:00:00">APR 22, 2022</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/equal-employment-opportunity-eeo-program-status-report-fiscal-year-fy-2021/">Equal Employment Opportunity (EEO) program status report for fiscal year (FY) 2021</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The FY 2021 Equal Employment Opportunity status report known as Management Directive 715 (MD-715) for the Consumer Financial Protection Bureau (CFPB).
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Diversity and inclusion
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=people-with-disabilities" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                People with disabilities
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=discrimination" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Discrimination
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=open-government" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Open government
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Consumer complaint
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2022-04-20T00:00:00">APR 20, 2022</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/complaint-bulletin-medical-billing-and-collection-issues-described-in-consumer-complaints/">Complaint Bulletin: Medical billing and collection issues described in consumer complaints</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    This report analyzes debt collection and credit or consumer reporting complaints submitted to the Bureau in 2021.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=data" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=medical-debt" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Medical debt
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=consumer-complaints" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer complaints
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2981,6 +2963,18 @@
             <li class="m-list_item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list_link"
+                       href="/about-us/newsroom/prepared-remarks-of-cfpb-director-rohit-chopra-at-the-global-financial-innovation-networks-annual-general-meeting/">
+                        Prepared Remarks of CFPB Director Rohit Chopra at the Global Financial Innovation Network’s Annual General Meeting
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time class="datetime_date" datetime="2023-11-08T00:00:00">NOV 08, 2023</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list_item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list_link"
                        href="/about-us/newsroom/cfpb-proposes-new-federal-oversight-of-big-tech-companies-and-other-providers-of-digital-wallets-and-payment-apps/">
                         CFPB Proposes New Federal Oversight of Big Tech Companies and Other Providers of Digital Wallets and Payment Apps
                     </a>
@@ -2995,18 +2989,6 @@
                     <a class="m-list_link"
                        href="/about-us/newsroom/cfpb-proposes-rule-to-jumpstart-competition-and-accelerate-shift-to-open-banking/">
                         CFPB Proposes Rule to Jumpstart Competition and Accelerate Shift to Open Banking
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time class="datetime_date" datetime="2023-10-19T00:00:00">OCT 19, 2023</time>
-</span>
-                </p>
-            </li>
-            <li class="m-list_item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list_link"
-                       href="/about-us/newsroom/prepared-remarks-of-cfpb-director-rohit-chopra-on-the-proposed-personal-financial-data-rights-rule/">
-                        Prepared Remarks of CFPB Director Rohit Chopra on the Proposed Personal Financial Data Rights Rule
                     </a>
                 </h3>
                 <p class="a-date">

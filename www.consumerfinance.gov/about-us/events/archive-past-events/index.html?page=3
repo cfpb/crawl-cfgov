@@ -1362,13 +1362,48 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg cf-icon-svg__approved-round"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0Zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">179 filtered results</div>
+          <div class="h4 m-notification_message">180 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                        <span class="datetime"><time class="datetime_date" datetime="2021-06-15T13:00:00-0400">JUN 15, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+                <time class="calendar-icon"
+                      data-month="Jun"
+                      data-day="15"
+                      datetime="Tue 15 Jun 2021 01:00:00 PM EDT"
+                      aria-hidden="true">
+                </time>
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/events/archive-past-events/virtual-home-appraisal-bias-event/">Virtual hearing on home appraisal bias</a>
+            </h3>
+                    <div class="o-post-preview_subtitle">
+                            Virtual event
+                    Livecast
+                     -
+                    <span class="datetime"><time class="datetime_date" datetime="2021-06-15T13:00:00-0400">JUN 15, 2021</time>
+    <span class="datetime_divider">@</span>
+    <time class="datetime_time" datetime="2021-06-15T13:00:00-0400">
+        01:00 PM EDT
+    </time>
+</span>
+                    </div>
+                <div class="o-post-preview_description">
+                    Featuring remarks from Acting Director Dave Uejio and civil rights organizations, housing policy experts, and other federal agencies.
+                </div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item">
@@ -2602,56 +2637,6 @@
             <a href="/about-us/events/archive-past-events/?topics=video" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Video
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                        <span class="datetime"><time class="datetime_date" datetime="2019-12-12T09:00:00-0500">DEC 12, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-                <div class="o-post-preview_image-container">
-                        <img class="o-post-preview_image"
-                             src="https://api.mapbox.com/styles/v1/mapbox/streets-v11/static/-77.0366,38.895,12/276x155?access_token=pk.eyJ1IjoiY2ZwYiIsImEiOiJodmtiSk5zIn0.VkCynzmVYcLBxbyHzlvaQw"
-                             alt="">
-                </div>
-        <div class="o-post-preview_content">
-                <time class="calendar-icon"
-                      data-month="Dec"
-                      data-day="12"
-                      datetime="Thu 12 Dec 2019 09:00:00 AM EST"
-                      aria-hidden="true">
-                </time>
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/events/archive-past-events/2019-cfpb-research-conference/">2019 CFPB Research Conference</a>
-            </h3>
-                    <div class="o-post-preview_subtitle">
-                        Washington, DC
-                            Catholic University Edward J. Pryzbyla University Center
-                     -
-                    <span class="datetime"><time class="datetime_date" datetime="2019-12-12T09:00:00-0500">DEC 12, 2019</time>
-    <span class="datetime_divider">@</span>
-    <time class="datetime_time" datetime="2019-12-12T09:00:00-0500">
-        09:00 AM EST
-    </time>
-</span>
-                    </div>
-                <div class="o-post-preview_description">
-                    The fourth conference on December 12–13, 2019, will feature research from a range of disciplines and approaches that inform the topic of consumer finance.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/about-us/events/archive-past-events/?topics=research" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Research
             </a>
         </li>
     </ul>
