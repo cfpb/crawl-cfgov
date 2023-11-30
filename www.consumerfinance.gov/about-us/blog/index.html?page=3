@@ -1438,12 +1438,12 @@
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
-    <article class="o-post-preview" lang="es">
+    <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
                     <span class="m-meta-header_item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__information" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917zM5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534zm2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
-        Info for consumers
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
+        Data, research, and reports
 </span>
             </div>
             <div class="m-meta-header_item">
@@ -1456,53 +1456,41 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/la-cfpb-ha-entrado-al-chat/">La CFPB ha entrado al chat</a>
+                <a href="/about-us/blog/office-of-research-blog-update-on-student-loan-borrowers-as-payment-suspension-set-to-expire/">Office of Research blog: Update on student loan borrowers during payment suspension</a>
             </h3>
                 <div class="o-post-preview_description">
-                    En la CFPB estamos monitoreando el uso de tecnologías de chatbot por las instituciones financieras para garantizar que los consumidores reciban asistencia oportuna y confiable de sus proveedores.
+                    Delinquencies and scheduled payments for non-student-loans continue to rise for student loan borrowers during the federal student loan payment pause.
                 </div>
                 <div class="o-post-preview_byline-group">
                     By 
-                    Eric Halperin</a>
+                    Thomas Conkling</a>
                     and 
-                    Lorelei Salas</a>
+                    Christa Gibbs</a>
                 </div>
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=technologist" class="m-tags_tag">
+            <a href="/about-us/blog/?topics=data" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Technologist
+                Data
             </a>
         </li>
         <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=consumer-complaints" class="m-tags_tag">
+            <a href="/about-us/blog/?topics=research" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer complaints
+                Research
             </a>
         </li>
         <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=financial-service-providers" class="m-tags_tag">
+            <a href="/about-us/blog/?topics=office-of-research-publication" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
+                Office of Research Publication
             </a>
         </li>
         <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=banking" class="m-tags_tag">
+            <a href="/about-us/blog/?topics=student-loans" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=supervision" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Supervision
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=enforcement" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
+                Student loans
             </a>
         </li>
     </ul>
