@@ -1271,6 +1271,7 @@
   <option value="small-dollar-lending">Small dollar lending</option>
   <option value="student-loans">Student loans</option>
   <option value="students">Students</option>
+  <option value="survey-methodology">Survey methodology</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
 </select>
             </div>
@@ -1341,13 +1342,82 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg cf-icon-svg__approved-round"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0Zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">85 filtered results</div>
+          <div class="h4 m-notification_message">86 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2023-12-01T00:00:00">DEC 01, 2023</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/making-ends-meet-in-2023-insights-from-the-making-ends-meet-survey/">Making Ends Meet in 2023: Insights from the Making Ends Meet Survey</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The annual Making Ends Meet survey report highlights new trends in household financial stability.
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Office of Research</a>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=office-of-research-publication" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Office of Research Publication
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=survey-methodology" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Survey methodology
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=financial-well-being" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Financial well-being
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item">
@@ -2642,57 +2712,6 @@
             <a href="/data-research/research-reports/?topics=mortgages" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2021-07-27T00:00:00">JUL 27, 2021</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/recovery-of-credit-applications-pre-pandemic-levels/">The Recovery of Credit Applications to Pre-Pandemic Levels</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    This report is an update to CFPB’s May 2020 report and December 2020 blog regarding the effects of COVID-19 on credit applications (or credit inquiries). It examines the different paths of recovery for types of credit applications.
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    Office of Research</a>
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=coronavirus" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Coronavirus
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=research" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=access-to-credit" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Access to credit
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=office-of-research-publication" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Office of Research Publication
             </a>
         </li>
     </ul>

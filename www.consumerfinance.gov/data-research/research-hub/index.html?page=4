@@ -1271,6 +1271,7 @@
   <option value="small-dollar-lending">Small dollar lending</option>
   <option value="student-loans">Student loans</option>
   <option value="students">Students</option>
+  <option value="survey-methodology">Survey methodology</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
 </select>
             </div>
@@ -1341,13 +1342,52 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 17 19" class="cf-icon-svg cf-icon-svg__approved-round"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0Zm-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">85 filtered results</div>
+          <div class="h4 m-notification_message">86 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-04-20T00:00:00">APR 20, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/online-payday-loan-payments/">Online Payday Loan Payments</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    This report provides detailed analyses on the payment practices of online lenders making high-cost, short-term loans online, with an emphasis on outcomes after payment requests fail.
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Office of Research</a>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=office-of-research-publication" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Office of Research Publication
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=payday-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Payday loans
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item">
