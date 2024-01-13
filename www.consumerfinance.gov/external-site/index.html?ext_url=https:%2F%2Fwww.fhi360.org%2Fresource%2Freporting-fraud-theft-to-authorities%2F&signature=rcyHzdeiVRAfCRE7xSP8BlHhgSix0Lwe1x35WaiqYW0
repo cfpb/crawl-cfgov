@@ -74,9 +74,9 @@
 </header>
     <main class="content "
           id="main">
-<div class="content_wrapper">
-    <div class="content_main ">
-        <section class="content_main-inner">
+        <div class="content_wrapper">
+            <div class="content_main ">
+                <section class="content_main-inner">
     <div class="external-site">
         <h1>Thank you for visiting consumerfinance.gov.</h1>
         <p class="lead-paragraph">
@@ -97,9 +97,9 @@
             Proceed to external site
         </a>
     </div>
-        </section>
-    </div>
-</div>
+                </section>
+            </div>
+        </div>
     </main>
 </body>
 </html>
