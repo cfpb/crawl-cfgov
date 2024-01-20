@@ -1448,7 +1448,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">3870 filtered results</div>
+          <div class="h4 m-notification_message">3871 filtered results</div>
       </div>
   </div>
         </div>
@@ -1467,6 +1467,23 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.112 1.112 0 0 1-1.108-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg><span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/as-payments-on-federal-student-loans-resume-federal-student-loan-borrowers-may-be-eligible-for-cancellation-or-lower-payments/">
+                        <span class="h4 u-mb0">As payments on federal student loans resume, federal student loan borrowers may be eligible for cancellation or lower payments</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time class="datetime_date" datetime="2023-09-05T00:00:00">SEP 05, 2023</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3144,23 +3161,6 @@
                 <td class="u-w65pct">
                     <a href="/about-us/newsroom/cfpb-finds-billions-of-dollars-stored-on-popular-payment-apps-may-lack-federal-insurance/">
                         <span class="h4 u-mb0">CFPB Finds that Billions of Dollars Stored on Popular Payment Apps May Lack Federal Insurance</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time class="datetime_date" datetime="2023-06-01T00:00:00">JUN 01, 2023</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=consumer-advisories" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__complaint" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108H8.75l-1.02 1.635a.273.273 0 0 1-.503 0l-1.02-1.635h-4.13a1.112 1.112 0 0 1-1.109-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108M8.206 11.34a.706.706 0 1 0-.706.705.706.706 0 0 0 .706-.705m-1.26-1.83a.554.554 0 1 0 1.108 0V6.275a.554.554 0 1 0-1.108 0z"/></svg><span class="u-visually-hidden">Category:</span>
-        Consumer advisories
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/su-dinero-esta-en-riesgo-si-lo-tiene-en-una-app-de-pago/">
-                        <span class="h4 u-mb0">Consejos al consumidor: Su dinero está en mayor riesgo si lo mantiene en una aplicación de pago en vez de moverlo a una cuenta que tenga garantía de depósitos</span>
                     </a>
                 </td>
                 <td class="u-w15pct">
