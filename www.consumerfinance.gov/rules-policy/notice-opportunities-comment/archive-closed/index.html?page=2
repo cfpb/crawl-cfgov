@@ -1301,6 +1301,7 @@
   <option value="compliance">Compliance</option>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="consumer-complaints">Consumer complaints</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="credit-card-act">Credit CARD Act</option>
   <option value="credit-cards">Credit cards</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
@@ -1308,6 +1309,7 @@
   <option value="data">Data</option>
   <option value="debit-cards">Debit cards</option>
   <option value="debt-collection">Debt collection</option>
+  <option value="deceptive-practices">Deceptive practices</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="discrimination">Discrimination</option>
   <option value="electronic-payments">Electronic payments</option>
@@ -1324,6 +1326,8 @@
   <option value="foreclosure">Foreclosure</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="innovation">Innovation</option>
+  <option value="medical-debt">Medical debt</option>
+  <option value="military-lending-act">Military Lending Act</option>
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="money-transfers">Money transfers</option>
   <option value="mortgages">Mortgages</option>
@@ -1346,6 +1350,7 @@
   <option value="regulation-n">Regulation N</option>
   <option value="regulation-o">Regulation O</option>
   <option value="regulation-p">Regulation P</option>
+  <option value="regulation-z">Regulation Z</option>
   <option value="research">Research</option>
   <option value="reverse-mortgages">Reverse mortgages</option>
   <option value="rulemaking">Rulemaking</option>
@@ -1357,6 +1362,7 @@
   <option value="students">Students</option>
   <option value="supervision">Supervision</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+  <option value="virtual-currency">Virtual currency</option>
 </select>
             </div>
         </div>
@@ -1426,13 +1432,725 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">287 filtered results</div>
+          <div class="h4 m-notification_message">303 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Proposed rule
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-04-07T00:00:00">APR 07, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/debt-collection-practices-regulation-f-delay-of-effective-date/">Debt Collection Practices (Regulation F); Delay of Effective Date</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau is proposing to extend the effective date of two final rules titled Debt Collection Practices (Regulation F) from November 30, 2021 until January 29, 2022.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Debt Collection Practices Act
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Compliance
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Proposed rule
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-04-05T00:00:00">APR 05, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/protections-for-borrowers-affected-by-the-covid-19-emergency-under-the-real-estate-settlement-procedures-act-regulation-x/">Protections for Borrowers Affected by the COVID-19 Emergency Under the Real Estate Settlement Procedures Act (RESPA), Regulation X</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau of Consumer Financial Protection (Bureau) is proposing amending Regulation X to assist borrowers affected by the COVID-19 emergency.  The proposed amendments would generally prohibit servicers from making the first notice or filing required for foreclosure until after December 31, 2021, amend early intervention and reasonable diligence obligations to ensure that servicers are communicating timely and accurate information to borrowers about their loss mitigation options during the current crisis, and temporarily permit mortgage servicers to offer certain loss mitigation options made available to borrowers experiencing a COVID-19-related hardship based on the evaluation of an incomplete application.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=foreclosure" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Foreclosure
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=disasters-and-emergencies" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Advance notice of proposed rulemaking
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-03-03T00:00:00">MAR 03, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/qualified-mortgage-definition-under-truth-lending-act-regulation-qm-loan-definition-delay-of-mandatory-compliance-date/">Qualified Mortgage Definition under the Truth in Lending Act (Regulation Z): General QM Loan Definition; Delay of Mandatory Compliance Date</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau of Consumer Financial Protection (Bureau) is proposing to delay the mandatory compliance date of the final rule titled Qualified Mortgage Definition under the Truth in Lending Act (Regulation Z): General QM Loan Definition (General QM Final Rule) until October 1, 2022.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2021-01-13T00:00:00">JAN 13, 2021</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/statement-regarding-the-provision-of-financial-products-and-services-to-consumers-with-limited-english-proficiency/">Statement Regarding the Provision of Financial Products and Services to Consumers with Limited English Proficiency</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    This statement encourages financial institutions to better serve consumers with limited English proficiency and provides principles and guidelines to assist financial institutions in complying with the Dodd-Frank Act, the Equal Credit Opportunity Act, and other applicable laws.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Advance notice of proposed rulemaking
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-10-22T00:00:00">OCT 22, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/dodd-frank-act-section-1033-consumer-access-to-financial-records/">Dodd-Frank Act Section 1033 – Consumer Access to Financial Records</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau is issuing this Advance Notice of Proposed Rulemaking to solicit comments and information to assist the Bureau in developing regulations to implement Section 1033 of the Dodd-Frank Act.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=innovation" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Innovation
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Proposed rule
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-09-09T00:00:00">SEP 09, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/qualified-mortgage-definition-under-truth-lending-act-general-qm-loan-definition/">Qualified Mortgage Definition under the Truth in Lending Act (Regulation Z): General QM Loan Definition</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    In this notice, the Bureau proposes certain amendments to the General QM loan definition in Regulation Z.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-08-25T00:00:00">AUG 25, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/card-act-rules-review-regulatory-flexibility-act-request-information-consumer-credit-card-market/">CARD Act Rules Review Pursuant to the Regulatory Flexibility Act; Request for Information Regarding Consumer Credit Card Market</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau is requesting comment on two related, but separate, reviews, under the Regulatory Flexibility Act and the Credit Card Accountability Responsibility and Disclosure Act of 2009.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-card-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit CARD Act
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-service-providers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Financial service providers
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-unions" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit unions
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=community-banks" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Community banks
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Call for evidence
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-08-18T00:00:00">AUG 18, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/qualified-mortgage-definition-under-truth-lending-act-regulation-z-seasoned-qm-loan-definition/">Qualified Mortgage Definition under the Truth in Lending Act (Regulation Z): Seasoned QM Loan Definition</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau of Consumer Financial Protection is proposing to create a new category of QMs (Seasoned QMs) for first-lien, fixed-rate covered transactions that have met certain performance requirements over a 36-month seasoning period, are held in portfolio until the end of the seasoning period, comply with general restrictions on product features and points and fees, and meet certain underwriting requirements.
+                </div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Proposed rule
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-08-11T00:00:00">AUG 11, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/qualified-mortgage-definition-under-truth-lending-act-regulation-z-extension-sunset-date/">Qualified Mortgage Definition under the Truth in Lending Act (Regulation Z): Extension of Sunset Date</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau proposes to amend Regulation Z to replace the Temporary GSE QM loan definition’s sunset date with a provision that extends the definition to expire upon the effective date of final amendments to the General QM loan definition.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-08-05T00:00:00">AUG 05, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/debt-collection-practices-regulation-f-supplemental-proposal-time-barred-debt/">Debt Collection Practices (Regulation F) Supplemental Proposal on Time-Barred Debt</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau of Consumer Financial Protection proposes to amend Regulation F, which implements the Fair Debt Collection Practices Act (FDCPA), by proposing to require debt collectors to make certain disclosures when collecting time-barred debts.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Debt Collection Practices Act
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Compliance
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Proposed rule
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-08-05T00:00:00">AUG 05, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/amendments-facilitate-libor-transition-regulation-z/">Amendments to Facilitate the LIBOR Transition (Regulation Z)</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau is proposing to amend Regulation Z, which implements the Truth in Lending Act, generally to address the sunset of LIBOR, expected to be discontinued after 2021.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=auto-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Auto loans
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=student-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Student loans
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=small-dollar-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Small dollar lending
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=reverse-mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Reverse mortgages
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-07-28T00:00:00">JUL 28, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/request-information-equal-credit-opportunity-act-and-regulation-b/">Request for Information on the Equal Credit Opportunity Act and Regulation B</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau seeks comments and information to identify opportunities to prevent credit discrimination, encourage responsible innovation, promote fair, equitable, and nondiscriminatory access to credit, address potential regulatory uncertainty, and develop viable solutions to regulatory compliance challenges under the Equal Credit Opportunity Act (ECOA) and Regulation B.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Call for evidence
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=discrimination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Discrimination
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-07-28T00:00:00">JUL 28, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/request-information-equal-credit-opportunity-act-and-regulation-b-extension/">Request for Information on the Equal Credit Opportunity Act and Regulation B; Extension of Comment Period</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau seeks comments and information to identify opportunities to prevent credit discrimination, encourage responsible innovation, promote fair, equitable, and nondiscriminatory access to credit, address potential regulatory uncertainty, and develop viable solutions to regulatory compliance challenges under the Equal Credit Opportunity Act (ECOA) and Regulation B.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=call-for-evidence" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Call for evidence
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=discrimination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Discrimination
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-07-02T00:00:00">JUL 02, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/higher-priced-mortgage-loan-escrow-exemption-regulation-z/">Higher-Priced Mortgage Loan Escrow Exemption (Regulation Z)</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau is proposing to exempt certain insured depository institutions and insured credit unions from the requirement to establish escrow accounts for certain higher-priced mortgage loans.
+                </div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-06-04T00:00:00">JUN 04, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/notice-availability-revised-charm-booklet-publication/">Notice of Availability of Revised Consumer Information Publication (CHARM Booklet)</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau of Consumer Financial Protection (Bureau) announces the availability of an updated consumer publication, the Consumer Handbook on Adjustable Rate Mortgages booklet, also known as the CHARM booklet.
+                </div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2020-06-01T00:00:00">JUN 01, 2020</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/request-for-information-assist-taskforce-federal-consumer-financial-law/">Request for Information to Assist the Taskforce on Federal Consumer Financial Law</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau of Consumer Financial Protection is seeking comments and information from interested parties to assist the Taskforce on Federal Consumer Financial Law.
+                </div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
@@ -1867,706 +2585,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Proposed rule
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-05-07T00:00:00">MAY 07, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/debt-collection-practices-regulation-f/">Debt Collection Practices (Regulation F)</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau proposes to amend Regulation F, which implements the Fair Debt Collection Practices Act (FDCPA), to prescribe Federal rules governing the activities of debt collectors covered by the FDCPA.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=debt-collection" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Debt Collection Practices Act
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Advance notice of proposed rulemaking
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-05-02T00:00:00">MAY 02, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/home-mortgage-disclosure-regulation-c-data-points-and-coverage/">Home Mortgage Disclosure (Regulation C) Data Points and Coverage</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau is issuing this advance notice of proposed rulemaking relating to certain data points in the Bureau’s October 2015 final rule that were added to Regulation C or revised to require additional information, and coverage of certain business- or commercial-purpose loans.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Home Mortgage Disclosure Act
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Proposed rule
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-05-02T00:00:00">MAY 02, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/home-mortgage-disclosure-regulation-c/">Home Mortgage Disclosure (Regulation C)</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau is proposing to amend Regulation C to increase the threshold for reporting data about closed-end mortgage loans, extend the temporary threshold for reporting data about open-end lines of credit and set a threshold upon expiration of the proposed extension, and further implement the amendments to HMDA made by the Economic Growth, Regulatory Relief, and Consumer Protection Act.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Home Mortgage Disclosure Act
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Request for comment or information
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-04-25T00:00:00">APR 25, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/request-information-regarding-potential-changes-remittance-rule/">Request for Information Regarding Potential Changes to the Remittance Rule</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Request for Information regarding potential rule changes to the Remittance Rule seeks information on the coverage of the rule and on the expiration of an exception that allows certain financial institutions to estimate certain costs that come with sending a remittance transfer.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-e" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Regulation E
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=money-transfers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-04-12T00:00:00">APR 12, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/generic-information-collection-plan-collection-qualitative-feedback-bureau-service-delivery/">Generic Information Collection Plan for the Collection of Qualitative Feedback on Bureau Service Delivery</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    This generic information collection plan provides for the collection of qualitative feedback from consumers, financial institutions, and stakeholders on a wide range of services the Bureau provides.
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-04-04T00:00:00">APR 04, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/consumer-response-government-and-congressional-portal-boarding-forms/">Consumer Response Government and Congressional Portal Boarding Forms</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is requesting to renew OMB approval for an existing information collection titled, &#34;Consumer Response Government and Congressional Portal Boarding Forms&#34;.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=partnerships" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Partnerships
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-complaints" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer complaints
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-04-01T00:00:00">APR 01, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/equal-credit-opportunity-act-regulation-b/">Equal Credit Opportunity Act (Regulation B) 12 CFR 1002</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Equal Credit Opportunity Act (“ECOA”) was enacted to ensure that credit is made available to all creditworthy applicants without discrimination on the basis of sex, marital status, race, color, religion, national origin, age, or other prohibited bases under the ECOA.
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-04-01T00:00:00">APR 01, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/report-terms-credit-card-plan/">Report of Terms of Credit Card Plan</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    Form FR 2572 collects data on credit card pricing and availability from a sample of at least 150 financial institutions that offer credit cards. The data enable the Bureau of Consumer Financial Protection (Bureau) to present information to the public on terms of credit card plans.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Advance notice of proposed rulemaking
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-03-04T00:00:00">MAR 04, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/advance-notice-proposed-rulemaking-residential-property-assessed-clean-energy-financing/">Advance Notice of Proposed Rulemaking on Residential Property Assessed Clean Energy Financing</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau is issuing this advance notice of proposed rulemaking relating to residential Property Assessed Clean Energy (PACE) financing to aid implementation of the Economic Growth, Regulatory Relief, and Consumer Protection Act section 307.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-02-13T00:00:00">FEB 13, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/agency-information-collection-activities-comments-request/">Agency Information Collection Activities: Comment Request</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB requested OMB approval for an information collection titled, &#34;Bureau of Consumer Financial Protection Speaker Request Form&#34;.
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Proposed rule
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-02-09T00:00:00">FEB 09, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/availability-funds-and-collection-checks-regulation-cc/">Availability of Funds and Collection of Checks (Regulation CC)</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau and the Federal Reserve Board are jointly proposing amendments to Regulation CC, which implements the Expedited Funds Availability Act, and are also providing an additional opportunity for public comment on certain amendments to Regulation CC that the Board proposed in 2011.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=banking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Proposed rule
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-02-06T00:00:00">FEB 06, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/payday-vehicle-title-and-certain-high-cost-installment-loans-delay-compliance-date/">Payday, Vehicle Title, and Certain High-Cost Installment Loans; Delay of Compliance Date</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau is proposing to delay the August 19, 2019 compliance date for the mandatory underwriting provisions of the regulation promulgated by the Bureau in November 2017 governing Payday, Vehicle Title, and Certain High-Cost Installment Loans.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=payday-loans" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Payday loans
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=auto-loans" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Auto loans
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-service-providers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=small-dollar-lending" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Small dollar lending
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-reports-and-scores" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=add-on-products" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Add-on products
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=electronic-payments" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Electronic payments
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Proposed rule
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2019-02-06T00:00:00">FEB 06, 2019</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/payday-vehicle-title-and-certain-high-cost-installment-loans/">Payday, Vehicle Title, and Certain High-Cost Installment Loans</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau is proposing to rescind mandatory underwriting provisions of the regulation promulgated by the Bureau in November 2017 governing Payday, Vehicle Title, and Certain High-Cost Installment Loans.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=payday-loans" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Payday loans
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-service-providers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=small-dollar-lending" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Small dollar lending
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-reports-and-scores" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=compliance" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Compliance
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=add-on-products" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Add-on products
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=electronic-payments" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Electronic payments
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Proposed policy
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2018-12-13T00:00:00">DEC 13, 2018</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/policy-no-action-letters-and-bcfp-product-sandbox/">Policy on No-Action Letters and the BCFP Product Sandbox</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau invites the public to comment on its proposed policy, which is intended to carry out certain of the Bureau&#39;s authorities under federal consumer financial law; and a proposed information collection associated with applications submitted by applicants requesting admission to the BCFP Product Sandbox.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=innovation" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Innovation
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-service-providers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Proposed rule
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2018-10-12T00:00:00">OCT 12, 2018</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/civil-penalties-inflation-adjustments/">Civil Penalties Inflation Adjustments</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau is proposing an amendment to specify that the adjusted civil monetary penalties only apply to assessments whose associated violations occurred on, or after, Nov. 2, 2015 (the date the 2015 Inflation Adjustment Act amendments were signed into law).
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=civil-penalty-fund" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Civil Penalty Fund
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2018-10-04T00:00:00">OCT 04, 2018</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/agency-information-collection-activities-comment-request-2018-10/">Agency Information Collection Activities: Comment Request</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    This is a Paperwork Reduction Act request to renew without change Office of Management and Budget (OMB) approval for a currently approved generic information collection plan (GICP) titled, “Generic Information Collection Plan for the Collection of Qualitative Feedback on Bureau Service Delivery.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Data
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2584,7 +2602,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    2 out of 12 total pages
+                    2 out of 13 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -2592,11 +2610,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="12"
+                   max="13"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="2">
-            <span class="m-pagination_label"> of 12</span>
+            <span class="m-pagination_label"> of 13</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

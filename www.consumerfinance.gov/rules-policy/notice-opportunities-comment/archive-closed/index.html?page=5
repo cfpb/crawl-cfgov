@@ -1301,6 +1301,7 @@
   <option value="compliance">Compliance</option>
   <option value="consumer-advisory-board">Consumer Advisory Board</option>
   <option value="consumer-complaints">Consumer complaints</option>
+  <option value="consumer-financial-protection-bureau">Consumer Financial Protection Bureau</option>
   <option value="credit-card-act">Credit CARD Act</option>
   <option value="credit-cards">Credit cards</option>
   <option value="credit-reports-and-scores">Credit reports and scores</option>
@@ -1308,6 +1309,7 @@
   <option value="data">Data</option>
   <option value="debit-cards">Debit cards</option>
   <option value="debt-collection">Debt collection</option>
+  <option value="deceptive-practices">Deceptive practices</option>
   <option value="disasters-and-emergencies">Disasters and emergencies</option>
   <option value="discrimination">Discrimination</option>
   <option value="electronic-payments">Electronic payments</option>
@@ -1324,6 +1326,8 @@
   <option value="foreclosure">Foreclosure</option>
   <option value="home-mortgage-disclosure-act">Home Mortgage Disclosure Act</option>
   <option value="innovation">Innovation</option>
+  <option value="medical-debt">Medical debt</option>
+  <option value="military-lending-act">Military Lending Act</option>
   <option value="mobile-financial-services">Mobile financial services</option>
   <option value="money-transfers">Money transfers</option>
   <option value="mortgages">Mortgages</option>
@@ -1346,6 +1350,7 @@
   <option value="regulation-n">Regulation N</option>
   <option value="regulation-o">Regulation O</option>
   <option value="regulation-p">Regulation P</option>
+  <option value="regulation-z">Regulation Z</option>
   <option value="research">Research</option>
   <option value="reverse-mortgages">Reverse mortgages</option>
   <option value="rulemaking">Rulemaking</option>
@@ -1357,6 +1362,7 @@
   <option value="students">Students</option>
   <option value="supervision">Supervision</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+  <option value="virtual-currency">Virtual currency</option>
 </select>
             </div>
         </div>
@@ -1426,13 +1432,716 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">287 filtered results</div>
+          <div class="h4 m-notification_message">303 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-05-04T00:00:00">MAY 04, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/request-information-regarding-2013-respa-servicing-rule-assessment/">Request for Information Regarding 2013 RESPA Servicing Rule Assessment</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau of Consumer Financial Protection is conducting an assessment of the Mortgage Servicing Rules Under the Real Estate Settlement Procedures Act...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Real Estate Settlement Procedures Act (RESPA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Proposed rule
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-04-13T00:00:00">APR 13, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/technical-corrections-and-clarifying-amendments-home-mortgage-disclosure-october-2015-final-rule/">Technical Corrections and Clarifying Amendments to the Home Mortgage Disclosure (Regulation C) October 2015 Final Rule</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau proposes amendments to Regulation C to make technical corrections to and to clarify certain requirements adopted by the Bureau&#39;s Home Mortgage...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Proposed rule
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-03-23T00:00:00">MAR 23, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/amendments-equal-credit-opportunity-act-regulation-b-ethnicity-and-race-information-collection/">Amendments to Equal Credit Opportunity Act (Regulation B) Ethnicity and Race Information Collection</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau is proposing amendments to Regulation B to permit creditors additional flexibility in complying with Regulation B in order to facilitate...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=home-mortgage-disclosure-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Home Mortgage Disclosure Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-03-17T00:00:00">MAR 17, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/notice-and-request-comment-regarding-remittance-rule-assessment/">Notice and Request for Comment Regarding Remittance Rule Assessment</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau is conducting an assessment of certain of the Bureau&#39;s regulations related to consumer remittance transfers under the Electronic Fund Transfer...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=money-transfers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Money transfers
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-03-15T00:00:00">MAR 15, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/request-information-regarding-consumer-credit-card-market/">Request for Information Regarding Consumer Credit Card Market</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Credit CARD Act requires the Bureau to conduct a review of the consumer credit card market, within the limits of its existing resources available for...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-card-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit CARD Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Proposed rule
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-03-09T00:00:00">MAR 09, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/prepaid-accounts-under-regulation-e-and-regulation-z-delay-effective-date/">Prepaid Accounts Under the Electronic Fund Transfer Act (Regulation E) and the Truth in Lending Act (Regulation Z); Delay of Effective Date</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau is proposing to delay the October 1, 2017 effective date of the rule governing Prepaid Accounts Under the Electronic Fund Transfer Act...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=electronic-payments" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Electronic payments
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=prepaid-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Prepaid cards
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-e" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Regulation E
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-card-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit CARD Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-03-01T00:00:00">MAR 01, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/student-loan-servicing-market-monitoring/">Student Loan Servicing Market Monitoring</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    In accordance with the Paperwork Reduction Act of 1995 (PRA), the Bureau is proposing a new information collection titled, &#34;Student Loan Servicing Market...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=student-loans" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Student loans
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=students" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Students
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-02-16T00:00:00">FEB 16, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/request-information-regarding-use-alternative-data-and-modeling-techniques-credit-process/">Request for Information Regarding Use of Alternative Data and Modeling Techniques in the Credit Process</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The CFPB seeks information about the use or potential use of alternative data and modeling techniques in the credit...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=fair-credit-reporting-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Credit Reporting Act
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=equal-credit-opportunity-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Equal Credit Opportunity Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Proposed rule
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2017-02-03T00:00:00">FEB 03, 2017</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/supplemental-standards-ethical-conduct-employees-bureau-consumer-financial-protection-2017/">Supplemental Standards of Ethical Conduct for Employees of the Bureau of Consumer Financial Protection</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau, with the concurrence of the Office of Government Ethics, is issuing this notice of proposed rulemaking for employees of the Bureau. This...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=personnel" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Personnel
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Information collection activities
+</span>
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-12-30T00:00:00">DEC 30, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/30-day-pra-consumer-response-company-response-survey/">30 Day PRA: Consumer Response Company Response Survey</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    In accordance with the Paperwork Reduction Act of 1995 (PRA), the Bureau is proposing a new information collection titled, &#34;Consumer Response Company...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-complaints" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Consumer complaints
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-12-16T00:00:00">DEC 16, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/30-day-pra-application-forms-financial-empowerment-partnerships/">30 Day PRA: Application Forms for Financial Empowerment Partnerships</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    In accordance with the Paperwork Reduction Act of 1995 (PRA), the Bureau is proposing a new information collection titled, &#34;Application Forms for Financial...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=partnerships" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Partnerships
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-well-being" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Financial well-being
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Information collection activities
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-12-05T00:00:00">DEC 05, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/60-day-pra-truth-lending-act-regulation-z-appraisals-higher-priced-mortgage-loans/">60 Day PRA: Truth In Lending Act (Regulation Z) — Appraisals For Higher-Priced Mortgage Loans</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    In accordance with the Paperwork Reduction Act of 1995 (PRA), the Bureau is requesting to renew the Office of Management and Budget (OMB) approval for an...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-11-17T00:00:00">NOV 17, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/request-information-regarding-consumer-access-financial-records/">Request for Information Regarding Consumer Access to Financial Records</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Dodd-Frank Act provides for consumer rights to access financial account and account-related data in usable electronic form.  The CFPB is seeking...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=banking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-well-being" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Financial well-being
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Information collection activities
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-10-05T00:00:00">OCT 05, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/agency-information-collection-activities-submission-omb-review-comment-request-112016/">Agency Information Collection Activities: Submission for OMB Review; Comment Request</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    In accordance with the Paperwork Reduction Act of 1995, the Bureau is proposing to renew the Office of Management and Budget approval for an existing...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Rulemaking
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Request for comment or information
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-10-05T00:00:00">OCT 05, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/notice-public-list-companies-offering-existing-customers-free-access-credit-score/">Notice of a Public List of Companies Offering Existing Customers Free Access to a Credit Score</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Office of Financial Education at the Bureau is exploring how to produce a list of companies offering existing customers free access to a credit score...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-cards" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit cards
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Information collection activities
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2016-09-08T00:00:00">SEP 08, 2016</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/rules-policy/notice-opportunities-comment/archive-closed/30-day-pra-generic-information-collection-plan-surveys-using-consumer-credit-panel/">30 Day PRA:  Generic Information Collection Plan for Surveys Using the Consumer Credit Panel</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    In accordance with the Paperwork Reduction Act of 1995 (PRA), the Bureau is proposing a new generic information collection plan titled, &#34;Generic Information...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=privacy" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Privacy
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=access-to-credit" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Access to credit
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
@@ -1865,552 +2574,6 @@
 </div>
         </div>
     </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-06-17T00:00:00">JUN 17, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/60-day-pra-consumer-advisory-boards-groups-and-committees-2016/">60-Day PRA: Consumer Advisory Boards, Groups and Committees</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    In accordance with the Paperwork Reduction Act of 1995 (PRA), the CFPB is requesting to renew OMB approval for an existing information collection titled, &#34;Consumer Advisory Boards, Groups and Committees&#34;.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=consumer-advisory-board" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Consumer Advisory Board
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-06-15T00:00:00">JUN 15, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/agency-information-collection-activities-submission-omb-review-comment-request-qualitative-cee-collections/">30-Day PRA: Generic Information Collection Plan for Qualitative Consumer Education and Engagement Information Collections</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is proposing to renew OMB approval for a revised generic clearance, titled &#34;Generic Information Collection Plan for Qualitative Consumer Education...
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Interim final rule
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-06-14T00:00:00">JUN 14, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/civil-penalty-inflation-adjustments/">Civil Penalty Inflation Adjustments</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau is publishing for public comment an interim final rule to adjust the civil monetary penalties within the Bureau&#39;s jurisdiction for inflation, as...
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=enforcement" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-06-14T00:00:00">JUN 14, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/agency-information-collection-activities-submission-omb-review-comment-request-intergovernmental-affairs/">30-Day PRA: Generic Information Collection Plan for the Office of Intergovernmental Affairs Outreach Activities</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is requesting to renew OMB approval for an existing information collection, titled &#34;Generic Information Collection Plan for the Office of...
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-06-14T00:00:00">JUN 14, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/agency-information-collection-activities-submission-omb-review-comment-request-open-notice/">30-Day PRA: Regulation I: Disclosure Requirements for Depository Institutions Lacking Federal Deposit Insurance (12 CFR 1009)</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is proposing to renew OMB approval for an existing information collection, titled &#34;Regulation I: Disclosure Requirements for Depository...
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-06-10T00:00:00">JUN 10, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/agency-information-collection-activities-submission-omb-review-comment-request-eaja-2016/">30-Day PRA: Equal Access to Justice Act</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    In accordance with the Paperwork Reduction Act of 1995 (PRA), the CFPB is requesting to renew OMB approval for an existing information collection titled, &#34;Equal Access to Justice Act&#34;.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=privacy" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Privacy
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-06-10T00:00:00">JUN 10, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/agency-information-collection-activities-submission-omb-review-comment-request-062016/">30-Day PRA: Policy to Encourage Trial Disclosure Programs; Information Collection</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau is requesting to renew OMB approval for an existing information collection titled, ‘‘Policy to Encourage Trial Disclosure Programs; Information...
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=privacy" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Privacy
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-05-24T00:00:00">MAY 24, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/arbitration-agreements/">Arbitration Agreements</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is proposing to establish regulations governing arbitration agreements in contracts for consumer financial products and services. First, the...
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=arbitration" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Arbitration
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-05-16T00:00:00">MAY 16, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/agency-information-collection-activities-submission-omb-review-comment-request/">30-Day PRA: Application Process for Designation of Rural Area under Federal Consumer Financial Law</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is proposing to renew OMB approval for an existing information collection titled, &#34;Application Process for Designation of Rural Area under Federal...
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=privacy" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Privacy
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Information collection activities
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-05-16T00:00:00">MAY 16, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/agency-information-collection-activities-comment-request/">60-Day PRA: Evaluation of Financial Empowerment Training Program</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is requesting to renew the Office of Management and Budget (OMB) approval for an existing information collection titled, “Evaluation of Financial Empowerment Training Program.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-education" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Financial education
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=partnerships" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Partnerships
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Request for comment or information
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-04-28T00:00:00">APR 28, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/request-information-regarding-student-loan-borrower-communications/">Request for Information Regarding Student Loan Borrower Communications</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is seeking comments from the public related to consumer decision-making when repaying student loans, including the presentation of information...
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=student-loans" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Request for comment or information
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-04-26T00:00:00">APR 26, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/amendments-2013-mortgage-servicing-rules-under-real-estate-settlement-procedures-act-regulation-x-and-truth-lending-act-regulation-z/">Amendments to the 2013 Mortgage Servicing Rules under the Real Estate Settlement Procedures Act (Regulation X) and the Truth in Lending Act (Regulation Z)</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Bureau is reopening the comment period for a specific aspect of the proposed rule published by the Bureau in the Federal Register on December 15...
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgages" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=real-estate-settlement-procedures-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Real Estate Settlement Procedures Act (RESPA)
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=mortgage-servicing" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgage servicing
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Request for comment or information
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-03-28T00:00:00">MAR 28, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/60-day-pra-generic-information-collection-plan-office-intergovernmental-affairs-outreach-activities/">60-day PRA - Generic Information Collection Plan for the Office of Intergovernmental Affairs Outreach Activities</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is requesting to renew OMB approval for an existing information collection titled, &#34;Generic Information Collection Plan for the Office of...
-                </div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Request for comment or information
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-03-25T00:00:00">MAR 25, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/operations-rural-areas-under-truth-lending-act-regulation-z-interim-final-rule/">Operations in Rural Areas Under the Truth in Lending Act (Regulation Z); Interim Final Rule</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    This interim final rule amends certain provisions of Regulation Z in light of title LXXXIX of the Fixing America&#39;s Surface Transportation Act, entitled the...
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=truth-in-lending-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Truth in Lending Act (TILA)
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Request for comment or information
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-03-23T00:00:00">MAR 23, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/60-day-pra-regulation-i-disclosure-requirements-depository-institutions-lacking-federal-deposit-insurance-12-cfr-1009/">60-Day PRA: Regulation I: Disclosure Requirements for Depository Institutions Lacking Federal Deposit Insurance (12 CFR 1009)</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is proposing a new information collection titled, &#34;Regulation I: Disclosure Requirements for Depository Institutions Lacking Federal Deposit...
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=privacy" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Privacy
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=rulemaking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=regulation-i" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Regulation I
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Request for comment or information
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2016-03-15T00:00:00">MAR 15, 2016</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/rules-policy/notice-opportunities-comment/archive-closed/30-day-pra-financial-well-being-national-survey/">30-day PRA: Financial Well-Being National Survey</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The CFPB is proposing a new information collection titled, “Financial Well-Being National Survey”.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/rules-policy/notice-opportunities-comment/archive-closed/?topics=financial-well-being" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Financial well-being
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
                     <div class="block block__flush-top block__flush-bottom block__padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2428,7 +2591,7 @@
                     Page
                 </span>
                 <span class="u-visually-hidden">
-                    5 out of 12 total pages
+                    5 out of 13 total pages
                 </span>
             </label>
             <input id="m-pagination_current-page-0"
@@ -2436,11 +2599,11 @@
                    name="page"
                    type="number"
                    min="1"
-                   max="12"
+                   max="13"
                    pattern="[0-9]*"
                    inputmode="numeric"
                    value="5">
-            <span class="m-pagination_label"> of 12</span>
+            <span class="m-pagination_label"> of 13</span>
             <button class="a-btn
                            a-btn__link
                            m-pagination_btn-submit"

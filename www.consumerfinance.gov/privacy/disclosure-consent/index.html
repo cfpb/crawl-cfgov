@@ -1212,7 +1212,7 @@
       margin-bottom: 1em;
     }
   </style>
-    <div class="block block__flush-top">
+    <div class="block block__flush-top block__flush-bottom">
         <h1>Consent for disclosure of records protected under the Privacy Act</h1>
         <div class="lead-paragraph">
             <p>This form may be used to provide consent and authorize the CFPB to disclose your records to another person or entity. Please provide the information requested below and submit.</p>
@@ -1243,12 +1243,12 @@
         <p>This information is required for the CFPB to be able to match the individual's information provided in this request with the record that pertains to that individual.</p>
         <p><a class="a-btn a-btn__link" href="/privacy/system-records-notices/">See list of CFPB System of Records Notices (SORNs)</a></p>
     </div>
-    <div class="block" style="margin-top:-2em;margin-bottom:.9375em">
+    <div class="block block__flush-top block__padded-top">
         <form id="privacy-form"
               action="/privacy/disclosure-consent/"
               enctype="multipart/form-data"
               method="POST">
-            <div class="o-well u-mb30">
+            <div class="o-well">
                 <div class="o-form_group">
                     <div class="m-form-field">
                         <label class="a-label a-label__heading"
@@ -1294,7 +1294,7 @@
             </div>
             <h2>Contact information</h2>
             <p>Please provide your contact information so that we can correspond with you regarding the request.</p>
-            <div class="o-well u-mb30">
+            <div class="o-well">
                 <h3>Requestor contact information</h3>
                 <div class="o-form_group">
                     <div class="m-form-field">
@@ -1314,7 +1314,7 @@
                         <input type="email" name="requestor_email" class="a-text-input a-text-input__full" maxlength="320" required id="id_requestor_email">
                     </div>
                 </div>
-                <h3 style="margin-top:45px;">Recepient contact information</h3>
+                <h3 class="u-mt45">Recepient contact information</h3>
                 <div class="o-form_group">
                     <div class="m-form-field">
                         <label class="a-label a-label__heading"
@@ -1380,13 +1380,13 @@
                 </div>
             </div>
             <h2>Supporting documentation (optional)</h2>
-            <p style="margin-bottom:15px">Identity verification documents:</p>
+            <p class="u-mb15">Identity verification documents:</p>
             <ul class="m-list">
                 <li class="m-list_item">A photocopy of two forms of identification, including one form of identification that bears your photograph, and one form of identification that bears your signature; or</li>
                 <li class="m-list_item">A photocopy of a single form of identification that bears both your photograph and signature</li>
             </ul>
             <p>If you are the parent consenting to and authorizing disclosure of the records of a minor or the legal guardian consenting to and authorizing disclosure of the records of an incompetent, you will be required to provide adequate proof of your legal relationship before action will be taken on any request.</p>
-            <div style="padding-bottom:30px" class="o-well u-mb30">
+            <div class="o-well">
                 <div class="o-form_group">
                   <h3>Select files to attach</h3>
                   <p>Please select up to 6 files. The total file size must not exceed 6MB. We accept all image files, including .jpg, .png, .pdf, .gif and .eps.</p>
@@ -1409,7 +1409,7 @@
                 </div>
             </div>
             <h2>Consent for disclosure of records</h2>
-            <div class="o-well u-mb30">
+            <div class="o-well">
                 <div class="o-form_group">
                     <div class="m-form-field m-form-field__checkbox">
                         <input type="checkbox" name="consent" class="a-checkbox" required id="id_consent">
