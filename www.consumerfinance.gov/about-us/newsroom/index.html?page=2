@@ -1795,15 +1795,15 @@
             </a>
         </li>
         <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=fair-lending" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Fair lending
-            </a>
-        </li>
-        <li class="m-tags_item">
             <a href="/about-us/newsroom/?topics=enforcement" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=fair-lending" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair lending
             </a>
         </li>
         <li class="m-tags_item">

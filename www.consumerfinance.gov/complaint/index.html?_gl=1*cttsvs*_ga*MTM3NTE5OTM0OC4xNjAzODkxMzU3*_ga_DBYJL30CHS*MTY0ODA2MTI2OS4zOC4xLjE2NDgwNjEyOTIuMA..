@@ -1136,8 +1136,10 @@ itemscope="" itemtype="http://schema.org/FAQPage"
         </div>
     </div>
 </header>
-    <main class="content content__2-1 content__bleedbar "
-        id="main">
+    <main class="u-layout-grid u-layout-grid__2-1 "
+          id="main"
+          >
+        <div class="u-layout_content-intro">
    <div class="block block__flush-top block__flush-top block__flush-bottom">
 <section class="m-hero">
     <div class="m-hero_wrapper">
@@ -1183,9 +1185,9 @@ itemscope="" itemtype="http://schema.org/FAQPage"
     </style>
 </section>
    </div>
-        <div class="content_wrapper">
-            <div class="content_main ">
-                <section>
+        </div>
+        <div class="u-layout-grid_wrapper">
+        <div class="u-layout-grid_main">
             <div class="block block__flush-top">
 <section class="o-featured-content-module
                 ">
@@ -1412,9 +1414,8 @@ itemscope="" itemtype="http://schema.org/FAQPage"
             </div>
 </div>
    </div>
-                </section>
-            </div>
-            <aside class="content_sidebar o-sidebar-content">
+        </div>
+        <aside class="u-layout-grid_sidebar">
    <div class="block block__flush-top">
       <div class="m-related-links">
         <header class="m-slug-header">
@@ -1441,7 +1442,7 @@ itemscope="" itemtype="http://schema.org/FAQPage"
         </ul>
 </div>
    </div>
-            </aside>
+        </aside>
         </div>
     </main>
 <footer class="o-footer">
