@@ -1224,11 +1224,11 @@
     <h1>
       Mortgages key terms
     </h1>
-        <dl class="terms" itemscope itemtype="http://schema.org/DefinedTermSet">
+        <dl class="terms" itemscope itemtype="https://schema.org/DefinedTermSet">
             <div class="term "
                  id="5-1-adjustable-rate-mortgage"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     5/1 Adjustable Rate Mortgage
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#5-1-adjustable-rate-mortgage">
@@ -1240,7 +1240,7 @@
             <div class="term block block__border-top block__padded-top"
                  id="ability-to-repay-rule"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Ability-to-repay rule
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#ability-to-repay-rule">
@@ -1253,7 +1253,7 @@
             <div class="term block block__border-top block__padded-top"
                  id="adjustable-rate-mortgage-arm"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Adjustable Rate Mortgage (ARM)
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#adjustable-rate-mortgage-arm">
@@ -1265,7 +1265,7 @@
             <div class="term block block__border-top block__padded-top"
                  id="amortization"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Amortization
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#amortization">
@@ -1277,7 +1277,7 @@
             <div class="term block block__border-top block__padded-top"
                  id="amount-financed"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Amount financed
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#amount-financed">
@@ -1290,7 +1290,7 @@
             <div class="term block block__border-top block__padded-top"
                  id="annual-income"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Annual income
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#annual-income">
@@ -1302,7 +1302,7 @@
             <div class="term block block__border-top block__padded-top"
                  id="annual-percentage-rate-apr"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Annual Percentage Rate (APR)
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#annual-percentage-rate-apr">
@@ -1314,7 +1314,7 @@
             <div class="term block block__border-top block__padded-top"
                  id="appraisal-fee"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Appraisal fee
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#appraisal-fee">
@@ -1326,7 +1326,7 @@
             <div class="term block block__border-top block__padded-top"
                  id="automatic-payment"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Automatic payment
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#automatic-payment">
@@ -1338,7 +1338,7 @@
             <div class="term block block__border-top block__padded-top"
                  id="balloon-loan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Balloon loan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#balloon-loan">
@@ -1350,7 +1350,7 @@
             <div class="term block block__border-top block__padded-top"
                  id="bi-weekly-payment"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Bi-weekly payment
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#bi-weekly-payment">
@@ -1364,7 +1364,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="closing-disclosure"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Closing Disclosure
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#closing-disclosure">
@@ -1376,7 +1376,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="construction-loan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Construction loan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#construction-loan">
@@ -1389,7 +1389,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="conventional-loan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Conventional loan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#conventional-loan">
@@ -1401,7 +1401,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="co-signer-or-co-borrower"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Co-signer or co-borrower
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#co-signer-or-co-borrower">
@@ -1413,7 +1413,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="credit-history"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Credit history
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#credit-history">
@@ -1425,7 +1425,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="credit-report"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Credit report
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#credit-report">
@@ -1437,7 +1437,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="credit-score"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Credit score
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#credit-score">
@@ -1449,7 +1449,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="debt-ratio"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Debt ratio
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#debt-ratio">
@@ -1461,7 +1461,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="deed-in-lieu-of-foreclosure"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Deed-in-lieu of foreclosure
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#deed-in-lieu-of-foreclosure">
@@ -1473,7 +1473,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="delinquent"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Delinquent
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#delinquent">
@@ -1485,7 +1485,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="demand-feature"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Demand feature
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#demand-feature">
@@ -1498,7 +1498,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="down-payment"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Down payment
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#down-payment">
@@ -1510,7 +1510,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="down-payment-programs-or-grants"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Down payment programs or grants
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#down-payment-programs-or-grants">
@@ -1522,7 +1522,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="earnest-money"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Earnest money
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#earnest-money">
@@ -1534,7 +1534,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="equity"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Equity
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#equity">
@@ -1546,7 +1546,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="escrow"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Escrow
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#escrow">
@@ -1558,7 +1558,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="fannie-mae"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Fannie Mae
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#fannie-mae">
@@ -1570,7 +1570,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="fha-funding-fee"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     FHA funding fee
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#fha-funding-fee">
@@ -1582,7 +1582,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="federal-housing-administration-fha-loan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     FHA loan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#federal-housing-administration-fha-loan">
@@ -1594,7 +1594,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="fha-mortgage-limits"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     FHA mortgage limits
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#fha-mortgage-limits">
@@ -1606,7 +1606,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="finance-charge"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Finance charge
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#finance-charge">
@@ -1619,7 +1619,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="first-time-home-buyers-fthb-loan-programs"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     First-time home buyers (FTHB) loan programs
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#first-time-home-buyers-fthb-loan-programs">
@@ -1631,7 +1631,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="fixed-rate-mortgage"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Fixed-rate mortgage
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#fixed-rate-mortgage">
@@ -1643,7 +1643,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="forbearance"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Forbearance
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#forbearance">
@@ -1655,7 +1655,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="force-placed-insurance"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Force-placed insurance
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#force-placed-insurance">
@@ -1667,7 +1667,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="foreclosure"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Foreclosure
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#foreclosure">
@@ -1679,7 +1679,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="freddie-mac"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Freddie Mac
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#freddie-mac">
@@ -1691,7 +1691,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="good-faith-estimate"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Good Faith Estimate
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#good-faith-estimate">
@@ -1703,7 +1703,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="government-recording-charges"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Government recording charges
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#government-recording-charges">
@@ -1716,7 +1716,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="higher-priced-mortgage-loan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Higher-priced mortgage loan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#higher-priced-mortgage-loan">
@@ -1729,7 +1729,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="hoa-dues"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     HOA dues
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#hoa-dues">
@@ -1741,7 +1741,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="appraisal"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Home appraisal
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#appraisal">
@@ -1753,7 +1753,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="home-equity-line-of-credit-heloc"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Home equity line of credit (HELOC)
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#home-equity-line-of-credit-heloc">
@@ -1765,7 +1765,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="home-equity-loan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Home equity loan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#home-equity-loan">
@@ -1777,7 +1777,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="home-inspection"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Home inspection
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#home-inspection">
@@ -1789,7 +1789,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="homeowners-association-hoa"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Homeowners’ Association (HOA)
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#homeowners-association-hoa">
@@ -1801,7 +1801,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="homeowners-insurance"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Homeowner&#39;s insurance
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#homeowners-insurance">
@@ -1813,7 +1813,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="home-purchase-price"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Home purchase price
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#home-purchase-price">
@@ -1825,7 +1825,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="hud"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     HUD
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#hud">
@@ -1837,7 +1837,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="hud-1-settlement-statement"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     HUD-1 settlement statement
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#hud-1-settlement-statement">
@@ -1849,7 +1849,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="index"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Index
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#index">
@@ -1861,7 +1861,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="initial-adjustment-cap"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Initial adjustment cap
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#initial-adjustment-cap">
@@ -1873,7 +1873,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="initial-escrow-deposit"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Initial escrow deposit
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#initial-escrow-deposit">
@@ -1886,7 +1886,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="interest-only-loan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Interest-only loan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#interest-only-loan">
@@ -1899,7 +1899,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="interest-rate"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Interest rate
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#interest-rate">
@@ -1911,7 +1911,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="interest-rate-cap"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Interest rate cap
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#interest-rate-cap">
@@ -1923,7 +1923,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="jumbo-loan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Jumbo loan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#jumbo-loan">
@@ -1936,7 +1936,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="lenders-title-insurance"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Lenders title insurance
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#lenders-title-insurance">
@@ -1949,7 +1949,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="lifetime-adjustment-cap"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Lifetime adjustment cap
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#lifetime-adjustment-cap">
@@ -1961,7 +1961,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="loan-assumption"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Loan assumption
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#loan-assumption">
@@ -1973,7 +1973,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="loan-deferment"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Loan deferment
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#loan-deferment">
@@ -1985,7 +1985,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="loan-estimate"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Loan estimate
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#loan-estimate">
@@ -1998,7 +1998,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="loan-modification"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Loan modification
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#loan-modification">
@@ -2010,7 +2010,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="loan-to-value-ratio"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Loan-to-value ratio
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#loan-to-value-ratio">
@@ -2022,7 +2022,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="loss-mitigation"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Loss mitigation
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#loss-mitigation">
@@ -2034,7 +2034,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="margin"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Margin
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#margin">
@@ -2046,7 +2046,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="monthly-expenses"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Monthly expenses
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#monthly-expenses">
@@ -2058,7 +2058,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="mortgage"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Mortgage
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#mortgage">
@@ -2070,7 +2070,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="mortgage-closing-checklist"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Mortgage closing checklist
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#mortgage-closing-checklist">
@@ -2082,7 +2082,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="mortgage-closing-costs"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Mortgage closing costs
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#mortgage-closing-costs">
@@ -2094,7 +2094,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="mortgage-insurance"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Mortgage insurance
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#mortgage-insurance">
@@ -2106,7 +2106,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="mortgage-loan-modification"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Mortgage loan modification
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#mortgage-loan-modification">
@@ -2119,7 +2119,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="refinance"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Mortgage refinance
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#refinance">
@@ -2131,7 +2131,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="mortgage-term"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Mortgage term
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#mortgage-term">
@@ -2143,7 +2143,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="origination-fee"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Origination Fee
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#origination-fee">
@@ -2155,7 +2155,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="owners-title-insurance"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Owner&#39;s title insurance
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#owners-title-insurance">
@@ -2168,7 +2168,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="pace-financing"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Pace financing
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#pace-financing">
@@ -2181,7 +2181,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="partial-claim"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Partial claim
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#partial-claim">
@@ -2193,7 +2193,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="payoff-amount"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Payoff amount
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#payoff-amount">
@@ -2205,7 +2205,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="pcs-orders"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     PCS orders
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#pcs-orders">
@@ -2217,7 +2217,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="piti"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     PITI
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#piti">
@@ -2230,7 +2230,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="pmi"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     PMI
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#pmi">
@@ -2242,7 +2242,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="prepaid-interest-charges"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Prepaid interest charges
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#prepaid-interest-charges">
@@ -2255,7 +2255,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="prepayment-penalty"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Prepayment penalty
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#prepayment-penalty">
@@ -2267,7 +2267,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="principal"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Principal
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#principal">
@@ -2279,7 +2279,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="property-taxes"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Property taxes
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#property-taxes">
@@ -2291,7 +2291,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="qualified-mortgage"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Qualified mortgage
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#qualified-mortgage">
@@ -2304,7 +2304,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="qualified-written-request-qwr"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Qualified Written Request (QWR)
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#qualified-written-request-qwr">
@@ -2317,7 +2317,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="repayment-plan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Repayment plan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#repayment-plan">
@@ -2329,7 +2329,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="reverse-mortgage"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Reverse mortgage
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#reverse-mortgage">
@@ -2341,7 +2341,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="right-of-rescission"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Right of rescission
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#right-of-rescission">
@@ -2353,7 +2353,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="second-mortgage-or-junior-lien"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Second mortgage
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#second-mortgage-or-junior-lien">
@@ -2365,7 +2365,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="security-interest"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Security interest
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#security-interest">
@@ -2378,7 +2378,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="seller-financing"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Seller financing
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#seller-financing">
@@ -2390,7 +2390,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="servicer"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Servicer
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#servicer">
@@ -2402,7 +2402,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="shared-appreciation-mortgage"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Shared appreciation mortgage
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#shared-appreciation-mortgage">
@@ -2415,7 +2415,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="short-sale"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Short sale
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#short-sale">
@@ -2427,7 +2427,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="subprime-mortgage"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Subprime mortgage
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#subprime-mortgage">
@@ -2439,7 +2439,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="survey"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Survey
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#survey">
@@ -2452,7 +2452,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="title-service-fees"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Title service fees
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#title-service-fees">
@@ -2465,7 +2465,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="total-interest-percentage-tip"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Total interest percentage (TIP)
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#total-interest-percentage-tip">
@@ -2478,7 +2478,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="total-of-payments"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     Total of payments
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#total-of-payments">
@@ -2491,7 +2491,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="trid"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     TRID
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#trid">
@@ -2504,7 +2504,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="usda-rural-housing-service-loan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     USDA Loan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#usda-rural-housing-service-loan">
@@ -2516,7 +2516,7 @@ monthly payment per year). By making additional payments and applying your payme
             <div class="term block block__border-top block__padded-top"
                  id="va-loan"
                  itemscope
-                 itemtype="http://schema.org/DefinedTerm">
+                 itemtype="https://schema.org/DefinedTerm">
                 <dt class="term_name" itemprop="name">
                     VA loan
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#va-loan">
