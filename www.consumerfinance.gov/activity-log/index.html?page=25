@@ -2881,14 +2881,14 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=testimony" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__taxes" viewBox="0 0 15 19"><path d="M14.427 14.75v.491H.573v-.49a.476.476 0 0 1 .475-.476h.411a.497.497 0 0 1-.002-.048v-.443a.476.476 0 0 1 .475-.475h.41V9.692h-.307a.554.554 0 1 1 0-1.108h10.963a.554.554 0 1 1 0 1.108h-.292v3.617h.362a.476.476 0 0 1 .475.475v.443a.364.364 0 0 1-.003.048h.412a.476.476 0 0 1 .475.475m-1.72-7.043a5.182 5.182 0 1 0-10.364 0zm-9.188 5.602h1.109v-3.062a.554.554 0 1 0-1.109 0zm2.294-3.053v3.053h1.109v-3.053a.554.554 0 1 0-1.109 0m2.294.008v3.045h1.109v-3.045a.554.554 0 1 0-1.109 0m2.294.008v3.037h1.109v-3.037a.554.554 0 0 0-1.109 0"/></svg><span class="u-visually-hidden">Category:</span>
-        Testimony
+        <a href="/activity-log/?categories=report" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg><span class="u-visually-hidden">Category:</span>
+        Report
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/written-testimony-of-cfpb-director-richard-cordray-before-the-senate-committee-on-banking-housing-and-urban-affairs-20150715/">
-                        <span class="h4 u-mb0">Written Testimony of CFPB Director Richard Cordray Before the Senate Committee on Banking, Housing, and Urban Affairs</span>
+                    <a href="/data-research/research-reports/consumer-protection-principles-consumer-protection-new-faster-payment-systems/">
+                        <span class="h4 u-mb0">Consumer Protection Principles: Consumer protection in new faster payment systems</span>
                     </a>
                 </td>
                 <td class="u-w15pct">
@@ -2898,14 +2898,14 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=report" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg><span class="u-visually-hidden">Category:</span>
-        Report
+        <a href="/activity-log/?categories=testimony" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__taxes" viewBox="0 0 15 19"><path d="M14.427 14.75v.491H.573v-.49a.476.476 0 0 1 .475-.476h.411a.497.497 0 0 1-.002-.048v-.443a.476.476 0 0 1 .475-.475h.41V9.692h-.307a.554.554 0 1 1 0-1.108h10.963a.554.554 0 1 1 0 1.108h-.292v3.617h.362a.476.476 0 0 1 .475.475v.443a.364.364 0 0 1-.003.048h.412a.476.476 0 0 1 .475.475m-1.72-7.043a5.182 5.182 0 1 0-10.364 0zm-9.188 5.602h1.109v-3.062a.554.554 0 1 0-1.109 0zm2.294-3.053v3.053h1.109v-3.053a.554.554 0 1 0-1.109 0m2.294.008v3.045h1.109v-3.045a.554.554 0 1 0-1.109 0m2.294.008v3.037h1.109v-3.037a.554.554 0 0 0-1.109 0"/></svg><span class="u-visually-hidden">Category:</span>
+        Testimony
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/data-research/research-reports/consumer-protection-principles-consumer-protection-new-faster-payment-systems/">
-                        <span class="h4 u-mb0">Consumer Protection Principles: Consumer protection in new faster payment systems</span>
+                    <a href="/about-us/newsroom/written-testimony-of-cfpb-director-richard-cordray-before-the-senate-committee-on-banking-housing-and-urban-affairs-20150715/">
+                        <span class="h4 u-mb0">Written Testimony of CFPB Director Richard Cordray Before the Senate Committee on Banking, Housing, and Urban Affairs</span>
                     </a>
                 </td>
                 <td class="u-w15pct">
