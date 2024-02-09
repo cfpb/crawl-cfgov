@@ -1376,13 +1376,47 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">77 filtered results</div>
+          <div class="h4 m-notification_message">78 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Federal Circuit Court
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Date filed
+                        <span class="datetime"><time class="datetime_date" datetime="2015-12-31T00:00:00">DEC 31, 2015</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/compliance/amicus/briefs/strubel-comenity-bank/">Strubel v. Comenity Bank</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    This case presents the question of a private plaintiff&#39;s standing under the Truth in Lending Act to bring an action for statutory damages for the alleged...
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/compliance/amicus/briefs/?topics=truth-in-lending-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Truth in Lending Act (TILA)
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
@@ -2469,58 +2503,6 @@
             <a href="/compliance/amicus/briefs/?topics=debt-collection" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Debt collection
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Federal Circuit Court
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Date filed
-                        <span class="datetime"><time class="datetime_date" datetime="2011-12-21T00:00:00">DEC 21, 2011</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/compliance/amicus/briefs/birster-american-home-mortgage-services/">Birster v. American Home Mortgage Services, Inc.</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    This case presents the question whether activity surrounding foreclosure is immune from the Fair Debt Collection Practices Act.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/compliance/amicus/briefs/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Fair Debt Collection Practices Act
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/compliance/amicus/briefs/?topics=financial-service-providers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/compliance/amicus/briefs/?topics=debt-collection" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/compliance/amicus/briefs/?topics=foreclosure" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Foreclosure
             </a>
         </li>
     </ul>
