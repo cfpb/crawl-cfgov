@@ -1140,13 +1140,14 @@
         </div>
     </div>
 </header>
-    <main class="u-layout-grid u-layout-grid__2-1 "
+    <main class="u-layout-grid u-layout-grid__2-1
+                 "
           id="main"
           >
-        <div class="u-layout_content-intro">
-        </div>
+            <div class="u-layout_content-intro">
+            </div>
         <div class="u-layout-grid_wrapper">
-        <div class="u-layout-grid_main">
+                <div class="u-layout-grid_main">
    <div class="block block__flush-top">
 <h1>Reports</h1>
     <div class="lead-paragraph">
@@ -1177,7 +1178,6 @@
             <div class="block block__flush-top">
 <div id="o-filterable-list-controls" class="o-filterable-list-controls">
 <div class="o-expandable
-            o-expandable__padded
             o-expandable__background
             o-expandable__border
             "
@@ -2788,8 +2788,8 @@
             </section>
 </div>
     </div>
-        </div>
-        <aside class="u-layout-grid_sidebar">
+                </div>
+                <aside class="u-layout-grid_sidebar">
    <div class="block block__flush-top">
 <div class="o-email-signup">
     <header class="m-slug-header">
@@ -2989,7 +2989,7 @@
     </a>
 </div>
             </div>
-        </aside>
+                </aside>
         </div>
     </main>
 <footer class="o-footer">

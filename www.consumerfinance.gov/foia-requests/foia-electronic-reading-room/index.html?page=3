@@ -1147,8 +1147,8 @@
           id="main"
           >
         <div class="u-layout-grid_wrapper">
-        <aside class="u-layout-grid_secondary-nav">
-            <nav class="o-secondary-nav
+                <aside class="u-layout-grid_secondary-nav">
+                    <nav class="o-secondary-nav
             "
      aria-label="Section navigation">
     <button class="o-secondary-nav_header" type="button" aria-expanded="false">
@@ -1204,9 +1204,9 @@
         </ul>
     </div>
 </nav>
-        </aside>
-        <div class="u-layout-grid_main"
-                id="content_main">
+                </aside>
+                <div class="u-layout-grid_main"
+                        id="content_main">
    <div class="block block__flush-top">
 <h1>FOIA reports, logs, and frequently requested records</h1>
     <div class="lead-paragraph">
@@ -1217,7 +1217,6 @@
             <div class="block block__flush-top">
 <div id="o-filterable-list-controls" class="o-filterable-list-controls">
 <div class="o-expandable
-            o-expandable__padded
             o-expandable__background
             o-expandable__border
             "
@@ -2022,7 +2021,7 @@ Officer for FY2016.
 </div>
    </div>
         </aside>
-        </div>
+                </div>
         </div>
     </main>
 <footer class="o-footer">
