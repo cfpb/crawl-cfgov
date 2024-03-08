@@ -231,7 +231,7 @@
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-1-item"
     data-js-hook=behavior_flyout-menu>
-    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children o-mega-menu_content-link__current o-mega-menu_content-1-link__current" data-js-hook="behavior_flyout-menu_trigger" href="#">
+    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children" data-js-hook="behavior_flyout-menu_trigger" href="#">
 <div aria-level="2" role="heading">
         Consumer Education
         <span class="o-mega-menu_content-link-icon-post o-mega-menu_content-1-link-icon-post"><svg class="cf-icon-svg cf-icon-svg__right" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.025 1.025 0 0 1-.727.302z"></path></svg></span>
@@ -268,14 +268,6 @@
        href="/consumer-tools/educator-tools/"
        >
         Resources for Helping Others
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item"
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link o-mega-menu_content-link__current o-mega-menu_content-2-link__current"
-       href="/coronavirus/"
-       >
-        Coronavirus Resources
     </a>
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item"
@@ -1235,14 +1227,6 @@
     Help for Landlords
 </a>
 </li>
-            <li data-nav-is-active="False">
-<a class="o-secondary-nav_link
-          o-secondary-nav_link__parent
-          "
-   href=/coronavirus/mortgage-and-housing-assistance/lost-housing/>
-    Help if You’ve Lost Housing
-</a>
-</li>
         </ul>
     </div>
 </nav>
@@ -1356,7 +1340,7 @@
         <img class="m-info-unit_image m-info-unit_image__square"
             src="https://files.consumerfinance.gov/f/images/cfpb_renters_checklist.original.png"
             alt=""><div class="m-info-unit_content">
-        <p data-block-key="czowr">We can help you understand what next steps to take, based on your situation right now.</p><ul><li data-block-key="r2np2"><a href="/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/">If you're worried about eviction, see what you can do now</a></li><li data-block-key="xobqu"><a href="/coronavirus/mortgage-and-housing-assistance/lost-housing/">If you have you already been evicted or forced to move, find resources to help</a></li></ul>
+        <p data-block-key="czowr">We can help you understand what next steps to take, based on your situation right now.</p><ul><li data-block-key="r2np2"><a href="/coronavirus/mortgage-and-housing-assistance/renter-protections/what-to-do-if-youre-facing-eviction/">If you're worried about eviction, see what you can do now</a></li><li data-block-key="xobqu"><a href="/housing/housing-insecurity/lost-housing/">If you have you already been evicted or forced to move, find resources to help</a></li></ul>
     </div>
 </div>
         </div>

@@ -278,14 +278,6 @@
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item"
     >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link"
-       href="/coronavirus/"
-       >
-        Coronavirus Resources
-    </a>
-</li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item"
-    >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link o-mega-menu_content-link__current o-mega-menu_content-2-link__current"
        href="/data-research/consumer-complaints/"
        >
@@ -1146,11 +1138,11 @@
         </div>
     </div>
 </header>
-    <main class="content "
-          id="main">
-        <div class="content_wrapper">
-            <div class="content_main  ccdb-search">
-                <section class="content_main-inner">
+    <main class="u-layout-grid  u-layout-grid__full-width"
+          id="main"
+          >
+        <div class="u-layout-grid_wrapper">
+                <div class="u-layout-grid_main  ccdb-search">
   <div id="ccdb-ui-root">
     <div class="u-hide-if-js wrapper u-mt60 u-mb60">
   <div class="m-notification m-notification__error m-notification__visible">
@@ -1170,8 +1162,7 @@
   </div>
     </div>
   </div>
-                </section>
-            </div>
+                </div>
         </div>
     </main>
 <footer class="o-footer">
