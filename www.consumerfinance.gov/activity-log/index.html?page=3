@@ -2160,14 +2160,14 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=consumer-advisories" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__complaint" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108H8.75l-1.02 1.635a.273.273 0 0 1-.503 0l-1.02-1.635h-4.13a1.112 1.112 0 0 1-1.109-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108M8.206 11.34a.706.706 0 1 0-.706.705.706.706 0 0 0 .706-.705m-1.26-1.83a.554.554 0 1 0 1.108 0V6.275a.554.554 0 1 0-1.108 0z"/></svg><span class="u-visually-hidden">Category:</span>
-        Consumer advisories
+        <a href="/activity-log/?categories=report" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg><span class="u-visually-hidden">Category:</span>
+        Report
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/consumer-advisory-your-money-is-at-greater-risk-when-you-hold-it-in-a-payment-app-instead-of-moving-it-to-an-account-with-deposit-insurance/">
-                        <span class="h4 u-mb0">Consumer advisory: Your money is at greater risk when you hold it in a payment app, instead of moving it to an account with deposit insurance</span>
+                    <a href="/data-research/research-reports/issue-spotlight-analysis-of-deposit-insurance-coverage-on-funds-stored-through-payment-apps/">
+                        <span class="h4 u-mb0">Issue Spotlight: Analysis of Deposit Insurance Coverage on Funds Stored Through Payment Apps</span>
                     </a>
                 </td>
                 <td class="u-w15pct">
@@ -2177,14 +2177,14 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=report" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg><span class="u-visually-hidden">Category:</span>
-        Report
+        <a href="/activity-log/?categories=consumer-advisories" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__complaint" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.112 1.112 0 0 1-1.108 1.108H8.75l-1.02 1.635a.273.273 0 0 1-.503 0l-1.02-1.635h-4.13a1.112 1.112 0 0 1-1.109-1.108V5.286a1.112 1.112 0 0 1 1.108-1.108h10.848a1.112 1.112 0 0 1 1.108 1.108M8.206 11.34a.706.706 0 1 0-.706.705.706.706 0 0 0 .706-.705m-1.26-1.83a.554.554 0 1 0 1.108 0V6.275a.554.554 0 1 0-1.108 0z"/></svg><span class="u-visually-hidden">Category:</span>
+        Consumer advisories
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/data-research/research-reports/issue-spotlight-analysis-of-deposit-insurance-coverage-on-funds-stored-through-payment-apps/">
-                        <span class="h4 u-mb0">Issue Spotlight: Analysis of Deposit Insurance Coverage on Funds Stored Through Payment Apps</span>
+                    <a href="/about-us/newsroom/consumer-advisory-your-money-is-at-greater-risk-when-you-hold-it-in-a-payment-app-instead-of-moving-it-to-an-account-with-deposit-insurance/">
+                        <span class="h4 u-mb0">Consumer advisory: Your money is at greater risk when you hold it in a payment app, instead of moving it to an account with deposit insurance</span>
                     </a>
                 </td>
                 <td class="u-w15pct">
