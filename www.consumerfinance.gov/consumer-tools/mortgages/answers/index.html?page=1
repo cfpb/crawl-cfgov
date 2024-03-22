@@ -8,10 +8,10 @@
     <meta name="template" content="ask-cfpb/see-all.html">
     <meta name="description"
           content="Find answers to questions about getting a mortgage, paying your mortgage, or reverse mortgages.">
-    <link rel="canonical" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/?page=1">
+    <link rel="canonical" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/">
     <meta property="og:title" content="Mortgage answers | Consumer Financial Protection Bureau">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/?page=1">
+    <meta property="og:url" content="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/">
         <meta property="og:image"
               content="https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png">
         <meta property="twitter:image"
@@ -1138,7 +1138,7 @@
           id="main"
           >
         <div class="u-layout-grid_wrapper">
-                    <div class="u-layout-grid_breadcrumbs">
+    <div class="u-layout-grid_breadcrumbs">
      <nav class="m-breadcrumbs" aria-label="Breadcrumbs">
              / 
                 <a class="m-breadcrumbs_crumb"
@@ -1146,7 +1146,7 @@
                     Mortgages
                 </a>
      </nav>
-                    </div>
+    </div>
                 <aside class="u-layout-grid_secondary-nav">
                     <nav class="o-secondary-nav
             "

@@ -8,10 +8,10 @@
     <meta name="template" content="ask-cfpb/see-all.html">
     <meta name="description"
           content="Respuestas sobre préstamos para vehículos.">
-    <link rel="canonical" href="https://www.consumerfinance.gov/es/herramientas-del-consumidor/prestamos-para-vehiculos/respuestas/lo-basico/?page=3">
+    <link rel="canonical" href="https://www.consumerfinance.gov/es/herramientas-del-consumidor/prestamos-para-vehiculos/respuestas/lo-basico/">
     <meta property="og:title" content="Respuestas sobre préstamos para vehículos | Oficina para la Protección Financiera del Consumidor">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.consumerfinance.gov/es/herramientas-del-consumidor/prestamos-para-vehiculos/respuestas/lo-basico/?page=3">
+    <meta property="og:url" content="https://www.consumerfinance.gov/es/herramientas-del-consumidor/prestamos-para-vehiculos/respuestas/lo-basico/">
         <meta property="og:image"
               content="https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png">
         <meta property="twitter:image"
@@ -332,7 +332,7 @@
           id="main"
           >
         <div class="u-layout-grid_wrapper">
-                    <div class="u-layout-grid_breadcrumbs">
+    <div class="u-layout-grid_breadcrumbs">
      <nav class="m-breadcrumbs" aria-label="Guía de navegación">
              / 
                 <a class="m-breadcrumbs_crumb"
@@ -345,7 +345,7 @@
                     Préstamos para vehículos
                 </a>
      </nav>
-                    </div>
+    </div>
                 <aside class="u-layout-grid_secondary-nav">
                     <nav class="o-secondary-nav
             "

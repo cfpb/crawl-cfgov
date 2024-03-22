@@ -8,10 +8,10 @@
     <meta name="template" content="v1/browse-basic/index.html">
     <meta name="description"
           content="Explore our training webinars to help you improve your practice, as well as our tools and resources that you can share with clients.">
-    <link rel="canonical" href="https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/cfpb_finex/?_gl=1*eysodf*_ga*mja3njk3ndyzos4xnjiynzqwmta2*_ga_8g78bl5zly*mty1mdk5oti1ny4zmdkums4xnjuwotk5mjy5lja">
+    <link rel="canonical" href="https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/cfpb_finex/">
     <meta property="og:title" content="CFPB Financial Education Exchange (CFPB FinEx) | Consumer Financial Protection Bureau">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/cfpb_finex/?_gl=1*eysodf*_ga*mja3njk3ndyzos4xnjiynzqwmta2*_ga_8g78bl5zly*mty1mdk5oti1ny4zmdkums4xnjuwotk5mjy5lja">
+    <meta property="og:url" content="https://www.consumerfinance.gov/consumer-tools/educator-tools/adult-financial-education/cfpb_finex/">
         <meta property="og:image"
               content="https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png">
         <meta property="twitter:image"
@@ -1138,7 +1138,7 @@
           id="main"
           >
         <div class="u-layout-grid_wrapper">
-                    <div class="u-layout-grid_breadcrumbs">
+    <div class="u-layout-grid_breadcrumbs">
      <nav class="m-breadcrumbs" aria-label="Breadcrumbs">
              / 
                 <a class="m-breadcrumbs_crumb"
@@ -1151,7 +1151,7 @@
                     Financial Education for Adults
                 </a>
      </nav>
-                    </div>
+    </div>
                 <aside class="u-layout-grid_secondary-nav">
                     <nav class="o-secondary-nav
             o-secondary-nav__no-children"

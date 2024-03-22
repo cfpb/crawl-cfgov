@@ -8,10 +8,10 @@
     <meta name="template" content="v1/browse-basic/index.html">
     <meta name="description"
           content="Resources to help industry understand, implement, and comply with the mortgage servicing rules.">
-    <link rel="canonical" href="https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/mortserv/?_gl=1*1n084q*_ga*njy0mzi1mtkzlje2mtk2mty2nzy.*_ga_dbyjl30chs*mtyyodg2njazmc4xmzgums4xnji4ody4ntg1lja.">
+    <link rel="canonical" href="https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/mortserv/">
     <meta property="og:title" content="Rules on mortgage servicing | Consumer Financial Protection Bureau">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/mortserv/?_gl=1*1n084q*_ga*njy0mzi1mtkzlje2mtk2mty2nzy.*_ga_dbyjl30chs*mtyyodg2njazmc4xmzgums4xnji4ody4ntg1lja.">
+    <meta property="og:url" content="https://www.consumerfinance.gov/compliance/compliance-resources/mortgage-resources/mortserv/">
         <meta property="og:image"
               content="https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png">
         <meta property="twitter:image"
@@ -1139,7 +1139,7 @@
           id="main"
           >
         <div class="u-layout-grid_wrapper">
-                    <div class="u-layout-grid_breadcrumbs">
+    <div class="u-layout-grid_breadcrumbs">
      <nav class="m-breadcrumbs" aria-label="Breadcrumbs">
              / 
                 <a class="m-breadcrumbs_crumb"
@@ -1152,7 +1152,7 @@
                     Mortgage resources
                 </a>
      </nav>
-                    </div>
+    </div>
                 <aside class="u-layout-grid_secondary-nav">
                     <nav class="o-secondary-nav
             o-secondary-nav__no-children"
