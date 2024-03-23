@@ -12,12 +12,12 @@
           content="
     The Consumer Complaint Database is a collection of complaints about consumer financial products and services that we sent to companies for response.
 ">
-    <link rel="canonical" href="https://www.consumerfinance.gov/data-research/consumer-complaints/search/?date_received_min=2011-12-01&amp;has_narrative=true&amp;page=1&amp;searchfield=all&amp;size=25&amp;sort=created_date_desc&amp;tab=list">
+    <link rel="canonical" href="https://www.consumerfinance.gov/data-research/consumer-complaints/search/">
     <meta property="og:title" content="
   Search the Consumer Complaint Database | Consumer Financial Protection Bureau
 ">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.consumerfinance.gov/data-research/consumer-complaints/search/?date_received_min=2011-12-01&amp;has_narrative=true&amp;page=1&amp;searchfield=all&amp;size=25&amp;sort=created_date_desc&amp;tab=list">
+    <meta property="og:url" content="https://www.consumerfinance.gov/data-research/consumer-complaints/search/">
         <meta property="og:image"
               content="https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png">
         <meta property="twitter:image"

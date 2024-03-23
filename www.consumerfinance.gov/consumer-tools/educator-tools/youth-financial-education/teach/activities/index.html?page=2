@@ -8,10 +8,10 @@
     <meta name="template" content="teachers_digital_platform/activity_index_page.html">
     <meta name="description"
           content="Find activities that can help you teach and nurture the building blocks of financial capability across the curriculum.">
-    <link rel="canonical" href="https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/?page=2">
+    <link rel="canonical" href="https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/">
     <meta property="og:title" content="Find financial literacy activities | Consumer Financial Protection Bureau">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/?page=2">
+    <meta property="og:url" content="https://www.consumerfinance.gov/consumer-tools/educator-tools/youth-financial-education/teach/activities/">
         <meta property="og:image"
               content="https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png">
         <meta property="twitter:image"
@@ -1136,7 +1136,7 @@
           id="main"
           >
         <div class="u-layout-grid_wrapper">
-                    <div class="u-layout-grid_breadcrumbs">
+    <div class="u-layout-grid_breadcrumbs">
      <nav class="m-breadcrumbs" aria-label="Breadcrumbs">
              / 
                 <a class="m-breadcrumbs_crumb"
@@ -1154,7 +1154,7 @@
                     Teach the Building Blocks
                 </a>
      </nav>
-                    </div>
+    </div>
                 <div class="u-layout-grid_main ">
 <div class="tdp-activity-search">
     <div class="content content__1-3">
