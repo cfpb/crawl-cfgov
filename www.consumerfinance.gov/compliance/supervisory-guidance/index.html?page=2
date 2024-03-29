@@ -1417,12 +1417,6 @@
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
-            <a href="/compliance/supervisory-guidance/?topics=disasters-and-emergencies" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Disasters and emergencies
-            </a>
-        </li>
-        <li class="m-tags_item">
             <a href="/compliance/supervisory-guidance/?topics=enforcement" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
@@ -1432,6 +1426,12 @@
             <a href="/compliance/supervisory-guidance/?topics=compliance" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Compliance
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=disasters-and-emergencies" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
             </a>
         </li>
         <li class="m-tags_item">
@@ -1710,15 +1710,15 @@
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
         <li class="m-tags_item">
-            <a href="/compliance/supervisory-guidance/?topics=disasters-and-emergencies" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Disasters and emergencies
-            </a>
-        </li>
-        <li class="m-tags_item">
             <a href="/compliance/supervisory-guidance/?topics=enforcement" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Enforcement
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/compliance/supervisory-guidance/?topics=disasters-and-emergencies" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Disasters and emergencies
             </a>
         </li>
         <li class="m-tags_item">
