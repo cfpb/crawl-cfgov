@@ -1479,7 +1479,7 @@ monthly payment per year). By making additional payments and applying your payme
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#delinquent">
                 </dt>
                 <dd class="term_definition" itemprop="description">
-                    <p>Delinquent is another term for being late on your payments. Your loan can become delinquent when you miss a payment or don’t make a full payment by the due date. After you are delinquent for a certain period of time, a lender or servicer may begin the foreclosure process. The amount of time can vary by state. </p><p>Federal rules may also apply to when the foreclosure may start. <a class="" data-pretty-href="cfpb.gov/askcfpb/268" href="/ask-cfpb/if-i-cant-pay-my-mortgage-loan-what-are-my-options-en-268/">Learn more about your options if you can’t pay your mortgage</a>. </p><h4>If you are impacted by the coronavirus</h4><p>Get more <a href="/coronavirus/mortgage-and-housing-assistance/">information about mortgage relief options</a>. </p>
+                    <p data-block-key="87yg8">Delinquent is another term for being late on your payments. Your loan can become delinquent when you miss a payment or don’t make a full payment by the due date. After you are delinquent for a certain period of time, a lender or servicer may begin the foreclosure process. The amount of time can vary by state.</p><p data-block-key="ipgp9">Federal rules may also apply to when the foreclosure may start. <a class="" data-pretty-href="cfpb.gov/askcfpb/268" href="/ask-cfpb/if-i-cant-pay-my-mortgage-loan-what-are-my-options-en-268/">Learn more about your options if you can’t pay your mortgage</a>.</p><p data-block-key="3p2e4"></p><p data-block-key="24i42">Get more <a href="/coronavirus/mortgage-and-housing-assistance/">information about mortgage relief options</a>.</p>
                 </dd>
             </div>
             <div class="term block block__border-top block__padded-top"
@@ -1641,18 +1641,6 @@ monthly payment per year). By making additional payments and applying your payme
                 </dd>
             </div>
             <div class="term block block__border-top block__padded-top"
-                 id="forbearance"
-                 itemscope
-                 itemtype="https://schema.org/DefinedTerm">
-                <dt class="term_name" itemprop="name">
-                    Forbearance
-                    <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#forbearance">
-                </dt>
-                <dd class="term_definition" itemprop="description">
-                    <p>Forbearance is when your servicer allows you temporarily to pay your mortgage at a lower rate or temporarily to stop paying your mortgage. Your servicer may grant you forbearance if, for example, you recently lost your job, suffered from a disaster, or from an illness or injury that increased your health care costs. Forbearance is a type of <a class="" href="#loss-mitigation">loss mitigation</a>.</p><p><a class="" data-pretty-href="cfpb.gov/askcfpb/289" href="/ask-cfpb/what-is-mortgage-forbearance-en-289/">Learn more about mortgage forbearance</a></p><p>Depending on the kind of loan you have, there may be different forbearance options. You must contact your loan servicer to request forbearance. Remember that you will have to make up these missed or reduced payments when your forbearance period is over.</p><h4>If you are impacted by the coronavirus</h4><p>Get more <a href="/coronavirus/mortgage-and-housing-assistance/">information about mortgage relief options</a>.</p>
-                </dd>
-            </div>
-            <div class="term block block__border-top block__padded-top"
                  id="force-placed-insurance"
                  itemscope
                  itemtype="https://schema.org/DefinedTerm">
@@ -1665,6 +1653,18 @@ monthly payment per year). By making additional payments and applying your payme
                 </dd>
             </div>
             <div class="term block block__border-top block__padded-top"
+                 id="forbearance"
+                 itemscope
+                 itemtype="https://schema.org/DefinedTerm">
+                <dt class="term_name" itemprop="name">
+                    foreclosure
+                    <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#forbearance">
+                </dt>
+                <dd class="term_definition" itemprop="description">
+                    <p data-block-key="nvsik">Forbearance is when your servicer allows you temporarily to pay your mortgage at a lower rate or temporarily to stop paying your mortgage. Your servicer may grant you forbearance if, for example, you recently lost your job, suffered from a disaster, or from an illness or injury that increased your health care costs. Forbearance is a type of <a class="" href="#loss-mitigation">loss mitigation</a>.</p><p data-block-key="3v6pa"><a class="" data-pretty-href="cfpb.gov/askcfpb/289" href="/ask-cfpb/what-is-mortgage-forbearance-en-289/">Learn more about mortgage forbearance</a></p><p data-block-key="ij8m4">Depending on the kind of loan you have, there may be different forbearance options. You must contact your loan servicer to request forbearance. Remember that you will have to make up these missed or reduced payments when your forbearance period is over.</p><p data-block-key="e76h4">Get more <a href="/coronavirus/mortgage-and-housing-assistance/">information about mortgage relief options</a>.</p>
+                </dd>
+            </div>
+            <div class="term block block__border-top block__padded-top"
                  id="foreclosure"
                  itemscope
                  itemtype="https://schema.org/DefinedTerm">
@@ -1673,7 +1673,7 @@ monthly payment per year). By making additional payments and applying your payme
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#foreclosure">
                 </dt>
                 <dd class="term_definition" itemprop="description">
-                    <p>Foreclosure is when the lender or servicer takes back property after the homeowner fails to make mortgage payments. In some states, the lender has to go to court to foreclose on your property (judicial foreclosure), but other states do not require a court process (non-judicial foreclosure). Generally, borrowers must be notified if the lender or servicer begins foreclosure proceedings. Federal rules may apply to when the foreclosure may start.<br/>If you’re concerned about foreclosure, <a class="" data-pretty-href="cfpb.gov/askcfpb/268" href="https://www.consumerfinance.gov/ask-cfpb/if-i-cant-pay-my-mortgage-loan-what-are-my-options-en-268/">learn how to get help</a>.</p><h4>If you are impacted by the coronavirus</h4><p>Get more <a href="/coronavirus/mortgage-and-housing-assistance/">information about mortgage relief options</a>.</p>
+                    <p data-block-key="bzp4c">Foreclosure is when the lender or servicer takes back property after the homeowner fails to make mortgage payments. In some states, the lender has to go to court to foreclose on your property (judicial foreclosure), but other states do not require a court process (non-judicial foreclosure). Generally, borrowers must be notified if the lender or servicer begins foreclosure proceedings. Federal rules may apply to when the foreclosure may start.<br/>If you’re concerned about foreclosure, <a class="" data-pretty-href="cfpb.gov/askcfpb/268" href="https://www.consumerfinance.gov/ask-cfpb/if-i-cant-pay-my-mortgage-loan-what-are-my-options-en-268/">learn how to get help</a>.</p><p data-block-key="qiium">Get more <a href="/coronavirus/mortgage-and-housing-assistance/">information about mortgage relief options</a>.</p>
                 </dd>
             </div>
             <div class="term block block__border-top block__padded-top"
@@ -2004,7 +2004,7 @@ monthly payment per year). By making additional payments and applying your payme
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#loan-modification">
                 </dt>
                 <dd class="term_definition" itemprop="description">
-                    <p>A mortgage loan modification is a change in your loan terms. The modification is a type of <a class="" href="#loss-mitigation">loss mitigation</a>. A modification can reduce your monthly payment to an amount you can afford. Modifications may involve extending the number of years you have to repay the loan, reducing your interest rate, and/or forbearing or reducing your principal balance. If you are offered a loan modification, be sure you know how it will change your monthly payments and the total amount that you will owe in the short-term and the long-term.</p><p><a class="" data-pretty-href="cfpb.gov/askcfpb/269" href="/ask-cfpb/what-is-a-mortgage-loan-modification-en-269/">Learn more about mortgage loan modification</a></p><h4>If you are impacted by the coronavirus</h4><p>Get more <a href="/coronavirus/mortgage-and-housing-assistance/">information about mortgage relief options</a>.</p>
+                    <p data-block-key="fj2zk">A mortgage loan modification is a change in your loan terms. The modification is a type of <a class="" href="#loss-mitigation">loss mitigation</a>. A modification can reduce your monthly payment to an amount you can afford. Modifications may involve extending the number of years you have to repay the loan, reducing your interest rate, and/or forbearing or reducing your principal balance. If you are offered a loan modification, be sure you know how it will change your monthly payments and the total amount that you will owe in the short-term and the long-term.</p><p data-block-key="mudow"><a class="" data-pretty-href="cfpb.gov/askcfpb/269" href="/ask-cfpb/what-is-a-mortgage-loan-modification-en-269/">Learn more about mortgage loan modification</a></p><p data-block-key="wdao3">Get more <a href="/coronavirus/mortgage-and-housing-assistance/">information about mortgage relief options</a>.</p>
                 </dd>
             </div>
             <div class="term block block__border-top block__padded-top"
@@ -2028,7 +2028,7 @@ monthly payment per year). By making additional payments and applying your payme
                     <link itemprop="url" href="https://www.consumerfinance.gov/consumer-tools/mortgages/answers/key-terms/#loss-mitigation">
                 </dt>
                 <dd class="term_definition" itemprop="description">
-                    <p data-block-key="2h6gv">Loss mitigation refers to the steps mortgage servicers take to work with a mortgage borrower to avoid foreclosure. Loss mitigation refers to a servicer’s responsibility to reduce or “mitigate” the loss to the investor that can come from a foreclosure. Certain loss-mitigation options may help you stay in your home. Other options may help you leave your home without going through foreclosure. Loss mitigation options may include <a class="" href="#deed-in-lieu-of-foreclosure">deed-in-lieu of foreclosure</a>, <a class="" href="#forbearance">forbearance</a>, <a class="" href="#repayment-plan">repayment plan</a>, <a class="" href="#short-sale">short sale</a>, or a <a class="" href="#loan-modification">loan modification</a>. </p><p data-block-key="rpia2">If you are having trouble making your mortgage payments, or if you have been offered and are considering various loss mitigation options, reach out to a Department of Housing and Urban Development (HUD)-approved housing counseling agency.  </p><p data-block-key="6d7jd">You can use the CFPB&#x27;s <a href="https://www.consumerfinance.gov/find-a-housing-counselor/">&quot;Find a Counselor&quot;</a> tool to get a list of housing counseling agencies in your area that are approved by HUD. You can also call the <a class="" data-pretty-href="cfpb.gov/askcfpb/263" href="https://www.consumerfinance.gov/ask-cfpb/i146ve-heard-about-something-called-the-hope153-hotline-what146s-that-en-263/">HOPE™ Hotline</a>, open 24 hours a day, seven days a week, at (888) 995-HOPE (4673).</p><h4 data-block-key="aa1bk">If you are impacted by the coronavirus</h4><p data-block-key="tq0vh">Get more <a href="/coronavirus/mortgage-and-housing-assistance/">information about mortgage relief options</a>.</p>
+                    <p data-block-key="2h6gv">Loss mitigation refers to the steps mortgage servicers take to work with a mortgage borrower to avoid foreclosure. Loss mitigation refers to a servicer’s responsibility to reduce or “mitigate” the loss to the investor that can come from a foreclosure. Certain loss-mitigation options may help you stay in your home. Other options may help you leave your home without going through foreclosure. Loss mitigation options may include <a class="" href="#deed-in-lieu-of-foreclosure">deed-in-lieu of foreclosure</a>, <a class="" href="#forbearance">forbearance</a>, <a class="" href="#repayment-plan">repayment plan</a>, <a class="" href="#short-sale">short sale</a>, or a <a class="" href="#loan-modification">loan modification</a>. </p><p data-block-key="rpia2">If you are having trouble making your mortgage payments, or if you have been offered and are considering various loss mitigation options, reach out to a Department of Housing and Urban Development (HUD)-approved housing counseling agency.  </p><p data-block-key="6d7jd">You can use the CFPB&#x27;s <a href="https://www.consumerfinance.gov/find-a-housing-counselor/">&quot;Find a Counselor&quot;</a> tool to get a list of housing counseling agencies in your area that are approved by HUD. You can also call the <a class="" data-pretty-href="cfpb.gov/askcfpb/263" href="https://www.consumerfinance.gov/ask-cfpb/i146ve-heard-about-something-called-the-hope153-hotline-what146s-that-en-263/">HOPE™ Hotline</a>, open 24 hours a day, seven days a week, at (888) 995-HOPE (4673).</p><p data-block-key="tq0vh">Get more <a href="/coronavirus/mortgage-and-housing-assistance/">information about mortgage relief options</a>.</p>
                 </dd>
             </div>
             <div class="term block block__border-top block__padded-top"

@@ -1177,12 +1177,12 @@
    </div>
             </div>
             <div class="m-search-hero_image-wrapper">
- <img class="m-search-hero_image"
-    srcset="https://files.consumerfinance.gov/f/images/SmallSearchInterfaceImage.original.jpg,
-        https://files.consumerfinance.gov/f/images/LargeSearchInterfaceImage.original.jpg 2x"
-    src="https://files.consumerfinance.gov/f/images/LargeSearchInterfaceImage.original.jpg"
-    width="498"
-    alt="">
+                <img class="m-search-hero_image"
+                     srcset="/static/apps/teachers-digital-platform/img/search-landing-hero.d32b528c2f97.jpg,
+                             /static/apps/teachers-digital-platform/img/search-landing-hero-2x.2a8bb9b9bf7b.jpg 2x"
+                     src="/static/apps/teachers-digital-platform/img/search-landing-hero-2x.2a8bb9b9bf7b.jpg"
+                     width="498"
+                     alt="Illustration of teacher and student activity books">
             </div>
         </section>
         <div class="block block__padded-top block__flush-top u-mb30">

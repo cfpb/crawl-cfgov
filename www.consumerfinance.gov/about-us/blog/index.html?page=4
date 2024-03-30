@@ -1276,6 +1276,7 @@
   <option value="fair-credit-reporting-act">Fair Credit Reporting Act</option>
   <option value="fair-debt-collection-practices-act">Fair Debt Collection Practices Act</option>
   <option value="fair-lending">Fair lending</option>
+  <option value="federal-trade-commission">Federal Trade Commission</option>
   <option value="ffiec">FFIEC</option>
   <option value="financial-coaching">Financial coaching</option>
   <option value="financial-education">Financial education</option>
@@ -1428,13 +1429,54 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">1619 filtered results</div>
+          <div class="h4 m-notification_message">1620 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
+        Data, research, and reports
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2023-05-24T00:00:00">MAY 24, 2023</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/mortgage-data-shows-borrowers-could-save-100-month-choosing-cheaper-lenders/">Mortgage data shows that borrowers could save $100 a month (or more) by choosing cheaper lenders</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    Mortgage borrowers are paying around $100 a month more depending on which lender they choose, for the same type of loan and the same consumer characteristics (such as credit score and downpayment).
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Alexei Alexandrov</a>
+                    and 
+                    Elizabeth Saunders</a>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=office-of-research-publication" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Office of Research Publication
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
@@ -2508,41 +2550,6 @@
             </h3>
                 <div class="o-post-preview_description">
                     The public can submit comments through March 29, 2023 on an application to create an alternative mortgage disclosure to improve understanding and facilitation of construction loans.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=mortgages" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="es">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__information" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917M5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534m2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0"/></svg>
-        Info for consumers
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2023-02-27T00:00:00">FEB 27, 2023</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/buscamos-comentarios-del-publico-sobre-nueva-propuesta-de-divulgaciones-hipotecarias-alternativas-para-prestamos-para-la-construccion/">Buscamos comentarios del público sobre nueva propuesta de divulgaciones hipotecarias alternativas, para préstamos para la construcción</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    Hasta el 29 de marzo del 2023 pueden enviarse comentarios para crear una declaración hipotecaria alternativa que facilite préstamos a la construcción.
                 </div>
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
