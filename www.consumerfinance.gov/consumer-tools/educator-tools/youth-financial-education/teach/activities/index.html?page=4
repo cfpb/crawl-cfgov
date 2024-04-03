@@ -1229,7 +1229,7 @@
             o-expandable__background
             ">
     <button class="o-expandable_header" type="button">
-        <span class="h4 o-expandable_label">
+        <span class="o-expandable_label">
             Grade level
         </span>
         <span class="o-expandable_cues">
@@ -1294,7 +1294,7 @@
             o-expandable__background
             ">
     <button class="o-expandable_header" type="button">
-        <span class="h4 o-expandable_label">
+        <span class="o-expandable_label">
             Activity duration
         </span>
         <span class="o-expandable_cues">
@@ -1341,7 +1341,7 @@
             o-expandable__background
             ">
     <button class="o-expandable_header" type="button">
-        <span class="h4 o-expandable_label">
+        <span class="o-expandable_label">
             Topic
         </span>
         <span class="o-expandable_cues">

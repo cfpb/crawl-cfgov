@@ -1799,7 +1799,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__error-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-6.804.01 3.032-3.033a.792.792 0 1 0-1.12-1.12L8.494 8.473 5.46 5.44a.792.792 0 0 0-1.12 1.12l3.033 3.033-3.032 3.033a.791.791 0 1 0 1.12 1.119l3.032-3.033 3.033 3.033a.79.79 0 0 0 1.12 0 .792.792 0 0 0 0-1.12z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Form is incomplete</div>
+          <div class="m-notification_message">Form is incomplete</div>
               <div class="m-notification_explanation">Please make selections for the following fields on this page:
             <ul class="m-list m-list__links">
             <div data-state-based-visibility="school-required"><li class="m-list_item"><a class="a-link m-list_link" href="#school-search_what-school" data-gtm_ignore="true">What school are you considering?</a></li></div>
@@ -2026,7 +2026,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__dollar-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.844 1.754a2.25 2.25 0 0 0-.556-1.477l-.001-.002a3.02 3.02 0 0 0-.835-.665l-.003-.002a3.499 3.499 0 0 0-.866-.313H9.31a3.78 3.78 0 0 0-.795-.083c-.17 0-.326-.012-.475-.037a1.8 1.8 0 0 1-.494-.158l-.002-.001a1.169 1.169 0 0 1-.371-.298L7.172 8.3a.733.733 0 0 1-.175-.44c0-.166.073-.41.421-.63.295-.186.71-.297 1.11-.297.088 0 .229.03.391.066l.049.01c.136.03.295.086.473.166.14.063.275.156.381.261a.791.791 0 1 0 1.118-1.12 2.902 2.902 0 0 0-.85-.585 3.997 3.997 0 0 0-.785-.268h-.001l-.008-.002v-.786a.792.792 0 1 0-1.583 0v.763c-.415.09-.808.244-1.14.454-.736.465-1.159 1.182-1.159 1.967 0 .51.188 1.021.53 1.44.24.298.55.546.893.717.289.145.615.25.942.305.236.04.476.059.736.059a1.927 1.927 0 0 1 .926.215 1.4 1.4 0 0 1 .383.307c.105.12.165.28.165.436 0 .097 0 .324-.385.573a2.182 2.182 0 0 1-1.132.314c-.151 0-.4-.044-.494-.06a2.382 2.382 0 0 1-.459-.148h-.001a.953.953 0 0 1-.356-.274.792.792 0 1 0-1.197 1.037c.283.327.608.565.967.708.218.087.476.185.774.237h.007v.783a.792.792 0 1 0 1.583 0v-.79a3.58 3.58 0 0 0 1.17-.479c.724-.47 1.107-1.127 1.107-1.9Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Money saving tips</div>
+          <div class="m-notification_message">Money saving tips</div>
               <div class="m-notification_explanation"><ul>
                     <li> Finish school on time. This typically requires earning 30 credits a year for an associate’s or bachelor’s. Work with your academic adviser to choose classes that add up to a degree. Graduating on time (or early) will help minimize your costs, maximize your aid eligibility, and get you into a full-time job sooner.</li>
                     <li>Find out if this school offers block tuition (also known as flat rate tuition)&mdash;when it costs the same to take anywhere from 12 to 18 credits, for example.</li>
@@ -2284,7 +2284,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__dollar-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.844 1.754a2.25 2.25 0 0 0-.556-1.477l-.001-.002a3.02 3.02 0 0 0-.835-.665l-.003-.002a3.499 3.499 0 0 0-.866-.313H9.31a3.78 3.78 0 0 0-.795-.083c-.17 0-.326-.012-.475-.037a1.8 1.8 0 0 1-.494-.158l-.002-.001a1.169 1.169 0 0 1-.371-.298L7.172 8.3a.733.733 0 0 1-.175-.44c0-.166.073-.41.421-.63.295-.186.71-.297 1.11-.297.088 0 .229.03.391.066l.049.01c.136.03.295.086.473.166.14.063.275.156.381.261a.791.791 0 1 0 1.118-1.12 2.902 2.902 0 0 0-.85-.585 3.997 3.997 0 0 0-.785-.268h-.001l-.008-.002v-.786a.792.792 0 1 0-1.583 0v.763c-.415.09-.808.244-1.14.454-.736.465-1.159 1.182-1.159 1.967 0 .51.188 1.021.53 1.44.24.298.55.546.893.717.289.145.615.25.942.305.236.04.476.059.736.059a1.927 1.927 0 0 1 .926.215 1.4 1.4 0 0 1 .383.307c.105.12.165.28.165.436 0 .097 0 .324-.385.573a2.182 2.182 0 0 1-1.132.314c-.151 0-.4-.044-.494-.06a2.382 2.382 0 0 1-.459-.148h-.001a.953.953 0 0 1-.356-.274.792.792 0 1 0-1.197 1.037c.283.327.608.565.967.708.218.087.476.185.774.237h.007v.783a.792.792 0 1 0 1.583 0v-.79a3.58 3.58 0 0 0 1.17-.479c.724-.47 1.107-1.127 1.107-1.9Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Money saving tips</div>
+          <div class="m-notification_message">Money saving tips</div>
               <div class="m-notification_explanation"><ul>
             <li> To protect your funding, find out the requirements of your grants and scholarships. For example, you may need to stay enrolled in a minimum number of courses or get high enough grades to meet a minimum GPA. </li>
             <li> You should also ask if it is renewable (available in future years). If so, ask how many years&mdash;typically the limit will be enough for on-time graduation&mdash;and if you will need to reapply next year (like FAFSA for federal grants and loans). If not, you will need to find replacement funding next year. </li>
@@ -2296,7 +2296,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__warning-round" viewBox="0 0 17 19"><path d="M16.406 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0M9.48 13.667a1.003 1.003 0 1 0-2.007 0 1.003 1.003 0 0 0 2.007 0M7.697 10.83a.792.792 0 0 0 1.583 0V4.562a.792.792 0 0 0-1.583 0z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Know before you go</div>
+          <div class="m-notification_message">Know before you go</div>
               <div class="m-notification_explanation"><ul>
             <li> Applying for a grant or scholarship does not guarantee you will get it. Apply early for a better shot at funds that are first come, first served.</li>
             <li>Your grant and scholarship funding can go up or down from year to year, depending on your financial situation, your major/program, the terms of the funding, and other factors.</li>
@@ -2339,7 +2339,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__dollar-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.844 1.754a2.25 2.25 0 0 0-.556-1.477l-.001-.002a3.02 3.02 0 0 0-.835-.665l-.003-.002a3.499 3.499 0 0 0-.866-.313H9.31a3.78 3.78 0 0 0-.795-.083c-.17 0-.326-.012-.475-.037a1.8 1.8 0 0 1-.494-.158l-.002-.001a1.169 1.169 0 0 1-.371-.298L7.172 8.3a.733.733 0 0 1-.175-.44c0-.166.073-.41.421-.63.295-.186.71-.297 1.11-.297.088 0 .229.03.391.066l.049.01c.136.03.295.086.473.166.14.063.275.156.381.261a.791.791 0 1 0 1.118-1.12 2.902 2.902 0 0 0-.85-.585 3.997 3.997 0 0 0-.785-.268h-.001l-.008-.002v-.786a.792.792 0 1 0-1.583 0v.763c-.415.09-.808.244-1.14.454-.736.465-1.159 1.182-1.159 1.967 0 .51.188 1.021.53 1.44.24.298.55.546.893.717.289.145.615.25.942.305.236.04.476.059.736.059a1.927 1.927 0 0 1 .926.215 1.4 1.4 0 0 1 .383.307c.105.12.165.28.165.436 0 .097 0 .324-.385.573a2.182 2.182 0 0 1-1.132.314c-.151 0-.4-.044-.494-.06a2.382 2.382 0 0 1-.459-.148h-.001a.953.953 0 0 1-.356-.274.792.792 0 1 0-1.197 1.037c.283.327.608.565.967.708.218.087.476.185.774.237h.007v.783a.792.792 0 1 0 1.583 0v-.79a3.58 3.58 0 0 0 1.17-.479c.724-.47 1.107-1.127 1.107-1.9Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Money saving tips</div>
+          <div class="m-notification_message">Money saving tips</div>
               <div class="m-notification_explanation"><ul>
                 <li> Ask if there is help available for finding a work-study job (like a student employment service). You may be able to use your work-study to compete for student jobs that are not labeled work-study.</li>
                 <li> There can be long-term benefits to work-study (besides reducing the amount you need to borrow), like exposure to new types of work or building relationships with professors who can help you apply for scholarships, internships, and other opportunities.</li>
@@ -2350,7 +2350,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__warning-round" viewBox="0 0 17 19"><path d="M16.406 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0M9.48 13.667a1.003 1.003 0 1 0-2.007 0 1.003 1.003 0 0 0 2.007 0M7.697 10.83a.792.792 0 0 0 1.583 0V4.562a.792.792 0 0 0-1.583 0z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Know before you go</div>
+          <div class="m-notification_message">Know before you go</div>
               <div class="m-notification_explanation"><ul>
                 <li>If you do not find a work-study job in the first term, you may lose your eligibility in the future.</li>
                 <li>Ask the financial aid office about the options for getting paid for work-study. At most schools, work-study money cannot be used to cover direct costs (like tuition, on-campus housing, and meal plans), because you must pay those bills <strong>before</strong> you earn the work-study funds.</li>
@@ -2415,7 +2415,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__dollar-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.844 1.754a2.25 2.25 0 0 0-.556-1.477l-.001-.002a3.02 3.02 0 0 0-.835-.665l-.003-.002a3.499 3.499 0 0 0-.866-.313H9.31a3.78 3.78 0 0 0-.795-.083c-.17 0-.326-.012-.475-.037a1.8 1.8 0 0 1-.494-.158l-.002-.001a1.169 1.169 0 0 1-.371-.298L7.172 8.3a.733.733 0 0 1-.175-.44c0-.166.073-.41.421-.63.295-.186.71-.297 1.11-.297.088 0 .229.03.391.066l.049.01c.136.03.295.086.473.166.14.063.275.156.381.261a.791.791 0 1 0 1.118-1.12 2.902 2.902 0 0 0-.85-.585 3.997 3.997 0 0 0-.785-.268h-.001l-.008-.002v-.786a.792.792 0 1 0-1.583 0v.763c-.415.09-.808.244-1.14.454-.736.465-1.159 1.182-1.159 1.967 0 .51.188 1.021.53 1.44.24.298.55.546.893.717.289.145.615.25.942.305.236.04.476.059.736.059a1.927 1.927 0 0 1 .926.215 1.4 1.4 0 0 1 .383.307c.105.12.165.28.165.436 0 .097 0 .324-.385.573a2.182 2.182 0 0 1-1.132.314c-.151 0-.4-.044-.494-.06a2.382 2.382 0 0 1-.459-.148h-.001a.953.953 0 0 1-.356-.274.792.792 0 1 0-1.197 1.037c.283.327.608.565.967.708.218.087.476.185.774.237h.007v.783a.792.792 0 1 0 1.583 0v-.79a3.58 3.58 0 0 0 1.17-.479c.724-.47 1.107-1.127 1.107-1.9Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Money saving tips</div>
+          <div class="m-notification_message">Money saving tips</div>
               <div class="m-notification_explanation"><ul>
                 <li>The IRS has different rules for fellowships and assistantships. Ask the financial aid office about the tax implications of your funding.</li>
                 <li>Depending on your field of study, you may be able to apply for fellowship funding from outside the school.</li>
@@ -2542,7 +2542,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__dollar-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.844 1.754a2.25 2.25 0 0 0-.556-1.477l-.001-.002a3.02 3.02 0 0 0-.835-.665l-.003-.002a3.499 3.499 0 0 0-.866-.313H9.31a3.78 3.78 0 0 0-.795-.083c-.17 0-.326-.012-.475-.037a1.8 1.8 0 0 1-.494-.158l-.002-.001a1.169 1.169 0 0 1-.371-.298L7.172 8.3a.733.733 0 0 1-.175-.44c0-.166.073-.41.421-.63.295-.186.71-.297 1.11-.297.088 0 .229.03.391.066l.049.01c.136.03.295.086.473.166.14.063.275.156.381.261a.791.791 0 1 0 1.118-1.12 2.902 2.902 0 0 0-.85-.585 3.997 3.997 0 0 0-.785-.268h-.001l-.008-.002v-.786a.792.792 0 1 0-1.583 0v.763c-.415.09-.808.244-1.14.454-.736.465-1.159 1.182-1.159 1.967 0 .51.188 1.021.53 1.44.24.298.55.546.893.717.289.145.615.25.942.305.236.04.476.059.736.059a1.927 1.927 0 0 1 .926.215 1.4 1.4 0 0 1 .383.307c.105.12.165.28.165.436 0 .097 0 .324-.385.573a2.182 2.182 0 0 1-1.132.314c-.151 0-.4-.044-.494-.06a2.382 2.382 0 0 1-.459-.148h-.001a.953.953 0 0 1-.356-.274.792.792 0 1 0-1.197 1.037c.283.327.608.565.967.708.218.087.476.185.774.237h.007v.783a.792.792 0 1 0 1.583 0v-.79a3.58 3.58 0 0 0 1.17-.479c.724-.47 1.107-1.127 1.107-1.9Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Money saving tips</div>
+          <div class="m-notification_message">Money saving tips</div>
               <div class="m-notification_explanation"><ul>
             <li>You can borrow less than your school offers and can request more loan funds later if you need to. You should borrow only what you need.</li>
             <li> Try to budget for paying down the interest on unsubsidized loans while you’re in school. Even small payments will save you money in the long run. <a class="external-link a-link a-link__icon" href="https://studentaid.gov/manage-loans/repayment/servicers#your-servicer" rel="noreferrer noopener" target="_blank"><span class="a-link_text">Contact your loan servicer</span> <svg class="cf-icon-svg cf-icon-svg__external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a> for more information.</li>
@@ -2553,7 +2553,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__warning-round" viewBox="0 0 17 19"><path d="M16.406 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0M9.48 13.667a1.003 1.003 0 1 0-2.007 0 1.003 1.003 0 0 0 2.007 0M7.697 10.83a.792.792 0 0 0 1.583 0V4.562a.792.792 0 0 0-1.583 0z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Know before you go</div>
+          <div class="m-notification_message">Know before you go</div>
               <div class="m-notification_explanation"><ul>
             <li>Your loans require that you use them only for things included in the cost of attendance. (For example, buying or leasing a new car is not a covered cost, but gas and tolls are.) Ask the financial aid office for more guidance.</li>
             <li>As the Department of Education explains, “Just because a school participates in the federal student aid programs doesn’t mean the federal government has endorsed the quality of education the school offers. To find out whether there have been any complaints about the school, contact your local Better Business Bureau®, state higher education agency, or the consumer protection division of your state attorney general’s office. Check with the agency that licenses or accredits the school to see whether it meets required standards.”</li>
@@ -2738,7 +2738,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__dollar-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.844 1.754a2.25 2.25 0 0 0-.556-1.477l-.001-.002a3.02 3.02 0 0 0-.835-.665l-.003-.002a3.499 3.499 0 0 0-.866-.313H9.31a3.78 3.78 0 0 0-.795-.083c-.17 0-.326-.012-.475-.037a1.8 1.8 0 0 1-.494-.158l-.002-.001a1.169 1.169 0 0 1-.371-.298L7.172 8.3a.733.733 0 0 1-.175-.44c0-.166.073-.41.421-.63.295-.186.71-.297 1.11-.297.088 0 .229.03.391.066l.049.01c.136.03.295.086.473.166.14.063.275.156.381.261a.791.791 0 1 0 1.118-1.12 2.902 2.902 0 0 0-.85-.585 3.997 3.997 0 0 0-.785-.268h-.001l-.008-.002v-.786a.792.792 0 1 0-1.583 0v.763c-.415.09-.808.244-1.14.454-.736.465-1.159 1.182-1.159 1.967 0 .51.188 1.021.53 1.44.24.298.55.546.893.717.289.145.615.25.942.305.236.04.476.059.736.059a1.927 1.927 0 0 1 .926.215 1.4 1.4 0 0 1 .383.307c.105.12.165.28.165.436 0 .097 0 .324-.385.573a2.182 2.182 0 0 1-1.132.314c-.151 0-.4-.044-.494-.06a2.382 2.382 0 0 1-.459-.148h-.001a.953.953 0 0 1-.356-.274.792.792 0 1 0-1.197 1.037c.283.327.608.565.967.708.218.087.476.185.774.237h.007v.783a.792.792 0 1 0 1.583 0v-.79a3.58 3.58 0 0 0 1.17-.479c.724-.47 1.107-1.127 1.107-1.9Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Money saving tips</div>
+          <div class="m-notification_message">Money saving tips</div>
               <div class="m-notification_explanation"><ul>
             <li> Before committing to these loans, compare them to other federal and private options. Look at the terms: the interest rate, whether interest accumulates during school, how soon you’ll have to start repaying the loan after leaving school, and whether there are flexible repayment options. </li>
             <li> Many schools offer low-cost or no-cost tuition payment plans. These break up a term’s tuition into periodic payments instead of one lump payment at the beginning of the term, allowing you to pay tuition as you (and/or your family) earn money over time.</li>
@@ -2749,7 +2749,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__warning-round" viewBox="0 0 17 19"><path d="M16.406 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0M9.48 13.667a1.003 1.003 0 1 0-2.007 0 1.003 1.003 0 0 0 2.007 0M7.697 10.83a.792.792 0 0 0 1.583 0V4.562a.792.792 0 0 0-1.583 0z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Know before you go</div>
+          <div class="m-notification_message">Know before you go</div>
               <div class="m-notification_explanation">Loans from your school or from a bank or credit union may not offer the same protections flexible repayment options as federal student loans. If you need loans to pay for school, consider using up your federal loan offer before turning to loans through a bank or credit union.</div>
       </div>
   </div>
@@ -2897,7 +2897,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__dollar-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.844 1.754a2.25 2.25 0 0 0-.556-1.477l-.001-.002a3.02 3.02 0 0 0-.835-.665l-.003-.002a3.499 3.499 0 0 0-.866-.313H9.31a3.78 3.78 0 0 0-.795-.083c-.17 0-.326-.012-.475-.037a1.8 1.8 0 0 1-.494-.158l-.002-.001a1.169 1.169 0 0 1-.371-.298L7.172 8.3a.733.733 0 0 1-.175-.44c0-.166.073-.41.421-.63.295-.186.71-.297 1.11-.297.088 0 .229.03.391.066l.049.01c.136.03.295.086.473.166.14.063.275.156.381.261a.791.791 0 1 0 1.118-1.12 2.902 2.902 0 0 0-.85-.585 3.997 3.997 0 0 0-.785-.268h-.001l-.008-.002v-.786a.792.792 0 1 0-1.583 0v.763c-.415.09-.808.244-1.14.454-.736.465-1.159 1.182-1.159 1.967 0 .51.188 1.021.53 1.44.24.298.55.546.893.717.289.145.615.25.942.305.236.04.476.059.736.059a1.927 1.927 0 0 1 .926.215 1.4 1.4 0 0 1 .383.307c.105.12.165.28.165.436 0 .097 0 .324-.385.573a2.182 2.182 0 0 1-1.132.314c-.151 0-.4-.044-.494-.06a2.382 2.382 0 0 1-.459-.148h-.001a.953.953 0 0 1-.356-.274.792.792 0 1 0-1.197 1.037c.283.327.608.565.967.708.218.087.476.185.774.237h.007v.783a.792.792 0 1 0 1.583 0v-.79a3.58 3.58 0 0 0 1.17-.479c.724-.47 1.107-1.127 1.107-1.9Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Money saving tips</div>
+          <div class="m-notification_message">Money saving tips</div>
               <div class="m-notification_explanation"><ul>
             <li>Some states offer grants and funding for specific costs related to education, like childcare. Ask the financial aid office or <a class="a-link a-link__icon" href="https://childcare.gov/state-resources-home/" rel="noreferrer noopener" target="_blank"><span class="a-link_text">your state or territory's childcare fund</span> <svg class="cf-icon-svg cf-icon-svg__external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a>.</li>
             <li> Depending on your circumstances, including state and local regulations, you may be eligible for government benefits like TANF (welfare), SNAP (food stamps), Medicaid, and subsidized housing. Reach out to the financial aid office if you are struggling to afford necessities.</li>
@@ -2908,7 +2908,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__warning-round" viewBox="0 0 17 19"><path d="M16.406 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0M9.48 13.667a1.003 1.003 0 1 0-2.007 0 1.003 1.003 0 0 0 2.007 0M7.697 10.83a.792.792 0 0 0 1.583 0V4.562a.792.792 0 0 0-1.583 0z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Know before you go</div>
+          <div class="m-notification_message">Know before you go</div>
               <div class="m-notification_explanation"><ul>
             <li> Working while in school can help you cut down the amount you need to borrow, but studies suggest that working more than 20 hours a week is associated with a lower GPA. Low grades put financial aid eligibility at risk.</li>
             <li>If you currently receive government benefits, going to school can affect how much you receive. Ask your caseworker or the financial aid office for help, and plan accordingly.</li>
@@ -3834,7 +3834,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__warning-round" viewBox="0 0 17 19"><path d="M16.406 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0M9.48 13.667a1.003 1.003 0 1 0-2.007 0 1.003 1.003 0 0 0 2.007 0M7.697 10.83a.792.792 0 0 0 1.583 0V4.562a.792.792 0 0 0-1.583 0z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Know before you go</div>
+          <div class="m-notification_message">Know before you go</div>
               <div class="m-notification_explanation"><ul>
                         <div class="dependent-content">
                             <li><strong>Accessibility</strong>: <span class="undergrad-content">Parent</span><span class="graduate-content">Grad</span> PLUS Loans are typically easier to qualify for than private loans. All borrowers can save money by comparison shopping—apply to multiple lenders to get the best terms.</li>
@@ -4180,7 +4180,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__information-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917M9.64 5.78a1.136 1.136 0 1 0-1.136 1.135A1.136 1.136 0 0 0 9.64 5.781zm-.344 2.884a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Ask your school about your expected salary.</div>
+          <div class="m-notification_message">Ask your school about your expected salary.</div>
               <div class="m-notification_explanation">Your actual salary will depend on factors like your field of work and where you live. <a class="external-link a-link a-link__icon" href="https://www.bls.gov/bls/blswage.htm" rel="noreferrer noopener" target="_blank"><span class="a-link_text">Visit the BLS Wage Data site for more information.</span> <svg class="cf-icon-svg cf-icon-svg__external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a></div>
       </div>
   </div>
@@ -4191,7 +4191,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__information-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917M9.64 5.78a1.136 1.136 0 1 0-1.136 1.135A1.136 1.136 0 0 0 9.64 5.781zm-.344 2.884a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Your projected total debt is more than the <span class="no=program-selected">median salary of this school's recent students</span><span data-state-based-visibility="program-is-selected">median first-year salary of this program's graduates</span>. Consider whether this plan is right for you.</div>
+          <div class="m-notification_message">Your projected total debt is more than the <span class="no=program-selected">median salary of this school's recent students</span><span data-state-based-visibility="program-is-selected">median first-year salary of this program's graduates</span>. Consider whether this plan is right for you.</div>
               <div class="m-notification_explanation">Your projected total debt is <span data-financial-item="other_debtGuideDifference">$XXXX</span> higher than the <span class="no-program-selected">median salary of this school's recent students</span><span data-state-based-visibility="program-is-selected">median first-year salary of this program's graduates</span>. Your actual salary will depend on factors like your field of work and where you live. <a class="external-link a-link a-link__icon" href="https://www.bls.gov/bls/blswage.htm" rel="noreferrer noopener" target="_blank"><span class="a-link_text">Visit the BLS Wage Data site for more information.</span> <svg class="cf-icon-svg cf-icon-svg__external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a></div>
       </div>
   </div>
@@ -4201,7 +4201,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__information-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917M9.64 5.78a1.136 1.136 0 1 0-1.136 1.135A1.136 1.136 0 0 0 9.64 5.781zm-.344 2.884a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Your projected total debt is not higher than the <span class="no-program-selected">median salary of this school's recent students</span><span data-state-based-visibility="program-is-selected">median first-year salary of this program's graduates</span></div>
+          <div class="m-notification_message">Your projected total debt is not higher than the <span class="no-program-selected">median salary of this school's recent students</span><span data-state-based-visibility="program-is-selected">median first-year salary of this program's graduates</span></div>
               <div class="m-notification_explanation">Your actual salary will depend on factors like your field of work and where you live. <a class="external-link a-link a-link__icon" href="https://www.bls.gov/bls/blswage.htm" rel="noreferrer noopener" target="_blank"><span class="a-link_text">Visit the BLS Wage Data site for more information.</span> <svg class="cf-icon-svg cf-icon-svg__external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.65 1.65 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.654 1.654 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a></div>
       </div>
   </div>
@@ -4270,7 +4270,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__dollar-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.844 1.754a2.25 2.25 0 0 0-.556-1.477l-.001-.002a3.02 3.02 0 0 0-.835-.665l-.003-.002a3.499 3.499 0 0 0-.866-.313H9.31a3.78 3.78 0 0 0-.795-.083c-.17 0-.326-.012-.475-.037a1.8 1.8 0 0 1-.494-.158l-.002-.001a1.169 1.169 0 0 1-.371-.298L7.172 8.3a.733.733 0 0 1-.175-.44c0-.166.073-.41.421-.63.295-.186.71-.297 1.11-.297.088 0 .229.03.391.066l.049.01c.136.03.295.086.473.166.14.063.275.156.381.261a.791.791 0 1 0 1.118-1.12 2.902 2.902 0 0 0-.85-.585 3.997 3.997 0 0 0-.785-.268h-.001l-.008-.002v-.786a.792.792 0 1 0-1.583 0v.763c-.415.09-.808.244-1.14.454-.736.465-1.159 1.182-1.159 1.967 0 .51.188 1.021.53 1.44.24.298.55.546.893.717.289.145.615.25.942.305.236.04.476.059.736.059a1.927 1.927 0 0 1 .926.215 1.4 1.4 0 0 1 .383.307c.105.12.165.28.165.436 0 .097 0 .324-.385.573a2.182 2.182 0 0 1-1.132.314c-.151 0-.4-.044-.494-.06a2.382 2.382 0 0 1-.459-.148h-.001a.953.953 0 0 1-.356-.274.792.792 0 1 0-1.197 1.037c.283.327.608.565.967.708.218.087.476.185.774.237h.007v.783a.792.792 0 1 0 1.583 0v-.79a3.58 3.58 0 0 0 1.17-.479c.724-.47 1.107-1.127 1.107-1.9Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="h4 m-notification_message">Money saving tip</div>
+          <div class="m-notification_message">Money saving tip</div>
               <div class="m-notification_explanation">To lower the total cost of your loans, make room in your in-school budget for payments towards the interest on your private and unsubsidized federal loans. This will reduce the amount you pay due to <em>capitalization</em> &mdash; interest on your interest.</div>
       </div>
   </div>
