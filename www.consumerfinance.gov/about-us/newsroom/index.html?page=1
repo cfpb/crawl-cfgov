@@ -468,7 +468,7 @@
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-1-item"
     data-js-hook=behavior_flyout-menu>
-    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children" data-js-hook="behavior_flyout-menu_trigger" href="/rules-policy/">
+    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children o-mega-menu_content-link__current o-mega-menu_content-1-link__current" data-js-hook="behavior_flyout-menu_trigger" href="/rules-policy/">
 <div aria-level="2" role="heading">
         Rules &amp; Policy
         <span class="o-mega-menu_content-link-icon-post o-mega-menu_content-1-link-icon-post"><svg class="cf-icon-svg cf-icon-svg__right" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.025 1.025 0 0 1-.727.302z"></path></svg></span>
@@ -580,7 +580,7 @@
 <li class="o-mega-menu_content-item o-mega-menu_content-2-item"
     >
     <a class="o-mega-menu_content-link o-mega-menu_content-2-link"
-       href="/rules-policy/cfpb-comment-letters/"
+       href="/about-us/newsroom/?&amp;categories=letter"
        >
         CFPB Comment Letters
     </a>
@@ -974,7 +974,7 @@
 </li>
 <li class="o-mega-menu_content-item o-mega-menu_content-1-item"
     data-js-hook=behavior_flyout-menu>
-    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children o-mega-menu_content-link__current o-mega-menu_content-1-link__current" data-js-hook="behavior_flyout-menu_trigger" href="#">
+    <a aria-haspopup="menu" class="o-mega-menu_content-link o-mega-menu_content-1-link o-mega-menu_content-link__has-children o-mega-menu_content-1-link__has-children" data-js-hook="behavior_flyout-menu_trigger" href="#">
 <div aria-level="2" role="heading">
         News
         <span class="o-mega-menu_content-link-icon-post o-mega-menu_content-1-link-icon-post"><svg class="cf-icon-svg cf-icon-svg__right" viewbox="0 0 10 19" xmlns="http://www.w3.org/2000/svg"><path d="M1.6 17.262a1.03 1.03 0 0 1-.728-1.757l6.073-6.073L.872 3.36a1.03 1.03 0 0 1 1.455-1.455l6.8 6.8a1.03 1.03 0 0 1 0 1.456l-6.8 6.8a1.025 1.025 0 0 1-.727.302z"></path></svg></span>
@@ -1254,6 +1254,10 @@
                                 >
                             Director&#39;s statement
                         </option>
+                        <option value="letter"
+                                >
+                            Letter
+                        </option>
                         <option value="op-ed"
                                 >
                             Op-ed
@@ -1287,6 +1291,7 @@
   <option value="access-to-credit">Access to credit</option>
   <option value="add-on-products">Add-on products</option>
   <option value="advanced-technology">Advanced technology</option>
+  <option value="appraisals">Appraisals</option>
   <option value="arbitration">Arbitration</option>
   <option value="auto-loans">Auto loans</option>
   <option value="banking">Banking</option>
@@ -1468,13 +1473,66 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="m-notification_message">1855 filtered results</div>
+          <div class="m-notification_message">1862 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__microphone" viewBox="0 0 13 19"><path d="M11.665 7.915v1.31a5.257 5.257 0 0 1-1.514 3.694 5.174 5.174 0 0 1-1.641 1.126 5.04 5.04 0 0 1-1.456.384v1.899h2.312a.554.554 0 0 1 0 1.108H3.634a.554.554 0 0 1 0-1.108h2.312v-1.899a5.045 5.045 0 0 1-1.456-.384 5.174 5.174 0 0 1-1.641-1.126 5.257 5.257 0 0 1-1.514-3.695v-1.31a.554.554 0 1 1 1.109 0v1.31a4.131 4.131 0 0 0 1.195 2.917 3.989 3.989 0 0 0 5.722 0 4.133 4.133 0 0 0 1.195-2.917v-1.31a.554.554 0 1 1 1.109 0zM3.77 10.37a2.875 2.875 0 0 1-.233-1.146V4.738A2.905 2.905 0 0 1 3.77 3.58a3 3 0 0 1 1.59-1.59 2.902 2.902 0 0 1 1.158-.233 2.865 2.865 0 0 1 1.152.233 2.977 2.977 0 0 1 1.793 2.748l-.012 4.487a2.958 2.958 0 0 1-.856 2.09 3.025 3.025 0 0 1-.937.634 2.865 2.865 0 0 1-1.152.233 2.905 2.905 0 0 1-1.158-.233A2.957 2.957 0 0 1 3.77 10.37"/></svg>
+        Speech
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2024-04-02T00:00:00">APR 02, 2024</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/prepared-remarks-of-cfpb-director-rohit-chopra-at-the-white-house-on-data-protection-and-national-security/">Prepared Remarks of CFPB Director Rohit Chopra at the White House on Data Protection and National Security</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    Director Chopra at the White House on Data Protection and National Security.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=servicemembers" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Servicemembers
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=data" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Data
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=identity-theft-fraud" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Identity theft and fraud
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=privacy" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Privacy
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="es">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
@@ -1709,6 +1767,51 @@
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
                     <span class="m-meta-header_item">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__email" viewBox="0 0 17 19"><path d="M16.417 6.823v7.809a.557.557 0 0 1-.556.555H1.139a.557.557 0 0 1-.556-.555V6.823a.557.557 0 0 1 .556-.555h14.722a.557.557 0 0 1 .556.555m-14.722.92v6.146l4.463-2.89zm12.223-.364H3.082l4.463 3.257a1.777 1.777 0 0 0 1.91 0zM3.45 14.076h10.096L9.864 11.69a2.926 2.926 0 0 1-2.728 0zm11.855-.184v-6.15L10.842 11z"/></svg>
+        Letter
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2024-03-25T00:00:00">MAR 25, 2024</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/cfpb-letter-to-state-legislature-on-barring-medical-bills-on-credit-reports/">CFPB Letter to State Legislature on Barring Medical Bills on Credit Reports</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    A letter written by Director Rohit Chopra to Senator Monique Limón of the California State Senate.
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Rohit Chopra</a>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=medical-debt" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Medical debt
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=credit-reports-and-scores" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Credit reports and scores
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
        <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__microphone" viewBox="0 0 13 19"><path d="M11.665 7.915v1.31a5.257 5.257 0 0 1-1.514 3.694 5.174 5.174 0 0 1-1.641 1.126 5.04 5.04 0 0 1-1.456.384v1.899h2.312a.554.554 0 0 1 0 1.108H3.634a.554.554 0 0 1 0-1.108h2.312v-1.899a5.045 5.045 0 0 1-1.456-.384 5.174 5.174 0 0 1-1.641-1.126 5.257 5.257 0 0 1-1.514-3.695v-1.31a.554.554 0 1 1 1.109 0v1.31a4.131 4.131 0 0 0 1.195 2.917 3.989 3.989 0 0 0 5.722 0 4.133 4.133 0 0 0 1.195-2.917v-1.31a.554.554 0 1 1 1.109 0zM3.77 10.37a2.875 2.875 0 0 1-.233-1.146V4.738A2.905 2.905 0 0 1 3.77 3.58a3 3 0 0 1 1.59-1.59 2.902 2.902 0 0 1 1.158-.233 2.865 2.865 0 0 1 1.152.233 2.977 2.977 0 0 1 1.793 2.748l-.012 4.487a2.958 2.958 0 0 1-.856 2.09 3.025 3.025 0 0 1-.937.634 2.865 2.865 0 0 1-1.152.233 2.905 2.905 0 0 1-1.158-.233A2.957 2.957 0 0 1 3.77 10.37"/></svg>
         Speech
 </span>
@@ -1873,6 +1976,90 @@
 </div>
         </div>
     </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__email" viewBox="0 0 17 19"><path d="M16.417 6.823v7.809a.557.557 0 0 1-.556.555H1.139a.557.557 0 0 1-.556-.555V6.823a.557.557 0 0 1 .556-.555h14.722a.557.557 0 0 1 .556.555m-14.722.92v6.146l4.463-2.89zm12.223-.364H3.082l4.463 3.257a1.777 1.777 0 0 0 1.91 0zM3.45 14.076h10.096L9.864 11.69a2.926 2.926 0 0 1-2.728 0zm11.855-.184v-6.15L10.842 11z"/></svg>
+        Letter
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2024-03-11T00:00:00">MAR 11, 2024</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/cfpb-letter-to-new-york-state-on-the-prohibition-on-abusive-conduct/">CFPB Letter to New York State on the Prohibition on Abusive Conduct</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    A letter written by Brian Shearer, CFPB Assistant Director of the Office of Policy Planning and Strategy, to Kathy Hochul, Governor of New York State, and members of the New York State Assembly and Senate.
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Brian Shearer</a>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=deceptive-practices" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__email" viewBox="0 0 17 19"><path d="M16.417 6.823v7.809a.557.557 0 0 1-.556.555H1.139a.557.557 0 0 1-.556-.555V6.823a.557.557 0 0 1 .556-.555h14.722a.557.557 0 0 1 .556.555m-14.722.92v6.146l4.463-2.89zm12.223-.364H3.082l4.463 3.257a1.777 1.777 0 0 0 1.91 0zM3.45 14.076h10.096L9.864 11.69a2.926 2.926 0 0 1-2.728 0zm11.855-.184v-6.15L10.842 11z"/></svg>
+        Letter
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2024-03-08T00:00:00">MAR 08, 2024</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/newsroom/cfpb-director-rohit-chopras-letter-to-the-appraisal-subcommittee/">CFPB Director Rohit Chopra’s Letter to the Appraisal Subcommittee</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    A letter written by Director Rohit Chopra to the Appraisal Subcommittee.
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Rohit Chopra</a>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=appraisals" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Appraisals
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/about-us/newsroom/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="es">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
@@ -1918,8 +2105,8 @@
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
                     <span class="m-meta-header_item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        Press release
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__open-quote" viewBox="0 0 16 19"><path d="M6.808 11.29a3.19 3.19 0 0 1 .097 1.464 3.236 3.236 0 0 1-.535 1.277 3.15 3.15 0 0 1-2.286 1.316 3.43 3.43 0 0 1-2.628-.836A3.905 3.905 0 0 1 .26 12.269a4.433 4.433 0 0 1-.052-.653 5.807 5.807 0 0 1 .027-.74 5.497 5.497 0 0 1 .33-1.388 5.684 5.684 0 0 1 1.498-2.193A6.744 6.744 0 0 1 4.41 5.923q.344-.118.699-.201a1.241 1.241 0 0 1 .606-.046.792.792 0 0 1-.066 1.548 5.624 5.624 0 0 0-1.356.458 4.567 4.567 0 0 0-1.988 1.812 3.05 3.05 0 0 1 .998-.367 3.092 3.092 0 0 1 3.248 1.552 3.057 3.057 0 0 1 .257.611m8.941.435a3.053 3.053 0 0 1 .038.708 3.185 3.185 0 0 1-1.207 2.265 3.334 3.334 0 0 1-2.609.615 3.375 3.375 0 0 1-2.165-1.35 3.722 3.722 0 0 1-.55-1.085 4.446 4.446 0 0 1-.203-1.224 5.63 5.63 0 0 1 .567-2.656 5.76 5.76 0 0 1 1.598-1.967 6.88 6.88 0 0 1 2.357-1.21 4.863 4.863 0 0 1 .676-.162.792.792 0 0 1 .602 1.404 1.277 1.277 0 0 1-.542.201 5.487 5.487 0 0 0-1.278.47 4.536 4.536 0 0 0-1.885 1.76 3.051 3.051 0 0 1 1.242-.4 3.098 3.098 0 0 1 3.359 2.631"/></svg>
+        Director's statement
 </span>
             </div>
             <div class="m-meta-header_item">
@@ -1932,10 +2119,10 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-bans-excessive-credit-card-late-fees-lowers-typical-fee-from-32-to-8/">CFPB Bans Excessive Credit Card Late Fees, Lowers Typical Fee from $32 to $8</a>
+                <a href="/about-us/newsroom/statement-of-cfpb-director-rohit-chopra-on-the-final-rule-to-close-the-credit-card-late-fee-loophole/">Statement of CFPB Director Rohit Chopra on the Final Rule to Close the Credit Card Late Fee Loophole</a>
             </h3>
                 <div class="o-post-preview_description">
-                    The Consumer Financial Protection Bureau (CFPB) ) finalized a rule today to cut excessive credit card late fees by closing a loophole exploited by large card issuers.
+                    The Consumer Financial Protection Bureau is taking action to rein in junk fees on credit cards, increase competition, and put billions of dollars back in the pockets of American families.
                 </div>
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
@@ -1959,8 +2146,8 @@
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
                     <span class="m-meta-header_item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__open-quote" viewBox="0 0 16 19"><path d="M6.808 11.29a3.19 3.19 0 0 1 .097 1.464 3.236 3.236 0 0 1-.535 1.277 3.15 3.15 0 0 1-2.286 1.316 3.43 3.43 0 0 1-2.628-.836A3.905 3.905 0 0 1 .26 12.269a4.433 4.433 0 0 1-.052-.653 5.807 5.807 0 0 1 .027-.74 5.497 5.497 0 0 1 .33-1.388 5.684 5.684 0 0 1 1.498-2.193A6.744 6.744 0 0 1 4.41 5.923q.344-.118.699-.201a1.241 1.241 0 0 1 .606-.046.792.792 0 0 1-.066 1.548 5.624 5.624 0 0 0-1.356.458 4.567 4.567 0 0 0-1.988 1.812 3.05 3.05 0 0 1 .998-.367 3.092 3.092 0 0 1 3.248 1.552 3.057 3.057 0 0 1 .257.611m8.941.435a3.053 3.053 0 0 1 .038.708 3.185 3.185 0 0 1-1.207 2.265 3.334 3.334 0 0 1-2.609.615 3.375 3.375 0 0 1-2.165-1.35 3.722 3.722 0 0 1-.55-1.085 4.446 4.446 0 0 1-.203-1.224 5.63 5.63 0 0 1 .567-2.656 5.76 5.76 0 0 1 1.598-1.967 6.88 6.88 0 0 1 2.357-1.21 4.863 4.863 0 0 1 .676-.162.792.792 0 0 1 .602 1.404 1.277 1.277 0 0 1-.542.201 5.487 5.487 0 0 0-1.278.47 4.536 4.536 0 0 0-1.885 1.76 3.051 3.051 0 0 1 1.242-.4 3.098 3.098 0 0 1 3.359 2.631"/></svg>
-        Director's statement
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        Press release
 </span>
             </div>
             <div class="m-meta-header_item">
@@ -1973,10 +2160,10 @@
         </div>
         <div class="o-post-preview_content">
             <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/statement-of-cfpb-director-rohit-chopra-on-the-final-rule-to-close-the-credit-card-late-fee-loophole/">Statement of CFPB Director Rohit Chopra on the Final Rule to Close the Credit Card Late Fee Loophole</a>
+                <a href="/about-us/newsroom/cfpb-bans-excessive-credit-card-late-fees-lowers-typical-fee-from-32-to-8/">CFPB Bans Excessive Credit Card Late Fees, Lowers Typical Fee from $32 to $8</a>
             </h3>
                 <div class="o-post-preview_description">
-                    The Consumer Financial Protection Bureau is taking action to rein in junk fees on credit cards, increase competition, and put billions of dollars back in the pockets of American families.
+                    The Consumer Financial Protection Bureau (CFPB) ) finalized a rule today to cut excessive credit card late fees by closing a loophole exploited by large card issuers.
                 </div>
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
@@ -2426,248 +2613,6 @@
             <a href="/about-us/newsroom/?topics=mortgages" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Mortgages
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="es">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        Press release
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2024-02-08T00:00:00">FEB 08, 2024</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-recupera-12-millones-de-jefes-de-estafa/">CFPB Recupera $12 Millones de Jefes de una Estafa con Alivio de Ejecución Hipotecaria</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    CFPB resuelve apelación en una demanda por $12 millones que tenía tiempo en proceso, contra una operación de estafa con alivio de ejecución hipotecaria.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=enforcement" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=financial-service-providers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=mortgages" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        Press release
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2024-01-24T00:00:00">JAN 24, 2024</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-proposes-rule-to-stop-new-junk-fees-on-bank-accounts/">CFPB Proposes Rule to Stop New Junk Fees on Bank Accounts</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    The Consumer Financial Protection Bureau proposed to block financial institutions from one potential source of new junk fee revenue – fees on instantaneously declined transactions.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=debit-cards" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Debit cards
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=financial-service-providers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=prepaid-cards" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=banking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=checking-account" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Checking account
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=rulemaking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=money-transfers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=electronic-payments" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Electronic payments
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="es">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        Press release
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2024-01-24T00:00:00">JAN 24, 2024</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-propone-norma-contra-tarifas-inesperadas/">La CFPB Propone Normativa para Detener el Cobro de Tarifas Inesperadas sobre Cuentas Bancarias</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    CFPB propone bloquearles a las instituciones financieras una potencial fuente de ingresos por nuevas tarifas inesperadas; las penalidades por transacciones declinadas instatáneamente.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=debit-cards" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Debit cards
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=financial-service-providers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=prepaid-cards" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Prepaid cards
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=banking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=checking-account" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Checking account
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=rulemaking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Rulemaking
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=money-transfers" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Money transfers
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=electronic-payments" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Electronic payments
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="es">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.951.951 0 0 1-1.152.69l-3.084-.77a.952.952 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.429 1.429 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        Press release
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2024-01-19T00:00:00">JAN 19, 2024</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/newsroom/cfpb-y-7-estados-demandan-a-compania-de-alivio-de-deudas/">CFPB y Siete Fiscales Generales Estatales demandan a la Empresa Strategic Financial Solutions por Estafar por más de $100 Millones a Familias en Dificultades Financieras</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    CFPB y Siete Fiscales Generales Estatales demandan a la Empresa Strategic Financial Solutions por Estafar por más de $100 Millones a Familias en Dificultades Financieras
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=enforcement" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/newsroom/?topics=debt-collection" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
             </a>
         </li>
     </ul>

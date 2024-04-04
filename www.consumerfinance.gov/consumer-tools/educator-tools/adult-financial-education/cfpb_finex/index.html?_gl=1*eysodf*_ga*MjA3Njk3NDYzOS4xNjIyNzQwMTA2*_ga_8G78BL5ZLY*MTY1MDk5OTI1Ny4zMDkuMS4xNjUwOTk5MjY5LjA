@@ -1219,18 +1219,12 @@
    </div>
    <div class="block block__flush-top">
 <h2 id="webinar-archive">Webinar archive</h2>
-    <table class="o-table u-w100pct">
+<table class="o-table u-w100pct">
     <thead>
         <tr>
-                <th scope="col">
-                        Date
-                    </th>
-                <th scope="col">
-                        Description
-                    </th>
-                <th scope="col">
-                        Action
-                    </th>
+                <th scope="col">Date</th>
+                <th scope="col">Description</th>
+                <th scope="col">Action</th>
         </tr>
     </thead>
     <tbody>
