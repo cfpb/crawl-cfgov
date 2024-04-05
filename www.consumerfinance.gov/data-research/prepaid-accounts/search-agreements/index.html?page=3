@@ -576,14 +576,6 @@
         Advisory Committees
     </a>
 </li>
-<li class="o-mega-menu_content-item o-mega-menu_content-2-item"
-    >
-    <a class="o-mega-menu_content-link o-mega-menu_content-2-link"
-       href="/about-us/newsroom/?&amp;categories=letter"
-       >
-        CFPB Comment Letters
-    </a>
-</li>
             </ul>
         </div>
     </div>
@@ -1481,6 +1473,11 @@
                             Flagstar Bank, N.A
                     </option>
                     <option
+                        value="Flagstar Bank, National Association"
+                        >
+                            Flagstar Bank, National Association
+                    </option>
+                    <option
                         value="Four Corners Community Bank"
                         >
                             Four Corners Community Bank
@@ -1609,11 +1606,6 @@
                         value="Midwest Heritage Bank"
                         >
                             Midwest Heritage Bank
-                    </option>
-                    <option
-                        value="NEW YORK COMMUNITY BANK"
-                        >
-                            NEW YORK COMMUNITY BANK
                     </option>
                     <option
                         value="Navy Federal Credit Union"
