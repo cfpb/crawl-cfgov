@@ -1419,13 +1419,54 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="m-notification_message">1622 filtered results</div>
+          <div class="m-notification_message">1623 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__information" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917M5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534m2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0"/></svg>
+        Info for consumers
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2023-10-23T00:00:00">OCT 23, 2023</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/about-us/blog/next-public-hearing-on-appraisal-bias-november-1/">Next public hearing on appraisal bias: November 1</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    On November 1, the Appraisal Subcommittee – which has a seven-member federal agency board including the CFPB – will hold its next public hearing to discuss the challenges and solutions to preventing bias in the home appraisal process. Members of the public are encouraged to attend.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=discrimination" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Discrimination
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/about-us/blog/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="es">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
@@ -2436,53 +2477,6 @@
             </h3>
                 <div class="o-post-preview_description">
                     The basics of CFPB’s enforcement actions against Bank of America, the customers who were affected, and the practices that violated federal law.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=enforcement" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Enforcement
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=credit-cards" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/about-us/blog/?topics=banking" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Banking
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="ht">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__information" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917M5.85 3.309a6.833 6.833 0 1 0 2.65-.534 6.787 6.787 0 0 0-2.65.534m2.654 1.336A1.136 1.136 0 1 1 7.37 5.78a1.136 1.136 0 0 1 1.135-1.136zm.792 9.223V8.665a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0"/></svg>
-        Info for consumers
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2023-07-19T00:00:00">JUL 19, 2023</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/about-us/blog/whats-ahead-for-bank-of-america-and-its-customers-ht/">Sa ki rezève pou Bank of America ak kliyan li yo</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    Sa ki esansyèl nan mezi egzekisyon CFPB pran kont Bank of America, kliyan ki konsène yo, ak pratik ki te vyole lwa federal la.
                 </div>
 <div class="m-tags">
     <ul class="m-tags_list" aria-label="Topics">
