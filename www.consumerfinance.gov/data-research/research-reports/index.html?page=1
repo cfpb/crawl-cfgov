@@ -1425,13 +1425,133 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="m-notification_message">554 filtered results</div>
+          <div class="m-notification_message">556 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Supervisory Highlights
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2024-04-24T00:00:00">APR 24, 2024</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/supervisory-highlights-issue-33-spring-2024/">Supervisory Highlights, Issue 33 (Spring 2024)</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    This is the 33rd edition of Supervisory Highlights. The findings in this report cover select examinations regarding mortgage servicing, that were completed from April 1, 2023 through December 31, 2023.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=mortgage-servicing" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=udaaps" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                UDAAPs
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=supervision" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Supervision
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=deceptive-practices" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Deceptive practices
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=mortgages" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        Data spotlight
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2024-04-23T00:00:00">APR 23, 2024</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/data-spotlight-overdraft-nsf-revenue-in-2023-down-more-than-50-versus-pre-pandemic-levels-saving-consumers-over-6-billion-annually/">Overdraft/NSF Revenue in 2023 down more than 50% versus pre-pandemic levels, saving consumers over $6 billion annually</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    Overdraft/NSF revenue for the full year of 2023 was approximately $6.1 billion lower than before the pandemic, and 24% lower than in 2022. However, quarterly overdraft/NSF fees were flat throughout 2023, suggesting most of the year-over-year reduction reflects the impact of changes in policy enacted in 2022.
+                </div>
+                <div class="o-post-preview_byline-group">
+                    By 
+                    Offices of Markets and Consumer Populations</a>
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=overdraft" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Overdraft
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=research" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Research
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=checking-account" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Checking account
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=banking" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Banking
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=junk-fees" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Junk fees
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
@@ -2596,98 +2716,6 @@
             <a href="/data-research/research-reports/?topics=banking" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Banking
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        To Congress
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2023-10-25T00:00:00">OCT 25, 2023</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/the-consumer-credit-card-market/">The Consumer Credit Card Market</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    Every two years, the CFPB reports on the state of the consumer credit card market. Our report for 2023 covers the use, cost, and availability of credit cards.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=credit-card-act" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit CARD Act
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=debt-collection" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Debt collection
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=credit-cards" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        To Congress
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2023-10-20T00:00:00">OCT 20, 2023</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/report-of-the-cfpb-education-loan-ombudsman/">Report of the CFPB Education Loan Ombudsman</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    This report is required by statute. It covers the student lending market, complaints, challenges for consumers, and makes recommendations to policy makers.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=private-education-loan-ombudsman" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Private Education Loan Ombudsman
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=students" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Students
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=student-loans" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
             </a>
         </li>
     </ul>

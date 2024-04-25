@@ -1425,13 +1425,88 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.791.791 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.791.791 0 0 0-.29-1.081Z"/></svg>
       <div class="m-notification_content"
           >
-          <div class="m-notification_message">554 filtered results</div>
+          <div class="m-notification_message">556 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block__sub"
                      data-cy="filterable-list-results">
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item-group">
+                    <span class="m-meta-header_item">
+        To Congress
+</span>
+            </div>
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2022-04-15T00:00:00">APR 15, 2022</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/fair-debt-collection-practices-act-annual-report-2022/">Fair Debt Collection Practices Act Annual Report 2022</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The Bureau’s annual report to Congress summarizes the Bureau’s activities to administer the Fair Debt Collection Practices Act (FDCPA) in 2021 as the primary federal regulator of the consumer debt collection industry. This report also includes activities conducted by the Federal Trade Commission (FTC) in 2021 in relation to debt collection.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=debt-collection" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Debt collection
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=fair-debt-collection-practices-act" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Fair Debt Collection Practices Act
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
+    <article class="o-post-preview" lang="en">
+        <div class="m-meta-header">
+            <div class="m-meta-header_item">
+                <span class="a-date">
+                    Published
+                        <span class="datetime"><time class="datetime_date" datetime="2022-04-14T00:00:00">APR 14, 2022</time>
+</span>
+                </span>
+            </div>
+        </div>
+        <div class="o-post-preview_content">
+            <h3 class="o-post-preview_title">
+                <a href="/data-research/research-reports/cfpb-equity-action-plan/">CFPB Equity Action Plan</a>
+            </h3>
+                <div class="o-post-preview_description">
+                    The CFPB&#39;s Equity Action Plan.
+                </div>
+<div class="m-tags">
+    <ul class="m-tags_list" aria-label="Topics">
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=equity" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Equity
+            </a>
+        </li>
+        <li class="m-tags_item">
+            <a href="/data-research/research-reports/?topics=diversity-and-inclusion" class="m-tags_tag">
+                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
+                Diversity and inclusion
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+    </article>
     <article class="o-post-preview" lang="en">
         <div class="m-meta-header">
             <div class="m-meta-header_item-group">
@@ -2587,115 +2662,6 @@
             <a href="/data-research/research-reports/?topics=open-government" class="m-tags_tag">
                 <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
                 Open government
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-        Industry and markets
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2021-11-15T00:00:00">NOV 15, 2021</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/data-spotlight-suspicious-activity-reports-on-elder-financial-exploitation/">Data Spotlight: Suspicious Activity Reports on Elder Financial Exploitation</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    In 2020, financial institutions filed over 62,000 Suspicious Activity Reports (SARs) to report suspected elder financial exploitation (EFE) involving over $3.4 billion.
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=older-americans" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Older Americans
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=identity-theft-fraud" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Identity theft and fraud
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-    </article>
-    <article class="o-post-preview" lang="en">
-        <div class="m-meta-header">
-            <div class="m-meta-header_item-group">
-                    <span class="m-meta-header_item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg__chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
-        Office of Research Publication
-</span>
-            </div>
-            <div class="m-meta-header_item">
-                <span class="a-date">
-                    Published
-                        <span class="datetime"><time class="datetime_date" datetime="2021-11-02T00:00:00">NOV 02, 2021</time>
-</span>
-                </span>
-            </div>
-        </div>
-        <div class="o-post-preview_content">
-            <h3 class="o-post-preview_title">
-                <a href="/data-research/research-reports/disputes-on-consumer-credit-reports/">Disputes on Consumer Credit Reports</a>
-            </h3>
-                <div class="o-post-preview_description">
-                    This Consumer Credit Trends report describes patterns in dispute flags that appear on consumers’ credit reports.
-                </div>
-                <div class="o-post-preview_byline-group">
-                    By 
-                    Office of Research</a>
-                </div>
-<div class="m-tags">
-    <ul class="m-tags_list" aria-label="Topics">
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=office-of-research-publication" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Office of Research Publication
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=auto-loans" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Auto loans
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=research" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=student-loans" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Student loans
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=credit-cards" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-        <li class="m-tags_item">
-            <a href="/data-research/research-reports/?topics=credit-reports-and-scores" class="m-tags_tag">
-                <span class="m-tags_bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
             </a>
         </li>
     </ul>
