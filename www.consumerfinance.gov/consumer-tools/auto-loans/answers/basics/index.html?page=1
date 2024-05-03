@@ -1220,7 +1220,7 @@
         <ul dir="ltr" class="m-translation-links">
                 <li>English</li>
                 <li>
-                    <a href="/es/herramientas-del-consumidor/prestamos-para-vehiculos/respuestas/"
+                    <a href="/es/herramientas-del-consumidor/prestamos-para-automovil/respuestas/"
                     lang="es"
                     hreflang="es"
                     translate="no">Español
@@ -1253,6 +1253,9 @@
         <p class="results-message">Showing 49 results within basics</p>
         <section class="results">
             <div class="page-links">
+            <article>
+                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/795" href="/ask-cfpb/can-i-negotiate-the-interest-rate-on-an-auto-loan-with-the-dealer-en-795/">Can I negotiate a car loan interest rate with the dealer?</a></div>
+            </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/2045" href="/ask-cfpb/should-i-trade-in-my-car-if-its-not-paid-off-en-2045/">Should I trade in my car if it’s not paid off?</a></div>
             </article>
@@ -1324,9 +1327,6 @@
             </article>
             <article>
                 <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/765" href="/ask-cfpb/how-does-a-lender-decide-what-interest-rate-to-offer-me-on-an-auto-loan-en-765/">How does a lender decide what interest rate to offer me on an auto loan?</a></div>
-            </article>
-            <article>
-                <div class="h3 hover"><a class="hover" data-pretty-href="cfpb.gov/askcfpb/791" href="/ask-cfpb/am-i-required-to-get-my-auto-loan-through-a-dealership-en-791/">Am I required to get my auto loan through a dealership?</a></div>
             </article>
             <div class="block block--sub">
     <nav class="m-pagination"
