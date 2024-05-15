@@ -30,7 +30,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.9316a8483c71.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.d75137dbd36a.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -164,28 +164,36 @@
                    id="affiliate"
                    name="affiliate"
                    value="cfpb_es">
-            <div class="o-form--input-w-btn">
-               <div class="o-form--input-w-btn__input-container m-form-field">
-                   <div class="a-text-input--full input-contains-label">
-                       <label for="m-global-search_query"
-                              class="input-contains-label__before
-                                     input-contains-label__before--search">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
-                            <span class="u-visually-hidden">Buscar</span>
-                       </label>
-                       <input id="m-global-search_query"
-                              name="query"
-                              type="search"
-                              title="Buscar la CFPB"
-                              class="a-text-input"
-                              value=""
-                              placeholder="Buscar la CFPB">
-                   </div>
-               </div>
-               <div class="o-form--input-w-btn__btn-container">
-                   <button class="a-btn">Buscar</button>
-               </div>
-            </div>
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label"
+               aria-label="Busque su pregunta">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="query"
+               value=""
+               class="a-text-input a-text-input__full"
+               placeholder="Buscar la CFPB"
+               title="Buscar la CFPB"
+               autocomplete="off"
+               maxlength="75"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Borrar búsqueda"
+                title="Borrar búsqueda">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Buscar la CFPB">
+        Buscar
+    </button>
+</div>
         </form>
     </div>
 </div>
@@ -392,7 +400,7 @@
     </div>
    <div class="block block--flush-top">
 <div class="o-well">
-        <h4 data-block-key="9l60d" id=""></h4><h4 data-block-key="6lb2i" id="">Esta guía se concentra en sus finanzas</h4><p data-block-key="ndlqj"></p><p data-block-key="3ptdh">Si usted necesita información sobre cómo proteger su integridad física, antes, durante y después de una emergencia, por favor visite el sitio web de la Agencia Federal para el Manejo de Emergencias (FEMA) en <a class="a-link a-link--icon" href="https://www.listo.gov/es"><span class="a-link__text">listo.gov</span> <svg class="cf-icon-svg cf-icon-svg--external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.7 1.7 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.65 1.65 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a>.</p><p data-block-key="232kz"></p>
+        <h4 id="" data-block-key="g8got"></h4><h4 id="" data-block-key="8y2h6">Esta guía se concentra en sus finanzas</h4><p data-block-key="ndlqj"></p><p data-block-key="3ptdh">Si usted necesita información sobre cómo proteger su integridad física, antes, durante y después de una emergencia, por favor visite el sitio web de la Agencia Federal para el Manejo de Emergencias (FEMA) en <a class="a-link a-link--icon" href="https://www.listo.gov/es"><span class="a-link__text">listo.gov</span> <svg class="cf-icon-svg cf-icon-svg--external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.7 1.7 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.65 1.65 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a>.</p><p data-block-key="232kz"></p>
 </div>
    </div>
    <div class="block">
@@ -417,7 +425,7 @@
         <div class="content-l__col content-l__col-1-2">
 <div class="m-info-unit">
     <div class="m-info-unit__content">
-        <h3 data-block-key="fmuoj" id="">Prepárese para lo inesperado</h3><p data-block-key="e8vai">Preparar una lista con su información financiera y números de contacto antes de que alguna situación ocurra, puede ahorrarle tiempo y estrés durante una emergencia.</p><h4 data-block-key="bdwvf" id="">Recursos para ayudarle a comenzar</h4>
+        <h3 id="" data-block-key="ym3gg">Prepárese para lo inesperado</h3><p data-block-key="e8vai">Preparar una lista con su información financiera y números de contacto antes de que alguna situación ocurra, puede ahorrarle tiempo y estrés durante una emergencia.</p><h4 id="" data-block-key="nfrgo">Recursos para ayudarle a comenzar</h4>
             <ul class="m-list m-list--links u-mt15">
                 <li class="m-list__item"><a class="m-list__link"
                             href="/es/desastres-y-emergencias/preparese-para-desastres-y-emergencias/">
@@ -453,7 +461,7 @@
         <div class="content-l__col content-l__col-1-2">
 <div class="m-info-unit">
     <div class="m-info-unit__content">
-        <h3 data-block-key="zubab" id="">Enfóquese de sus problemas más urgentes</h3><p data-block-key="982s1">Si usted no puede acceder a su dinero o pagar sus cuentas después de un desastre natural, contacte inmediatamente a sus prestamistas, acreedores y bancos para que les informe de su situación. Usted también debería buscar lugares que provean asistencia financiera.</p><h4 data-block-key="cedo2" id="">Recursos para ayudarle a recuperarse</h4>
+        <h3 id="" data-block-key="wkht7">Enfóquese de sus problemas más urgentes</h3><p data-block-key="982s1">Si usted no puede acceder a su dinero o pagar sus cuentas después de un desastre natural, contacte inmediatamente a sus prestamistas, acreedores y bancos para que les informe de su situación. Usted también debería buscar lugares que provean asistencia financiera.</p><h4 id="" data-block-key="dbfra">Recursos para ayudarle a recuperarse</h4>
             <ul class="m-list m-list--links u-mt15">
                 <li class="m-list__item"><a class="m-list__link"
                             href="/es/desastres-y-emergencias/como-enfrentar-problemas-de-vivienda/">
@@ -485,7 +493,7 @@
    <div class="block block--padded-top block--border-top">
 <div class="o-info-unit-group" id=&#34;recuperarse-y-reconstruir-luego-de-un-desastre-natural-o-una-emergencia&#34; >
 <h2 id="recuperarse-y-reconstruir-luego-de-un-desastre-natural-o-una-emergencia">Recuperarse y reconstruir luego de un desastre natural o una emergencia</h2>
-    <h3 data-block-key="y44ac" id="">Cómo ayudar a otros a reconstruir y a recuperarse</h3><p data-block-key="d06i5">Si le está enviando dinero a sus seres queridos, o a alguna organización que esté ofreciendo asistencia directa, usted querrá saber que éste sea útil y que llegue a las manos correctas.</p><p data-block-key="d04pv"><a href="/es/desastres-y-emergencias/como-ayudar-a-otros-a-reconstruir/">Le damos algunos consejos para ayudar a otros a construir y a recuperarse</a></p><h3 data-block-key="bdqw0" id="">Evite el fraude y las estafas</h3><p data-block-key="7mdoa">Luego de un desastre o una emergencia, usted tendrá mucho qué hacer y qué pensar. Para que se proteja de más problemas financieros, permanezca alerta con el fraude y las estafas.</p><p data-block-key="8fudp"><a href="/es/desastres-y-emergencias/proteja-sus-finanzas#fraude">Cómo evitar las estafas luego de un desastre</a></p>
+    <h3 id="" data-block-key="hxnsc">Cómo ayudar a otros a reconstruir y a recuperarse</h3><p data-block-key="d06i5">Si le está enviando dinero a sus seres queridos, o a alguna organización que esté ofreciendo asistencia directa, usted querrá saber que éste sea útil y que llegue a las manos correctas.</p><p data-block-key="d04pv"><a href="/es/desastres-y-emergencias/como-ayudar-a-otros-a-reconstruir/">Le damos algunos consejos para ayudar a otros a construir y a recuperarse</a></p><h3 id="" data-block-key="mbn2p">Evite el fraude y las estafas</h3><p data-block-key="7mdoa">Luego de un desastre o una emergencia, usted tendrá mucho qué hacer y qué pensar. Para que se proteja de más problemas financieros, permanezca alerta con el fraude y las estafas.</p><p data-block-key="8fudp"><a href="/es/desastres-y-emergencias/proteja-sus-finanzas#fraude">Cómo evitar las estafas luego de un desastre</a></p>
 </div>
    </div>
                 </div>
@@ -523,8 +531,54 @@
             LOS MÁS RECIENTE
         </h2>
     </header>
+        <div class="m-related-posts__list-container">
+                <h3 class="h4">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.11 1.11 0 0 1-1.108-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
+                    Blog
+                </h3>
+    <ul class="m-related-posts__list
+               m-list
+               m-list--unstyled">
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/beware-of-new-cfpb-imposter-scams/">
+                        Beware of new CFPB imposter scams
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-01-16T00:00:00">JAN 16, 2024</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/tenga-cuidado-con-nuevas-estafas-de-impostor-de-la-cfpb/">
+                        Tenga cuidado con las nuevas estafas de impostores de funcionarios de la CFPB
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-01-16T00:00:00">JAN 16, 2024</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/whats-ahead-for-wells-fargo-and-its-customers/">
+                        What’s ahead for Wells Fargo and its customers
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2023-01-17T00:00:00">JAN 17, 2023</time>
+</span>
+                </p>
+            </li>
+    </ul>
+        </div>
     <a class="a-link a-link--jump"
-       href="/activity-log/"
+       href="/activity-log/?topics=auto-loans&amp;topics=financial-education&amp;topics=saving&amp;topics=identity-theft-fraud&amp;topics=financial-well-being"
        aria-label="Ver más publicaciones relacionadas">
         <span class="a-link__text">
             Ver más

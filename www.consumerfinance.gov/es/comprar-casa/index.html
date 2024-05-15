@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.9316a8483c71.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.d75137dbd36a.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -166,28 +166,36 @@
                    id="affiliate"
                    name="affiliate"
                    value="cfpb_es">
-            <div class="o-form--input-w-btn">
-               <div class="o-form--input-w-btn__input-container m-form-field">
-                   <div class="a-text-input--full input-contains-label">
-                       <label for="m-global-search_query"
-                              class="input-contains-label__before
-                                     input-contains-label__before--search">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
-                            <span class="u-visually-hidden">Buscar</span>
-                       </label>
-                       <input id="m-global-search_query"
-                              name="query"
-                              type="search"
-                              title="Buscar la CFPB"
-                              class="a-text-input"
-                              value=""
-                              placeholder="Buscar la CFPB">
-                   </div>
-               </div>
-               <div class="o-form--input-w-btn__btn-container">
-                   <button class="a-btn">Buscar</button>
-               </div>
-            </div>
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label"
+               aria-label="Busque su pregunta">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="query"
+               value=""
+               class="a-text-input a-text-input__full"
+               placeholder="Buscar la CFPB"
+               title="Buscar la CFPB"
+               autocomplete="off"
+               maxlength="75"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Borrar búsqueda"
+                title="Borrar búsqueda">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Buscar la CFPB">
+        Buscar
+    </button>
+</div>
         </form>
     </div>
 </div>
@@ -409,7 +417,7 @@
         <div class="m-info-unit__heading-text">
 <h4 id="pasos-que-puede-tomar">Pasos que puede tomar</h4>
         </div><div class="m-info-unit__content">
-        <ul><li data-block-key="wplf8"><a href="/es/prepararse-para-comprar-casa/hipotecas/">Tome el control de su hipoteca</a> usando nuestras herramientas de &quot;Prepararse para Comprar Casa&quot;</li><li data-block-key="i68n1"><a href="/find-a-housing-counselor/">Encuentre un asesor de vivienda</a> (en inglés) que le aconseje según su situación</li><li data-block-key="ppfrf">Si tiene algún problema con un prestamista hipotecario, <a href="/es/enviar-una-queja/">envíenos su queja</a></li></ul>
+        <ul><li data-block-key="wplf8"><a href="/es/prepararse-para-comprar-casa/hipotecas/">Tome el control de su hipoteca</a> usando nuestras herramientas de "Prepararse para Comprar Casa"</li><li data-block-key="i68n1"><a href="/find-a-housing-counselor/">Encuentre un asesor de vivienda</a> (en inglés) que le aconseje según su situación</li><li data-block-key="ppfrf">Si tiene algún problema con un prestamista hipotecario, <a href="/es/enviar-una-queja/">envíenos su queja</a></li></ul>
     </div>
 </div>
         </div>
@@ -478,8 +486,50 @@
             Lo más reciente
         </h2>
     </header>
+        <div class="m-related-posts__list-container">
+    <ul class="m-related-posts__list
+               m-list
+               m-list--unstyled">
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/asc-hearing-addresses-appraisal-bias-highlights-deficiencies-with-the-appraisal-foundation/">
+                        ASC hearing addresses appraisal bias, highlights deficiencies with The Appraisal Foundation
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-03-18T00:00:00">MAR 18, 2024</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/junk-fees-are-driving-up-housing-costs-the-cfpb-wants-to-hear-from-you/">
+                        Junk fees are driving up housing costs. The CFPB wants to hear from you.
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-03-08T00:00:00">MAR 08, 2024</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/unlawful-fees-in-the-mortgage-market/">
+                        Unlawful fees in the mortgage market
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-02-27T00:00:00">FEB 27, 2024</time>
+</span>
+                </p>
+            </li>
+    </ul>
+        </div>
     <a class="a-link a-link--jump"
-       href="/activity-log/"
+       href="/activity-log/?topics=mortgages"
        aria-label="Ver más publicaciones relacionadas">
         <span class="a-link__text">
             Ver más

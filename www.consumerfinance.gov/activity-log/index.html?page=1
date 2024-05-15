@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.9316a8483c71.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.d75137dbd36a.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -166,28 +166,36 @@
                    id="affiliate"
                    name="affiliate"
                    value="cfpb">
-            <div class="o-form--input-w-btn">
-               <div class="o-form--input-w-btn__input-container m-form-field">
-                   <div class="a-text-input--full input-contains-label">
-                       <label for="m-global-search_query"
-                              class="input-contains-label__before
-                                     input-contains-label__before--search">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
-                            <span class="u-visually-hidden">Search</span>
-                       </label>
-                       <input id="m-global-search_query"
-                              name="query"
-                              type="search"
-                              title="Search the CFPB"
-                              class="a-text-input"
-                              value=""
-                              placeholder="Search the CFPB">
-                   </div>
-               </div>
-               <div class="o-form--input-w-btn__btn-container">
-                   <button class="a-btn">Search</button>
-               </div>
-            </div>
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label"
+               aria-label="Search for your question">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="query"
+               value=""
+               class="a-text-input a-text-input__full"
+               placeholder="Search the CFPB"
+               title="Search the CFPB"
+               autocomplete="off"
+               maxlength="75"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Clear search"
+                title="Clear search">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Search the CFPB">
+        Search
+    </button>
+</div>
         </form>
     </div>
 </div>
@@ -1444,7 +1452,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">3987 filtered results</div>
+          <div class="m-notification__message">3990 filtered results</div>
       </div>
   </div>
         </div>
@@ -1463,6 +1471,57 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.11 1.11 0 0 1-1.108-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg><span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/cfpb-distribuira-384-millones-a-consumidores/">
+                        <span class="h4 u-mb0">CFPB distribuirá $384 millones a consumidores | CFPB</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time datetime="2024-05-14T00:00:00">MAY 14, 2024</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.11 1.11 0 0 1-1.108-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg><span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/the-cfpb-will-distribute-more-than-384-million-to-consumers-deceived-by-think-finance-llc/">
+                        <span class="h4 u-mb0">The CFPB will distribute more than $384 million to consumers deceived by Think Finance, LLC</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time datetime="2024-05-14T00:00:00">MAY 14, 2024</time>
+</span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg><span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-distributes-384m-to-191k-victims-of-think-finances-illegal-lending-practices/">
+                        <span class="h4 u-mb0">CFPB Distributes $384 Million to 191,000 Victims of Think Finance’s Illegal Lending Practices</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time datetime="2024-05-14T00:00:00">MAY 14, 2024</time>
+</span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -3110,57 +3169,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time datetime="2024-01-16T00:00:00">JAN 16, 2024</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.11 1.11 0 0 1-1.108-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg><span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/beware-of-new-cfpb-imposter-scams/">
-                        <span class="h4 u-mb0">Beware of new CFPB imposter scams</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time datetime="2024-01-16T00:00:00">JAN 16, 2024</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg><span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-enfrenta-reportes-de-antecedentes-inexactos-y-malas-practicas-en-entrega-de-archivos/">
-                        <span class="h4 u-mb0">La CFPB Enfrenta la Emisión de Reportes de Antecedentes Inexactos e Inapropiadas Prácticas de Entrega de Archivos Crediticios</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time datetime="2024-01-11T00:00:00">JAN 11, 2024</time>
-</span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg><span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-addresses-inaccurate-background-check-reports-and-sloppy-credit-file-sharing-practices/">
-                        <span class="h4 u-mb0">CFPB Addresses Inaccurate Background Check Reports and Sloppy Credit File Sharing Practices</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time datetime="2024-01-11T00:00:00">JAN 11, 2024</time>
 </span>
                 </td>
             </tr>

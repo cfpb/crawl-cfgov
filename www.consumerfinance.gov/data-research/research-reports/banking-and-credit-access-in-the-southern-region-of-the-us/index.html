@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.9316a8483c71.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.d75137dbd36a.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -166,28 +166,36 @@
                    id="affiliate"
                    name="affiliate"
                    value="cfpb">
-            <div class="o-form--input-w-btn">
-               <div class="o-form--input-w-btn__input-container m-form-field">
-                   <div class="a-text-input--full input-contains-label">
-                       <label for="m-global-search_query"
-                              class="input-contains-label__before
-                                     input-contains-label__before--search">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
-                            <span class="u-visually-hidden">Search</span>
-                       </label>
-                       <input id="m-global-search_query"
-                              name="query"
-                              type="search"
-                              title="Search the CFPB"
-                              class="a-text-input"
-                              value=""
-                              placeholder="Search the CFPB">
-                   </div>
-               </div>
-               <div class="o-form--input-w-btn__btn-container">
-                   <button class="a-btn">Search</button>
-               </div>
-            </div>
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label"
+               aria-label="Search for your question">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="query"
+               value=""
+               class="a-text-input a-text-input__full"
+               placeholder="Search the CFPB"
+               title="Search the CFPB"
+               autocomplete="off"
+               maxlength="75"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Clear search"
+                title="Clear search">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Search the CFPB">
+        Search
+    </button>
+</div>
         </form>
     </div>
 </div>
@@ -1168,6 +1176,15 @@
         </div>
 </div>
    <div class="block block--flush-top">
+  <div class="m-notification m-notification--visible">
+      <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--information-round" viewBox="0 0 17 19"><path d="M16.417 9.583A7.917 7.917 0 1 1 8.5 1.666a7.917 7.917 0 0 1 7.917 7.917M9.64 5.78a1.136 1.136 0 1 0-1.136 1.135A1.136 1.136 0 0 0 9.64 5.781zm-.344 2.884a.792.792 0 1 0-1.583 0v5.203a.792.792 0 0 0 1.583 0z"/></svg>
+      <div class="m-notification__content"
+          >
+          <div class="m-notification__message">This report was updated on May 10, 2024 to include accessibility improvements.</div>
+      </div>
+  </div>
+   </div>
+   <div class="block">
 <div class="o-full-width-text-group">
             <div class="m-full-width-text">
                 <p data-block-key="00il6">This Data Spotlight analyzes banking and credit access in the southern region of the U.S. It seeks to identify gaps, as well as opportunities to increase financial access in the region, particularly branch presence and bank account access, and capital access such as mortgage lending and small business lending. The analysis looks at trends in the region as a whole, and differences between rural and non-rural areas. The states covered in this report are: Alabama, Arkansas, Georgia, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee. For a review of consumers financial profiles in the region’s rural areas compared to elsewhere, see the CFPB’s publication, <a href="/data-research/research-reports/consumer-finances-in-rural-areas-of-the-southern-region/">Consumer Finances in the Rural Areas of the Southern Region.</a></p><p data-block-key="7vj2r"><a class="a-link a-link--icon" href="https://files.consumerfinance.gov/f/documents/cfpb_ocp-data-spotlight_banking-and-credit-access_2023-06.pdf"><span class="a-link__text">Read the full report</span> <svg class="cf-icon-svg cf-icon-svg--download" viewbox="0 0 12 19" xmlns="http://www.w3.org/2000/svg"><path d="M11.16 16.153a.477.477 0 0 1-.476.475H1.316a.476.476 0 0 1-.475-.475V3.046a.476.476 0 0 1 .475-.475h6.95l2.893 2.893zm-1.11-9.925H8.059a.575.575 0 0 1-.574-.573V3.679H1.95v11.84h8.102zm-1.234 5.604L6.388 14.26a.554.554 0 0 1-.784 0l-2.428-2.428a.554.554 0 1 1 .783-.784l1.483 1.482V7.41a.554.554 0 1 1 1.108 0v5.12l1.482-1.482a.554.554 0 0 1 .784.783z"></path></svg></a></p>
@@ -1212,13 +1229,13 @@
             </a>
     </li>
     <li class="m-list__item">
-            <a href="/data-research/research-reports/?topics=banking" class="m-list__link">
-                Banking
+            <a href="/data-research/research-reports/?topics=access-to-credit" class="m-list__link">
+                Access to credit
             </a>
     </li>
     <li class="m-list__item">
-            <a href="/data-research/research-reports/?topics=access-to-credit" class="m-list__link">
-                Access to credit
+            <a href="/data-research/research-reports/?topics=banking" class="m-list__link">
+                Banking
             </a>
     </li>
     <li class="m-list__item">
@@ -1376,7 +1393,7 @@
     </ul>
         </div>
     <a class="a-link a-link--jump"
-       href="/activity-log/?topics=fair-lending&amp;topics=banking&amp;topics=access-to-credit&amp;topics=mortgages"
+       href="/activity-log/?topics=fair-lending&amp;topics=access-to-credit&amp;topics=banking&amp;topics=mortgages"
        aria-label="View more related posts">
         <span class="a-link__text">
             View more

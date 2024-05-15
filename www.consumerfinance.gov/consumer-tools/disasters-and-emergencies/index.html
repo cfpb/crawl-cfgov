@@ -30,7 +30,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.9316a8483c71.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.d75137dbd36a.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -164,28 +164,36 @@
                    id="affiliate"
                    name="affiliate"
                    value="cfpb">
-            <div class="o-form--input-w-btn">
-               <div class="o-form--input-w-btn__input-container m-form-field">
-                   <div class="a-text-input--full input-contains-label">
-                       <label for="m-global-search_query"
-                              class="input-contains-label__before
-                                     input-contains-label__before--search">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
-                            <span class="u-visually-hidden">Search</span>
-                       </label>
-                       <input id="m-global-search_query"
-                              name="query"
-                              type="search"
-                              title="Search the CFPB"
-                              class="a-text-input"
-                              value=""
-                              placeholder="Search the CFPB">
-                   </div>
-               </div>
-               <div class="o-form--input-w-btn__btn-container">
-                   <button class="a-btn">Search</button>
-               </div>
-            </div>
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label"
+               aria-label="Search for your question">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="query"
+               value=""
+               class="a-text-input a-text-input__full"
+               placeholder="Search the CFPB"
+               title="Search the CFPB"
+               autocomplete="off"
+               maxlength="75"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Clear search"
+                title="Clear search">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Search the CFPB">
+        Search
+    </button>
+</div>
         </form>
     </div>
 </div>

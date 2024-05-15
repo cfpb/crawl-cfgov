@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.9316a8483c71.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.d75137dbd36a.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -166,28 +166,36 @@
                    id="affiliate"
                    name="affiliate"
                    value="cfpb_es">
-            <div class="o-form--input-w-btn">
-               <div class="o-form--input-w-btn__input-container m-form-field">
-                   <div class="a-text-input--full input-contains-label">
-                       <label for="m-global-search_query"
-                              class="input-contains-label__before
-                                     input-contains-label__before--search">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
-                            <span class="u-visually-hidden">Buscar</span>
-                       </label>
-                       <input id="m-global-search_query"
-                              name="query"
-                              type="search"
-                              title="Buscar la CFPB"
-                              class="a-text-input"
-                              value=""
-                              placeholder="Buscar la CFPB">
-                   </div>
-               </div>
-               <div class="o-form--input-w-btn__btn-container">
-                   <button class="a-btn">Buscar</button>
-               </div>
-            </div>
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label"
+               aria-label="Busque su pregunta">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="query"
+               value=""
+               class="a-text-input a-text-input__full"
+               placeholder="Buscar la CFPB"
+               title="Buscar la CFPB"
+               autocomplete="off"
+               maxlength="75"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Borrar búsqueda"
+                title="Borrar búsqueda">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Buscar la CFPB">
+        Buscar
+    </button>
+</div>
         </form>
     </div>
 </div>
@@ -393,7 +401,7 @@
    <div class="block block--flush-top">
 <div class="o-info-unit-group" id=&#34;herramientas-educativas-que-puede-usar&#34; >
 <h2 id="herramientas-educativas-que-puede-usar">Herramientas educativas que puede usar</h2>
-    <h3 data-block-key="5zk4g" id="">Encuentre respuestas a sus preguntas<br/></h3><p data-block-key="rym23">Encuentre respuestas a las más comunes preguntas sobre finanzas, buscando por temas. Sepa lo básico, entienda las palabras claves y aprenda formas de tomar acciones cuando tenga algún problema.</p><p data-block-key="e8jzq">Encuentre respuestas a cientos de preguntas sobre finanzas. <a href="/es/obtener-respuestas/">Obtenga respuestas</a></p>
+    <h3 id="" data-block-key="l4vgg">Encuentre respuestas a sus preguntas<br/></h3><p data-block-key="rym23">Encuentre respuestas a las más comunes preguntas sobre finanzas, buscando por temas. Sepa lo básico, entienda las palabras claves y aprenda formas de tomar acciones cuando tenga algún problema.</p><p data-block-key="e8jzq">Encuentre respuestas a cientos de preguntas sobre finanzas. <a href="/es/obtener-respuestas/">Obtenga respuestas</a></p>
     <div class="content-l">
         <div class="content-l__col content-l__col-1-3">
 <div class="m-info-unit">
@@ -494,7 +502,7 @@
    </div>
    <div class="block">
 <div class="o-info-unit-group" >
-    <h3 data-block-key="y3vyl" id="">Guías para tomar decisiones financieras</h3><p data-block-key="8ult7">Nuestras guías le ayudan a entender y a lograr sus metas financieras<br/></p>
+    <h3 id="" data-block-key="3h17a">Guías para tomar decisiones financieras</h3><p data-block-key="8ult7">Nuestras guías le ayudan a entender y a lograr sus metas financieras<br/></p>
     <div class="content-l">
         <div class="content-l__col content-l__col-1-2">
 <div class="m-info-unit">
@@ -667,6 +675,52 @@
             LOS MÁS RECIENTE
         </h2>
     </header>
+        <div class="m-related-posts__list-container">
+                <h3 class="h4">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.11 1.11 0 0 1-1.108-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
+                    Blog
+                </h3>
+    <ul class="m-related-posts__list
+               m-list
+               m-list--unstyled">
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/credit-card-interest-rate-margins-at-all-time-high/">
+                        Credit card interest rate margins at all-time high
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-02-22T00:00:00">FEB 22, 2024</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/beware-of-new-cfpb-imposter-scams/">
+                        Beware of new CFPB imposter scams
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-01-16T00:00:00">JAN 16, 2024</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/tenga-cuidado-con-nuevas-estafas-de-impostor-de-la-cfpb/">
+                        Tenga cuidado con las nuevas estafas de impostores de funcionarios de la CFPB
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-01-16T00:00:00">JAN 16, 2024</time>
+</span>
+                </p>
+            </li>
+    </ul>
+        </div>
     <a class="a-link a-link--jump"
        href="/about-us/blog/?categories=info-for-consumers"
        aria-label="Ver más publicaciones relacionadas">

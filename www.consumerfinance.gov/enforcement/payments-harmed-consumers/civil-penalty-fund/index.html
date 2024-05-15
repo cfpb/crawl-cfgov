@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.9316a8483c71.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.d75137dbd36a.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -167,28 +167,36 @@
                    id="affiliate"
                    name="affiliate"
                    value="cfpb">
-            <div class="o-form--input-w-btn">
-               <div class="o-form--input-w-btn__input-container m-form-field">
-                   <div class="a-text-input--full input-contains-label">
-                       <label for="m-global-search_query"
-                              class="input-contains-label__before
-                                     input-contains-label__before--search">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
-                            <span class="u-visually-hidden">Search</span>
-                       </label>
-                       <input id="m-global-search_query"
-                              name="query"
-                              type="search"
-                              title="Search the CFPB"
-                              class="a-text-input"
-                              value=""
-                              placeholder="Search the CFPB">
-                   </div>
-               </div>
-               <div class="o-form--input-w-btn__btn-container">
-                   <button class="a-btn">Search</button>
-               </div>
-            </div>
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label"
+               aria-label="Search for your question">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="query"
+               value=""
+               class="a-text-input a-text-input__full"
+               placeholder="Search the CFPB"
+               title="Search the CFPB"
+               autocomplete="off"
+               maxlength="75"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Clear search"
+                title="Clear search">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Search the CFPB">
+        Search
+    </button>
+</div>
         </form>
     </div>
 </div>
@@ -1255,7 +1263,7 @@
         <div class="content-l__col content-l__col-1-2">
 <div class="m-info-unit">
     <div class="m-info-unit__content">
-        <h3 id="on-this-page:" data-block-key="pipts"><b>On this page:</b></h3><ul><li data-block-key="5i4up"><a href="#about-the-fund">About the fund</a></li><li data-block-key="6jd4q"><a href="#our-work">Our work</a></li><li data-block-key="2l0oa"><a href="#by-the-numbers">Civil Penalty Fund by the numbers</a></li><li data-block-key="8hvhs"><a href="#faq">Frequently asked questions</a></li></ul>
+        <h3 id="on-this-page:" data-block-key="t3m22"><b>On this page:</b></h3><ul><li data-block-key="5i4up"><a href="#about-the-fund">About the fund</a></li><li data-block-key="6jd4q"><a href="#our-work">Our work</a></li><li data-block-key="2l0oa"><a href="#by-the-numbers">Civil Penalty Fund by the numbers</a></li><li data-block-key="8hvhs"><a href="#faq">Frequently asked questions</a></li></ul>
     </div>
 </div>
         </div>
@@ -1264,7 +1272,7 @@
    </div>
    <div class="block">
 <div>
-        <p><h2 id="" data-block-key="6za20"><span id="about-the-fund">About the Fund</a></h2><p data-block-key="ckbnr">When the CFPB takes legal action against a person or company for breaking the law, they may be required to pay money into our Civil Penalty Fund, which is used to help compensate harmed victims who wouldn’t otherwise receive compensation from the defendant in the case.</p><p data-block-key="fvnen"><a href="/rules-policy/final-rules/consumer-financial-civil-penalty-fund-rule/">Learn more about the Civil Penalty Fund</a><br/><br/></p></p>
+        <p><h2 id="" data-block-key="amgiv"><span id="about-the-fund">About the Fund</a></h2><p data-block-key="ckbnr">When the CFPB takes legal action against a person or company for breaking the law, they may be required to pay money into our Civil Penalty Fund, which is used to help compensate harmed victims who wouldn’t otherwise receive compensation from the defendant in the case.</p><p data-block-key="fvnen"><a href="/rules-policy/final-rules/consumer-financial-civil-penalty-fund-rule/">Learn more about the Civil Penalty Fund</a><br/><br/></p></p>
     <div class="o-expandable-group
                 ">
 <div class="o-expandable
@@ -1333,7 +1341,7 @@
     </button>
     <div class="o-expandable__content"
           >
-                        <p data-block-key="emxc9">In accordance with the Civil Penalty Fund rule, the Bureau allocated the following amounts to the eligible classes of victims in the following cases and to consumer education and financial literacy programs:</p><h5 id="" data-block-key="bpz3p">November 29, 2023</h5><p data-block-key="ag5cs">Driver Loan $2,863,648</p><p data-block-key="5pqmm">Tempoe LLC $192,259,616</p><p data-block-key="dc8so">Lexington Law - Class A $1,725,937,273</p><p data-block-key="6b9p5">Lexington Law - Class B $19,000,000</p><h5 id="" data-block-key="ytry4">May 30, 2023</h5><p data-block-key="23vog">All American Check Cashing $8,231,553</p><p data-block-key="330d8">RD Legal Funding, LLC $1,403,496</p><h5 id="" data-block-key="jrxib">November 29, 2022</h5><p data-block-key="24to2">BounceBack, Inc., et al. $1,481,773</p><p data-block-key="csccq">Frank Ronald Gebase, Jr. $240,995</p><p data-block-key="bq92i">Performance SLC, LLC, et al. $10,950,818</p><p data-block-key="581a2">Hello Digit, LLC $38,220</p><p data-block-key="5q3up">Think Finance, LLC, et al. $384,010,544</p><p data-block-key="ci487">Future Income Payments LLC, et al. $11,086,434</p><h5 id="" data-block-key="wmomu">May 27, 2022</h5><p data-block-key="5vn7">Access Funding, et al. $28,409,957</p><p data-block-key="49dhu">LendUp Loans $39,833,927</p><p data-block-key="6els8">BrightSpeed Solutions, Inc $54,000,000</p><h5 id="" data-block-key="xq7zu">Nov. 29, 2021</h5><p data-block-key="9bueq">College Financial Advisory $4,738,028</p><p data-block-key="32cka">Yorba Capital Management, LLC, et al. $860,000</p><p data-block-key="cm1pc">Burlington Financial Group, LLC, et al. $30,406,599</p><p data-block-key="6c5f5">Chou Team Realty, et al. $18,833,119</p><h5 id="" data-block-key="opble">May 30, 2021</h5><p data-block-key="bnphp">SMART Payment Plan, LLC $6,000,000.00</p><p data-block-key="4o5bc">Katharine Snyder, et al $3,864,000.00</p><p data-block-key="b8giu">U.S. Equity Advantage $8,400,000.00</p><p data-block-key="cd0is">Nationstar Mortgage LLC $1,210.57</p><p data-block-key="6087o">Omni Financial of Nevada, Inc. $79,437,226.51</p><h5 id="" data-block-key="6j92u">Nov. 27, 2020</h5><p data-block-key="eeck5">Main Street Personal Finance, Inc.  $1,540,517</p><p data-block-key="7onho">Certified Forensic Loan Auditors, LLC; et al.  $3,000,000</p><p data-block-key="bniq4">Timemark Solutions, Inc., et al.  $3,762,360</p><p data-block-key="ct7ha">GST Factoring, Inc., et al.  $11,718,432</p><p data-block-key="4pcf2">Premier Student Loan Center, et al. $89,366,096</p><h5 id="" data-block-key="r8b3a">May 30, 2020</h5><p data-block-key="3pp6s">Edmiston Marketing, LLC, d/b/a Easy Military Travel  $3,468,224</p><p data-block-key="b7q7k">Universal Debt &amp; Payment Solutions, LLC, et al. (Bagga)  $4,627,774</p><h5 id="" data-block-key="kp9c5">Nov. 29, 2019</h5><p data-block-key="el2pk">Universal Debt &amp; Payment Solutions, LLC; et al.  $558,674 </p><p data-block-key="dtbup">Andrew Gamber, Voyager Financial Group, LLC, BAIC, Inc., and SoBell Corp.  $2,700,000</p><h5 id="" data-block-key="h2fus">May 30, 2019</h5><p data-block-key="8ro41">Mark Corbett  $9,027,895</p><p data-block-key="car3f">Howard Law  $35,206,275</p><h5 id="" data-block-key="fan61">Nov. 29, 2018</h5><p data-block-key="ente5">Federal Debt Assistance Association, LLC, et al.  $4,972,389</p><p data-block-key="6ibb9">Triton Management GRoup, Inc.  $1,022,298</p><p data-block-key="97u10">Richard F. Moseley, Sr., et al. ("Hydra Group")  $69,623,528</p><h5 id="" data-block-key="1hdzz">May 18, 2018</h5><p data-block-key="1r7gm">Commercial Credit Consultants, et al.  $9,149,286</p><p data-block-key="ahv2s">Prime Marketing Holdings, LLC  $6,149,407</p><h5 id="" data-block-key="09zya">Nov. 29, 2017</h5><p data-block-key="3dns9">The Mortgage Law Group, LLP $18,331,737</p><p data-block-key="ad296">Commercial Credit Consultants, et al. $21,500,716</p><p data-block-key="d79es">Prime Marketing Holdings, LLC $14,451,033May 30, 2017</p><p data-block-key="aikmk">Orion Processing, LLC, d/b/a World Law Processing, et al. $98,408,416</p><p data-block-key="arm6b">Siringoringo et al. $20,825,000</p><p data-block-key="mscu">Global Client Solutions $8,188,668</p><h5 id="" data-block-key="p9o3z">Nov. 29, 2016</h5><p data-block-key="tbrc">Morgan Drexen, Inc. and Walter Ledda  $33,993,373</p><h5 id="" data-block-key="llcmh">May 27, 2016</h5><p data-block-key="27g8q">Morgan Drexen, Inc. and Walter Ledda  $98,889,115</p><p data-block-key="1cj5">Irvine Web Works, Inc. d/b/a Student Loan Processing  $7,923,548</p><p data-block-key="1sm50">Student Aid Institute, Steven Lamont  $3,508,900</p><h5 id="" data-block-key="mgr3l">Nov. 27, 2015</h5><p data-block-key="9qheh">Hoffman Law Group f/k/a Residential Litigation $11,074,842 </p><p data-block-key="4stj3">Student Financial Aid Services, Inc.  $9,300,000 </p><p data-block-key="2ubfn">Consumer Education and Financial Literacy Programs  $15,432,809</p><h5 id="" data-block-key="0tzg3">May 29, 2015</h5><p data-block-key="851v4">College Education Services LLC  $3,459,336 </p><p data-block-key="9bq13">Union Workers Credit Services, Inc.  $18,908,744 </p><p data-block-key="1b2l4">National Corrective Group, Inc.  $23,262,067 </p><p data-block-key="6u1ih">Culver Capital, LLC  $421,481</p><h5 id="" data-block-key="medr1">Nov. 28, 2014</h5><p data-block-key="k2c5">Culver Capital, LLC  $3,400,434 </p><p data-block-key="416mm">Amerisave Mortgage Corporation  $1,380,470 </p><p data-block-key="9kv43">Global Client Solutions, LLC  $107,995,400</p><h5 id="" data-block-key="slj42">May 30, 2014</h5><p data-block-key="cd7u3">Meracord LLC  $11,542,229 </p><p data-block-key="14em4">3-D Resorts–Bluegrass, LLC.  $6,704,100</p><h5 id="" data-block-key="8cyf7">Nov. 29, 2013</h5><p data-block-key="fopc9">American Debt Settlement Solutions, Inc.  $499,248 </p><p data-block-key="e7126">National Legal Help Center, Inc.  $2,057,983</p><h5 id="" data-block-key="x62pi">May 30, 2013 </h5><p data-block-key="bu0f0">Payday Loan Debt Solution, Inc.  $488,815 </p><p data-block-key="1086t">Gordon, et al.  $10,000,000 </p><p data-block-key="9oid">Consumer Education and Financial Literacy Programs  $13,380,000</p>
+                        <p data-block-key="emxc9">In accordance with the Civil Penalty Fund rule, the Bureau allocated the following amounts to the eligible classes of victims in the following cases and to consumer education and financial literacy programs:</p><h5 id="" data-block-key="5lpaw">November 29, 2023</h5><p data-block-key="ag5cs">Driver Loan $2,863,648</p><p data-block-key="5pqmm">Tempoe LLC $192,259,616</p><p data-block-key="dc8so">Lexington Law - Class A $1,725,937,273</p><p data-block-key="6b9p5">Lexington Law - Class B $19,000,000</p><h5 id="" data-block-key="yw9v3">May 30, 2023</h5><p data-block-key="23vog">All American Check Cashing $8,231,553</p><p data-block-key="330d8">RD Legal Funding, LLC $1,403,496</p><h5 id="" data-block-key="wgpkv">November 29, 2022</h5><p data-block-key="24to2">BounceBack, Inc., et al. $1,481,773</p><p data-block-key="csccq">Frank Ronald Gebase, Jr. $240,995</p><p data-block-key="bq92i">Performance SLC, LLC, et al. $10,950,818</p><p data-block-key="581a2">Hello Digit, LLC $38,220</p><p data-block-key="5q3up">Think Finance, LLC, et al. $384,010,544</p><p data-block-key="ci487">Future Income Payments LLC, et al. $11,086,434</p><h5 id="" data-block-key="kwpes">May 27, 2022</h5><p data-block-key="5vn7">Access Funding, et al. $28,409,957</p><p data-block-key="49dhu">LendUp Loans $39,833,927</p><p data-block-key="6els8">BrightSpeed Solutions, Inc $54,000,000</p><h5 id="" data-block-key="lg006">Nov. 29, 2021</h5><p data-block-key="9bueq">College Financial Advisory $4,738,028</p><p data-block-key="32cka">Yorba Capital Management, LLC, et al. $860,000</p><p data-block-key="cm1pc">Burlington Financial Group, LLC, et al. $30,406,599</p><p data-block-key="6c5f5">Chou Team Realty, et al. $18,833,119</p><h5 id="" data-block-key="the8h">May 30, 2021</h5><p data-block-key="bnphp">SMART Payment Plan, LLC $6,000,000.00</p><p data-block-key="4o5bc">Katharine Snyder, et al $3,864,000.00</p><p data-block-key="b8giu">U.S. Equity Advantage $8,400,000.00</p><p data-block-key="cd0is">Nationstar Mortgage LLC $1,210.57</p><p data-block-key="6087o">Omni Financial of Nevada, Inc. $79,437,226.51</p><h5 id="" data-block-key="p3zi6">Nov. 27, 2020</h5><p data-block-key="eeck5">Main Street Personal Finance, Inc.  $1,540,517</p><p data-block-key="7onho">Certified Forensic Loan Auditors, LLC; et al.  $3,000,000</p><p data-block-key="bniq4">Timemark Solutions, Inc., et al.  $3,762,360</p><p data-block-key="ct7ha">GST Factoring, Inc., et al.  $11,718,432</p><p data-block-key="4pcf2">Premier Student Loan Center, et al. $89,366,096</p><h5 id="" data-block-key="p8pq4">May 30, 2020</h5><p data-block-key="3pp6s">Edmiston Marketing, LLC, d/b/a Easy Military Travel  $3,468,224</p><p data-block-key="b7q7k">Universal Debt &amp; Payment Solutions, LLC, et al. (Bagga)  $4,627,774</p><h5 id="" data-block-key="9hapf">Nov. 29, 2019</h5><p data-block-key="el2pk">Universal Debt &amp; Payment Solutions, LLC; et al.  $558,674 </p><p data-block-key="dtbup">Andrew Gamber, Voyager Financial Group, LLC, BAIC, Inc., and SoBell Corp.  $2,700,000</p><h5 id="" data-block-key="hi0hh">May 30, 2019</h5><p data-block-key="8ro41">Mark Corbett  $9,027,895</p><p data-block-key="car3f">Howard Law  $35,206,275</p><h5 id="" data-block-key="y357d">Nov. 29, 2018</h5><p data-block-key="ente5">Federal Debt Assistance Association, LLC, et al.  $4,972,389</p><p data-block-key="6ibb9">Triton Management GRoup, Inc.  $1,022,298</p><p data-block-key="97u10">Richard F. Moseley, Sr., et al. ("Hydra Group")  $69,623,528</p><h5 id="" data-block-key="p5jjz">May 18, 2018</h5><p data-block-key="1r7gm">Commercial Credit Consultants, et al.  $9,149,286</p><p data-block-key="ahv2s">Prime Marketing Holdings, LLC  $6,149,407</p><h5 id="" data-block-key="whk4a">Nov. 29, 2017</h5><p data-block-key="3dns9">The Mortgage Law Group, LLP $18,331,737</p><p data-block-key="ad296">Commercial Credit Consultants, et al. $21,500,716</p><p data-block-key="d79es">Prime Marketing Holdings, LLC $14,451,033May 30, 2017</p><p data-block-key="aikmk">Orion Processing, LLC, d/b/a World Law Processing, et al. $98,408,416</p><p data-block-key="arm6b">Siringoringo et al. $20,825,000</p><p data-block-key="mscu">Global Client Solutions $8,188,668</p><h5 id="" data-block-key="heb83">Nov. 29, 2016</h5><p data-block-key="tbrc">Morgan Drexen, Inc. and Walter Ledda  $33,993,373</p><h5 id="" data-block-key="ibeyd">May 27, 2016</h5><p data-block-key="27g8q">Morgan Drexen, Inc. and Walter Ledda  $98,889,115</p><p data-block-key="1cj5">Irvine Web Works, Inc. d/b/a Student Loan Processing  $7,923,548</p><p data-block-key="1sm50">Student Aid Institute, Steven Lamont  $3,508,900</p><h5 id="" data-block-key="87ys2">Nov. 27, 2015</h5><p data-block-key="9qheh">Hoffman Law Group f/k/a Residential Litigation $11,074,842 </p><p data-block-key="4stj3">Student Financial Aid Services, Inc.  $9,300,000 </p><p data-block-key="2ubfn">Consumer Education and Financial Literacy Programs  $15,432,809</p><h5 id="" data-block-key="4cgil">May 29, 2015</h5><p data-block-key="851v4">College Education Services LLC  $3,459,336 </p><p data-block-key="9bq13">Union Workers Credit Services, Inc.  $18,908,744 </p><p data-block-key="1b2l4">National Corrective Group, Inc.  $23,262,067 </p><p data-block-key="6u1ih">Culver Capital, LLC  $421,481</p><h5 id="" data-block-key="gi5hr">Nov. 28, 2014</h5><p data-block-key="k2c5">Culver Capital, LLC  $3,400,434 </p><p data-block-key="416mm">Amerisave Mortgage Corporation  $1,380,470 </p><p data-block-key="9kv43">Global Client Solutions, LLC  $107,995,400</p><h5 id="" data-block-key="m76di">May 30, 2014</h5><p data-block-key="cd7u3">Meracord LLC  $11,542,229 </p><p data-block-key="14em4">3-D Resorts–Bluegrass, LLC.  $6,704,100</p><h5 id="" data-block-key="yyusv">Nov. 29, 2013</h5><p data-block-key="fopc9">American Debt Settlement Solutions, Inc.  $499,248 </p><p data-block-key="e7126">National Legal Help Center, Inc.  $2,057,983</p><h5 id="" data-block-key="fc4ja">May 30, 2013 </h5><p data-block-key="bu0f0">Payday Loan Debt Solution, Inc.  $488,815 </p><p data-block-key="1086t">Gordon, et al.  $10,000,000 </p><p data-block-key="9oid">Consumer Education and Financial Literacy Programs  $13,380,000</p>
     </div>
 </div>
     </div>
@@ -1341,7 +1349,7 @@
    </div>
    <div class="block">
 <div class="o-info-unit-group" >
-    <h2 data-block-key="61qxk"><span id="our-work">Our work</a></h2>
+    <h2 id="" data-block-key="7odrc"><span id="our-work">Our work</a></h2>
     <div class="content-l">
         <div class="content-l__col content-l__col-1-2">
 <div class="m-info-unit">
@@ -1414,12 +1422,12 @@
    </div>
    <div class="block block--padded-top block--border-top">
 <div class="o-info-unit-group" >
-    <h2 data-block-key="s4tkq"><span id="by-the-numbers">Civil Penalty Fund by the numbers (since 2010)</a></h2><p data-block-key="655lu">Last updated 9/30/23</p>
+    <h2 id="civil-penalty-fund-by-the-numbers-(since-2010)" data-block-key="j8nwl"><span id="by-the-numbers">Civil Penalty Fund by the numbers (since 2010)</a></h2><p data-block-key="655lu">Last updated 5/14/24</p>
     <div class="content-l">
         <div class="content-l__col content-l__col-1-3">
 <div class="m-info-unit">
         <div class="m-info-unit__heading-text">
-<h3 id="783-million-in-civil-penalty-fund-payments-to-eligible-consumers">$783 million in Civil Penalty Fund payments to eligible consumers</h3>
+<h3 id="12-billion-in-civil-penalty-fund-payments-to-eligible-consumers">$1.2 billion in Civil Penalty Fund payments to eligible consumers</h3>
         </div><div class="m-info-unit__content">
     </div>
 </div>
@@ -1427,7 +1435,7 @@
         <div class="content-l__col content-l__col-1-3">
 <div class="m-info-unit">
         <div class="m-info-unit__heading-text">
-<h3 id="16-million-people-have-received-payments-from-the-civil-penalty-fund">1.6 million people have received payments from the Civil Penalty Fund</h3>
+<h3 id="19-million-people-have-received-payments-from-the-civil-penalty-fund">1.9 million people have received payments from the Civil Penalty Fund</h3>
         </div><div class="m-info-unit__content">
     </div>
 </div>
@@ -1435,7 +1443,7 @@
         <div class="content-l__col content-l__col-1-3">
 <div class="m-info-unit">
         <div class="m-info-unit__heading-text">
-<h3 id="34-billion-collected-into-the-civil-penalty-fund">$3.4 billion collected into the Civil Penalty Fund</h3>
+<h3 id="35-billion-collected-into-the-civil-penalty-fund">$3.5 billion collected into the Civil Penalty Fund</h3>
         </div><div class="m-info-unit__content">
     </div>
 </div>
@@ -1445,14 +1453,19 @@
    </div>
    <div class="block">
 <div class="o-full-width-text-group">
-            <div class="m-full-width-text">
-                <p data-block-key="qdcku"><a href="/about-us/blog/?title=&topics=civil-penalty-fund&from_date=&to_date=">Read more articles about Civil Penalty Fund cases at our Blog</a></p>
-            </div>
+<figure class="m-full-width-media m-full-width-media--bottom-rule">
+    <img class="m-full-width-media__image"
+         src="https://files.consumerfinance.gov/f/images/VCD_by-state_OVERALL_q7rlT3q.original.jpg"
+         alt="This graphic depicts a map of the United States. Each state includes the state abbreviation and the amount of money returned to consumers in that state from the CFPB’s victims relief fund since 2010.  Active-duty military living in America, not including Canada, received $24,770.22. Consumers from Alberta – AB received $636.98. Active-duty military living in Europe, Middle East, and Canada received $1,860,472.40. Consumers in Alaska received $2,348,832.48. Consumers in Alabama received	 $14,442,730.52.  Active-duty military living in the Pacific received $1,226,113.14. Consumers from Arkansas received $11,630,839.86. Consumers from American Samoa received $44,080.99. Consumers from Arizona received $54,113,336.80. Consumers from British Columbia - BC received $457.76.  Consumers from California received $101,493,048.28.  Consumers from Colorado received $14,850,623.97.  Consumers from Connecticut received $21,683,806.73.  Consumers from District of Columbia – DC received $2,178,673.47.  Consumers from Delaware - DE	received $4,087,157.95.  Consumers from Foreign Country – FC received $1,226.83.  Consumers from Florida – FL received $59,389,899.57.  Consumers from Micronesia – FM received $2,702.69.  Consumers from Georgia – GA received $38,219,355.49.  Consumers from Guam – GU received $123,159.86.  Consumers from Hawaii – HI received $5,187,977.76.  Consumers from Iowa – IA received $8,582,553.14.  Consumers from Idaho – ID received $3,616,852.45.  Consumers from Illinois – IL received $45,631,962.95.  Consumers from Indiana – IN received $62,693,088.79.  Consumers from Kansas – KS received $9,186,345.43.  Consumers from Kentucky – KY received	 $38,810,493.43.  Consumers from Louisiana – LA received $18,400,511.43.  Consumers from Massachusetts – MA received $28,447,885.83.  Consumers from Maryland - MD	 received $22,724,150.65.  Consumers from Maine – ME received $3,132,039.15.  Consumers from Marshall Islands – MH received $751.39.  Consumers from Michigan – MI received $22,789,025.06.  Consumers from Minnesota – MN received $17,434,983.56.  Consumers from Missouri - MO	received $15,805,927.05.  Consumers from Northern Mariana Islands - MP	received $16,830.35.  Consumers from Mississippi – MS received $11,767,756.74.  Consumers from Montana - MT	received $4,483,170.90.  Consumers from New Brunswick – NB received $137.98.  Consumers from North Carolina – NC received $69,364,286.25.  Consumers from North Dakota – ND received $1,744,872.34.  Consumers from Nebraska – NE received $3,798,249.97.  Consumers from New Hampshire – NH received	$3,307,736.03.  Consumers from New Jersey – NJ received $64,892,948.95.  Consumers from New Mexico – NM received $12,162,768.08.  Consumers from Nevada – NV received $8,332,275.17.  Consumers from New York - NY	received $73,603,238.35.  Consumers from Ohio – OH received $87,796,901.99.  Consumers from Oklahoma - OK	received $11,138,972.38.  Consumers from Ontario- ON received $4,939.17.  Consumers from Oregon – OR received $7,393,266.08.  Consumers from Pennsylvania – PA received $33,209,701.68.  Consumers from Prince Edward Island - PE received $2,171.00.  Consumers from Puerto Rico – PR received $835,557.80.  Consumers from Quebec - QC received $277.96.  Consumers from Rhode Island – RI received $3,373,305.77.  Consumers from South Carolina – SC received $22,099,137.46.  Consumers from South Dakota – SD received $3,895,965.45.  Consumers from Saskatchewan -SK received $59.78.  Consumers from Tennessee – TN received $23,989,672.48.  Consumers from Texas – TX received $85,841,834.39.  Consumers from Utah – UT received $5,164,652.75.  Consumers from Virginia – VA received $26,842,864.17.  Consumers from US Virgin Islands – VI received $98,472.60.  Consumers from Vermont – VT received	$1,179,299.58.  Consumers from Washington – WA received $16,325,377.74.  Consumers from Wisconsin - WI	received $8,325,138.41.  Consumers from West Virginia – WV received $2,554,188.59.  Consumers from Wyoming - WY	received $1,898,302.80.  In total, since 2010, 1,9008,598 consumers received $1,225,610,805.20.">
+    <figcaption class="m-full-width-media__caption">
+        <p data-block-key="0iefh"><a href="/about-us/blog/?title=&amp;topics=civil-penalty-fund&amp;from_date=&amp;to_date=">Read more articles about Civil Penalty Fund cases at our Blog</a></p><p data-block-key="2cdl5"></p>
+    </figcaption>
+</figure>
 </div>
    </div>
    <div class="block">
 <div>
-        <p><h2 id="" data-block-key="8p4fq"><span id="faq">Frequently asked questions about the Civil Penalty Fund</a></h2></p>
+        <p><h2 id="" data-block-key="n3ivv"><span id="faq">Frequently asked questions about the Civil Penalty Fund</a></h2></p>
     <div class="o-expandable-group
                 ">
 <div class="o-expandable

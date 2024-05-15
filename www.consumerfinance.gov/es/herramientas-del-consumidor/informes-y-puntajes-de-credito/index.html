@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.9316a8483c71.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.d75137dbd36a.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -166,28 +166,36 @@
                    id="affiliate"
                    name="affiliate"
                    value="cfpb_es">
-            <div class="o-form--input-w-btn">
-               <div class="o-form--input-w-btn__input-container m-form-field">
-                   <div class="a-text-input--full input-contains-label">
-                       <label for="m-global-search_query"
-                              class="input-contains-label__before
-                                     input-contains-label__before--search">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
-                            <span class="u-visually-hidden">Buscar</span>
-                       </label>
-                       <input id="m-global-search_query"
-                              name="query"
-                              type="search"
-                              title="Buscar la CFPB"
-                              class="a-text-input"
-                              value=""
-                              placeholder="Buscar la CFPB">
-                   </div>
-               </div>
-               <div class="o-form--input-w-btn__btn-container">
-                   <button class="a-btn">Buscar</button>
-               </div>
-            </div>
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label"
+               aria-label="Busque su pregunta">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="query"
+               value=""
+               class="a-text-input a-text-input__full"
+               placeholder="Buscar la CFPB"
+               title="Buscar la CFPB"
+               autocomplete="off"
+               maxlength="75"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Borrar búsqueda"
+                title="Borrar búsqueda">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Buscar la CFPB">
+        Buscar
+    </button>
+</div>
         </form>
     </div>
 </div>
@@ -397,17 +405,17 @@
     <div class="content-l">
         <div class="content-l__col content-l__col-1">
 <div class="m-info-unit m-info-unit__inline">
-        <a class="m-info-unit__heading-link" href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/">
+        <a class="m-info-unit__heading-link" href="/es/herramientas-del-consumidor/informes-y-puntajes-de-credito/lista-de-companias-de-informes-del-consumidor/">
 <img alt="" class="m-info-unit__image m-info-unit__image--square" src="https://files.consumerfinance.gov/f/images/cfpb_consumer_report_Evj4A3S.original.png"/>
 <div class="m-info-unit__heading-text">
-<h3 id="conozca-sus-datos">Conozca sus datos</h3>
+<h2 id="conozca-sus-datos">Conozca sus datos</h2>
 </div>
 </a><div class="m-info-unit__content">
         <p data-block-key="fywbm">Hay otras compañías que también recogen su información. Tiene derecho a esos informes. Esta lista de esas compañías tiene datos que le ayudan a tomar acción.</p>
             <ul class="m-list m-list--links u-mt15">
                 <li class="m-list__item"><a class="m-list__link"
-                            href="/consumer-tools/credit-reports-and-scores/consumer-reporting-companies/">
-                            Sepa más (en inglés)
+                            href="/es/herramientas-del-consumidor/informes-y-puntajes-de-credito/lista-de-companias-de-informes-del-consumidor/">
+                            Sepa más
                         </a>
                 </li>
             </ul>
@@ -428,7 +436,7 @@
 <h3 id="lo-basico">Lo básico</h3>
 </div>
 </a><div class="m-info-unit__content">
-        <h4 data-block-key="91aiv" id=""><a href="/es/obtener-respuestas/como-puedo-obtener-una-copia-de-mi-informe-de-credito-es-5/">Sepa cómo obtener sus informes de crédito</a></h4><p data-block-key="6ghbk">Usted debería revisar sus informes de crédito al menos una vez al año, para que se asegure de que estos no tengan errores que puedan impedirle obtener crédito o mejores condiciones en algún préstamo. <a href="/es/obtener-respuestas/como-puedo-obtener-una-copia-de-mi-informe-de-credito-es-5/">Lea más</a></p><h4 data-block-key="rk8ag" id=""><a href="/es/obtener-respuestas/a-que-debo-prestar-atencion-en-mi-informe-de-credito-cuales-son-algunos-de-los-errores-comunes-en-los-informes-de-credito-es-313/">Lo que debe buscar cuando revise sus informes de crédito</a></h4><p data-block-key="95443">Una vez que haya solicitado sus informes de crédito, es importante que sepa cuál tipo de información buscar cuando los revise. <a href="/es/obtener-respuestas/a-que-debo-prestar-atencion-en-mi-informe-de-credito-cuales-son-algunos-de-los-errores-comunes-en-los-informes-de-credito-es-313/">Lea más</a></p><p data-block-key="t9tpe"></p><p data-block-key="h0b5i"></p><h4 data-block-key="lrqti" id=""><a href="/es/obtener-respuestas/cual-es-la-diferencia-entre-informes-de-credito-y-puntajes-de-credito-es-2069/">Conozca mejor las diferencias entre los puntajes y los informes de crédito</a></h4><p data-block-key="l4v0f"></p><p data-block-key="8fms6">Sus puntajes e informes de crédito son vitales para su bienestar financiero, pero juegan roles muy diferentes. <a href="/es/obtener-respuestas/cual-es-la-diferencia-entre-informes-de-credito-y-puntajes-de-credito-es-2069/">Lea más</a></p><p data-block-key="6v9ge"></p>
+        <h4 id="" data-block-key="94pnb"><a href="/es/obtener-respuestas/como-puedo-obtener-una-copia-de-mi-informe-de-credito-es-5/">Sepa cómo obtener sus informes de crédito</a></h4><p data-block-key="6ghbk">Usted debería revisar sus informes de crédito al menos una vez al año, para que se asegure de que estos no tengan errores que puedan impedirle obtener crédito o mejores condiciones en algún préstamo. <a href="/es/obtener-respuestas/como-puedo-obtener-una-copia-de-mi-informe-de-credito-es-5/">Lea más</a></p><h4 id="" data-block-key="ihakn"><a href="/es/obtener-respuestas/a-que-debo-prestar-atencion-en-mi-informe-de-credito-cuales-son-algunos-de-los-errores-comunes-en-los-informes-de-credito-es-313/">Lo que debe buscar cuando revise sus informes de crédito</a></h4><p data-block-key="95443">Una vez que haya solicitado sus informes de crédito, es importante que sepa cuál tipo de información buscar cuando los revise. <a href="/es/obtener-respuestas/a-que-debo-prestar-atencion-en-mi-informe-de-credito-cuales-son-algunos-de-los-errores-comunes-en-los-informes-de-credito-es-313/">Lea más</a></p><p data-block-key="t9tpe"></p><p data-block-key="h0b5i"></p><h4 id="" data-block-key="mzhqj"><a href="/es/obtener-respuestas/cual-es-la-diferencia-entre-informes-de-credito-y-puntajes-de-credito-es-2069/">Conozca mejor las diferencias entre los puntajes y los informes de crédito</a></h4><p data-block-key="l4v0f"></p><p data-block-key="8fms6">Sus puntajes e informes de crédito son vitales para su bienestar financiero, pero juegan roles muy diferentes. <a href="/es/obtener-respuestas/cual-es-la-diferencia-entre-informes-de-credito-y-puntajes-de-credito-es-2069/">Lea más</a></p><p data-block-key="6v9ge"></p>
             <ul class="m-list m-list--links u-mt15">
                 <li class="m-list__item"><a class="m-list__link"
                             href="./respuestas/lo-basico/">

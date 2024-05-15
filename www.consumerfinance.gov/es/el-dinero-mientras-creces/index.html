@@ -32,7 +32,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.9316a8483c71.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.d75137dbd36a.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -166,28 +166,36 @@
                    id="affiliate"
                    name="affiliate"
                    value="cfpb_es">
-            <div class="o-form--input-w-btn">
-               <div class="o-form--input-w-btn__input-container m-form-field">
-                   <div class="a-text-input--full input-contains-label">
-                       <label for="m-global-search_query"
-                              class="input-contains-label__before
-                                     input-contains-label__before--search">
-                            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
-                            <span class="u-visually-hidden">Buscar</span>
-                       </label>
-                       <input id="m-global-search_query"
-                              name="query"
-                              type="search"
-                              title="Buscar la CFPB"
-                              class="a-text-input"
-                              value=""
-                              placeholder="Buscar la CFPB">
-                   </div>
-               </div>
-               <div class="o-form--input-w-btn__btn-container">
-                   <button class="a-btn">Buscar</button>
-               </div>
-            </div>
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label"
+               aria-label="Busque su pregunta">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="query"
+               value=""
+               class="a-text-input a-text-input__full"
+               placeholder="Buscar la CFPB"
+               title="Buscar la CFPB"
+               autocomplete="off"
+               maxlength="75"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Borrar búsqueda"
+                title="Borrar búsqueda">
+            <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--error" viewBox="0 0 12 19"><path d="M11.383 13.644A1.03 1.03 0 0 1 9.928 15.1L6 11.172 2.072 15.1a1.03 1.03 0 1 1-1.455-1.456l3.928-3.928L.617 5.79a1.03 1.03 0 1 1 1.455-1.456L6 8.261l3.928-3.928a1.03 1.03 0 0 1 1.455 1.456L7.455 9.716z"/></svg>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Buscar la CFPB">
+        Buscar
+    </button>
+</div>
         </form>
     </div>
 </div>
@@ -519,7 +527,7 @@
    <div class="block">
 <div class="o-full-width-text-group">
             <div class="m-full-width-text">
-                <p data-block-key="cpvpl"></p><hr/><h2 data-block-key="l8yug" id="">Fuentes y agradecimientos</h2><p data-block-key="95n7a">El contenido y las actividades para padres y cuidadores se basan en El Dinero Mientras Creces y han sido adaptados con el correspondiente permiso. Estamos agradecidos a Beth Kobliner y a todos quienes hicieron posible El Dinero Mientras Creces.</p><p data-block-key="0ak8r">El Dinero Mientras Creces fue recomendado como una iniciativa del Consejo, presidido por John W. Rogers como presidente y Amy Rosen como vicepresidente. La iniciativa, desarrollada por Beth Kobliner, presidenta del grupo de trabajo del Consejo de El Dinero Mientras Creces, ofrece lecciones financieras esenciales que los niños necesitan saber a medida que crecen preparadas para cada grupo de edad, junto con actividades correspondientes. Escrito con un lenguaje sencillo pensado para los niños y sus familias, El Dinero Mientras Creces ayuda a preparar a los niños con el conocimiento necesario para una vida financiera saludable. Las lecciones de El Dinero Mientras Creces se basaron en más de un año de investigación y además fueron extraídas de docenas de, planes de estudio, normas, y estudios académicos.</p><p data-block-key="jr9fh">El CFPB investigó <a class="a-link a-link--icon" href="https://onlinelibrary.wiley.com/doi/full/10.1111/joca.12068"><span class="a-link__text">la manera en que los niños desarrollan las capacidades y atributos</span> <svg class="cf-icon-svg cf-icon-svg--external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.7 1.7 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.65 1.65 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a> que contribuyen a su <a href="/data-research/research-reports/financial-well-being/">bienestar financiero en la adultez</a> (en inglés). Investigaciones adicionales determinaron los objetivos para el desarrollo de la capacidad financiera y formas de medirla. Con el apoyo de la Corporación para el Desarrollo Empresarial y los investigadores de la Universidad de Wisconsin en Madison y de la Universidad de Maryland, del Condado de Baltimore, hemos desarrollado un entorno que conecta las actividades de El Dinero Mientras Creces con las etapas del desarrollo financiero de los niños. Con ese marco en mente, hemos actualizado y adaptado el contenido y las actividades de El Dinero Mientras Creces.</p>
+                <p data-block-key="cpvpl"></p><hr/><h2 id="" data-block-key="ve8wv">Fuentes y agradecimientos</h2><p data-block-key="95n7a">El contenido y las actividades para padres y cuidadores se basan en El Dinero Mientras Creces y han sido adaptados con el correspondiente permiso. Estamos agradecidos a Beth Kobliner y a todos quienes hicieron posible El Dinero Mientras Creces.</p><p data-block-key="0ak8r">El Dinero Mientras Creces fue recomendado como una iniciativa del Consejo, presidido por John W. Rogers como presidente y Amy Rosen como vicepresidente. La iniciativa, desarrollada por Beth Kobliner, presidenta del grupo de trabajo del Consejo de El Dinero Mientras Creces, ofrece lecciones financieras esenciales que los niños necesitan saber a medida que crecen preparadas para cada grupo de edad, junto con actividades correspondientes. Escrito con un lenguaje sencillo pensado para los niños y sus familias, El Dinero Mientras Creces ayuda a preparar a los niños con el conocimiento necesario para una vida financiera saludable. Las lecciones de El Dinero Mientras Creces se basaron en más de un año de investigación y además fueron extraídas de docenas de, planes de estudio, normas, y estudios académicos.</p><p data-block-key="jr9fh">El CFPB investigó <a class="a-link a-link--icon" href="https://onlinelibrary.wiley.com/doi/full/10.1111/joca.12068"><span class="a-link__text">la manera en que los niños desarrollan las capacidades y atributos</span> <svg class="cf-icon-svg cf-icon-svg--external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.7 1.7 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.65 1.65 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a> que contribuyen a su <a href="/data-research/research-reports/financial-well-being/">bienestar financiero en la adultez</a> (en inglés). Investigaciones adicionales determinaron los objetivos para el desarrollo de la capacidad financiera y formas de medirla. Con el apoyo de la Corporación para el Desarrollo Empresarial y los investigadores de la Universidad de Wisconsin en Madison y de la Universidad de Maryland, del Condado de Baltimore, hemos desarrollado un entorno que conecta las actividades de El Dinero Mientras Creces con las etapas del desarrollo financiero de los niños. Con ese marco en mente, hemos actualizado y adaptado el contenido y las actividades de El Dinero Mientras Creces.</p>
             </div>
 </div>
    </div>
@@ -547,8 +555,54 @@
             Publicaciones relacionadas con los niños y el dinero
         </h2>
     </header>
+        <div class="m-related-posts__list-container">
+                <h3 class="h4">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.11 1.11 0 0 1-1.108-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg>
+                    Blog
+                </h3>
+    <ul class="m-related-posts__list
+               m-list
+               m-list--unstyled">
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/listen-to-cfpb-new-podcast-episodes/">
+                        Listen to CFPB's new podcast episodes
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2020-12-15T00:00:00">DEC 15, 2020</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/back-to-school-resources-teachers-parents-financial-education-practitioners/">
+                        Back to school resources for teachers, parents and financial education practitioners
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2020-08-25T00:00:00">AUG 25, 2020</time>
+</span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/blog/kids-home-money-skills/">
+                        Build your kids’ money skills while they’re home from school
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2020-04-10T00:00:00">APR 10, 2020</time>
+</span>
+                </p>
+            </li>
+    </ul>
+        </div>
     <a class="a-link a-link--jump"
-       href="/activity-log/"
+       href="/activity-log/?topics=youth&amp;topics=parents"
        aria-label="Ver más publicaciones relacionadas">
         <span class="a-link__text">
             Ver más
