@@ -1474,13 +1474,37 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">1940 filtered results</div>
+          <div class="m-notification__message">1942 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        Press release
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2024-07-11T00:00:00">JUL 11, 2024</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/about-us/newsroom/ffiec-publishes-2023-data-on-mortgage-lending/">FFIEC Publishes 2023 Data on Mortgage Lending</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Federal Financial Institutions Examination Council (FFIEC) today published data on 2023 mortgage lending transactions reported under the Home Mortgage Disclosure Act (HMDA) by 5,113 U.S. financial institutions, including banks, savings associations, credit unions, and mortgage companies.
+        </div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
@@ -1502,6 +1526,52 @@
         </h3>
         <div class="o-post-preview__description">
             The CFPB proposed new rules to make it easier for homeowners to get help when they are struggling to pay their mortgage.
+        </div>
+<div class="m-tags">
+    <ul class="m-tags__list" aria-label="Topics">
+        <li class="m-tags__item">
+            <a href="?topics=foreclosure" class="m-tags__tag">
+                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
+                Foreclosure
+            </a>
+        </li>
+        <li class="m-tags__item">
+            <a href="?topics=mortgage-servicing" class="m-tags__tag">
+                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
+                Mortgage servicing
+            </a>
+        </li>
+        <li class="m-tags__item">
+            <a href="?topics=mortgages" class="m-tags__tag">
+                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
+                Mortgages
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="es">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
+        Press release
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2024-07-10T00:00:00">JUL 10, 2024</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/about-us/newsroom/cfpb-propone-normativa-para-evitar-ejecuciones-hipotecarias/">CFPB propone normativa para evitar ejecuciones hipotecarias | CFPB</a>
+        </h3>
+        <div class="o-post-preview__description">
+            La CFPB propone nueva normativa para facilitarles a los propietarios de viviendas recibir asistencia, cuando tengan dificultades para pagar sus hipotecas.
         </div>
 <div class="m-tags">
     <ul class="m-tags__list" aria-label="Topics">
@@ -2695,102 +2765,6 @@
             <a href="?topics=mortgages" class="m-tags__tag">
                 <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
                 Mortgages
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--microphone" viewBox="0 0 13 19"><path d="M11.665 7.915v1.31a5.26 5.26 0 0 1-1.514 3.694 5.2 5.2 0 0 1-1.641 1.126 5 5 0 0 1-1.456.384v1.899h2.312a.554.554 0 0 1 0 1.108H3.634a.554.554 0 0 1 0-1.108h2.312v-1.899a5 5 0 0 1-1.456-.384 5.2 5.2 0 0 1-1.641-1.126 5.26 5.26 0 0 1-1.514-3.695v-1.31a.554.554 0 1 1 1.109 0v1.31a4.13 4.13 0 0 0 1.195 2.917 3.99 3.99 0 0 0 5.722 0 4.13 4.13 0 0 0 1.195-2.917v-1.31a.554.554 0 1 1 1.109 0zM3.77 10.37a2.9 2.9 0 0 1-.233-1.146V4.738A2.9 2.9 0 0 1 3.77 3.58a3 3 0 0 1 1.59-1.59 2.9 2.9 0 0 1 1.158-.233 2.9 2.9 0 0 1 1.152.233 2.98 2.98 0 0 1 1.793 2.748l-.012 4.487a2.96 2.96 0 0 1-.856 2.09 3 3 0 0 1-.937.634 2.9 2.9 0 0 1-1.152.233 2.9 2.9 0 0 1-1.158-.233A2.96 2.96 0 0 1 3.77 10.37"/></svg>
-        Speech
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2024-05-30T00:00:00">MAY 30, 2024</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/about-us/newsroom/prepared-remarks-of-cfpb-director-rohit-chopra-at-a-white-house-event-convening-on-mortgage-closing-costs/">Prepared Remarks of CFPB Director Rohit Chopra at a White House Event Convening on Mortgage Closing Costs</a>
-        </h3>
-        <div class="o-post-preview__description">
-            CFPB Director Rohit Chopra delivered prepared remarks on the agency’s public inquiry into junk fees in mortgage closing costs.
-        </div>
-        <div class="o-post-preview__byline-group">
-                By 
-                Rohit Chopra</a>
-        </div>
-<div class="m-tags">
-    <ul class="m-tags__list" aria-label="Topics">
-        <li class="m-tags__item">
-            <a href="?topics=credit-reports-and-scores" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="m-tags__item">
-            <a href="?topics=financial-service-providers" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Financial service providers
-            </a>
-        </li>
-        <li class="m-tags__item">
-            <a href="?topics=mortgage-closing" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Mortgage closing
-            </a>
-        </li>
-        <li class="m-tags__item">
-            <a href="?topics=mortgage-origination" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Mortgage origination
-            </a>
-        </li>
-        <li class="m-tags__item">
-            <a href="?topics=mortgages" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Mortgages
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg>
-        Press release
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2024-05-25T00:00:00">MAY 25, 2024</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/about-us/newsroom/cfpb-director-rohit-chopras-uc-irvine-law-review-article-on-enforcing-the-post-financial-crisis-ban-on-abusive-conduct/">CFPB Director Rohit Chopra’s UC Irvine Law Review article on enforcing the post-financial crisis ban on abusive conduct.</a>
-        </h3>
-        <div class="o-post-preview__description">
-            CFPB Director Rohit Chopra published a UC Irvine Law Review article on enforcing the post-financial crisis ban on abusive conduct.
-        </div>
-<div class="m-tags">
-    <ul class="m-tags__list" aria-label="Topics">
-        <li class="m-tags__item">
-            <a href="?topics=deceptive-practices" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Deceptive practices
             </a>
         </li>
     </ul>
