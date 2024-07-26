@@ -1434,13 +1434,47 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">567 filtered results</div>
+          <div class="m-notification__message">568 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2023-02-03T00:00:00">FEB 03, 2023</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/2022-cfpb-annual-employee-survey-results/">2022 CFPB Annual Employee Survey Results</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Consumer Financial Protection Bureau (CFPB) administered its Annual Employee Survey (AES) from September 6 to October 7, 2022. Of the employee population, 68.9% responded to the survey. CFPB leaders use feedback from tools such as the AES to develop strategies to promote a more inclusive, effective, and efficient organization. Survey results are shared across the organization to encourage leaders to actively seek and respond to opportunities to improve the employee work experience.
+        </div>
+<div class="m-tags">
+    <ul class="m-tags__list" aria-label="Topics">
+        <li class="m-tags__item">
+            <a href="?topics=compliance" class="m-tags__tag">
+                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
+                Compliance
+            </a>
+        </li>
+        <li class="m-tags__item">
+            <a href="?topics=open-government" class="m-tags__tag">
+                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
+                Open government
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
@@ -2637,63 +2671,6 @@
             <a href="?topics=office-of-research-publication" class="m-tags__tag">
                 <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
                 Office of Research Publication
-            </a>
-        </li>
-        <li class="m-tags__item">
-            <a href="?topics=research" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Research
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-        Industry and markets
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2022-06-29T00:00:00">JUN 29, 2022</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/credit-card-line-decreases/">Credit Card Line Decreases</a>
-        </h3>
-        <div class="o-post-preview__description">
-            This consumer credit trends report explores credit card line decreases and changes in consumer credit characteristics.
-        </div>
-<div class="m-tags">
-    <ul class="m-tags__list" aria-label="Topics">
-        <li class="m-tags__item">
-            <a href="?topics=access-to-credit" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Access to credit
-            </a>
-        </li>
-        <li class="m-tags__item">
-            <a href="?topics=credit-cards" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Credit cards
-            </a>
-        </li>
-        <li class="m-tags__item">
-            <a href="?topics=credit-reports-and-scores" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Credit reports and scores
-            </a>
-        </li>
-        <li class="m-tags__item">
-            <a href="?topics=equal-credit-opportunity-act" class="m-tags__tag">
-                <span class="m-tags__bullet" aria-hidden="true">&bull;</span>
-                Equal Credit Opportunity Act
             </a>
         </li>
         <li class="m-tags__item">
