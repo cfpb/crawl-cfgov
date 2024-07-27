@@ -1414,13 +1414,31 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">359 filtered results</div>
+          <div class="m-notification__message">360 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Date filed:
+                <span class="datetime"><time datetime="2020-09-14T00:00:00">SEP 14, 2020</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/enforcement/actions/clearpath-lending-inc/">ClearPath Lending, Inc.</a>
+        </h3>
+        <div class="o-post-preview__description">
+            On September 14, 2020, the Consumer Financial Protection Bureau issued a consent order against ClearPath Lending, Inc. (ClearPath), a California corporation that is licensed as a mortgage broker or lender in about 22 states.
+        </div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item">
@@ -1853,24 +1871,6 @@
         </div>
         </div>
 </article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Date filed:
-                <span class="datetime"><time datetime="2020-01-09T00:00:00">JAN 09, 2020</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/enforcement/actions/monster-loans-lend-tech-loans-and-associated-student-loan-debt-relief-companies/">Monster Loans, Lend Tech Loans, and Student Loan Debt Relief Companies</a>
-        </h3>
-        <div class="o-post-preview__description">
-            On January 9, 2020, the Bureau filed a lawsuit in the U.S. District Court for the Central District of California against Chou Team Realty, LLC, d/b/a Monster Loans, Lend Tech Loans, associated student loan debt-relief companies and individuals.
-        </div>
-        </div>
-</article>
                     <div class="block block--flush-top block--flush-bottom block--padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -1975,6 +1975,17 @@
             <li class="m-list__item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list__link"
+                       href="/about-us/newsroom/cfpb-sues-rent-a-center-affiliate-acima-and-acimas-founder-aaron-allred-for-illegal-lending-practices/">
+                        CFPB Sues Rent-a-Center Affiliate Acima and Acima’s Founder Aaron Allred for Illegal Lending Practices
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-07-26T00:00:00">JUL 26, 2024</time></span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
                        href="/about-us/newsroom/cfpb-takes-action-against-fifth-third-for-wrongfully-triggering-auto-repossessions-and-opening-fake-bank-accounts/">
                         CFPB Takes Action Against Fifth Third for Wrongfully Triggering Auto Repossessions and Opening Fake Bank Accounts
                     </a>
@@ -1988,17 +1999,6 @@
                     <a class="m-list__link"
                        href="/about-us/newsroom/cfpb-takes-action-against-sutherland-global-and-novad-management-consulting-for-reverse-mortgage-servicing-failures/">
                         CFPB Takes Action Against Sutherland Global and NOVAD Management Consulting for Reverse Mortgage Servicing Failures
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2024-06-18T00:00:00">JUN 18, 2024</time></span>
-                </p>
-            </li>
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/newsroom/cfpb-takes-action-against-repeat-offender-freedom-mortgage-corporation-for-violating-law-enforcement-order-and-for-housing-data-errors/">
-                        CFPB Takes Action Against Repeat Offender Freedom Mortgage Corporation for Violating Law Enforcement Order and for Housing Data Errors
                     </a>
                 </h3>
                 <p class="a-date">

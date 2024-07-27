@@ -1172,8 +1172,8 @@
    <div class="block block--flush-top">
 <div class="o-full-width-text-group">
             <div class="block">
-<h2 id="card-product-name-and-agreement-selection">Card product name and agreement selection</h2>
-<p class="u-mb30">Every card contains three introductory pieces of data.</p>
+<h2 id="card-product-name-and-other-identifying-information">Card product name and other identifying information</h2>
+<p class="u-mb30">Every card contains four introductory pieces of data:</p>
 <table class="o-table o-table--stack-on-small u-w100pct">
     <thead>
         <tr>
@@ -1189,6 +1189,12 @@
                 <td data-label="Description"><p data-block-key="e35l8">Institution issuing the card</p></td>
                 <td data-label="Field type"><p data-block-key="d6bdp">Text</p></td>
                 <td data-label="Valid values"><p data-block-key="6orie">Text</p></td>
+            </tr>
+            <tr>
+                <td data-label="Field name"><p data-block-key="es3ei"><b>Issued by Top 25 Institution</b></p></td>
+                <td data-label="Description"><p data-block-key="es3ei">If product is offered by one of the 25 largest issuers. Separate legal entities under a common holding company are counted as one issuer.</p></td>
+                <td data-label="Field type"><p data-block-key="es3ei">Text</p></td>
+                <td data-label="Valid values"><p data-block-key="es3ei">True/False</p></td>
             </tr>
             <tr>
                 <td data-label="Field name"><p data-block-key="i4sd"><b>Card Name</b></p></td>
@@ -1352,7 +1358,7 @@
             </tr>
             <tr>
                 <td data-label="Field name"><p data-block-key="f24g7">Purchase APR Vary by Balance</p></td>
-                <td data-label="Description"><p data-block-key="d1j7d">Whether or not the card product&#x27;s Purchase APR varies by the balance incurred</p></td>
+                <td data-label="Description"><p data-block-key="d1j7d">Whether or not the card product's Purchase APR varies by the balance incurred</p></td>
                 <td data-label="Field type"><p data-block-key="f0rhh">Single selection</p></td>
                 <td data-label="Valid values"><p data-block-key="3fmem">Yes/No</p></td>
             </tr>
@@ -1484,6 +1490,12 @@
                 <td data-label="Valid values"><p data-block-key="1a5ie">Yes/No</p></td>
             </tr>
             <tr>
+                <td data-label="Field name"><p data-block-key="us4us">Purchase APR no score</p></td>
+                <td data-label="Description"><p data-block-key="us4us">Median Purchase APR at origination for consumers with no credit score</p></td>
+                <td data-label="Field type"><p data-block-key="us4us">Numeric</p></td>
+                <td data-label="Valid values"><p data-block-key="us4us">Numeric (%)</p></td>
+            </tr>
+            <tr>
                 <td data-label="Field name"><p data-block-key="350u3">Purchase APR poor</p></td>
                 <td data-label="Description"><p data-block-key="1a4pj">Median Purchase APR at origination for consumers with credit scores of 619 or less</p></td>
                 <td data-label="Field type"><p data-block-key="9uk9r">Numeric</p></td>
@@ -1546,6 +1558,12 @@
                 <td data-label="Description"><p data-block-key="4ncja">Whether or not the introductory APR varies by the consumer’s credit score</p></td>
                 <td data-label="Field type"><p data-block-key="ecoue">Single selection</p></td>
                 <td data-label="Valid values"><p data-block-key="d3q6k">Yes/No</p></td>
+            </tr>
+            <tr>
+                <td data-label="Field name"><p data-block-key="us4us">Intro APR no score</p></td>
+                <td data-label="Description"><p data-block-key="us4us">Median Introductory APR at origination for consumers with no credit score</p></td>
+                <td data-label="Field type"><p data-block-key="us4us">Numeric</p></td>
+                <td data-label="Valid values"><p data-block-key="us4us">Numeric (%)</p></td>
             </tr>
             <tr>
                 <td data-label="Field name"><p data-block-key="65ikd">Intro APR poor</p></td>
@@ -1616,6 +1634,12 @@
                 <td data-label="Description"><p data-block-key="evot3">Whether or not Balance Transfer APR varies depending on the consumer’s credit score</p></td>
                 <td data-label="Field type"><p data-block-key="92lph">Single selection</p></td>
                 <td data-label="Valid values"><p data-block-key="75kia">Yes/No</p></td>
+            </tr>
+            <tr>
+                <td data-label="Field name"><p data-block-key="us4us">Transfer APR no score</p></td>
+                <td data-label="Description"><p data-block-key="us4us">Median Balance Transfer APR at origination for consumers with no credit score</p></td>
+                <td data-label="Field type"><p data-block-key="us4us">Numeric</p></td>
+                <td data-label="Valid values"><p data-block-key="us4us">Numeric (%)</p></td>
             </tr>
             <tr>
                 <td data-label="Field name"><p data-block-key="3ffrb">Transfer APR poor</p></td>
@@ -1692,6 +1716,12 @@
                 <td data-label="Description"><p data-block-key="cg8bt">Amount of interest charged on any cash withdrawn from credit card account depending on credit score</p></td>
                 <td data-label="Field type"><p data-block-key="buiur">Single selection</p></td>
                 <td data-label="Valid values"><p data-block-key="3lk24">Yes/No</p></td>
+            </tr>
+            <tr>
+                <td data-label="Field name"><p data-block-key="rjaxl">Advance APR no score</p></td>
+                <td data-label="Description"><p data-block-key="rjaxl">Median Cash Advance APR at origination for consumers with no credit score</p></td>
+                <td data-label="Field type"><p data-block-key="rjaxl">Numeric</p></td>
+                <td data-label="Valid values"><p data-block-key="rjaxl">Numeric (%)</p></td>
             </tr>
             <tr>
                 <td data-label="Field name"><p data-block-key="3dd3j">Advance APR poor</p></td>
@@ -1921,7 +1951,7 @@
                 <td data-label="Field name"><p data-block-key="2rmt0">Purchase Transaction Fee Type</p></td>
                 <td data-label="Description"><p data-block-key="9ps42">Type of purchase transaction fee and further details of fee policies</p></td>
                 <td data-label="Field type"><p data-block-key="4egsl">Multiple selection</p></td>
-                <td data-label="Valid values"><p data-block-key="1bj77">1. If a fee is charged in dollars, what is the amount? 2. If fee is a percentage of transaction amount, what is it? 3. If there&#x27;s a minimum dollar amount, what is it? 4. If the fee is not a percentage, or a percentage subject to a dollar amount, how do you calculate the fee?</p></td>
+                <td data-label="Valid values"><p data-block-key="1bj77">1. If a fee is charged in dollars, what is the amount? 2. If fee is a percentage of transaction amount, what is it? 3. If there's a minimum dollar amount, what is it? 4. If the fee is not a percentage, or a percentage subject to a dollar amount, how do you calculate the fee?</p></td>
             </tr>
             <tr>
                 <td data-label="Field name"><p data-block-key="aapvc">Purchase Transaction Fee ($)</p></td>
@@ -1973,7 +2003,7 @@
                 <td data-label="Field name"><p data-block-key="6iui7">Balance Transfer Fee Types</p></td>
                 <td data-label="Description"><p data-block-key="d18eu">Type of Balance Transfer Fee</p></td>
                 <td data-label="Field type"><p data-block-key="ejq3o">Multiple selection</p></td>
-                <td data-label="Valid values"><p data-block-key="au283">1. If a fee is charged in dollars, what is the amount? 2. If fee is a percentage of transaction amount, what is it? 3. If there&#x27;s a minimum dollar amount, what is it? 4. If the fee is not a percentage, or a percentage subject to a dollar amount, how do you calculate the fee?</p></td>
+                <td data-label="Valid values"><p data-block-key="au283">1. If a fee is charged in dollars, what is the amount? 2. If fee is a percentage of transaction amount, what is it? 3. If there's a minimum dollar amount, what is it? 4. If the fee is not a percentage, or a percentage subject to a dollar amount, how do you calculate the fee?</p></td>
             </tr>
             <tr>
                 <td data-label="Field name"><p data-block-key="4e2ge">Balance Transfer Fee ($)</p></td>
@@ -2031,7 +2061,7 @@
                 <td data-label="Field name"><p data-block-key="6h7k7">Cash Advance Fee Types</p></td>
                 <td data-label="Description"><p data-block-key="8veg6">Type of cash advance fee</p></td>
                 <td data-label="Field type"><p data-block-key="6qqhj">Multiple selection</p></td>
-                <td data-label="Valid values"><p data-block-key="3arh1">1. If a fee is charged in dollars, what is the amount? 2. If fee is a percentage of transaction amount, what is it? 3. If there&#x27;s a minimum dollar amount, what is it? 4. If the fee is not a percentage, or a percentage subject to a dollar amount, how do you calculate the fee?</p></td>
+                <td data-label="Valid values"><p data-block-key="3arh1">1. If a fee is charged in dollars, what is the amount? 2. If fee is a percentage of transaction amount, what is it? 3. If there's a minimum dollar amount, what is it? 4. If the fee is not a percentage, or a percentage subject to a dollar amount, how do you calculate the fee?</p></td>
             </tr>
             <tr>
                 <td data-label="Field name"><p data-block-key="7t5a3">Cash Advance Fee ($)</p></td>
@@ -2083,7 +2113,7 @@
                 <td data-label="Field name"><p data-block-key="2i57l">Foreign Transaction Fees Types</p></td>
                 <td data-label="Description"><p data-block-key="ekfh9">Type of foreign transaction fee</p></td>
                 <td data-label="Field type"><p data-block-key="431r5">Multiple selection</p></td>
-                <td data-label="Valid values"><p data-block-key="864f">1. If a fee is charged in dollars, what is the amount? 2. If fee is a percentage of transaction amount, what is it? 3. If there&#x27;s a minimum dollar amount, what is it? 4. If the fee is not a percentage, or a percentage subject to a dollar amount, how do you calculate the fee?</p></td>
+                <td data-label="Valid values"><p data-block-key="864f">1. If a fee is charged in dollars, what is the amount? 2. If fee is a percentage of transaction amount, what is it? 3. If there's a minimum dollar amount, what is it? 4. If the fee is not a percentage, or a percentage subject to a dollar amount, how do you calculate the fee?</p></td>
             </tr>
             <tr>
                 <td data-label="Field name"><p data-block-key="1c2b3">Foreign Transaction Fee ($)</p></td>
@@ -2255,7 +2285,7 @@
                 <td data-label="Field name"><p data-block-key="33slv">Services</p></td>
                 <td data-label="Description"><p data-block-key="6f9k4">Services that are offered by the card issuer, through a card network, or by other partners</p></td>
                 <td data-label="Field type"><p data-block-key="cm3h7">Multiple selection</p></td>
-                <td data-label="Valid values"><p data-block-key="4ua6b">Access to free Credit Scores; Automobile rental insurance; credit card registration; debt cancellation coverage; discounts on purchases of goods and services (non travel related); Extension on manufacturer&#x27;s warranty; or Other</p></td>
+                <td data-label="Valid values"><p data-block-key="4ua6b">Access to free Credit Scores; Automobile rental insurance; credit card registration; debt cancellation coverage; discounts on purchases of goods and services (non travel related); Extension on manufacturer's warranty; or Other</p></td>
             </tr>
             <tr>
                 <td data-label="Field name"><p data-block-key="bfu73">Other Services</p></td>

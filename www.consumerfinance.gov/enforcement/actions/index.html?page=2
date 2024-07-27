@@ -1414,13 +1414,31 @@
       <svg xmlns="http://www.w3.org/2000/svg" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">359 filtered results</div>
+          <div class="m-notification__message">360 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Date filed:
+                <span class="datetime"><time datetime="2023-08-17T00:00:00">AUG 17, 2023</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/enforcement/actions/freedom-mortgage-corporation-2023-respa/">Freedom Mortgage Corporation</a>
+        </h3>
+        <div class="o-post-preview__description">
+            On August 17, 2023, the Bureau issued an order against Freedom Mortgage Corporation (Freedom), a residential mortgage loan originator and servicer headquartered in Boca Raton, Florida.
+        </div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item">
@@ -1853,24 +1871,6 @@
         </div>
         </div>
 </article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Date filed:
-                <span class="datetime"><time datetime="2022-07-26T00:00:00">JUL 26, 2022</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/enforcement/actions/hyundai-capital-america/">Hyundai Capital America</a>
-        </h3>
-        <div class="o-post-preview__description">
-            On July 26, 2022, the Bureau issued a consent order against Hyundai Capital America (HCA), a nonbank automotive finance company based in Irvine, California.
-        </div>
-        </div>
-</article>
                     <div class="block block--flush-top block--flush-bottom block--padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -1975,6 +1975,17 @@
             <li class="m-list__item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list__link"
+                       href="/about-us/newsroom/cfpb-sues-rent-a-center-affiliate-acima-and-acimas-founder-aaron-allred-for-illegal-lending-practices/">
+                        CFPB Sues Rent-a-Center Affiliate Acima and Acima’s Founder Aaron Allred for Illegal Lending Practices
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-07-26T00:00:00">JUL 26, 2024</time></span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
                        href="/about-us/newsroom/cfpb-takes-action-against-fifth-third-for-wrongfully-triggering-auto-repossessions-and-opening-fake-bank-accounts/">
                         CFPB Takes Action Against Fifth Third for Wrongfully Triggering Auto Repossessions and Opening Fake Bank Accounts
                     </a>
@@ -1988,17 +1999,6 @@
                     <a class="m-list__link"
                        href="/about-us/newsroom/cfpb-takes-action-against-sutherland-global-and-novad-management-consulting-for-reverse-mortgage-servicing-failures/">
                         CFPB Takes Action Against Sutherland Global and NOVAD Management Consulting for Reverse Mortgage Servicing Failures
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2024-06-18T00:00:00">JUN 18, 2024</time></span>
-                </p>
-            </li>
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/newsroom/cfpb-takes-action-against-repeat-offender-freedom-mortgage-corporation-for-violating-law-enforcement-order-and-for-housing-data-errors/">
-                        CFPB Takes Action Against Repeat Offender Freedom Mortgage Corporation for Violating Law Enforcement Order and for Housing Data Errors
                     </a>
                 </h3>
                 <p class="a-date">
