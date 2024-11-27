@@ -1327,13 +1327,69 @@
       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">93 filtered results</div>
+          <div class="m-notification__message">94 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2022-03-23T00:00:00">MAR 23, 2022</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/emergency-savings-financial-security-insights-from-making-ends-meet-survey-and-consumer-credit-panel/">Emergency Savings and Financial Security: Insights from the Making Ends Meet Survey and Consumer Credit Panel</a>
+        </h3>
+        <div class="o-post-preview__description">
+            New analysis in our Making Ends Meet series looks at financial security by examining how much consumers have in emergency savings and their financial profiles.
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                Office of Research</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=financial-well-being" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial well-being</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=making-ends-meet" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Making Ends Meet</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=office-of-research-publication" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Office of Research Publication</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=research" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Research</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=saving" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Saving</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item">
@@ -2734,68 +2790,6 @@
             <a href="?topics=debt-collection" class="a-tag-topic">
                 <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
                 <span class="a-tag-topic__text">Debt collection</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=office-of-research-publication" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Office of Research Publication</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=research" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Research</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2020-06-24T00:00:00">JUN 24, 2020</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/data-point-2019-mortgage-market-activity-and-trends/">Data point: 2019 mortgage market activity and trends</a>
-        </h3>
-        <div class="o-post-preview__description">
-            2019 HMDA Mortgage Market Activity and Trends summarizes the historical data points in the 2019 HMDA data, as well as recent trends in mortgage and housing markets.
-        </div>
-        <div class="o-post-preview__byline-group">
-                By 
-                Office of Research</a>
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=data" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Data</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=hmda-reporting" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">HMDA reporting</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=home-mortgage-disclosure-act" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Home Mortgage Disclosure Act</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=mortgages" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Mortgages</span>
             </a>
         </li>
         <li>
