@@ -20,10 +20,10 @@
           content="Find research and reports published by the Bureau&#39;s Office of Research.">
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
-    <link rel="icon" href="/static/favicon.ccb3dcabd67e.ico" sizes="any">
-    <link rel="icon" href="/static/icon.c46f4400c465.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="/static/apple-touch-icon.fdc50b7ff8a9.png">
-    <link rel="manifest" href="/static/site.82101d434c3b.webmanifest">
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1519,52 +1519,6 @@
     </div>
     <div class="o-post-preview__content">
         <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/matched-pair-testing-in-small-business-lending-markets/">Matched-Pair Testing in Small Business Lending Markets</a>
-        </h3>
-        <div class="o-post-preview__description">
-            The Consumer Financial Protection Bureau (“CFPB”) and the U.S. Department of Justice (“DOJ”) conducted matched-pair testing to test for and detect differential treatment of fictitious well-qualified Black and white small business owners seeking credit at large bank lenders in two counties.
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=access-to-credit" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Access to credit</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=office-of-research-publication" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Office of Research Publication</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=research" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Research</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=small-business-lending" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Small business lending</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2024-11-13T00:00:00">NOV 13, 2024</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
             <a href="/data-research/research-reports/insights-from-the-2023-2024-student-loan-borrower-survey/">Insights from the 2023-2024 Student Loan Borrower Survey</a>
         </h3>
         <div class="o-post-preview__description">
@@ -1594,6 +1548,52 @@
             <a href="?topics=student-loans" class="a-tag-topic">
                 <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
                 <span class="a-tag-topic__text">Student loans</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2024-11-13T00:00:00">NOV 13, 2024</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/matched-pair-testing-in-small-business-lending-markets/">Matched-Pair Testing in Small Business Lending Markets</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Consumer Financial Protection Bureau (“CFPB”) and the U.S. Department of Justice (“DOJ”) conducted matched-pair testing to test for and detect differential treatment of fictitious well-qualified Black and white small business owners seeking credit at large bank lenders in two counties.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=access-to-credit" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Access to credit</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=office-of-research-publication" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Office of Research Publication</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=research" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Research</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=small-business-lending" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Small business lending</span>
             </a>
         </li>
     </ul>

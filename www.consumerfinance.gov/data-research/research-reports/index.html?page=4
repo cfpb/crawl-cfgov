@@ -20,10 +20,10 @@
           content="Find research and other reports published by the Bureau.">
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
-    <link rel="icon" href="/static/favicon.ccb3dcabd67e.ico" sizes="any">
-    <link rel="icon" href="/static/icon.c46f4400c465.svg" type="image/svg+xml">
-    <link rel="apple-touch-icon" href="/static/apple-touch-icon.fdc50b7ff8a9.png">
-    <link rel="manifest" href="/static/site.82101d434c3b.webmanifest">
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1445,13 +1445,91 @@
       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">587 filtered results</div>
+          <div class="m-notification__message">589 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+        Data spotlight
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2023-05-18T00:00:00">MAY 18, 2023</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/data-spotlight-consumer-experiences-with-overdraft-programs/">Consumer experiences with overdraft programs</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Consumer Financial Protection Bureau has published summary of focus groups and interviews with low- and moderate-income consumers about their experiences with overdraft programs.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=overdraft" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Overdraft</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+        Industry and markets
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2023-05-04T00:00:00">MAY 04, 2023</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/medical-credit-cards-and-financing-plans/">Medical Credit Cards and Financing Plans</a>
+        </h3>
+        <div class="o-post-preview__description">
+            This report highlights some of the risks to consumers of using financing products such as medical credit cards and installment loans (including deferred interest healthcare credit cards) to pay for medical procedures and services.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=credit-cards" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit cards</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=financial-service-providers" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial service providers</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=medical-debt" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Medical debt</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
@@ -2650,91 +2728,6 @@
             <a href="?topics=open-government" class="a-tag-topic">
                 <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
                 <span class="a-tag-topic__text">Open government</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-        Consumer education and empowerment
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2022-12-07T00:00:00">DEC 07, 2022</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/evidence-of-servicemembers-usage-of-credit-protections-under-scra/">Protecting Those Who Protect Us: Evidence of activated Guard and Reserve servicemembers’ usage of credit protections under the Servicemembers Civil Relief Act</a>
-        </h3>
-        <div class="o-post-preview__description">
-            The Servicemembers Civil Relief Act (SCRA) gives servicemembers on active duty the right to request interest rate reductions on outstanding loans during the time they are activated and for an additional year in the case of mortgages. However, according to the CFPB’s research, only small fractions of activated Guard and Reserve servicemembers receive interest rate reductions.
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=research" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Research</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=servicemembers" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Servicemembers</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
-        Office of Research Publication
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2022-12-07T00:00:00">DEC 07, 2022</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/consumer-savings-app-strategies-and-savings-outcomes/">Consumer Savings App Strategies and Savings Outcomes</a>
-        </h3>
-        <div class="o-post-preview__description">
-            This report provides new insights into the automated saving rules consumers use (e.g., save on payday or with each purchase) and how these rules relate to the amount saved.
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=office-of-research-publication" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Office of Research Publication</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=research" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Research</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=saving" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Saving</span>
             </a>
         </li>
     </ul>
