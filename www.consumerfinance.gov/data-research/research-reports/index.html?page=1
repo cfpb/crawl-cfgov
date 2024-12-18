@@ -1445,13 +1445,52 @@
       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">589 filtered results</div>
+          <div class="m-notification__message">590 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+        Issue spotlight
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2024-12-17T00:00:00">DEC 17, 2024</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/homeowners-face-problems-with-mortgage-companies-after-divorce-or-death-of-a-loved-one/">Issue Spotlight: Homeowners face problems with mortgage companies after divorce or death of a loved one</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Some people become homeowners following divorce or the death of a spouse. CFPB rules and federal housing program guidelines require mortgage servicers to help these homeowners in a timely way. CFPB complaints suggest that some mortgage servicers are making it difficult for surviving spouses and other homeowners to get the help they need.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=mortgage-servicing" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgage servicing</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=mortgages" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Mortgages</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
@@ -1905,58 +1944,6 @@
     </div>
     <div class="o-post-preview__content">
         <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/insights-from-the-2023-2024-student-loan-borrower-survey/">Insights from the 2023-2024 Student Loan Borrower Survey</a>
-        </h3>
-        <div class="o-post-preview__description">
-            CFPB report on student loan borrower survey, with findings on income-driven repayment (IDR), payment pause, return to repayment, debt relief, and loan forgiveness.
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=data" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Data</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=office-of-research-publication" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Office of Research Publication</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=research" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Research</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=student-loans" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Student loans</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
-        Office of Research Publication
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2024-11-13T00:00:00">NOV 13, 2024</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
             <a href="/data-research/research-reports/matched-pair-testing-in-small-business-lending-markets/">Matched-Pair Testing in Small Business Lending Markets</a>
         </h3>
         <div class="o-post-preview__description">
@@ -1986,6 +1973,58 @@
             <a href="?topics=small-business-lending" class="a-tag-topic">
                 <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
                 <span class="a-tag-topic__text">Small business lending</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
+        Office of Research Publication
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2024-11-13T00:00:00">NOV 13, 2024</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/insights-from-the-2023-2024-student-loan-borrower-survey/">Insights from the 2023-2024 Student Loan Borrower Survey</a>
+        </h3>
+        <div class="o-post-preview__description">
+            CFPB report on student loan borrower survey, with findings on income-driven repayment (IDR), payment pause, return to repayment, debt relief, and loan forgiveness.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=data" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Data</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=office-of-research-publication" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Office of Research Publication</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=research" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Research</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=student-loans" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Student loans</span>
             </a>
         </li>
     </ul>
@@ -2696,75 +2735,6 @@
 </div>
         </div>
 </article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-        To Congress
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2024-06-26T00:00:00">JUN 26, 2024</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/the-cfpbs-2023-fair-lending-annual-report-to-congress/">Fair Lending Report of the Consumer Financial Protection Bureau 2023</a>
-        </h3>
-        <div class="o-post-preview__description">
-            The CFPB releases its Fair Lending Annual Report to Congress, describing its fair lending activities in enforcement and supervision; guidance and rulemaking; interagency coordination; and outreach and education for calendar year 2023.
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=discrimination" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Discrimination</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=equal-credit-opportunity-act" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Equal Credit Opportunity Act</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=fair-lending" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Fair lending</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=home-mortgage-disclosure-act" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Home Mortgage Disclosure Act</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=redlining" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Redlining</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=regulation-b" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Regulation B</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=regulation-c" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Regulation C</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
                     <div class="block block--flush-top block--flush-bottom block--padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2910,6 +2880,17 @@
             <li class="m-list__item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list__link"
+                       href="/about-us/newsroom/cfpb-report-finds-mortgage-companies-create-obstacles-for-homeowners-after-death-or-divorce/">
+                        CFPB Report Finds Mortgage Companies Create Obstacles for Homeowners After Death or Divorce
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-12-17T00:00:00">DEC 17, 2024</time></span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
                        href="/about-us/newsroom/cfpb-report-finds-significant-drop-in-annual-mortgage-applications-and-originations-in-2023/">
                         CFPB Report Finds Significant Drop in Annual Mortgage Applications and Originations in 2023
                     </a>
@@ -2927,17 +2908,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time datetime="2024-11-21T00:00:00">NOV 21, 2024</time></span>
-                </p>
-            </li>
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/newsroom/cfpb-report-details-student-borrower-harms-from-servicing-failures-and-program-disruptions/">
-                        CFPB Report Details Student Borrower Harms from Servicing Failures and Program Disruptions
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2024-11-15T00:00:00">NOV 15, 2024</time></span>
                 </p>
             </li>
     </ul>
