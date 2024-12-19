@@ -1445,13 +1445,50 @@
       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">590 filtered results</div>
+          <div class="m-notification__message">591 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+        Issue spotlight
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2024-12-18T00:00:00">DEC 18, 2024</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/issue-spotlight-the-high-cost-of-retail-credit-cards/">Issue Spotlight: The High Cost of Retail Credit Cards</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Retail credit cards, which tend to be more accessible to consumers with lower credit scores, can pose heightened risk for consumer harm.
+        </div>
+        <div class="o-post-preview__byline-group">
+                By 
+                CFPB Office of Markets</a>
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=credit-cards" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit cards</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
@@ -2673,68 +2710,6 @@
 </div>
         </div>
 </article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
-        Office of Research Publication
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2024-06-28T00:00:00">JUN 28, 2024</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/borrower-experiences-with-mortgage-servicing-during-the-covid-19-pandemic/">Borrower Experiences with Mortgage Servicing During the COVID-19 Pandemic</a>
-        </h3>
-        <div class="o-post-preview__description">
-            This report provides new insights about distressed borrowers’ experiences with mortgage servicing and loss mitigation processes using data from the 2020 wave of the American Survey of Mortgage Borrowers (ASMB).
-        </div>
-        <div class="o-post-preview__byline-group">
-                By 
-                Office of Research</a>
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=foreclosure" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Foreclosure</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=mortgage-servicing" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Mortgage servicing</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=mortgages" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Mortgages</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=office-of-research-publication" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Office of Research Publication</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=research" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Research</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
                     <div class="block block--flush-top block--flush-bottom block--padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2880,6 +2855,17 @@
             <li class="m-list__item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list__link"
+                       href="/about-us/newsroom/cfpb-takes-action-on-bait-and-switch-credit-card-rewards-tactics/">
+                        CFPB Takes Action on Bait-and-Switch Credit Card Rewards Tactics
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-12-18T00:00:00">DEC 18, 2024</time></span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
                        href="/about-us/newsroom/cfpb-report-finds-mortgage-companies-create-obstacles-for-homeowners-after-death-or-divorce/">
                         CFPB Report Finds Mortgage Companies Create Obstacles for Homeowners After Death or Divorce
                     </a>
@@ -2897,17 +2883,6 @@
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time datetime="2024-12-13T00:00:00">DEC 13, 2024</time></span>
-                </p>
-            </li>
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/newsroom/cfpb-finalizes-rule-on-federal-oversight-of-popular-digital-payment-apps-to-protect-personal-data-reduce-fraud-and-stop-illegal-debanking/">
-                        CFPB Finalizes Rule on Federal Oversight of Popular Digital Payment Apps to Protect Personal Data, Reduce Fraud, and Stop Illegal “Debanking”
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2024-11-21T00:00:00">NOV 21, 2024</time></span>
                 </p>
             </li>
     </ul>

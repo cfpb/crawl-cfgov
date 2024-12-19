@@ -1465,7 +1465,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">4220 filtered results</div>
+          <div class="m-notification__message">4225 filtered results</div>
       </div>
   </div>
         </div>
@@ -1484,6 +1484,86 @@
                 <th>
                     Date published
                 </th>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.11 1.11 0 0 1-1.108-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg><span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/recovering-financially-from-heavy-storms-and-preparing-for-storm-season/">
+                        <span class="h4 u-mb0">Recovering financially from heavy storms, and preparing for storm season</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time datetime="2024-06-04T00:00:00">JUN 04, 2024</time></span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=blog" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.11 1.11 0 0 1-1.108-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg><span class="u-visually-hidden">Category:</span>
+        Blog
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/blog/recuperese-y-preparese-financieramente-para-las-tormentas/">
+                        <span class="h4 u-mb0">Recupérese y prepárese financieramente para las tormentas</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time datetime="2024-06-04T00:00:00">JUN 04, 2024</time></span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=report" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg><span class="u-visually-hidden">Category:</span>
+        Report
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/data-research/research-reports/semi-annual-report-of-the-consumer-financial-protection-bureau-2024/">
+                        <span class="h4 u-mb0">Semi-Annual Report of the Consumer Financial Protection Bureau</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time datetime="2024-06-04T00:00:00">JUN 04, 2024</time></span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg><span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-creates-registry-to-detect-corporate-repeat-offenders/">
+                        <span class="h4 u-mb0">CFPB Creates Registry to Detect Corporate Repeat Offenders</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time datetime="2024-06-03T00:00:00">JUN 03, 2024</time></span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg><span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-crea-registro-para-detectar-infractores-corporativos-reincidentes/">
+                        <span class="h4 u-mb0">CFPB Crea Registro para Detectar Infractores Corporativos Reincidentes | CFPB</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time datetime="2024-06-03T00:00:00">JUN 03, 2024</time></span>
+                </td>
             </tr>
             <tr>
                 <td class="u-w20pct">
@@ -2437,8 +2517,8 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/joint-statement-by-rohit-chopra-director-of-us-cfpb-and-didier-reynders-commissioner-for-dg-just-of-eu/">
-                        <span class="h4 u-mb0">Joint Statement by Rohit Chopra, Director of the United States Consumer Financial Protection Bureau, and Didier Reynders, Commissioner for Justice and Consumer Protection of the European Commission</span>
+                    <a href="/about-us/newsroom/prepared-remarks-of-seth-frotman-general-counsel-and-senior-advisor-to-the-director-cfpb/">
+                        <span class="h4 u-mb0">Prepared Remarks of Seth Frotman, General Counsel and Senior Advisor to the Director Consumer Financial Protection Bureau, at the National Consumer Law Center/National Association of Consumer Advocates Spring Training</span>
                     </a>
                 </td>
                 <td class="u-w15pct">
@@ -2453,8 +2533,8 @@
         </a>
                 </td>
                 <td class="u-w65pct">
-                    <a href="/about-us/newsroom/prepared-remarks-of-seth-frotman-general-counsel-and-senior-advisor-to-the-director-cfpb/">
-                        <span class="h4 u-mb0">Prepared Remarks of Seth Frotman, General Counsel and Senior Advisor to the Director Consumer Financial Protection Bureau, at the National Consumer Law Center/National Association of Consumer Advocates Spring Training</span>
+                    <a href="/about-us/newsroom/joint-statement-by-rohit-chopra-director-of-us-cfpb-and-didier-reynders-commissioner-for-dg-just-of-eu/">
+                        <span class="h4 u-mb0">Joint Statement by Rohit Chopra, Director of the United States Consumer Financial Protection Bureau, and Didier Reynders, Commissioner for Justice and Consumer Protection of the European Commission</span>
                     </a>
                 </td>
                 <td class="u-w15pct">
@@ -2831,22 +2911,6 @@
             </tr>
             <tr>
                 <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg><span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-joins-federal-and-state-agencies-in-coordinated-statements-on-tech-enforcement/">
-                        <span class="h4 u-mb0">CFPB Joins Federal and State Agencies in Coordinated Statements on Tech &amp; Enforcement</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time datetime="2024-03-26T00:00:00">MAR 26, 2024</time></span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
         <a href="/activity-log/?categories=report" class="h4">
        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg><span class="u-visually-hidden">Category:</span>
         Report
@@ -2871,6 +2935,22 @@
                 <td class="u-w65pct">
                     <a href="/about-us/newsroom/2023-hmda-data-on-mortgage-lending-now-available/">
                         <span class="h4 u-mb0">2023 HMDA Data on Mortgage Lending Now Available</span>
+                    </a>
+                </td>
+                <td class="u-w15pct">
+                    <span class="datetime"><time datetime="2024-03-26T00:00:00">MAR 26, 2024</time></span>
+                </td>
+            </tr>
+            <tr>
+                <td class="u-w20pct">
+        <a href="/activity-log/?categories=press-release" class="h4">
+       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg><span class="u-visually-hidden">Category:</span>
+        Press release
+        </a>
+                </td>
+                <td class="u-w65pct">
+                    <a href="/about-us/newsroom/cfpb-joins-federal-and-state-agencies-in-coordinated-statements-on-tech-enforcement/">
+                        <span class="h4 u-mb0">CFPB Joins Federal and State Agencies in Coordinated Statements on Tech &amp; Enforcement</span>
                     </a>
                 </td>
                 <td class="u-w15pct">
@@ -3003,86 +3083,6 @@
                 </td>
                 <td class="u-w15pct">
                     <span class="datetime"><time datetime="2024-03-11T00:00:00">MAR 11, 2024</time></span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=letter" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--email" viewBox="0 0 17 19"><path d="M16.417 6.823v7.809a.557.557 0 0 1-.556.555H1.139a.557.557 0 0 1-.556-.555V6.823a.557.557 0 0 1 .556-.555h14.722a.557.557 0 0 1 .556.555m-14.722.92v6.146l4.463-2.89zm12.223-.364H3.082l4.463 3.257a1.78 1.78 0 0 0 1.91 0zM3.45 14.076h10.096L9.864 11.69a2.93 2.93 0 0 1-2.728 0zm11.855-.184v-6.15L10.842 11z"/></svg><span class="u-visually-hidden">Category:</span>
-        Letter
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-letter-to-new-york-state-on-the-prohibition-on-abusive-conduct/">
-                        <span class="h4 u-mb0">CFPB Letter to New York State on the Prohibition on Abusive Conduct</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time datetime="2024-03-11T00:00:00">MAR 11, 2024</time></span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=letter" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--email" viewBox="0 0 17 19"><path d="M16.417 6.823v7.809a.557.557 0 0 1-.556.555H1.139a.557.557 0 0 1-.556-.555V6.823a.557.557 0 0 1 .556-.555h14.722a.557.557 0 0 1 .556.555m-14.722.92v6.146l4.463-2.89zm12.223-.364H3.082l4.463 3.257a1.78 1.78 0 0 0 1.91 0zM3.45 14.076h10.096L9.864 11.69a2.93 2.93 0 0 1-2.728 0zm11.855-.184v-6.15L10.842 11z"/></svg><span class="u-visually-hidden">Category:</span>
-        Letter
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-director-rohit-chopras-letter-to-the-appraisal-subcommittee/">
-                        <span class="h4 u-mb0">CFPB Director Rohit Chopra’s Letter to the Appraisal Subcommittee</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time datetime="2024-03-08T00:00:00">MAR 08, 2024</time></span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=blog" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--speech-bubble" viewBox="0 0 15 19"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108h-.792v1.762c0 .262-.182.362-.403.224L8.546 13.67h-6.47a1.11 1.11 0 0 1-1.108-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108m-1.9 1.677H2.868V8.07h9.264zm0 2.843H2.868v1.108h9.264z"/></svg><span class="u-visually-hidden">Category:</span>
-        Blog
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/blog/junk-fees-are-driving-up-housing-costs-the-cfpb-wants-to-hear-from-you/">
-                        <span class="h4 u-mb0">Junk fees are driving up housing costs. The CFPB wants to hear from you.</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time datetime="2024-03-08T00:00:00">MAR 08, 2024</time></span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg><span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-prohibe-excesivas-penalidades-por-atraso/">
-                        <span class="h4 u-mb0">CFPB Prohíbe el Cobro de Excesivas Penalidades por Atraso en Tarjetas de Crédito, la Tarifa Típica Baja de $32 a $8</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time datetime="2024-03-05T00:00:00">MAR 05, 2024</time></span>
-                </td>
-            </tr>
-            <tr>
-                <td class="u-w20pct">
-        <a href="/activity-log/?categories=press-release" class="h4">
-       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--bullhorn" viewBox="0 0 17 19"><path d="M16.22 5.224v8.407a.825.825 0 0 1-1.076.839L9.57 13.072l-.325 1.3a.95.95 0 0 1-1.152.69l-3.084-.77a.95.95 0 0 1-.691-1.152l.326-1.304-1.473-.37H1.255a.476.476 0 0 1-.475-.475V7.864a.476.476 0 0 1 .475-.475h1.916l11.973-3.004a.825.825 0 0 1 1.076.84zm-7.627 7.839c.009-.035.072-.2.049-.225-.012-.011-.06-.014-.076-.018l-.147-.037-1.05-.264-1.804-.452-.006.025a1.4 1.4 0 0 0-.044.174l-.07.28-.152.61c-.009.035-.07.192-.047.216.01.011.058.014.072.018l.145.036 1.063.266 1.218.304.423.106c.018.004.142.05.157.038z"/></svg><span class="u-visually-hidden">Category:</span>
-        Press release
-        </a>
-                </td>
-                <td class="u-w65pct">
-                    <a href="/about-us/newsroom/cfpb-bans-excessive-credit-card-late-fees-lowers-typical-fee-from-32-to-8/">
-                        <span class="h4 u-mb0">CFPB Bans Excessive Credit Card Late Fees, Lowers Typical Fee from $32 to $8</span>
-                    </a>
-                </td>
-                <td class="u-w15pct">
-                    <span class="datetime"><time datetime="2024-03-05T00:00:00">MAR 05, 2024</time></span>
                 </td>
             </tr>
         </tbody>
