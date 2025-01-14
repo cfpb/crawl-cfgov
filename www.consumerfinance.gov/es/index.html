@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
     <title>Oficina para la Protección Financiera del Consumidor</title>
-    <meta name="template" content="v1/home_page/home_page_legacy.html">
+    <meta name="template" content="v1/home_page/home_page.html">
     <meta name="description"
           content="La Oficina para la Protección Financiera del Consumidor (CFPB, siglas en inglés), es una agencia gubernamental que se asegura de que bancos, prestamistas y otras compañías financieras le traten justamente.">
       <link rel="canonical" href="https://www.consumerfinance.gov/es/">
@@ -24,15 +24,6 @@
     <link rel="icon" href="/icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest" href="/site.webmanifest">
-    <style>
-        /* Swap the homepage hero's white text to black on small screens */
-        @media only all and (max-width: 37.5625em) {
-            .m-hero--knockout {
-                /* CFPB Black #101820 */
-                color: #101820;
-            }
-        }
-    </style>
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -347,13 +338,14 @@
           id="main"
           >
             <div class="u-layout-grid__content-intro">
-<section class="m-hero m-hero--knockout m-hero--jumbo">
+    <section class="content__level--1">
+<section class="m-hero m-hero--50-50 m-hero--jumbo">
     <div class="m-hero__wrapper">
         <div class="m-hero__text">
-            <h1 class="m-hero__heading">Estamos aquí para usted
+            <h1 class="m-hero__heading"><strong>Le protegemos</strong> en las decisiones financieras más importantes.
             </h1>
             <div class="m-hero__subhead">
-                La Oficina para la Protección Financiera del Consumidor (CFPB, siglas en inglés), es una agencia gubernamental que se asegura de que bancos, prestamistas y otras compañías financieras le traten justamente.
+                Somos la Oficina para la Protección Financiera del Consumidor, una agencia del gobierno de los EE. UU. dedicada a garantizar que los bancos, los prestamistas y otras instituciones financieras le traten de manera justa.
             </div>
         </div>
         <div class="m-hero__image-wrapper">
@@ -361,158 +353,223 @@
         </div>
     </div>
     <style>
-        .m-hero {
-                --m-hero-background-color: #FFFFFF;
-                background-color: #FFFFFF;
+        .m-hero_wrapper {
+                border-bottom: 0 !important;
             }
         .m-hero__image {
-            background-image: url('/static/apps/homepage/img/legacy-hero-sm.af21769407ee.jpg');
+            background-image: url('/static/apps/homepage/img/hero.8de3a4e8fa8d.jpg');
             filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-                src='/static/apps/homepage/img/legacy-hero-sm.af21769407ee.jpg',
+                src='/static/apps/homepage/img/hero.8de3a4e8fa8d.jpg',
                 sizingMethod='scale');
-            padding-bottom: 56.333333333333336%;
+            padding-bottom: 76.15894039735099%;
         }
         @media screen and (min-width: 37.5625em) {
             .m-hero__image {
-                background-image: url('/static/apps/homepage/img/legacy-hero.95f2f94937e4.jpg');
+                background-image: url('/static/apps/homepage/img/hero.8de3a4e8fa8d.jpg');
                 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-                    src='/static/apps/homepage/img/legacy-hero.95f2f94937e4.jpg',
+                    src='/static/apps/homepage/img/hero.8de3a4e8fa8d.jpg',
                     sizingMethod='scale');
-                padding-bottom: 31.70731707317073%;
+                padding-bottom: 76.15894039735099%;
             }
             .m-hero--jumbo .m-hero__wrapper,
             .m-hero--50-50 .m-hero__wrapper,
             .m-hero--overlay .m-hero__wrapper {
-                background-image: url('/static/apps/homepage/img/legacy-hero.95f2f94937e4.jpg');
+                background-image: url('/static/apps/homepage/img/hero.8de3a4e8fa8d.jpg');
                 filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(
-                    src='/static/apps/homepage/img/legacy-hero.95f2f94937e4.jpg',
+                    src='/static/apps/homepage/img/hero.8de3a4e8fa8d.jpg',
                     sizingMethod='scale');
             }
         }
     </style>
 </section>
+        <section class="o-well">
+            <div class="o-info-unit-group">
+                <div class="content-l">
+                    <div class="content-l__col content-l__col-1-2">
+                        <div class="m-info-unit">
+                            <div style="padding-bottom:.25em;">
+                                <img style="max-height:2.5em;" src="/static/apps/homepage/img/putting-green_finances-covid.b402db2c19ac.png" alt="" width="60" height="40">
+                            </div>
+                            <div class="m-info-unit__heading-text">
+                                <h2 class="h3">Encuentre las respuestas a cientos de preguntas financieras</h2>
+                            </div>
+                            <div class="m-info-unit__content">
+                                <ul class="m-list m-list--links u-mt15">
+                                    <li class="m-list__item">
+                                        <a class="a-link a-link--jump"
+                                            href="/es/obtener-respuestas/">
+                                            <span class="a-link__text">Obtener respuestas</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="content-l__col content-l__col-1-2">
+                        <div class="m-info-unit">
+                            <div style="padding-bottom:.25em;">
+                                <img style="max-height:2.5em;" src="/static/apps/homepage/img/putting-green_submit-a-complaint.ed71b0520750.png" alt="" width="60" height="40">
+                            </div>
+                            <div class="m-info-unit__heading-text">
+                                <h2 class="h3">Envíenos su queja sobre un producto o servicio financiero</h2>
+                            </div>
+                            <div class="m-info-unit__content">
+                                <ul class="m-list m-list--links u-mt15">
+                                    <li class="m-list__item">
+                                        <a class="a-link a-link--jump"
+                                            href="/es/enviar-una-queja/">
+                                            <span class="a-link__text">Enviar una queja</span>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </section>
             </div>
         <div class="u-layout-grid__wrapper">
-                <div class="u-layout-grid__main ">
-<div class="o-info-unit-group" >
-    <div class="content-l">
-        <div class="content-l__col content-l__col-1-3">
-<div class="m-info-unit">
-        <img class="m-info-unit__image m-info-unit__image--square"
-            src="/static/apps/homepage/img/cfpb_empowering_consumers.31c6facb3aec.png"
-            alt="">
-        <div class="m-info-unit__heading-text">
-<h2 class="h3" id="para-consumidores">Para consumidores</h2>
-        </div><div class="m-info-unit__content">
-        Nuestras herramientas y recursos ayudan a los consumidores a tomar decisiones financieras informadas y crear habilidades con el dinero.
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/es/herramientas-del-consumidor/">
-                            <span class="a-link__text">Herramientas para el consumidor</span>
-                        </a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-        <div class="content-l__col content-l__col-1-3">
-<div class="m-info-unit">
-        <img class="m-info-unit__image m-info-unit__image--square"
-            src="/static/apps/homepage/img/cfpb_learning_through_data_and_research.e8fcc76af4ec.png"
-            alt="">
-        <div class="m-info-unit__heading-text">
-<h2 class="h3" id="aprendiendo-de-data-e-investigacion">Aprendiendo de data e investigación</h2>
-        </div><div class="m-info-unit__content">
-        Publicamos los resultados de investigaciones e información que recolectamos sobre el mercado financiero.
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/data-research/">
-                            <span class="a-link__text">Datos e investigación (Inglés)</span>
-                        </a>
-                </li>
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/data-research/financial-well-being-survey-data/">
-                            <span class="a-link__text">Resultados de la encuesta (Inglés)</span>
-                        </a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-        <div class="content-l__col content-l__col-1-3">
-<div class="m-info-unit">
-        <img class="m-info-unit__image m-info-unit__image--square"
-            src="/static/apps/homepage/img/cfpb_rules_of_the_road.8f20d9f8d218.png"
-            alt="">
-        <div class="m-info-unit__heading-text">
-<h2 class="h3" id="las-reglas-del-camino">Las reglas del camino</h2>
-        </div><div class="m-info-unit__content">
-        Hemos creado reglas claras para ejercer las leyes y preservar la libertad de escoger de los consumidores.
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/policy-compliance/rulemaking/">
-                            <span class="a-link__text">Reglamentación (Inglés)</span>
-                        </a>
-                </li>
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/policy-compliance/notice-opportunities-comment/">
-                            <span class="a-link__text">Avisos y comentarios (Inglés)</span>
-                        </a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-    </div>
-</div>
+                <div class="u-layout-grid__main content__main--flush-inner">
+    <section class="block u-text-centered">
+        <h2 class="h1">Encuentre respuestas a sus preguntas sobre finanzas</h2>
+    </section>
     <section class="block">
+        <div class="o-well u-text-centered">
+            <div class="o-card-group o-card-group--flow">
+                <div class="o-card-group__cards">
+                    <article class="m-card m-card--topic">
+                      <a class="" href="/es/herramientas-del-consumidor/informes-y-puntajes-de-credito/">
+<div class="m-card__icon">
+<svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--credit-report" viewbox="0 0 12 19" xmlns="http://www.w3.org/2000/svg"><path d="M11.16 16.131a.476.476 0 0 1-.476.475H1.316a.476.476 0 0 1-.475-.475V3.024a.476.476 0 0 1 .475-.475h6.95l2.893 2.893zm-1.11-9.924H8.059a.575.575 0 0 1-.574-.574V3.657H1.95v11.841h8.102zm-4.689 8.161.048-.002a.55.55 0 0 0 .432-.275l3.241-5.613a.554.554 0 1 0-.96-.555L5.28 12.85l-1.305-1.566a.554.554 0 1 0-.851.71l1.813 2.176a.55.55 0 0 0 .426.2z"></path></svg>
+</div>
+<div class="m-card__footer">
+<span>Informes y puntajes de crédito</span>
+</div>
+</a>
+                    </article>
+                    <article class="m-card m-card--topic">
+                      <a class="" href="/es/herramientas-del-consumidor/cobro-de-deudas/">
+<div class="m-card__icon">
+<svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--debt-collection" viewbox="0 0 17 19" xmlns="http://www.w3.org/2000/svg"><path d="M5.212 10.418a3 3 0 0 0-.217.827h-3.92a.474.474 0 0 1-.473-.472v-.409a.474.474 0 0 1 .472-.473h4.357l.066.004a3 3 0 0 0-.285.523M16.35 9.316v3.995a.476.476 0 0 1-.475.475h-1.063a2.78 2.78 0 0 1-2.556 1.411H3.195a.474.474 0 0 1-.473-.473v-.409a.474.474 0 0 1 .473-.473h2.797a3.01 3.01 0 1 0 .076-4.572H1.67a.474.474 0 0 1-.472-.473v-.409a.474.474 0 0 1 .472-.472h5.988l.001-.001h1.76a.356.356 0 0 0 0-.713H7.101a.474.474 0 0 1-.473-.473V6.2a.474.474 0 0 1 .472-.473h2.512q.023 0 .047.003l.002-.003h.212a4.94 4.94 0 0 1 4.39 3.114h1.611a.476.476 0 0 1 .475.475zM5.457 13.22H1.67a.474.474 0 0 1-.472-.472v-.408a.474.474 0 0 1 .472-.473h3.318a3 3 0 0 0 .468 1.353zM8.38 9.373v.324a2 2 0 0 1 .335.117 1.4 1.4 0 0 1 .394.271.396.396 0 0 1-.558.56.6.6 0 0 0-.16-.11 1 1 0 0 0-.206-.071l-.022-.005a1 1 0 0 0-.168-.028.94.94 0 0 0-.478.127.3.3 0 0 0-.172.25.3.3 0 0 0 .07.175.5.5 0 0 0 .155.124.8.8 0 0 0 .212.068 1 1 0 0 0 .208.016 2 2 0 0 1 .366.038 1.6 1.6 0 0 1 .4.145 1.4 1.4 0 0 1 .39.31 1.05 1.05 0 0 1 .26.692 1.03 1.03 0 0 1-.516.89 1.6 1.6 0 0 1-.51.212v.325a.396.396 0 0 1-.791 0v-.32a2 2 0 0 1-.328-.103 1.2 1.2 0 0 1-.45-.33l-.008-.009a.396.396 0 1 1 .606-.509.4.4 0 0 0 .146.113 1 1 0 0 0 .2.064 2 2 0 0 0 .215.027.96.96 0 0 0 .49-.135c.155-.101.155-.185.155-.225a.27.27 0 0 0-.065-.172.6.6 0 0 0-.162-.13.8.8 0 0 0-.2-.072 1 1 0 0 0-.199-.02 2 2 0 0 1-.338-.027 1.6 1.6 0 0 1-.436-.14 1.3 1.3 0 0 1-.415-.334 1.07 1.07 0 0 1-.247-.674 1.09 1.09 0 0 1 .54-.919 1.6 1.6 0 0 1 .495-.203v-.312a.396.396 0 0 1 .792 0"></path></svg>
+</div>
+<div class="m-card__footer">
+<span>Cobro de deudas</span>
+</div>
+</a>
+                    </article>
+                    <article class="m-card m-card--topic">
+                      <a class="" href="/es/herramientas-del-consumidor/transferencias-de-dinero/">
+<div class="m-card__icon">
+<svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--money-transfer" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.014 7.026v5.142a.476.476 0 0 1-.475.475H1.461a.476.476 0 0 1-.475-.475V7.026a.476.476 0 0 1 .475-.475h11.078a.476.476 0 0 1 .475.475m-3.582 2.57a2.424 2.424 0 1 0-.191.947 2.4 2.4 0 0 0 .19-.946zm-.235-4.581a.554.554 0 0 1-.783 0l-.86-.86v1a.554.554 0 1 1-1.108 0v-1l-.86.86a.554.554 0 0 1-.783-.784l1.805-1.805a.554.554 0 0 1 .784 0L9.197 4.23a.554.554 0 0 1 0 .784zm0 9.947-1.805 1.806a.554.554 0 0 1-.784 0l-1.805-1.806a.554.554 0 0 1 .783-.783l.86.86v-1a.554.554 0 0 1 1.108 0v1l.86-.86a.554.554 0 1 1 .783.783m-1.05-4.729a.83.83 0 0 1-.416.716 1.3 1.3 0 0 1-.413.173v.266a.317.317 0 0 1-.633 0v-.262a1.5 1.5 0 0 1-.268-.084.94.94 0 0 1-.362-.265.317.317 0 0 1 .479-.415.3.3 0 0 0 .118.092 1 1 0 0 0 .162.052 1 1 0 0 0 .176.022.77.77 0 0 0 .397-.11c.127-.082.127-.152.127-.185a.22.22 0 0 0-.053-.14.5.5 0 0 0-.132-.106.7.7 0 0 0-.163-.058 1 1 0 0 0-.16-.017 1.6 1.6 0 0 1-.273-.021 1.3 1.3 0 0 1-.352-.114 1 1 0 0 1-.335-.269.86.86 0 0 1-.198-.542.88.88 0 0 1 .435-.74 1.3 1.3 0 0 1 .402-.165v-.255a.317.317 0 0 1 .633 0v.264a1.5 1.5 0 0 1 .273.095 1.1 1.1 0 0 1 .318.218.317.317 0 0 1-.448.449.5.5 0 0 0-.13-.09 1 1 0 0 0-.167-.058l-.017-.004a1 1 0 0 0-.137-.023.77.77 0 0 0-.389.104.25.25 0 0 0-.14.205.24.24 0 0 0 .057.143.4.4 0 0 0 .126.101.6.6 0 0 0 .173.056 1 1 0 0 0 .169.013 1.4 1.4 0 0 1 .295.03 1.3 1.3 0 0 1 .323.117 1.1 1.1 0 0 1 .314.25.85.85 0 0 1 .21.557z"></path></svg>
+</div>
+<div class="m-card__footer">
+<span>Transferencias de dinero</span>
+</div>
+</a>
+                    </article>
+                    <article class="m-card m-card--topic">
+                      <a class="" href="/es/herramientas-del-consumidor/cuentas-bancarias/">
+<div class="m-card__icon">
+<svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--bank" viewbox="0 0 16 19" xmlns="http://www.w3.org/2000/svg"><path d="M15.442 14.75v.491H.558v-.49a.476.476 0 0 1 .475-.476h.478l-.003-.048v-.443a.476.476 0 0 1 .475-.475h.713V7.164H1.508a.554.554 0 0 1-.22-1.063L7.78 3.288a.55.55 0 0 1 .44 0L14.712 6.1a.554.554 0 0 1-.22 1.063h-1.188v6.145h.713a.476.476 0 0 1 .475.475v.443l-.003.048h.478a.476.476 0 0 1 .475.475zM3.804 13.31h2.058V8.264H3.804zm.377-7.254h7.639L8 4.4zm2.79 2.21v5.043h2.058V8.265zm5.225 5.043V8.265h-2.059v5.044z"></path></svg>
+</div>
+<div class="m-card__footer">
+<span>Cuentas y servicios bancarios</span>
+</div>
+</a>
+                    </article>
+                    <article class="m-card m-card--topic  m-card--topic-action">
+                      <a class="" href="/es/herramientas-del-consumidor/">
+<div class="m-card__icon">
+<svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--arrow-right-round" viewbox="0 0 17 19" xmlns="http://www.w3.org/2000/svg"><path d="M16.416 9.579A7.917 7.917 0 1 1 8.5 1.662a7.916 7.916 0 0 1 7.916 7.917m-2.753.005a.8.8 0 0 0-.232-.56l-3.287-3.287a.792.792 0 0 0-1.12 1.12l1.936 1.935H4.128a.792.792 0 0 0 0 1.583h6.832l-1.935 1.936a.792.792 0 0 0 1.12 1.12l3.286-3.288a.8.8 0 0 0 .232-.56z"></path></svg>
+</div>
+<div class="m-card__footer">
+<span>Ver todos los temas de dinero</span>
+</div>
+</a>
+                    </article>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="content__level-1">
+        <section class="block">
+            <div class="o-info-unit-group">
+                <div class="content-l">
+                    <div class="content-l__col content-l__col-1-2">
+                        <div class="m-info-unit"><div class="m-info-unit__heading-text">
+                                    <h2>La CFPB le protege</h2>
+                                </div><div class="m-info-unit__content">
+                                <ul><li><strong>+6.8 millones</strong> de quejas de los consumidores fueron respondidas</li><li><strong>+$21 billones</strong> en alivio financiero fueron entregados como resultado de las acciones de la CFPB</li><li><strong>+205 millones</strong> de personas son elegibles para recibir ayuda financiera</li></ul></div>
+                        </div>
+                    </div>
+                    <div class="content-l__col content-l__col-1-2">
+                        <div class="m-info-unit"><a class="m-info-unit__heading-link" href="/activity-log/?title=&amp;language=es&amp;from_date=&amp;to_date="><div class="m-info-unit__heading-text">
+<h2>Le protegemos del trato injusto</h2>
+</div></a><div class="m-info-unit__content">
+                                <p>Parte integral de nuestra misión es defender al consumidor y asegurarnos de sea tratado de forma justa dentro del mercado financiero.</p><ul class="m-list m-list--links u-mt15">
+                                    <li class="m-list__item">
+                                        <a class="a-link a-link--jump"
+                                           href="/activity-log/?title=&amp;language=es&amp;from_date=&amp;to_date=">
+                                            <span class="a-link__text">
+                                                Lea nuestras publicaciones y sepa cómo trabajamos para protegerle
+                                            </span>
+                                        </a>
+                                </ul></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <hr>
+        <section class="block content__level-2">
 <div class="o-card-group
-             o-card-group--column-3 o-card-group--bg-green ">
+             o-card-group--column-3 
+            ">
     <div class="block u-text-centered">
-    <h2 class="h1">Envíenos sus comentarios</h2>
+    <h2 class="h1">Encuentre ayuda planeando sus metas futuras</h2>
     </div>
     <div class="o-card-group__cards">
 <article class="m-card
-                 m-card--featured ">
-    <a class="" href="/es/enviar-una-queja/">
-<h3 class="m-card__heading h2">
-<span class="m-card__icon"><svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--complaint" viewbox="0 0 15 19" xmlns="http://www.w3.org/2000/svg"><path d="M14.032 5.286v7.276a1.11 1.11 0 0 1-1.108 1.108H8.75l-1.02 1.635a.273.273 0 0 1-.503 0l-1.02-1.635h-4.13a1.11 1.11 0 0 1-1.109-1.108V5.286a1.11 1.11 0 0 1 1.108-1.108h10.848a1.11 1.11 0 0 1 1.108 1.108M8.206 11.34a.706.706 0 1 0-.706.705.706.706 0 0 0 .706-.705m-1.26-1.83a.554.554 0 1 0 1.108 0V6.275a.554.554 0 1 0-1.108 0z"></path></svg></span>
-<span class="u-visually-hidden">Envíe una queja</span>
-</h3>
-<p>¿Tiene problemas con algún producto o servicio financiero?</p>
+                 m-card--breakout 
+                ">
+    <a class="" href="/es/prepararse-para-comprar-casa/">
+<img alt="" class="m-card__img" loading="lazy" src="/static/apps/homepage/img/key-house.8ca2a863fb30.png"/>
+<div class="m-card__inner-wrapper">
 <div class="m-card__footer">
-<span>Envíe una queja</span>
+<span>Comprar una casa</span>
+</div>
 </div>
 </a>
 </article>
 <article class="m-card
-                 m-card--featured ">
-    <a class="" href="/es/obtener-respuestas/">
-<h3 class="m-card__heading h2">
-<span class="m-card__icon"><svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--lightbulb" viewbox="0 0 11 19" xmlns="http://www.w3.org/2000/svg"><path d="M10.328 6.83a5.9 5.9 0 0 1-1.439 3.64 2.9 2.9 0 0 0-.584 1v1.037a.95.95 0 0 1-.95.95h-3.71a.95.95 0 0 1-.95-.95V11.47a2.9 2.9 0 0 0-.584-1A5.9 5.9 0 0 1 .67 6.83a4.83 4.83 0 0 1 9.28-1.878 4.8 4.8 0 0 1 .38 1.88zm-.95 0a3.878 3.878 0 0 0-7.756 0c0 2.363 2.023 3.409 2.023 4.64v1.037h3.71V11.47c0-1.231 2.023-2.277 2.023-4.64M7.83 14.572a.475.475 0 0 1-.475.476h-3.71a.475.475 0 0 1 0-.95h3.71a.475.475 0 0 1 .475.474m-.64 1.262a.24.24 0 0 1-.078.265 2.67 2.67 0 0 1-3.274 0 .237.237 0 0 1 .145-.425h2.983a.24.24 0 0 1 .225.16z"></path></svg></span>
-<span class="u-visually-hidden">Obtenga respuestas</span>
-</h3>
-<p>¿Tiene alguna pregunta sobre finanzas? Tenemos respuestas a cientos de preguntas sobre finanzas.</p>
+                 m-card--breakout 
+                ">
+    <a class="" href="/es/herramientas-del-consumidor/bienestar-financiero/">
+<img alt="" class="m-card__img" loading="lazy" src="/static/apps/homepage/img/fwb.21b0af5bfb1b.png"/>
+<div class="m-card__inner-wrapper">
 <div class="m-card__footer">
-<span>Obtenga respuestas</span>
+<span>Bienestar financiero</span>
+</div>
 </div>
 </a>
 </article>
 <article class="m-card
-                 m-card--featured ">
-    <a class="" href="/your-story/">
-<h3 class="m-card__heading h2">
-<span class="m-card__icon"><svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--open-quote" viewbox="0 0 16 19" xmlns="http://www.w3.org/2000/svg"><path d="M6.808 11.29a3.2 3.2 0 0 1 .097 1.464 3.2 3.2 0 0 1-.535 1.277 3.15 3.15 0 0 1-2.286 1.316 3.43 3.43 0 0 1-2.628-.836A3.9 3.9 0 0 1 .26 12.269a4.4 4.4 0 0 1-.052-.653 6 6 0 0 1 .027-.74 5.5 5.5 0 0 1 .33-1.388 5.7 5.7 0 0 1 1.498-2.193A6.7 6.7 0 0 1 4.41 5.923q.344-.118.699-.201a1.24 1.24 0 0 1 .606-.046.792.792 0 0 1-.066 1.548 5.6 5.6 0 0 0-1.356.458 4.57 4.57 0 0 0-1.988 1.812 3 3 0 0 1 .998-.367 3.09 3.09 0 0 1 3.248 1.552 3 3 0 0 1 .257.611m8.941.435a3 3 0 0 1 .038.708 3.2 3.2 0 0 1-1.207 2.265 3.33 3.33 0 0 1-2.609.615 3.38 3.38 0 0 1-2.165-1.35 3.7 3.7 0 0 1-.55-1.085 4.5 4.5 0 0 1-.203-1.224 5.6 5.6 0 0 1 .567-2.656 5.8 5.8 0 0 1 1.598-1.967 6.9 6.9 0 0 1 2.357-1.21 5 5 0 0 1 .676-.162.792.792 0 0 1 .602 1.404 1.3 1.3 0 0 1-.542.201 5.5 5.5 0 0 0-1.278.47 4.54 4.54 0 0 0-1.885 1.76 3.05 3.05 0 0 1 1.242-.4 3.1 3.1 0 0 1 3.359 2.631"></path></svg></span>
-<span class="u-visually-hidden">Diga su historia (Inglés)</span>
-</h3>
-<p>Cuéntenos sus experiencias con el dinero y los servicios financieros. El CFPB está para escucharle.</p>
+                 m-card--breakout 
+                ">
+    <a class="" href="/es/herramientas-del-consumidor/prestamos-para-vehiculos/">
+<img alt="" class="m-card__img" loading="lazy" src="/static/apps/homepage/img/key-car.d534a653560f.png"/>
+<div class="m-card__inner-wrapper">
 <div class="m-card__footer">
-<span>Diga su historia (Inglés)</span>
+<span>Préstamos autos</span>
+</div>
 </div>
 </a>
 </article>
     </div>
 </div>
+        </section>
     </section>
                 </div>
         </div>

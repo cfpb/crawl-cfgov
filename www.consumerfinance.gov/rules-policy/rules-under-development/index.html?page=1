@@ -1382,6 +1382,7 @@
   <option value="student-loans">Student loans</option>
   <option value="supervision">Supervision</option>
   <option value="truth-in-lending-act">Truth in Lending Act (TILA)</option>
+  <option value="udaaps">UDAAPs</option>
   <option value="virtual-currency">Virtual currency</option>
 </select>
             </div>
@@ -1453,13 +1454,63 @@
       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">42 filtered results</div>
+          <div class="m-notification__message">43 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+        Proposed rule
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                <span class="datetime"><time datetime="2025-01-13T00:00:00">JAN 13, 2025</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/rules-policy/rules-under-development/prohibited-terms-and-conditions-in-agreements-for-consumer-financial-products-or-services-regulation-aa/">Prohibited Terms and Conditions in Agreements for Consumer Financial Products or Services (Regulation AA)</a>
+        </h3>
+        <div class="o-post-preview__description">
+            Proposed rule prohibiting certain terms and conditions in agreements for consumer financial products or services.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=banking" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Banking</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=financial-service-providers" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Financial service providers</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=rulemaking" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Rulemaking</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=udaaps" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">UDAAPs</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
@@ -2762,80 +2813,6 @@
 </div>
         </div>
 </article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-        Proposed rule
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                <span class="datetime"><time datetime="2020-06-04T00:00:00">JUN 04, 2020</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/rules-policy/rules-under-development/amendments-facilitate-libor-transition-regulation-z/">Amendments to Facilitate the LIBOR Transition (Regulation Z)</a>
-        </h3>
-        <div class="o-post-preview__description">
-            The Bureau is proposing to amend Regulation Z, which implements the Truth in Lending Act, generally to address the sunset of LIBOR, expected to be discontinued after 2021.
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=auto-loans" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Auto loans</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=credit-cards" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Credit cards</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=mortgage-servicing" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Mortgage servicing</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=mortgages" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Mortgages</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=reverse-mortgages" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Reverse mortgages</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=small-dollar-lending" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Small dollar lending</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=student-loans" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Student loans</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=truth-in-lending-act" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Truth in Lending Act (TILA)</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
                     <div class="block block--flush-top block--flush-bottom block--padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -2969,23 +2946,23 @@
             <li class="m-list__item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list__link"
+                       href="/about-us/newsroom/cfpb-proposes-rule-to-ban-contract-clauses-that-strip-away-fundamental-freedoms/">
+                        CFPB Proposes Rule to Ban Contract Clauses that Strip Away Fundamental Freedoms
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2025-01-13T00:00:00">JAN 13, 2025</time></span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
                        href="/about-us/newsroom/cfpb-seeks-input-on-digital-payment-privacy-and-consumer-protections/">
                         CFPB Seeks Input on Digital Payment Privacy and Consumer Protections
                     </a>
                 </h3>
                 <p class="a-date">
                     <span class="datetime"><time datetime="2025-01-10T00:00:00">JAN 10, 2025</time></span>
-                </p>
-            </li>
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/newsroom/cfpb-finalizes-rule-to-protect-homeowners-on-solar-panel-loans-and-other-home-improvement-loans-paid-back-through-property-taxes/">
-                        CFPB Finalizes Rule to Protect Homeowners on Solar Panel Loans and Other Home Improvement Loans Paid Back Through Property Taxes
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2024-12-17T00:00:00">DEC 17, 2024</time></span>
                 </p>
             </li>
     </ul>
