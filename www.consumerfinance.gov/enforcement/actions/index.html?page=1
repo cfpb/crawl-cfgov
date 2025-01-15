@@ -1423,13 +1423,31 @@
       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">379 filtered results</div>
+          <div class="m-notification__message">380 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Date filed:
+                <span class="datetime"><time datetime="2025-01-14T00:00:00">JAN 14, 2025</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/enforcement/actions/capital-one-national-association-and-capital-one-financial-corporation/">Capital One, National Association, and Capital One Financial Corporation</a>
+        </h3>
+        <div class="o-post-preview__description">
+            On January 14, 2024, the Bureau filed a lawsuit against Capital One, N.A., a national bank with over $480 billion in assets, and its parent holding company, Capital One Financial Corp.
+        </div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item">
@@ -1862,24 +1880,6 @@
         </div>
         </div>
 </article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Date filed:
-                <span class="datetime"><time datetime="2024-05-20T00:00:00">MAY 20, 2024</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/enforcement/actions/western-benefits-group-llc/">Western Benefits Group, LLC</a>
-        </h3>
-        <div class="o-post-preview__description">
-            On May 20, 2024, the Bureau issued an order against Western Benefits Group, LLC, a telemarketer and seller of student-loan debt-relief services, headquartered in Pleasanton, California.
-        </div>
-        </div>
-</article>
                     <div class="block block--flush-top block--flush-bottom block--padded-top">
     <nav class="m-pagination"
          role="navigation"
@@ -1979,6 +1979,17 @@
             <li class="m-list__item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list__link"
+                       href="/about-us/newsroom/cfpb-sues-capital-one-for-cheating-consumers-out-of-more-than-2-billion-in-interest-payments-on-savings-accounts/">
+                        CFPB Sues Capital One for Cheating Consumers Out of More Than $2 Billion in Interest Payments on Savings Accounts
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2025-01-14T00:00:00">JAN 14, 2025</time></span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
                        href="/about-us/newsroom/cfpb-sues-experian-for-sham-investigations-of-credit-report-errors/">
                         CFPB Sues Experian for Sham Investigations of Credit Report Errors
                     </a>
@@ -1998,17 +2009,6 @@
                     <span class="datetime"><time datetime="2025-01-06T00:00:00">JAN 06, 2025</time></span>
                 </p>
             </li>
-            <li class="m-list__item">
-                <h3 class="h4 u-mb5">
-                    <a class="m-list__link"
-                       href="/about-us/newsroom/cfpb-sues-walmart-and-branch-messenger-for-illegally-opening-deposit-accounts-for-more-than-one-million-delivery-drivers/">
-                        CFPB Sues Walmart and Branch Messenger for Illegally Opening Deposit Accounts for More Than One Million Delivery Drivers
-                    </a>
-                </h3>
-                <p class="a-date">
-                    <span class="datetime"><time datetime="2024-12-23T00:00:00">DEC 23, 2024</time></span>
-                </p>
-            </li>
     </ul>
           </div>
           <div class="m-related-posts__list-container">
@@ -2022,7 +2022,7 @@
             <li class="m-list__item">
                 <h3 class="h4 u-mb5">
                     <a class="m-list__link"
-                       href="/about-us/events/deep-dive-online-platform-liability/">
+                       href="/about-us/events/archive-past-events/deep-dive-online-platform-liability/">
                         Deep Dive: Online Platform Liability
                     </a>
                 </h3>
