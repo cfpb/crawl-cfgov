@@ -1315,6 +1315,7 @@
   <option value="regulation-f">Regulation F</option>
   <option value="regulation-v">Regulation V</option>
   <option value="regulation-x">Regulation X</option>
+  <option value="reverse-mortgages">Reverse mortgages</option>
   <option value="servicemember-civil-relief-act">Servicemember Civil Relief Act</option>
   <option value="servicemembers">Servicemembers</option>
   <option value="student-loans">Student loans</option>
@@ -1390,13 +1391,52 @@
       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">84 filtered results</div>
+          <div class="m-notification__message">85 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+        Federal Circuit Court
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Date filed
+                <span class="datetime"><time datetime="2016-07-13T00:00:00">JUL 13, 2016</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/compliance/amicus/briefs/robins-v-spokeo-inc/">Robins v. Spokeo, Inc.</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Bureau filed an amicus brief in support of the plaintiff’s Article III standing.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=credit-reports-and-scores" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Credit reports and scores</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=fair-credit-reporting-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Fair Credit Reporting Act</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
@@ -2403,51 +2443,6 @@ filed.
         </div>
 <div>
     <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=financial-service-providers" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Financial service providers</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-        U.S. Supreme Court
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Date filed
-                <span class="datetime"><time datetime="2012-08-03T00:00:00">AUG 03, 2012</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/compliance/amicus/briefs/marx-general-revenue-supreme-court/">Marx v. General Revenue Corp. (U.S. Supreme Court)</a>
-        </h3>
-        <div class="o-post-preview__description">
-            The government&#39;s amicus brief argues that a consumer who loses a suit under the Fair Debt Collection Practices Act does not have to pay the defendant&#39;s...
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=debt-collection" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Debt collection</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=fair-debt-collection-practices-act" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Fair Debt Collection Practices Act</span>
-            </a>
-        </li>
         <li>
             <a href="?topics=financial-service-providers" class="a-tag-topic">
                 <span class="a-tag-topic__bullet" aria-hidden="true">•</span>

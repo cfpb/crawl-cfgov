@@ -1447,13 +1447,76 @@
       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--approved-round" viewBox="0 0 17 19"><path d="M16.417 9.583a7.916 7.916 0 1 1-15.833 0 7.916 7.916 0 0 1 15.833 0m-4.105-4.498a.79.79 0 0 0-1.082.29l-3.828 6.63-1.733-2.08a.792.792 0 1 0-1.216 1.014l2.459 2.952a.792.792 0 0 0 1.294-.111L12.6 6.166a.79.79 0 0 0-.29-1.081z"/></svg>
       <div class="m-notification__content"
           >
-          <div class="m-notification__message">599 filtered results</div>
+          <div class="m-notification__message">600 filtered results</div>
       </div>
   </div>
         </div>
             <section class="block
                             block--sub"
                      data-cy="filterable-list-results">
+                        <article class="o-post-preview" lang="en">
+    <div class="m-meta-header">
+        <div class="m-meta-header__item-group">
+                <span class="m-meta-header__item">
+        To Congress
+                </span>
+        </div>
+        <div class="m-meta-header__item">
+            <span class="a-date">
+                Published
+                <span class="datetime"><time datetime="2023-06-29T00:00:00">JUN 29, 2023</time></span>
+            </span>
+        </div>
+    </div>
+    <div class="o-post-preview__content">
+        <h3 class="o-post-preview__title">
+            <a href="/data-research/research-reports/fair-lending-report-of-the-consumer-financial-protection-bureau-2022/">Fair Lending Report of the Consumer Financial Protection Bureau 2022</a>
+        </h3>
+        <div class="o-post-preview__description">
+            The Bureau is committed to ensuring fair, equitable, and nondiscriminatory access to credit for both individuals, small businesses, and communities. This report describes our fair lending activities in enforcement and supervision; guidance and rulemaking; interagency coordination; and outreach and education for calendar year 2022.
+        </div>
+<div>
+    <ul class="m-tag-group" aria-label="Topics">
+        <li>
+            <a href="?topics=discrimination" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Discrimination</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=equal-credit-opportunity-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Equal Credit Opportunity Act</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=fair-lending" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Fair lending</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=home-mortgage-disclosure-act" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Home Mortgage Disclosure Act</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=regulation-b" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Regulation B</span>
+            </a>
+        </li>
+        <li>
+            <a href="?topics=regulation-c" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Regulation C</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</article>
                         <article class="o-post-preview" lang="en">
     <div class="m-meta-header">
         <div class="m-meta-header__item-group">
@@ -2679,64 +2742,6 @@
             <a href="?topics=research" class="a-tag-topic">
                 <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
                 <span class="a-tag-topic__text">Research</span>
-            </a>
-        </li>
-    </ul>
-</div>
-        </div>
-</article>
-                        <article class="o-post-preview" lang="en">
-    <div class="m-meta-header">
-        <div class="m-meta-header__item-group">
-                <span class="m-meta-header__item">
-       <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--chart" viewBox="0 0 15 19"><path d="M13.55 15.256H1.45a.554.554 0 0 1-.553-.554V3.168a.554.554 0 1 1 1.108 0v10.98h11.544a.554.554 0 0 1 0 1.108zM3.121 13.02V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.785 0V3.507a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v9.513zm2.785 0V6.888a.476.476 0 0 1 .475-.475h.786a.476.476 0 0 1 .475.475v6.132zm2.786 0v-2.753a.476.476 0 0 1 .475-.475h.785a.476.476 0 0 1 .475.475v2.753z"/></svg>
-        Office of Research Publication
-                </span>
-        </div>
-        <div class="m-meta-header__item">
-            <span class="a-date">
-                Published
-                <span class="datetime"><time datetime="2023-03-02T00:00:00">MAR 02, 2023</time></span>
-            </span>
-        </div>
-    </div>
-    <div class="o-post-preview__content">
-        <h3 class="o-post-preview__title">
-            <a href="/data-research/research-reports/consumer-use-of-buy-now-pay-later-insights-from-the-cfpb-making-ends-meet-survey/">Consumer Use of Buy Now, Pay Later: Insights from the CFPB Making Ends Meet Survey</a>
-        </h3>
-        <div class="o-post-preview__description">
-            This report explores the consumer financial profiles of Buy Now, Pay Later (BNPL) borrowers using the Bureau’s Making Ends Meet survey and its association with credit bureau data.
-        </div>
-<div>
-    <ul class="m-tag-group" aria-label="Topics">
-        <li>
-            <a href="?topics=making-ends-meet" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Making Ends Meet</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=office-of-research" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Office of Research</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=office-of-research-publication" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Office of Research Publication</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=research" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Research</span>
-            </a>
-        </li>
-        <li>
-            <a href="?topics=small-dollar-lending" class="a-tag-topic">
-                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
-                <span class="a-tag-topic__text">Small dollar lending</span>
             </a>
         </li>
     </ul>
