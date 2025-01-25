@@ -24,7 +24,7 @@
     <link rel="icon" href="/icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest" href="/site.webmanifest">
-          <link rel="stylesheet" href="/static/css/on-demand/simple-chart.63745eb63d31.css" />
+          <link rel="stylesheet" href="/static/css/on-demand/wagtail-chart.cfeab42767ed.css" />
     <link rel="preload"
           href="/static/fonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.457e94a5b665.woff2"
           as="font"
@@ -1269,106 +1269,45 @@
    <div class="block block--padded-top block--border-top">
 <div class="o-info-unit-group" id=&#34;summary-data-on-all-the-bureaus-public-enforcement-actions-and-ordered-consumer-relief&#34; >
 <h2 id="summary-data-on-all-the-bureaus-public-enforcement-actions-and-ordered-consumer-relief">Summary data on all the Bureau’s public enforcement actions and ordered consumer relief</h2>
-    <h3 id="" data-block-key="7is82">To increase transparency of the Bureau’s public enforcement actions, we post summary data on all the Bureau’s public enforcement actions. The summary data is updated at the end of each calendar year.</h3>
+    <h3 id="" data-block-key="hjgcj">To increase transparency of the Bureau’s public enforcement actions, we post summary data on all the Bureau’s public enforcement actions. The summary data is updated at the end of each calendar year.</h3>
 </div>
    </div>
-<div class="o-simple-chart">
-    <a class="chart-anchor" href="#chart-Enforcement actions by year" id="chart-Enforcement actions by year"><h3 class="o-simple-chart__title">Enforcement actions by year</h3></a>
-    <p class="o-simple-chart__subtitle">This interactive graph shows the total number of CFPB public enforcement actions filed each year from our inception to the present. Hover over the bars to view the total number of public enforcement actions per year.</p>
-    <div data-title="Enforcement actions by year" class="o-simple-chart__filters"></div>
-    <div class="o-simple-chart__target"
-         data-projected-months="None"
-         data-chart-type="bar"
-         data-source='[8,27,32,56,42,37,11,22,48,18,20,29,28]'
-         data-default-series="True"
-         data-series=''
-         data-x-axis-source=''
-         data-description="Enforcement actions per year"
-             data-y-axis-label="Number of enforcement actions"
-              data-x-axis-label="Initial filing date"
-         data-style-overrides='{
-&#34;plotOptions.series.pointStart&#34;: 2012,
-&#34;yAxis.tickInterval&#34;: 10,
-&#34;tooltip.formatter&#34;: &#34;fn__enforcement_barTooltipFormatter&#34;,
-&#34;legend.enabled&#34;: false
-}'
-         >
-    </div>
-    <div class="o-simple-chart__tilemap-legend"></div>
-    <p class="m-chart-footnote block block--sub block--border-top">
-        <strong>Date Published:</strong> January 2025<br>
+   <div class="block">
+<div class="o-wagtail-chart">
+<h3 id="enforcement-actions-by-year">Enforcement actions by year</h3>
+       <p data-block-key="fuib7">This interactive graph shows the total number of CFPB public enforcement actions filed each year from our inception to the present. Hover over the bars to view the total number of public enforcement actions per year.</p>
+    <canvas
+        id="chart-24ff9a73-1243-4dba-ab78-d21bbe1df416"
+        data-datasets="{&#34;options&#34;:{&#34;title&#34;:[&#34;&#34;,&#34;Total enforcement actions&#34;],&#34;color&#34;:[&#34;&#34;,&#34;#20aa3f&#34;],&#34;yaxis&#34;:[&#34;&#34;,&#34;left&#34;]},&#34;data&#34;:[[&#34;2012&#34;,&#34;2013&#34;,&#34;2014&#34;,&#34;2015&#34;,&#34;2016&#34;,&#34;2017&#34;,&#34;2018&#34;,&#34;2019&#34;,&#34;2020&#34;,&#34;2021&#34;,&#34;2022&#34;,&#34;2023&#34;,&#34;2024&#34;],[&#34;8&#34;,&#34;27&#34;,&#34;32&#34;,&#34;56&#34;,&#34;42&#34;,&#34;37&#34;,&#34;10&#34;,&#34;22&#34;,&#34;48&#34;,&#34;18&#34;,&#34;20&#34;,&#34;29&#34;,&#34;28&#34;]]}"
+        data-config="{&#34;show_legend&#34;: false, &#34;html_legend&#34;: false, &#34;legend_position&#34;: &#34;top&#34;, &#34;reverse_legend&#34;: false, &#34;show_values_on_chart&#34;: false, &#34;precision&#34;: 1, &#34;show_grid&#34;: true, &#34;x_label&#34;: &#34;Initial filing date&#34;, &#34;stacking&#34;: &#34;none&#34;, &#34;unit_override&#34;: &#34;Total enforcement actions:&#34;, &#34;y_left_min&#34;: &#34;0&#34;, &#34;y_left_max&#34;: &#34;60&#34;, &#34;y_left_step_size&#34;: &#34;10&#34;, &#34;y_left_label&#34;: &#34;Number of enforcement actions&#34;, &#34;y_left_data_type&#34;: &#34;number&#34;, &#34;y_left_precision&#34;: 0, &#34;y_left_show&#34;: true, &#34;y_right_min&#34;: &#34;&#34;, &#34;y_right_max&#34;: &#34;&#34;, &#34;y_right_step_size&#34;: &#34;&#34;, &#34;y_right_label&#34;: &#34;&#34;, &#34;y_right_data_type&#34;: &#34;number&#34;, &#34;y_right_precision&#34;: 0, &#34;y_right_show&#34;: true, &#34;pie_border_width&#34;: 2, &#34;pie_border_color&#34;: &#34;#fff&#34;}"
+        data-chart-type="bar"
+        >
+    </canvas>
+    <p class="o-wagtail-chart__footnote block--sub block--border-top block">
+          <strong>Date published:</strong> January 2025<br>
             <strong>Download:</strong>
-            <a href="
-    https://files.consumerfinance.gov/f/documents/cfpb_enforcement-counts_2024.csv
-  ">
-              CSV file</a><br>
+            <a class="a-link" href="https://files.consumerfinance.gov/f/documents/cfpb_enforcement-counts_2024.csv"><span class="a-link__text">CSV file</span> <svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--download" viewbox="0 0 12 19" xmlns="http://www.w3.org/2000/svg"><path d="M11.16 16.153a.477.477 0 0 1-.476.475H1.316a.476.476 0 0 1-.475-.475V3.046a.476.476 0 0 1 .475-.475h6.95l2.893 2.893zm-1.11-9.925H8.059a.575.575 0 0 1-.574-.573V3.679H1.95v11.84h8.102zm-1.234 5.604L6.388 14.26a.554.554 0 0 1-.784 0l-2.428-2.428a.554.554 0 1 1 .783-.784l1.483 1.482V7.41a.554.554 0 1 1 1.108 0v5.12l1.482-1.482a.554.554 0 0 1 .784.783z"></path></svg></a><br>
     </p>
 </div>
-<div class="o-simple-chart">
-    <a class="chart-anchor" href="#chart-Consumer relief by year" id="chart-Consumer relief by year"><h3 class="o-simple-chart__title">Consumer relief by year</h3></a>
-    <p class="o-simple-chart__subtitle">This interactive graph shows the total consumer relief ordered in CFPB public enforcement actions each year from the Bureau&#39;s inception to the present. Hover over the bars to view the total consumer relief per year.</p>
-    <div data-title="Consumer relief by year" class="o-simple-chart__filters"></div>
-    <div class="o-simple-chart__target"
-         data-projected-months="None"
-         data-chart-type="bar"
-         data-source='[425100000, 525770917, 3851511234, 5599696941, 309612061, 355899542, 464429648, 783746740, 672584667, 582288849, 2468835941, 3069622157, 550756091]'
-         data-default-series="True"
-         data-series=''
-         data-x-axis-source=''
-         data-description="Consumer relief by year"
-             data-y-axis-label="Dollars (in billions)"
-              data-x-axis-label="Date final order entered by court"
-         data-style-overrides='{
-&#34;tooltip.formatter&#34;: &#34;fn__enforcement_reliefBarTooltipFormatter&#34;,
-&#34;plotOptions.series.pointStart&#34;: 2012,
-&#34;yAxis.labels.formatter&#34;: &#34;fn__enforcement_yAxisLabelsFormatter&#34;,
-&#34;yAxis.tickInterval&#34;: 2e9,
-&#34;legend.enabled&#34;: false
-}'
-         >
-    </div>
-    <div class="o-simple-chart__tilemap-legend"></div>
-    <p class="m-chart-footnote block block--sub block--border-top">
-        <strong>Date Published:</strong> January 2025<br>
+   </div>
+   <div class="block">
+<div class="o-wagtail-chart">
+<h3 id="consumer-relief-and-civil-money-penalties-by-year">Consumer relief and civil money penalties by year</h3>
+       <p data-block-key="fuib7">This interactive graph shows the total consumer relief and civil money penalties ordered in CFPB public enforcement actions each year from the Bureau's inception to the present. Hover over the bars to view the total consumer relief (green) and total civil money penalties (orange) per year.</p>
+    <canvas
+        id="chart-2da3fa91-4119-4415-96a1-ee2cf662392c"
+        data-datasets="{&#34;options&#34;:{&#34;title&#34;:[&#34;&#34;,&#34;Total relief&#34;,&#34;Total penalties&#34;],&#34;color&#34;:[&#34;&#34;,&#34;#20aa3f&#34;,&#34;#ffb858&#34;],&#34;yaxis&#34;:[&#34;&#34;,&#34;left&#34;,&#34;left&#34;]},&#34;data&#34;:[[&#34;2012&#34;,&#34;2013&#34;,&#34;2014&#34;,&#34;2015&#34;,&#34;2016&#34;,&#34;2017&#34;,&#34;2018&#34;,&#34;2019&#34;,&#34;2020&#34;,&#34;2021&#34;,&#34;2022&#34;,&#34;2023&#34;,&#34;2024&#34;],[&#34;425100000&#34;,&#34;525770917&#34;,&#34;3851511234&#34;,&#34;5599696941&#34;,&#34;309612061&#34;,&#34;355899542&#34;,&#34;464429648&#34;,&#34;783746740&#34;,&#34;672584667&#34;,&#34;582288849&#34;,&#34;2468835941&#34;,&#34;3069622157&#34;,&#34;550756091&#34;],[&#34;46105000&#34;,&#34;75000002&#34;,&#34;62436075&#34;,&#34;224804004&#34;,&#34;275834760&#34;,&#34;78562301&#34;,&#34;553050003&#34;,&#34;184874911&#34;,&#34;155219526&#34;,&#34;135094322&#34;,&#34;1965093902&#34;,&#34;497507443&#34;,&#34;759285008&#34;]]}"
+        data-config="{&#34;show_legend&#34;: false, &#34;html_legend&#34;: false, &#34;legend_position&#34;: &#34;top&#34;, &#34;reverse_legend&#34;: false, &#34;show_values_on_chart&#34;: false, &#34;precision&#34;: 1, &#34;show_grid&#34;: true, &#34;x_label&#34;: &#34;Date final order entered by court&#34;, &#34;stacking&#34;: &#34;stacked&#34;, &#34;unit_override&#34;: &#34;$&#34;, &#34;y_left_min&#34;: &#34;0&#34;, &#34;y_left_max&#34;: &#34;6000000000&#34;, &#34;y_left_step_size&#34;: &#34;1000000000&#34;, &#34;y_left_label&#34;: &#34;Dollars (in billions)&#34;, &#34;y_left_data_type&#34;: &#34;number&#34;, &#34;y_left_precision&#34;: 1, &#34;y_left_show&#34;: true, &#34;y_right_min&#34;: &#34;&#34;, &#34;y_right_max&#34;: &#34;&#34;, &#34;y_right_step_size&#34;: &#34;&#34;, &#34;y_right_label&#34;: &#34;&#34;, &#34;y_right_data_type&#34;: &#34;number&#34;, &#34;y_right_precision&#34;: 0, &#34;y_right_show&#34;: true, &#34;pie_border_width&#34;: 2, &#34;pie_border_color&#34;: &#34;#fff&#34;}"
+        data-chart-type="bar"
+        >
+    </canvas>
+    <p class="o-wagtail-chart__footnote block--sub block--border-top block">
+          <strong>Date published:</strong> January 2025<br>
             <strong>Download:</strong>
-            <a href="
-    https://files.consumerfinance.gov/f/documents/cfpb_enforcement-relief_2024.csv
-  ">
-              CSV file</a><br>
+            <a class="a-link" href="https://files.consumerfinance.gov/f/documents/cfpb_enforcement-relief-cmp_2024.csv"><span class="a-link__text">CSV file</span> <svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--download" viewbox="0 0 12 19" xmlns="http://www.w3.org/2000/svg"><path d="M11.16 16.153a.477.477 0 0 1-.476.475H1.316a.476.476 0 0 1-.475-.475V3.046a.476.476 0 0 1 .475-.475h6.95l2.893 2.893zm-1.11-9.925H8.059a.575.575 0 0 1-.574-.573V3.679H1.95v11.84h8.102zm-1.234 5.604L6.388 14.26a.554.554 0 0 1-.784 0l-2.428-2.428a.554.554 0 1 1 .783-.784l1.483 1.482V7.41a.554.554 0 1 1 1.108 0v5.12l1.482-1.482a.554.554 0 0 1 .784.783z"></path></svg></a><br>
     </p>
 </div>
-<div class="o-simple-chart">
-    <a class="chart-anchor" href="#chart-Civil money penalties by year" id="chart-Civil money penalties by year"><h3 class="o-simple-chart__title">Civil money penalties by year</h3></a>
-    <p class="o-simple-chart__subtitle">This interactive graph shows the total civil money penalties ordered in CFPB public enforcement actions each year from the Bureau&#39;s inception to the present. Hover over the bars to view the total penalties per year.</p>
-    <div data-title="Civil money penalties by year" class="o-simple-chart__filters"></div>
-    <div class="o-simple-chart__target"
-         data-projected-months="None"
-         data-chart-type="bar"
-         data-source='[46105000, 75000002, 62436075, 224804004, 275834760, 78562301, 553050003, 184874911, 155219526, 135094322, 1965093902, 497507443, 759283008]'
-         data-default-series="True"
-         data-series=''
-         data-x-axis-source=''
-         data-description="Civil money penalties by year"
-             data-y-axis-label="Dollars (in billions)"
-              data-x-axis-label="Date final order entered by court"
-         data-style-overrides='{
-&#34;plotOptions.series.pointStart&#34;: 2012,
-&#34;yAxis.labels.formatter&#34;: &#34;fn__enforcement_yAxisLabelsFormatter&#34;,
-&#34;yAxis.tickInterval&#34;: 1e9,
-&#34;legend.enabled&#34;: false
-}'
-         >
-    </div>
-    <div class="o-simple-chart__tilemap-legend"></div>
-    <p class="m-chart-footnote block block--sub block--border-top">
-        <strong>Date Published:</strong> January 2025<br>
-            <strong>Download:</strong>
-            <a href="
-    https://files.consumerfinance.gov/f/documents/cfpb_enforcement-cmp_2024.csv
-  ">
-              CSV file</a><br>
-    </p>
-</div>
+   </div>
    <div class="block">
 <div class="o-full-width-text-group">
             <div class="m-full-width-text">
