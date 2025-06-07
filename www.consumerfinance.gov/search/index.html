@@ -34,7 +34,7 @@
           href="/static/fonts/627fbb5a-3bae-4cd9-b617-2f923e29d55e.24932ad03d18.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.40f8285e7ee0.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.292794e7748b.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -163,8 +163,7 @@
 <div class="o-search-input">
     <div class="o-search-input__input">
         <label for="m-global-search_query"
-               class="o-search-input__input-label"
-               aria-label="Search for your question">
+               class="o-search-input__input-label">
             <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
         </label>
         <input type="search"
@@ -176,6 +175,7 @@
                title="Search the CFPB"
                autocomplete="off"
                maxlength="75"
+               aria-label="Search for your question"
                >
         <button type="reset"
                 onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
@@ -214,6 +214,7 @@
         </span>
     </button>
 <div class="o-mega-menu__content o-mega-menu__content-1"
+     aria-label="Main menu submenu"
      role="navigation"
      data-js-hook="behavior_flyout-menu_content">
     <div class="o-mega-menu__content-wrapper o-mega-menu__content-1-wrapper">
@@ -242,6 +243,7 @@
 </div>
 </a>
 <div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
      role="navigation"
      data-js-hook="behavior_flyout-menu_content">
     <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
@@ -478,6 +480,7 @@
 </div>
 </a>
 <div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
      role="navigation"
      data-js-hook="behavior_flyout-menu_content">
     <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
@@ -596,6 +599,7 @@
 </div>
 </a>
 <div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
      role="navigation"
      data-js-hook="behavior_flyout-menu_content">
     <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
@@ -690,6 +694,7 @@
 </div>
 </a>
 <div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
      role="navigation"
      data-js-hook="behavior_flyout-menu_content">
     <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
@@ -816,6 +821,7 @@
 </div>
 </a>
 <div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
      role="navigation"
      data-js-hook="behavior_flyout-menu_content">
     <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
@@ -984,6 +990,7 @@
 </div>
 </a>
 <div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
      role="navigation"
      data-js-hook="behavior_flyout-menu_content">
     <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
@@ -1149,18 +1156,6 @@
         <div class="u-layout-grid__wrapper">
                 <div class="u-layout-grid__main">
     <h1>Search the CFPB</h1>
-    <div class="block block--sub ">
-        <ul dir="ltr" class="m-translation-links">
-                <li>English</li>
-                <li>
-                    <a href="/es/buscar/"
-                    lang="es"
-                    hreflang="es"
-                    translate="no">Español
-                    </a>
-                </li>
-            </ul>
-    </div>
     <div class="block block--flush-top">
 <div class="o-search-bar">
     <form method="get" action=/search/>
@@ -1168,8 +1163,7 @@
 <div class="o-search-input">
     <div class="o-search-input__input">
         <label for="o-search-bar_query"
-               class="o-search-input__input-label"
-               aria-label="Search for a page">
+               class="o-search-input__input-label">
             <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" class="cf-icon-svg cf-icon-svg--search" viewBox="0 0 15 19"><path d="M14.147 15.488a1.11 1.11 0 0 1-1.567 0l-3.395-3.395a5.575 5.575 0 1 1 1.568-1.568l3.394 3.395a1.11 1.11 0 0 1 0 1.568m-6.361-3.903a4.488 4.488 0 1 0-1.681.327 4.4 4.4 0 0 0 1.68-.327z"/></svg>
         </label>
         <input type="search"
@@ -1212,7 +1206,7 @@
       <div class="block block--sub">
       </div>
                 </div>
-                <aside class="u-layout-grid__sidebar">
+                <aside class="u-layout-grid__sidebar" role="complementary">
                     <div class="block block--flush-top">
   <h3>About us</h3>
     <p>
