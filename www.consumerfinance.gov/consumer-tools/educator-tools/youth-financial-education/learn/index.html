@@ -28,7 +28,7 @@
           href="/static/fonts/source-sans-3-latin-wght-normal.30164609c163.woff2"
           as="font"
           type="font/woff2" crossorigin>
-    <link rel="preload" href="/static/js/routes/common.6ffb0c3e5fcc.js" as="script">
+    <link rel="preload" href="/static/js/routes/common.658b7c7b4ae2.js" as="script">
     <link rel="preconnect" href="//google-analytics.com/" crossorigin>
     <link rel="dns-prefetch" href="//google-analytics.com/">
     <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
@@ -54,14 +54,11 @@
                 m-global-eyebrow--horizontal">
         <div class="wrapper
                     wrapper--match-content">
-<div class="a-tagline"
-     aria-label="Official website of the United States government">
-   <span class="u-usa-flag"></span>
-   <div class="a-tagline__text">
-      An official website of the
-      <span class="u-nowrap">United States government</span>
-   </div>
-</div>
+<cfpb-tagline
+  aria-label="Official website of the United States government">
+  An official website of the
+  <span class="u-nowrap">United States government</span>
+</cfpb-tagline>
             <div class="m-global-eyebrow__actions">
                 <span class="m-global-eyebrow__phone">
                     <a href="tel:+1-855-411-2372">(855) 411-2372</a>
@@ -1271,38 +1268,38 @@
 <span>Back to top</span> <svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--arrow-up" viewbox="0 0 13 19" xmlns="http://www.w3.org/2000/svg"><path d="M11.744 8.815a1.03 1.03 0 0 1-1.456 0L7.53 6.055v9.529a1.03 1.03 0 1 1-2.058 0V6.055l-2.76 2.76a1.029 1.029 0 0 1-1.455-1.456l4.516-4.516a1.03 1.03 0 0 1 1.456 0l4.516 4.516a1.03 1.03 0 0 1 0 1.456z"></path></svg>
 </a>
             </div>
-            <ul class="o-footer__nav-list m-list">
-                    <li class="m-list__item">
-                        <a class="m-list__link" href="/about-us/">
-                            About Us
-                        </a>
-                    </li>
-                    <li class="m-list__item">
-                        <a class="m-list__link" href="/about-us/contact-us/">
-                            Contact Us
-                        </a>
-                    </li>
-                    <li class="m-list__item">
-                        <a class="m-list__link" href="/about-us/careers/">
-                            Careers
-                        </a>
-                    </li>
-                    <li class="m-list__item">
-                        <a class="m-list__link" href="/about-us/events/">
-                            Events
-                        </a>
-                    </li>
-                    <li class="m-list__item">
-                        <a class="m-list__link" href="/enforcement/information-industry-whistleblowers/">
-                            Industry Whistleblowers
-                        </a>
-                    </li>
-                    <li class="m-list__item">
-                        <a class="m-list__link" href="/cfpb-ombudsman/">
-                            CFPB Ombudsman
-                        </a>
-                    </li>
-            </ul>
+            <cfpb-list horizontal gap="wide" color-theme="dark">
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/">
+                        About Us
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/contact-us/">
+                        Contact Us
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/careers/">
+                        Careers
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/events/">
+                        Events
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/enforcement/information-industry-whistleblowers/">
+                        Industry Whistleblowers
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/cfpb-ombudsman/">
+                        CFPB Ombudsman
+                    </a>
+</cfpb-link>
+            </cfpb-list>
             <div class="block
                         block--flush-top
                         block--flush-bottom
@@ -1343,54 +1340,54 @@
             </div>
         </div>
         <div class="o-footer-middle-left">
-            <div class="o-footer__col">
-                <ul class="o-footer__list m-list">
-                    <li class="m-list__item">
-                        <a class="m-list__link" href="/foia-requests/">
-                            FOIA
-                        </a>
-                    </li>
-                    <li class="m-list__item">
-                        <a class="m-list__link"
-                           href="/privacy/website-privacy-policy/">
-                            Website Privacy Policy & Legal Notices
-                        </a>
-                    </li>
-                    <li class="m-list__item">
-                        <a class="m-list__link" href="/accessibility/">
-                            Accessibility
-                        </a>
-                    </li>
-                    <li class="m-list__item">
-                        <a class="m-list__link" href="/office-civil-rights/no-fear-act-cummings-act/">
-                            No FEAR Act &amp; Cummings Act
-                        </a>
-                    </li>
-                </ul>
-            </div>
+            <cfpb-list color-theme="dark">
+                <cfpb-link>
+<a href="/foia-requests/">
+                        FOIA
+                    </a>
+</cfpb-link>
+                <cfpb-link>
+<a href="/privacy/website-privacy-policy/">
+                        Website Privacy Policy &amp; Legal Notices
+                    </a>
+</cfpb-link>
+                <cfpb-link>
+<a href="/accessibility/">
+                        Accessibility
+                    </a>
+</cfpb-link>
+                <cfpb-link>
+<a href="/office-civil-rights/no-fear-act-cummings-act/">
+                        No FEAR Act &amp; Cummings Act
+                    </a>
+</cfpb-link>
+            </cfpb-list>
         </div>
         <div class="o-footer-middle-right">
-                <ul class="o-footer__list m-list">
-                    <li class="m-list__item">
-                        <a class="m-list__link a-link" href="https://www.usa.gov/"><span class="a-link__text">USA.gov</span> <svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.7 1.7 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.65 1.65 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a>
-                    </li>
-                    <li class="m-list__item">
-                        <a class="m-list__link a-link" href="https://oig.federalreserve.gov/"><span class="a-link__text">Office of Inspector General</span> <svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.7 1.7 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.65 1.65 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a>
-                    </li>
-                    <li class="m-list__item">
-                        <a class="m-list__link a-link" href="https://archive-it.org/organizations/2800"><span class="a-link__text">Public Archive</span> <svg aria-hidden="true" class="cf-icon-svg cf-icon-svg--external-link" viewbox="0 0 14 19" xmlns="http://www.w3.org/2000/svg"><path d="M13.017 3.622v4.6a.554.554 0 0 1-1.108 0V4.96L9.747 7.122a1.7 1.7 0 0 1 .13.646v5.57A1.664 1.664 0 0 1 8.215 15h-5.57a1.664 1.664 0 0 1-1.662-1.663v-5.57a1.664 1.664 0 0 1 1.662-1.662h5.57A1.65 1.65 0 0 1 9 6.302l2.126-2.126H7.863a.554.554 0 1 1 0-1.108h4.6a.554.554 0 0 1 .554.554M8.77 8.1l-2.844 2.844a.554.554 0 0 1-.784-.783l2.947-2.948H2.645a.555.555 0 0 0-.554.555v5.57a.555.555 0 0 0 .554.553h5.57a.555.555 0 0 0 .554-.554z"></path></svg></a>
-                    </li>
-                </ul>
+            <cfpb-list color-theme="dark">
+                <cfpb-link link-variant="external" no-top-border="">
+<a href="https://www.usa.gov/">
+                        USA.gov
+                    </a>
+</cfpb-link>
+                <cfpb-link link-variant="external">
+<a href="https://oig.federalreserve.gov/">
+                        Office of Inspector General
+                    </a>
+</cfpb-link>
+                <cfpb-link link-variant="external">
+<a href="https://archive-it.org/organizations/2800">
+                        Public Archive
+                    </a>
+</cfpb-link>
+            </cfpb-list>
         </div>
         <div class="o-footer-post">
-<div class="a-tagline a-tagline--large"
-     aria-label="Official website of the United States government">
-   <span class="u-usa-flag"></span>
-   <div class="a-tagline__text">
-      An official website of the
-      <span class="u-nowrap">United States government</span>
-   </div>
-</div>
+<cfpb-tagline islarge
+  aria-label="Official website of the United States government">
+  An official website of the
+  <span class="u-nowrap">United States government</span>
+</cfpb-tagline>
         </div>
     </div>
 </footer>
