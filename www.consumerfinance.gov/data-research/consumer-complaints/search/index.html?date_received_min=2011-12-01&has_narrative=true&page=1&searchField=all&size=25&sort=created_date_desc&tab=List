@@ -4,27 +4,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
-    <title>Careers at the CFPB | Consumer Financial Protection Bureau</title>
-    <meta name="template" content="v1/sublanding-page/index.html">
+    <title>
+  Search the Consumer Complaint Database | Consumer Financial Protection Bureau
+</title>
+    <meta name="template" content="ccdb-complaint/ccdb-search.html">
     <meta name="description"
-          content="Find information on career opportunities with the Consumer Financial Protection Bureau.">
-      <link rel="canonical" href="https://www.consumerfinance.gov/about-us/careers/">
-      <meta property="og:url" content="https://www.consumerfinance.gov/about-us/careers/">
-    <meta property="og:title" content="Careers at the CFPB | Consumer Financial Protection Bureau">
+          content="
+    The Consumer Complaint Database is a collection of complaints about consumer financial products and services that we sent to companies for response.
+">
+      <link rel="canonical" href="https://www.consumerfinance.gov/data-research/consumer-complaints/search/">
+      <meta property="og:url" content="https://www.consumerfinance.gov/data-research/consumer-complaints/search/">
+    <meta property="og:title" content="
+  Search the Consumer Complaint Database | Consumer Financial Protection Bureau
+">
     <meta property="og:type" content="website">
         <meta property="og:image"
               content="https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png">
         <meta property="twitter:image"
               content="https://www.consumerfinance.gov/static/img/logo_open-graph_twitter.ebc43e92acd1.png">
     <meta property="og:description"
-          content="Find information on career opportunities with the Consumer Financial Protection Bureau.">
+          content="">
     <meta property="og:site_name" content="Consumer Financial Protection Bureau">
     <meta property="fb:app_id" content="210516218981921">
     <link rel="icon" href="/favicon.ico" sizes="any">
     <link rel="icon" href="/icon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <link rel="manifest" href="/site.webmanifest">
-          <link rel="stylesheet" href="/static/css/on-demand/job-listing-list.7570dff7ac97.css" />
     <link rel="preload"
           href="/static/fonts/source-sans-3-latin-wght-normal.30164609c163.woff2"
           as="font"
@@ -182,7 +187,7 @@
 </li>
 <li class="o-mega-menu__content-item o-mega-menu__content-1-item"
     data-js-hook=behavior_flyout-menu>
-    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="#">
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children o-mega-menu__content-link--current o-mega-menu__content-1-link--current" data-js-hook="behavior_flyout-menu_trigger" href="#">
 <div aria-level="2" role="heading">
         Consumer Education
         <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
@@ -224,7 +229,7 @@
 </li>
 <li class="o-mega-menu__content-item o-mega-menu__content-2-item"
     >
-    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link o-mega-menu__content-link--current o-mega-menu__content-2-link--current"
        href="/data-research/consumer-complaints/"
        >
         Consumer Complaint Database
@@ -1007,228 +1012,34 @@
         </div>
     </div>
 </header>
-    <main class="u-layout-grid u-layout-grid--2-1
-                 "
+    <main class="u-layout-grid  u-layout-grid--full-width"
           id="main"
           >
-            <div class="u-layout-grid__content-intro">
-<div class="o-sidebar-breakout
-            content--flush-bottom
-            wrapper">
-    <div class="content__intro">
-        <div class="content-l">
-                        <section class="o-sidebar-breakout__col
-                                        content-l__col
-                                        content-l__col-2-3">
-<h1>Careers at the CFPB</h1>
-    <div class="lead-paragraph">
-        <p data-block-key="a288p">The Consumer Financial Protection Bureau works to create and support innovative and resilient consumer financial markets where consumers can choose the products and services that meet their individual needs.</p><p data-block-key="xs1g0">Come join us.</p>
-    </div>
-    <p data-block-key="jzrrz">People are our most valuable resource. We come from a variety of professional and demographic backgrounds to work at the CFPB, and are all grounded in the same mission: making consumer finance markets work for the American people.</p><p data-block-key="z0jhi">Help us continue to grow and develop this 21st century agency. The work you do will directly impact the lives of American consumers.</p>
-        <ul class="m-list m-list--links">
-            <li class="m-list__item">
-                <a class="a-link a-link--jump"
-                   href="/about-us/careers/working-at-cfpb/"
-                   ><span class="a-link__text">Working at the CFPB</span></a>
-            </li>
-        </ul>
-                        </section>
-            <aside class="o-sidebar-breakout__col
-                          content-l__col
-                          content-l__col-1-3
-                          block
-                          block--flush-bottom">
-<div class="m-jobs-list">
-    <h3>Current openings</h3>
-    <ul class="m-list m-list--unstyled m-list--links">
-        <li class="m-list__item">
-            <a class="a-link a-link--jump"
-               href="/about-us/careers/current-openings/deputy-general-counsel/">
-                <span class="a-link__text">
-                    Deputy General Counsel
-                    <span class="a-link__subtext">
-                        Closing
-                        <span class="datetime"><time datetime="2027-05-14T00:00:00">May 14, 2027</time></span>
-                    </span>
-                </span>
-            </a>
-        </li>
-        <li class="m-list__item">
-            <a class="a-link a-link--jump"
-               href="/about-us/careers/current-openings/litigation-attorney/">
-                <span class="a-link__text">
-                    Litigation Attorney
-                    <span class="a-link__subtext">
-                        Closing
-                        <span class="datetime"><time datetime="2027-05-14T00:00:00">May 14, 2027</time></span>
-                    </span>
-                </span>
-            </a>
-        </li>
-    </ul>
-    <a class="a-btn a-btn--full-on-xs"
-       href="/about-us/careers/current-openings/">
-       View all job openings
-    </a>
-</div>
-            </aside>
-        </div>
-    </div>
-</div>
-<div class="content__line"></div>
-            </div>
         <div class="u-layout-grid__wrapper">
-                <div class="u-layout-grid__main">
-   <div class="block block--flush-top">
-<div class="o-info-unit-group" >
-    <div class="content-l content-l__top-divider">
-        <div class="content-l__col content-l__col-1">
-<div class="m-info-unit m-info-unit--inline">
-        <img class="m-info-unit__image m-info-unit__image--square"
-            src="https://files.consumerfinance.gov/f/images/clipboard-round-300x300.dcd0a1d3464c.original.png"
-            alt="">
-        <div class="m-info-unit__heading-text">
-<h3 id="job-application-process">Job application process</h3>
-        </div><div class="m-info-unit__content">
-        <p data-block-key="2qyzx">The application process can be tricky. We can help.</p>
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/about-us/careers/application-process/">
-                            <span class="a-link__text">Learn how the application process works</span>
-                        </a>
-                </li>
-            </ul>
+                <div class="u-layout-grid__main  ccdb-search">
+  <cfpb-ccdb-search
+    data-css-href="/static/apps/ccdb-search/css/main.7b1133b356b4.css"
+    data-mount-id="ccdb-ui-root"
+  >
+    <div class="u-hide-if-js wrapper u-mt60 u-mb60">
+  <div class="m-notification m-notification--error m-notification--visible">
+      <cfpb-icon name="error-round"></cfpb-icon>
+      <div class="m-notification__content"
+          >
+          <div class="m-notification__message">This interactive tool is not supported in your web browser</div>
+              <div class="m-notification__explanation">Please use a newer browser or download the data.</div>
+                  <ul class="m-list m-list--links">
+                      <li class="m-list__item">
+                          <a class="a-link a-link--jump"
+                             href="/data-research/consumer-complaints/#download-the-data"
+                             ><span class="a-link__text">Download the data</span></a>
+                      </li>
+                  </ul>
+      </div>
+  </div>
     </div>
-</div>
-        </div>
-        <div class="content-l__col content-l__col-1">
-<div class="m-info-unit m-info-unit--inline">
-        <img class="m-info-unit__image m-info-unit__image--square"
-            src="https://files.consumerfinance.gov/f/images/grad-cap-round-300x300.658d4959796f.original.png"
-            alt="">
-        <div class="m-info-unit__heading-text">
-<h3 id="students-and-recent-graduates">Students and recent graduates</h3>
-        </div><div class="m-info-unit__content">
-        <p data-block-key="v0ok2">Find opportunities in public service for a new generation of leaders.</p>
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="/about-us/careers/students-and-graduates/">
-                            <span class="a-link__text">Learn about opportunities for students and graduates</span>
-                        </a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-        <div class="content-l__col content-l__col-1">
-<div class="m-info-unit m-info-unit--inline">
-        <img class="m-info-unit__image m-info-unit__image--square"
-            src="https://files.consumerfinance.gov/f/images/cfpb_disability-employment_300x300.original.png"
-            alt="">
-        <div class="m-info-unit__heading-text">
-<h3 id="individuals-with-disabilities">Individuals with Disabilities</h3>
-        </div><div class="m-info-unit__content">
-        <p data-block-key="rdfyw">The Consumer Financial Protection Bureau is committed to building a workforce that is highly skilled, diverse, and inclusive.</p>
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump"
-                            href="disability-employment">
-                            <span class="a-link__text">Learn more about special hiring authorities for people with disabilities and veterans.</span>
-                        </a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-    </div>
-</div>
-   </div>
-   <div class="block block--padded-top block--border-top">
-<div class="o-info-unit-group" >
-    <div class="content-l">
-        <div class="content-l__col content-l__col-1-2">
-<div class="m-info-unit">
-        <div class="m-info-unit__heading-text">
-<h4 id="follow-us-on-linkedin"><cfpb-icon name="linkedin-square"></cfpb-icon> Follow us on LinkedIn</h4>
-        </div><div class="m-info-unit__content">
-        <p data-block-key="i7a2l">The CFPB is one of the most searched for agencies in the federal government. Connect with us to stay updated on the work we do and new opportunities.</p>
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item"><a class="a-link a-link--jump" href="https://www.linkedin.com/company/consumer-financial-protection-bureau">
-<span class="a-link__text">Follow us on LinkedIn</span>
- <cfpb-icon name="external-link"></cfpb-icon></a>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-        <div class="content-l__col content-l__col-1-2">
-<div class="m-info-unit">
-        <div class="m-info-unit__heading-text">
-<h4 id="provide-feedback">Provide feedback</h4>
-        </div><div class="m-info-unit__content">
-        <p data-block-key="a1aih">We take pride in our feedback-centered culture that helps us recruit great people. If you have comments, or questions, let us know.</p>
-            <ul class="m-list m-list--links u-mt15">
-                <li class="m-list__item">
-<div class="m-contact m-contact-email">
-    <span class="h5">
-        <cfpb-icon name="email"></cfpb-icon>
-        Email
-    </span>
-    <p>
-            <a href="mailto:jobs@consumerfinance.gov">
-                jobs@consumerfinance.gov
-            </a><br>
-    </p>
-</div>
-                </li>
-            </ul>
-    </div>
-</div>
-        </div>
-    </div>
-</div>
-   </div>
-<div class="block u-screen-only">
-    <p><hr></p>
-    <p>Page last modified <span class="datetime"><time datetime="2026-05-28T12:26:57-0400">May 28, 2026</time>
-    <span>@</span>
-    <time datetime="2026-05-28T12:26:57-0400">
-        12:26 PM EDT
-    </time></span></p>
- </div>
+  </cfpb-ccdb-search>
                 </div>
-                <aside class="u-layout-grid__sidebar" role="complementary">
-   <div class="block block--flush-top">
-   </div>
-   <div class="block">
-      <div class="m-related-links">
-        <header class="m-slug-header">
-            <h2 class="m-slug-header__heading" id="related-links">
-                RELATED LINKS
-            </h2>
-        </header>
-        <ul class="m-list m-list--links">
-            <li class="m-list__item">
-                <a href="/about-us/blog/"
-                  class="a-link a-link--jump">
-                  <span class="a-link__text">CFPB Blog</span>
-                </a>
-            </li>
-            <li class="m-list__item">
-                <a href="/about-us/newsroom/"
-                  class="a-link a-link--jump">
-                  <span class="a-link__text">Newsroom</span>
-                </a>
-            </li>
-            <li class="m-list__item">
-                <a href="/office-civil-rights/"
-                  class="a-link a-link--jump">
-                  <span class="a-link__text">Office of Civil Rights</span>
-                </a>
-            </li>
-        </ul>
-</div>
-   </div>
-                </aside>
         </div>
     </main>
 <footer class="o-footer">
