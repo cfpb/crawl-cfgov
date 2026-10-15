@@ -1,0 +1,1310 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# ">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+    <title>Behind on Rent? Examining Rental Housing Delinquencies in New Payment Data | Consumer Financial Protection Bureau</title>
+    <meta name="template" content="v1/document-detail/index.html">
+    <meta name="description"
+          content="Report provides insights on rental housing payment delinquencies using new payment data.">
+      <link rel="canonical" href="https://www.consumerfinance.gov/data-research/research-reports/behind-on-rent-examining-rental-housing-delinquencies-in-new-payment-data/">
+      <meta property="og:url" content="https://www.consumerfinance.gov/data-research/research-reports/behind-on-rent-examining-rental-housing-delinquencies-in-new-payment-data/">
+    <meta property="og:title" content="Behind on Rent? Examining Rental Housing Delinquencies in New Payment Data | Consumer Financial Protection Bureau">
+    <meta property="og:type" content="website">
+        <meta property="og:image"
+              content="https://www.consumerfinance.gov/static/img/logo_open-graph_facebook.d0dedfbe1787.png">
+        <meta property="twitter:image"
+              content="https://www.consumerfinance.gov/static/img/logo_open-graph_twitter.ebc43e92acd1.png">
+    <meta property="og:description"
+          content="Report provides insights on rental housing payment delinquencies using new payment data.">
+    <meta property="og:site_name" content="Consumer Financial Protection Bureau">
+    <meta property="fb:app_id" content="210516218981921">
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="preload"
+          href="/static/fonts/source-sans-3-latin-wght-normal.30164609c163.woff2"
+          as="font"
+          type="font/woff2" crossorigin>
+    <link rel="preload" href="/static/js/routes/common.ab2062fcfee3.js" as="script">
+    <link rel="preconnect" href="//google-analytics.com/" crossorigin>
+    <link rel="dns-prefetch" href="//google-analytics.com/">
+    <link rel="preconnect" href="//googletagmanager.com/" crossorigin>
+    <link rel="dns-prefetch" href="//googletagmanager.com/">
+    <link rel="preconnect" href="//js-agent.newrelic.com/" crossorigin>
+    <link rel="dns-prefetch" href="//js-agent.newrelic.com/">
+    <link rel="dns-prefetch" href="//ytimg.com/">
+    <link rel="dns-prefetch" href="//doubleclick.net/">
+</head>
+<body>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KMMLRS"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <div class="a-overlay u-hidden"></div>
+    <div class="skip-nav">
+        <a class="a-btn skip-nav__link"
+          href="#main">
+            Skip to main content
+        </a>
+    </div>
+<header class="o-header o-header--mega-menu">
+    <div class="m-global-eyebrow
+                m-global-eyebrow--horizontal">
+        <div class="wrapper
+                    wrapper--match-content">
+<cfpb-tagline
+  aria-label="Official website of the United States government">
+  An official website of the
+  <span class="u-nowrap">United States government</span>
+</cfpb-tagline>
+            <div class="m-global-eyebrow__actions">
+                <span class="m-global-eyebrow__phone">
+                    <a href="tel:+1-855-411-2372">(855) 411-2372</a>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="o-header__content">
+        <div class="wrapper wrapper--match-content">
+            <a class="o-header__logo u-link-text-is-url" href="/">
+<img alt="Consumer Financial Protection Bureau" class="o-header__logo-img" height="50" sizes="(max-width: 900px) 161px, 237px" src="/static/img/logo_237x50.c7c2ba6c929f.png" srcset="/static/img/logo_161x34.4afedaf12f6b.png 161w,
+                             /static/img/logo_161x34@2x.fff273f43f0a.png 322w,
+                             /static/img/logo_161x34@3x.f2571ba0e5b0.png 483w,
+                             /static/img/logo_161x34@4x.ea36178a3ff3.png 644w,
+                             /static/img/logo_237x50.c7c2ba6c929f.png 237w,
+                             /static/img/logo_237x50@2x.1a8febf782f9.png 474w" width="237"/>
+</a>
+    <div class="m-global-header-cta">
+        <a class="a-link" href="/complaint/">
+            <cfpb-icon name="complaint"></cfpb-icon>
+            <span class="a-link__text">Submit a Complaint</span>
+        </a>
+    </div>
+            <div class="m-global-search"
+     data-js-hook="behavior_flyout-menu">
+    <div class="m-global-search__fallback">
+        <a rel="nofollow" href="/search/">
+            Search
+        </a>
+    </div>
+    <button class="m-global-search__trigger"
+            data-js-hook="behavior_flyout-menu_trigger"
+            aria-label="Search the consumerfinance.gov website">
+        <span class="m-global-search__trigger-open-label">
+            <cfpb-icon name="search"></cfpb-icon>
+            <span class="u-hide-on-mobile">Search</span>
+        </span>
+        <span class="m-global-search__trigger-close-label">
+            <cfpb-icon name="error"></cfpb-icon>
+            <span class="u-hide-on-mobile">Close</span>
+        </span>
+    </button>
+    <div class="m-global-search__content
+                u-hidden"
+         data-js-hook="behavior_flyout-menu_content"
+         role="search">
+        <form class="m-global-search__content-form"
+              action="/search/"
+              method="get">
+<div class="o-search-input">
+    <div class="o-search-input__input">
+        <label for="m-global-search_query"
+               class="o-search-input__input-label">
+            <cfpb-icon name="search"></cfpb-icon>
+        </label>
+        <input type="search"
+               id="m-global-search_query"
+               name="q"
+               value=""
+               class="a-text-input"
+               placeholder="Search the CFPB"
+               title="Search the CFPB"
+               autocomplete="off"
+               maxlength="75"
+               aria-label="Search for your question"
+               >
+        <button type="reset"
+                onclick="document.getElementById('m-global-search_query').setAttribute('value','')"
+                aria-label="Clear search"
+                title="Clear search">
+            <cfpb-icon name="error"></cfpb-icon>
+        </button>
+    </div>
+    <button class="a-btn"
+            type="submit"
+            aria-label="Search the CFPB">
+        Search
+    </button>
+</div>
+        </form>
+    </div>
+</div>
+<nav class="o-mega-menu
+            u-hidden"
+     data-js-hook="behavior_flyout-menu"
+     aria-label="Main menu">
+    <button class="o-mega-menu__trigger"
+            data-js-hook="behavior_flyout-menu_trigger"
+            aria-haspopup="menu">
+        <span class="o-mega-menu__trigger-open">
+            <cfpb-icon name="menu"></cfpb-icon>
+            <span class="u-visually-hidden">
+                Open the main menu
+            </span>
+        </span>
+        <span class="o-mega-menu__trigger-close">
+            <cfpb-icon name="error"></cfpb-icon>
+            <span class="u-visually-hidden">
+                Close the main menu
+            </span>
+        </span>
+    </button>
+<div class="o-mega-menu__content o-mega-menu__content-1"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-1-wrapper">
+        <div class="o-mega-menu__content-lists o-mega-menu__content-1-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-1-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-1-list">
+            <ul
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item o-mega-menu__content-item--has-icon o-mega-menu__content-1-item--has-icon"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-1-link" href="/complaint/">
+<div aria-level="2" role="heading">
+<span class="o-mega-menu__content-link-icon-pre o-mega-menu__content-1-link-icon-pre"><cfpb-icon name="complaint"></cfpb-icon></span>
+        Submit a Complaint
+        </div>
+</a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="#">
+<div aria-level="2" role="heading">
+        Consumer Education
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Consumer Education"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/"
+       >
+        Resources for Yourself
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/newsroom/?categories=consumer-advisories"
+       >
+        Consumer Advisories
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <div role="heading"
+                 aria-level="3"
+                 aria-label="Money Topics"
+                 class="h5 o-mega-menu__group-heading"
+                 id="money-topics-menu">
+                 Money Topics
+            </div>
+            <ul
+                aria-labelledby="money-topics-menu"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/auto-loans/"
+       >
+        Auto Loans
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/bank-accounts/"
+       >
+        Bank Accounts &amp; Services
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/credit-cards/"
+       >
+        Credit Cards
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/credit-reports-and-scores/"
+       >
+        Credit Reports &amp; Scores
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/debt-collection/"
+       >
+        Debt Collection
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/fraud/"
+       >
+        Fraud &amp; Scams
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <div role="heading"
+                 aria-level="3"
+                 aria-label="Money Topics continued"
+                 class="h5 o-mega-menu__group-heading o-mega-menu__group-heading--hidden"
+                 id="money-topics-continued-menu">
+                 Money Topics
+            </div>
+            <ul
+                aria-labelledby="money-topics-continued-menu"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/money-transfers/"
+       >
+        Money Transfers
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/mortgages/"
+       >
+        Mortgages
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/payday-loans/"
+       >
+        Payday Loans
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/prepaid-cards/"
+       >
+        Prepaid Cards
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/student-loans/"
+       >
+        Private Student Loans
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/consumer-tools/reverse-mortgages/"
+       >
+        Reverse Mortgages
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+            <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+                <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+                    <div role="heading"
+                         aria-level="3"
+                         class="h5 o-mega-menu__group-heading">
+                        Additional Resources
+                    </div>
+                    <ul aria-label="Additional Resources">
+                        <li class="o-mega-menu__content-item o-mega-menu__content-2-item o-mega-menu__content-item--has-icon o-mega-menu__content-2-item--has-icon">
+                            <a class="a-link o-mega-menu__content-link o-mega-menu__content-2-link"
+                            href="/complaint/">
+                                <cfpb-icon name="complaint"></cfpb-icon>
+                                <span class="a-link__text">Submit a Complaint</span>
+                            </a>
+                        </li>
+                        <li class="o-mega-menu__content-item o-mega-menu__content-2-item o-mega-menu__content-item--has-icon o-mega-menu__content-2-item--has-icon">
+                            <a class="a-link o-mega-menu__content-link o-mega-menu__content-2-link"
+                            href="/accessibility/plain-writing/">
+                                <cfpb-icon name="open-quote"></cfpb-icon>
+                                <span class="a-link__text">Plain Writing</span>
+                            </a>
+                        </li>
+                        <li class="o-mega-menu__content-item o-mega-menu__content-2-item o-mega-menu__content-item--has-icon o-mega-menu__content-2-item--has-icon">
+                            <a class="a-link o-mega-menu__content-link o-mega-menu__content-2-link"
+                            href="/ask-cfpb/">
+                                <cfpb-icon name="lightbulb"></cfpb-icon>
+                                <span class="a-link__text">Browse Ask CFPB</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="/rules-policy/">
+<div aria-level="2" role="heading">
+        Rules &amp; Policy
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-overview o-mega-menu__content-2-overview o-mega-menu__content-overview-heading o-mega-menu__content-2-overview-heading">
+            <a class="o-mega-menu__content-overview-link o-mega-menu__content-2-overview-link"
+               href="/rules-policy/">
+                Rules &amp; Policy Overview
+            </a>
+        </div>
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Rules & Policy"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/final-rules/"
+       >
+        Final Rules
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/regulations/"
+       >
+        Interactive Regulations
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Rules & Policy"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/rules-under-development/"
+       >
+        Rules Under Development
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/notice-opportunities-comment/"
+       >
+        Notices and Opportunities to Comment
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/regulatory-agenda/"
+       >
+        Regulatory Agenda
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/petitions-rulemaking/"
+       >
+        Petitions for Rulemaking
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Rules & Policy"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/competition-innovation/"
+       >
+        Competition and Innovation
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/advisory-committees/"
+       >
+        Advisory Committees
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="/enforcement/">
+<div aria-level="2" role="heading">
+        Enforcement
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-overview o-mega-menu__content-2-overview o-mega-menu__content-overview-heading o-mega-menu__content-2-overview-heading">
+            <a class="o-mega-menu__content-overview-link o-mega-menu__content-2-overview-link"
+               href="/enforcement/">
+                Enforcement Overview
+            </a>
+        </div>
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Enforcement"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/payments-harmed-consumers/"
+       >
+        Payments to Harmed Consumers
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/2025-enforcement-lookback/"
+       >
+        2025 Enforcement Lookback
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/actions/"
+       >
+        Enforcement Actions
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/investigatory-authority/"
+       >
+        Investigatory Authority
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Enforcement"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/life-cycle-of-enforcement-action/"
+       >
+        Life Cycle of an Enforcement Action
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/enforcement-principles/"
+       >
+        Enforcement Principles
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/enforcement/supervision-and-enforcement-priorities/"
+       >
+        Supervision and Enforcement Priorities
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="/compliance/supervision-examinations/">
+<div aria-level="2" role="heading">
+        Supervision
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-overview o-mega-menu__content-2-overview o-mega-menu__content-overview-heading o-mega-menu__content-2-overview-heading">
+            <a class="o-mega-menu__content-overview-link o-mega-menu__content-2-overview-link"
+               href="/compliance/supervision-examinations/">
+                Supervision Overview
+            </a>
+        </div>
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Supervision"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/"
+       >
+        Compliance overview
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/compliance-resources/"
+       >
+        Compliance resources
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/guidance/"
+       >
+        Guidance
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Supervision"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/registration-and-submission-programs/"
+       >
+        Registration &amp; Submission Programs
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/compliance/consumer-complaint-program/"
+       >
+        Consumer Complaint Program
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children o-mega-menu__content-link--current o-mega-menu__content-1-link--current" data-js-hook="behavior_flyout-menu_trigger" href="/data-research/">
+<div aria-level="2" role="heading">
+        Data &amp; Research
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-overview o-mega-menu__content-2-overview o-mega-menu__content-overview-heading o-mega-menu__content-2-overview-heading">
+            <a class="o-mega-menu__content-overview-link o-mega-menu__content-2-overview-link"
+               href="/data-research/">
+                Data &amp; Research Overview
+            </a>
+        </div>
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Data & Research"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link o-mega-menu__content-link--current o-mega-menu__content-2-link--current"
+       href="/data-research/research-reports/"
+       >
+        Reports
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/research-hub/"
+       >
+        Research Hub
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/consumer-complaints/"
+       >
+        Consumer Complaint Database
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/hmda/"
+       >
+        Mortgage Database (HMDA)
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/small-business-lending/"
+       >
+        Small Business Lending Database
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Data & Research"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/public-data-inventory/"
+       >
+        Public Data Inventory
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/consumer-credit-trends/"
+       >
+        Consumer Credit Trends
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/mortgage-performance-trends/"
+       >
+        Mortgage Performance Trends
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/financial-well-being-survey-data/"
+       >
+        Financial Well-Being Survey
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="Data & Research"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/credit-card-data/"
+       >
+        Credit Card Surveys &amp; Agreements
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/prepaid-accounts/"
+       >
+        Prepaid Account Agreements
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/making-ends-meet-survey-data/"
+       >
+        Making Ends Meet Survey Data
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/data-research/national-age-friendly-banking-survey-data/"
+       >
+        National Age-Friendly Banking Survey
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+            <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+                <div class="o-mega-menu__content-list o-mega-menu__content-2-list o-mega-menu__content-list--featured o-mega-menu__content-2-list--featured">
+                    <div role="heading"
+                         aria-level="3"
+                         class="h5 o-mega-menu__group-heading">
+                        Featured
+                    </div>
+                    <ul aria-label="Featured">
+                        <li class="o-mega-menu__content-item o-mega-menu__content-2-item o-mega-menu__content-item--has-icon o-mega-menu__content-2-item--has-icon">
+                            <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+                                href="/data-research/financial-well-being-survey-data/">
+                                <cfpb-icon name="favorite"></cfpb-icon>
+                                <span><span class="a-link__text">Help advance financial well-being</span></span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-1-item"
+    data-js-hook=behavior_flyout-menu>
+    <a aria-haspopup="menu" class="o-mega-menu__content-link o-mega-menu__content-1-link o-mega-menu__content-link--has-children o-mega-menu__content-1-link--has-children" data-js-hook="behavior_flyout-menu_trigger" href="#">
+<div aria-level="2" role="heading">
+        About Us
+        <span class="o-mega-menu__content-link-icon-post o-mega-menu__content-1-link-icon-post"><cfpb-icon name="right"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-closed o-mega-menu__content-1-link-icon-closed"><cfpb-icon name="down"></cfpb-icon></span>
+<span class="o-mega-menu__content-link-icon-open o-mega-menu__content-1-link-icon-open"><cfpb-icon name="up"></cfpb-icon></span>
+</div>
+</a>
+<div class="o-mega-menu__content o-mega-menu__content-2"
+     aria-label="Main menu submenu"
+     role="navigation"
+     data-js-hook="behavior_flyout-menu_content">
+    <button class="o-mega-menu__content-alt-trigger o-mega-menu__content-2-alt-trigger"
+            data-js-hook="behavior_flyout-menu_trigger">
+        <cfpb-icon name="left"></cfpb-icon>
+        Back
+    </button>
+    <div class="o-mega-menu__content-wrapper o-mega-menu__content-2-wrapper">
+        <div class="o-mega-menu__content-lists o-mega-menu__content-2-lists">
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="About Us"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/"
+       >
+        About Us
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/activity-log/"
+       >
+        Recent Updates
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/careers/"
+       >
+        Careers
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/rules-policy/advisory-committees/"
+       >
+        Advisory Committees
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+    <div class="o-mega-menu__content-list-group o-mega-menu__content-2-list-group">
+        <div class="o-mega-menu__content-list o-mega-menu__content-2-list">
+            <ul
+                aria-label="About Us"
+                >
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/newsroom/"
+       >
+        Newsroom
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/contact-us/"
+       >
+        Contact Us
+    </a>
+</li>
+<li class="o-mega-menu__content-item o-mega-menu__content-2-item"
+    >
+    <a class="o-mega-menu__content-link o-mega-menu__content-2-link"
+       href="/about-us/events/"
+       >
+        Events
+    </a>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+</div>
+</li>
+            </ul>
+        </div>
+    </div>
+        </div>
+    </div>
+    <div class="m-global-eyebrow
+                m-global-eyebrow--list">
+        <div class="wrapper
+                    ">
+            <div class="m-global-eyebrow__actions">
+                <span class="m-global-eyebrow__phone">
+                    <a href="tel:+1-855-411-2372">(855) 411-2372</a>
+                </span>
+            </div>
+        </div>
+    </div>
+</div>
+</nav>
+        </div>
+    </div>
+</header>
+    <main class="u-layout-grid u-layout-grid--2-1
+                 "
+          id="main"
+          >
+        <div class="u-layout-grid__wrapper">
+    <div class="u-layout-grid__breadcrumbs">
+     <nav class="m-breadcrumbs" aria-label="Breadcrumbs">
+             / 
+                <a class="m-breadcrumbs__crumb"
+                   href="/data-research/">
+                    Data &amp; Research
+                </a>
+             / 
+                <a class="m-breadcrumbs__crumb"
+                   href="/data-research/research-reports/">
+                    Reports
+                </a>
+     </nav>
+    </div>
+                <div class="u-layout-grid__main">
+            <div class="o-item-introduction">
+    <div class="o-item-introduction__intro">
+        <a href="/data-research/research-reports/?categories=data-spotlight" class="h4">
+       <span class="u-visually-hidden">Category:</span>
+        Data spotlight
+        </a>
+        </div>
+    <h1>Behind on Rent? Examining Rental Housing Delinquencies in New Payment Data</h1>
+        <div class="meta">
+            <span class="byline">By 
+                B. Heath Witzen
+            </span>
+            &ndash;
+            <span class="a-date">
+                <span class="datetime"><time datetime="2025-01-24T00:00:00">JAN 24, 2025</time></span>
+            </span>
+        </div>
+</div>
+   <div class="block block--flush-top">
+<div class="o-full-width-text-group">
+            <div class="m-full-width-text">
+                <p data-block-key="bfuno">For the 35 percent of American households that live in rental housing, rent is one of their largest expenses.<a aria-labelledby="footnotes" href="#footnote-1" id="footnote-source-1"><sup>1</sup></a> Falling behind on rent payments is a potential indicator of economic stress and a possible precursor to more severe outcomes such as having to move or being evicted. In the U.S., there are limited data sources that can describe the degree to which households are falling behind on rent payments.<a aria-labelledby="footnotes" href="#footnote-2" id="footnote-source-2"><sup>2</sup></a> We provide a first look at new rental housing payment and delinquency data that may be able to give high-frequency insight into the degree to which consumers are falling behind on their rent.</p><p data-block-key="39edc">Using the new rental housing payment data, we find:</p><ol><li data-block-key="efd5j">The fraction of renters incurring a late fee in the last twelve months, the most common delinquent status we observe, increased from 15.4 percent at the end of 2021 to 23 percent at the beginning of 2023 but declined to 14 percent by November 2024.</li><li data-block-key="6g2jf">Around half of renters who incur a late fee return to having their rent paid on time. The remainder continue to persist in some form of delinquent status or are no longer observed in the dataset.</li><li data-block-key="eugn6">Among those who incur a late or non-sufficient funds fee, incurring multiple fees of the same type in a twelve-month period is a frequent occurrence.</li><li data-block-key="d4nto">The average late fee is around $85, and the average non-sufficient funds fee is around $40. The median outstanding balance ($3,200) and median values of write-offs ($1,850 for non-rent write-offs and $1,650 for rent write-offs).</li></ol><h2 id="data-description" data-block-key="ejz5x">Data Description</h2><p data-block-key="atnl8">This is the first use of new rental housing payment information that the CFPB purchased to augment its Consumer Credit Information Panel (CCIP). This dataset provides monthly information on renters' rental housing payments, delinquency status, lease information (including contractual rent), and rental housing inquiries sourced from the vendor’s database. While this dataset is not designed to be representative of the U.S. renter population, the data still cover a wide range of renters and geographies and can provide useful statistics on the rental housing market. <a href="/data-research/research-reports/an-introduction-to-the-cfpbs-rental-payment-data-and-analysis/">An accompanying technical report</a> provides more in-depth coverage of what is included in the dataset, provides aggregate statistics, and examines the degree to which the rental housing payment data are representative of the U.S. renter population. The report’s exercises are not intended to evaluate the validity of individual tradelines within the payment data, but to examine the overall trends.</p><p data-block-key="75klb">In this spotlight, we document several measures of rent payment delinquency. These include the amount and frequency of two types of fees, non-sufficient funds (NSF) and late fees, that renters incur. An NSF fee indicates that the renter did not have adequate funds in their account when their landlord processed their rent payment. A late fee indicates that the landlord charged the tenant a fee for not having paid their rent on time. We also observe outstanding balances and write-offs. If a renter has failed to pay their full rent amount, an outstanding balance may be reported. A write-off occurs when the landlord has decided to write-off an outstanding balance, which we observe for both rent and non-rent amounts (i.e., utilities and other charges that are not part of the base rent for the property).</p><h2 id="what-fraction-of-renters-have-been-behind-on-their-rent-in-the-last-twelve-months" data-block-key="4ryq9">What fraction of renters have been behind on their rent in the last twelve months?</h2><p data-block-key="sq2g">For each of these delinquent payment statuses, we examine the fraction of renters with that status over time. Figure 1 shows the percent of renters with a late fee, an NSF fee, an outstanding balance, a non-rent write-off, and a rent write-off in the last twelve months, for each month between September 2021 and November 2024. The statuses are not mutually exclusive and therefore a consumer could have incurred, for example, both a late fee and an NSF fee in the last 12 months. To compute these series, we limited each month's data strictly to renters that had any transaction history within the last twelve months.</p><p data-block-key="ddluh">Late fees are by far the most common type of delinquency we observe, ranging from 14 percent to 23 percent of active renters, while the remaining statuses are each reported for less than 5 percent of active renters. While there are no direct comparisons to outside sources with the same definition, the proportion of renters behind on their rent is similar to a measure in the Federal Reserve Board's Survey of Household Economics and Decision-making. <a class="a-link" href="https://www.federalreserve.gov/publications/2024-economic-well-being-of-us-households-in-2023-executive-summary.htm"><span class="a-link__text">The 2023 edition of this survey</span> <cfpb-icon name="external-link"></cfpb-icon></a> found that 19 percent of renters reported being "behind on their rent at some point in the past year."</p><p data-block-key="3bfur">The fraction of renters with a late fee in the last twelve months rose after 2021, peaked in 2023, and has since been declining. In September 2021, the fraction of renters with a late fee was just over 15 percent, but this increased to a peak of 23 percent by February of 2023. Since then, the fraction has declined and around 14 percent of renters in November of 2024 had incurred a late fee in the past 12 months.</p><p data-block-key="6r127">The fraction of active renters with an outstanding balance has been more stable, hovering at around 5 percent from September 2021 through February 2024. However, since then the rate has decreased to just below 3 percent in November 2024. The fraction with a non-rent write-off and NSF fees have hovered around 3 percent and the fraction of rent write-off is very nearly zero in this sample. This could reflect furnishing behavior and could suggest furnishers rarely use write-offs for rent amounts, rather than providing information about the condition of renters’ accounts.</p><p data-block-key="7qj62">These combined results could suggest that, overall, the financial conditions of active renters are improving. Additional work in the accompanying technical report suggests that the decrease in the fraction of renters with late fees is not primarily driven by changes in the composition of our rental housing payment data.</p><h3 id="figure-1:-percent-of-renters-with-derogatory-payment-information-within-the-last-twelve-months836422" data-block-key="s55lx">Figure 1: Percent of renters with derogatory payment information within the last twelve months<a aria-labelledby="footnotes" href="#footnote-3" id="footnote-source-3"><sup>3</sup></a></h3><img alt="A line graph showing the percent of renters with a late fee, an NSF fee, an outstanding balance, a non-rent write-off, and a rent write-off within the last twelve months in each month. The graph plots these series monthly from September 2021 through November 2024. The y-axis is the percent of renters with the form of delinquency in the last twelve months. The percentage of renters with a late fee rose from 15 percent in September 2021 to a peak of 23 percent in February 2023 and decreased to 13.8 percent in November 2024. The percent of renters with an NSF fee was stable between 3.5 percent and 4 percent from September 2021 through June 2024 and then declined to 2.48 percent in October 2024. The percent of renters with an outstanding balance increased slightly from 4.9 percent in September 2021, peaked at 6 percent in April 2023, and decreased to 2.77 percent by October 2024. The percent of renters with a non-rent write-off rose from 2.9 percent in September 2021, peaked at 4.2 percent in July 2023, and decreased to 2.59 percent in October 2024. The percent of renters with a reported rent write-off is very nearly zero for the entire time period." class="richtext-image full-width" height="513" src="https://files.consumerfinance.gov/f/images/cfpb_data-spotlight-behind-on-rent-figure-1__2.width-800.png" width="800"><p data-block-key="1bg3s"><b>Source:</b> CFPB rental housing payment data</p><h2 id="how-persistent-is-rent-payment-delinquency" data-block-key="4u6by">How persistent is rent payment delinquency?</h2><p data-block-key="92rao">We also examine the degree to which incurring a late fee is a persistent or transient status. To do this, we limit the data to only renters who experience a change in payment status from "paid" to a late fee. In other words, we focus on renters who incur a late fee for the first time within our sample time period and examine what happens in the months following their first late fee. In Figure 2, we show the proportion of these renters across payments statuses up to five months after their first late fee.</p><p data-block-key="4m90l">We find that over half of renters immediately bounce back to being current. Of those who incur their first late fee, just over half have "paid" as their status in the following months after, meaning that none of the delinquent statuses apply to the renter in that month. The remaining population of late renters seem to persist in some form of delinquency. Around 42 percent of renters incur another late fee in the month immediately following their first late fee, and around 30 percent are still experiencing late fees five months later. The proportion of this population experiencing more serious forms of delinquency, such as outstanding balances and write-offs, also increases in the months following the first late fee. Additionally, we report the proportion of renters who leave our sample and can no longer be observed in each month after their late fee. This likely suggests that the renter has moved and is therefore no longer renting from an entity that reports information to this dataset. While the late fee may impact their decision to move, we cannot necessarily draw any inferences from this figure, as there is a chance that any active renter in our dataset moves and leaves the data.</p><h3 id="figure-2:-the-status-of-renters-in-the-months-following-their-first-late-charge" data-block-key="vdr45">Figure 2: The status of renters in the months following their first late charge</h3><img alt=": A bar graph which shows, among renters who ever receive a late charge, the fraction of renters with a given type of delinquency in months one through five after receiving the late charge. The possible statuses, on the x axis, are “paid”, “NSF,” “Late,” “Outstanding,” “Write-off,” or “Exit from data.” The fraction of renters with “paid” status is consistently between 50 percent and 60 percent from one to five months after their first late charge. The fraction of renters with NSF is very nearly zero from one to five months after their first late charge. The fraction with a “late” status is around 42 percent in the first month after the late charge and this fraction declines to around 30 percent by five months after the first late charge. The fraction of outstanding is 2 percent in the month after the first late charge and this rises to 5 percent by five months after the first late charge. The fraction with any write-off is 0.7 percent after the first late charge and steadily rises to 4 percent by five months after the first late charge. The fraction of consumers who exited the data is around 1 percent in the month after the first late charge and rises to almost 4 percent by five months after the first late charge." class="richtext-image full-width" height="499" src="https://files.consumerfinance.gov/f/images/cfpb_data-spotlight-behind-on-rent-figure-2__2.width-800.png" width="563"><p data-block-key="atu2o"><b>Source:</b> CFPB rental housing payment data</p><h2 id="how-often-do-renters-incur-fees-and-how-much-are-they" data-block-key="syygo">How often do renters incur fees and how much are they?</h2><p data-block-key="9ael2">We examine the frequency of late and NSF fees incurred by renters in this dataset and find that each type of fee is often a repeat occurrence. Figure 3 shows, among renters with at least one late fee in the last 12 months, the proportion of renters who experience a given number of late fees. In other words, an example of a question the figure can answer is: "Of those who incurred a late fee, what fraction had at least 3 or more late fees over 12 months?" We measure this in November 2024 among consumers with active rental histories, though the patterns are very similar when other months are used. Figure 3 also plots the same exercise for NSF fees with the analogous interpretation.</p><p data-block-key="86rh9">Figure 3 illustrates that if a renter experiences one late fee, there a good chance they experienced another within the 12-month period. Just under 60 percent of those who incur any late fees experience two or more. Over 20 percent of renters with at least one late fee have five or more late fees in the last twelve months. NSF fees are not quite the repeat occurrence that late fees seem to be, but over 20 percent of renters with at least one NSF fee had at least 2 NSF fees.</p><h3 id="figure-3:-the-percent-of-renters-who-have-at-least-x-fees-among-those-with-at-least-one-fee" data-block-key="vm171">Figure 3: The percent of renters who have at least X fees, among those with at least one fee</h3><img alt="A figure plots two bar graphs side by side. The first bar graph represents, among renters with any late fees in the last twelve months, the fraction of renters with at least X number of late fees in the last twelve months. The first bar graph represents, among renters with any NSF fees in the last twelve months, the fraction of renters with at least X number of NSF fees in the last twelve months. The y-axis is the fraction of renters and the x-axis is the number of fees. The late fee bar graph is skewed to the right. Around 60 percent of renters with any late fees have at least 2 late fees in the last twelve months and this declines to around 20 percent with at least 6 late fees. The NSF fee bar graph is also skewed to the right. Around 20 percent of renters with any NSF fees have at least 2 NSF fees in the last twelve months and declines more sharply to nearly zero having 6 or more late fees." class="richtext-image full-width" height="562" src="https://files.consumerfinance.gov/f/images/cfpb_data-spotlight-behind-on-rent-figure-3_20.width-800.png" width="742"><p data-block-key="1cdml"><b>Source:</b> CFPB rental housing payment data</p><p data-block-key="f1i6i">Using these data, we also measure the average fee amount.3 Figure 4 shows the average fee amount for both late and NSF fees over time in nominal terms (i.e., not adjusting for inflation). The average late fee amount has increased from just over $70 in September 2021 to $84 in November of 2024. The average NSF fee amount has remained fairly stable, around $42 for most of the time period.</p><h3 id="figure-4:-average-late-and-nsf-fee-amounts-over-time" data-block-key="hoqmu">Figure 4: Average late and NSF fee amounts over time</h3><img alt="A line graph showing two series plotted. The first is the average late fee over time, in nominal dollars, among renters who incurred a late fee in a given month. The second is the average NSF fee over time, in nominal dollars, among renters who incurred an NSF fee in a given month. The y-axis is in dollars and the x-axis is the month. The average late fee is around $72 in September of 2021 and steadily rises to almost $85 by November 2024. The average NSF fee is around $43 in September of 2021, there is a drop in February of 2024 to around $37 and then a slow rise to around $42 by November 2024." class="richtext-image full-width" height="588" src="https://files.consumerfinance.gov/f/images/cfpb_data-spotlight-behind-on-rent-figure-4_20.width-800.png" width="692"><p data-block-key="9663b"><b>Source:</b> CFPB rental housing payment data</p><h2 id="outstanding-balances-and-write-offs" data-block-key="jisf8">Outstanding balances and write-offs</h2><p data-block-key="fm322">Above, we showed the rates of active renters with outstanding balances, non-rent write-offs, and rent-write offs. Figure 5, below, plots the median dollar amounts of these three variables in each month, among renters with positive balances or write-off amounts. The median outstanding balance among those with an outstanding balance has increased over time. In September 2021, the median outstanding balance was $2,000, and this increased to $3,200 by November 2024. Though this could indicate increasing balances, it could also be influenced by the composition of renters with outstanding balances. This is occurring while the fraction of renters with an outstanding balance decreased significantly in 2024, as shown above, which could impact the median values conditional on having an outstanding balance. If renters with relatively smaller outstanding balances paid off the balance, for example, then the median could rise among those who continue to have outstanding balances.</p><p data-block-key="23bkt">The median values of the two write-off categories (conditional on observing positive write-off amounts) increased but leveled off towards the end of our sample time period. The median value of non-rent write-offs increased from around $1,000 in September 2021 to around $1,850 in November 2024. The median value of rent write-offs rose from around $1,000 in 2021 to $1,500 in 2024.</p><h3 id="figure-5:-median-values-of-outstanding-balances-non-rent-write-offs-and-rent-write-offs-over-time" data-block-key="rdht5">Figure 5: Median values of outstanding balances, non-rent write-offs, and rent write-offs over time</h3><img alt="A line graph showing three series plotted. The first is the median outstanding balance over time, in nominal dollars, among renters who had an outstanding balance in a given month. The second is the median non-rent write off, in nominal dollars, among renters who incurred non-rent write off in a given month. The third is the median rent write-off, in nominal dollars, among renters who incurred rent write-off in a given month.  The y-axis is in dollars and the x-axis is the month. The median outstanding balance is around $2,000 in September of 2021 and steadily rises to over $2,600 by August 2024 before jumping to around $3,100 between September and November 2024. The median non-rent write-off is around $1,000 in September of 2021 and steadily rises to around $2,000 by November 2024. The median non-rent write-off is around $800 in October 2021, rises to $2,000 by September 2023, and then falls to $1,700 by November 2024." class="richtext-image full-width" height="558" src="https://files.consumerfinance.gov/f/images/cfpb_data-spotlight-behind-on-rent-figure-5_20.width-800.png" width="678"><p data-block-key="ctd6b"><b>Source:</b> CFPB rental housing payment data</p>
+            </div>
+</div>
+   </div>
+  <div class="block m-footnotes">
+      <h2 id="footnotes">Endnotes</h2>
+      <ol>
+              <li id="footnote-1">
+                  <p data-block-key="stahp">According to the U.S. Census Bureau’s 2023 <a class="a-link" href="https://data.census.gov/table/ACSDP1Y2022.DP04?q=Owner/Renter%20(Householder)%20Characteristics"><span class="a-link__text">American Community Survey</span> <cfpb-icon name="external-link"></cfpb-icon></a>, 34.8 percent of households are renters and for 42.5 percent of these renting households, gross rent payments are 35 percent or more of household income.</p>
+                  <a href="#footnote-source-1" aria-label="Back to content">↩</a>
+              </li>
+              <li id="footnote-2">
+                  <p data-block-key="stahp">Notable exceptions are the Federal Reserve Board's annual Survey of Household Economics and Decision-making, The American Housing Survey from the U.S. Census and U.S. Department of Housing and Urban Development, the U.S. Census Bureau’s Household Pulse survey, and the CFPB’s Making Ends Meet survey. The Household Pulse is the only one of these conducted more frequently than annually.</p>
+                  <a href="#footnote-source-2" aria-label="Back to content">↩</a>
+              </li>
+              <li id="footnote-3">
+                  <p data-block-key="stahp">Technically, we observe the number of payments and the total amount of payments over the given time frame. We can then calculate the average per payment amount using these.</p>
+                  <a href="#footnote-source-3" aria-label="Back to content">↩</a>
+              </li>
+      </ol>
+  </div>
+<div class="block u-screen-only">
+    <p><hr></p>
+    <p>Page last modified <span class="datetime"><time datetime="2025-01-28T16:28:57-0500">Jan. 28, 2025</time>
+    <span>@</span>
+    <time datetime="2025-01-28T16:28:57-0500">
+        04:28 PM EST
+    </time></span></p>
+ </div>
+                </div>
+                <aside class="u-layout-grid__sidebar" role="complementary">
+            <div class="block block--flush-top">
+<div class="m-related-metadata">
+    <header class="m-slug-header">
+        <h2 class="m-slug-header__heading">
+            Related reports
+        </h2>
+    </header>
+        <div class="m-related-metadata__item-container">
+            <h3 class="h4">
+                Topics
+            </h3>
+<div>
+    <ul class="m-tag-group m-tag-group--stacked" aria-label="Topics">
+        <li>
+            <a href="/data-research/research-reports/?topics=office-of-research-publication" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Office of Research Publication</span>
+            </a>
+        </li>
+        <li>
+            <a href="/data-research/research-reports/?topics=research" class="a-tag-topic">
+                <span class="a-tag-topic__bullet" aria-hidden="true">•</span>
+                <span class="a-tag-topic__text">Research</span>
+            </a>
+        </li>
+    </ul>
+</div>
+        </div>
+</div>
+            </div>
+   <div class="block">
+  <div class="m-related-posts">
+      <header class="m-slug-header">
+          <h2 class="m-slug-header__heading">
+              Further reading
+          </h2>
+      </header>
+          <div class="m-related-posts__list-container">
+                  <h3 class="h4">
+                      <cfpb-icon name="newspaper"></cfpb-icon>
+                      Newsroom
+                  </h3>
+    <ul class="m-related-posts__list
+               m-list
+               m-list--unstyled">
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/newsroom/2025-hmda-data-on-mortgage-lending-now-available/">
+                        2025 HMDA Data on Mortgage Lending Now Available
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2026-03-31T00:00:00">MAR 31, 2026</time></span>
+                </p>
+            </li>
+    </ul>
+          </div>
+          <div class="m-related-posts__list-container">
+                  <h3 class="h4">
+                      <cfpb-icon name="date"></cfpb-icon>
+                      Events
+                  </h3>
+    <ul class="m-related-posts__list
+               m-list
+               m-list--unstyled">
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/events/archive-past-events/2024-cfpb-research-conference/">
+                        2024 CFPB Research Conference
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2024-05-02T09:30:00-0400">MAY 02, 2024</time></span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/events/archive-past-events/2022-cfpb-research-conference/">
+                        2022 CFPB Research Conference
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2022-12-15T08:00:00-0500">DEC 15, 2022</time></span>
+                </p>
+            </li>
+            <li class="m-list__item">
+                <h3 class="h4 u-mb5">
+                    <a class="m-list__link"
+                       href="/about-us/events/archive-past-events/2021-cfpb-research-conference/">
+                        2021 CFPB Research Conference
+                    </a>
+                </h3>
+                <p class="a-date">
+                    <span class="datetime"><time datetime="2021-05-06T10:30:00-0400">MAY 06, 2021</time></span>
+                </p>
+            </li>
+    </ul>
+          </div>
+      <a class="a-link a-link--jump"
+         href="/activity-log/?topics=research&amp;topics=office-of-research-publication"
+         aria-label="View more related posts">
+          <span class="a-link__text">
+              View more
+          </span>
+      </a>
+  </div>
+   </div>
+                </aside>
+        </div>
+    </main>
+<footer class="o-footer">
+    <div class="wrapper wrapper--match-content">
+        <div class="o-footer__pre">
+            <div class="u-show-on-mobile">
+                <a class="a-btn a-btn--secondary a-btn--full-on-xs u-mb45" data-cy="btn-back-to-top" data-gtm_ignore="true" data-js-hook="behavior_return-to-top" href="#">
+<span>Back to top</span> <cfpb-icon name="arrow-up"></cfpb-icon>
+</a>
+            </div>
+            <cfpb-list horizontal gap="wide" color-theme="dark">
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/">
+                        About Us
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/contact-us/">
+                        Contact Us
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/careers/">
+                        Careers
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/about-us/events/">
+                        Events
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/enforcement/information-industry-whistleblowers/">
+                        Industry Whistleblowers
+                    </a>
+</cfpb-link>
+                <cfpb-link no-underline="" size="h4">
+<a href="/cfpb-ombudsman/">
+                        CFPB Ombudsman
+                    </a>
+</cfpb-link>
+            </cfpb-list>
+            <div class="block
+                        block--flush-top
+                        block--flush-bottom
+                        block--padded-top">
+<div class="m-social-media
+            m-social-media--follow">
+    <ul class="m-list
+               m-list--unstyled
+               m-list--horizontal
+               m-social-media__icons">
+                <li class="m-list__item">
+                    <a aria-label="Visit us on Facebook" class="m-social-media__icon" href="https://www.facebook.com/CFPB">
+<cfpb-icon name="facebook-square"></cfpb-icon>
+</a>
+                </li>
+                <li class="m-list__item">
+                    <a aria-label="Visit us on X" class="m-social-media__icon" href="https://x.com/CFPB">
+<cfpb-icon name="x-square"></cfpb-icon>
+</a>
+                </li>
+                <li class="m-list__item">
+                    <a aria-label="Visit us on LinkedIn" class="m-social-media__icon" href="https://www.linkedin.com/company/consumer-financial-protection-bureau">
+<cfpb-icon name="linkedin-square"></cfpb-icon>
+</a>
+                </li>
+                <li class="m-list__item">
+                    <a aria-label="Visit us on YouTube" class="m-social-media__icon" href="https://www.youtube.com/user/cfpbvideo">
+<cfpb-icon name="youtube-square"></cfpb-icon>
+</a>
+                </li>
+                <li class="m-list__item">
+                    <a aria-label="Visit us on Flickr" class="m-social-media__icon" href="https://www.flickr.com/photos/cfpbphotos">
+<cfpb-icon name="flickr-square"></cfpb-icon>
+</a>
+                </li>
+    </ul>
+</div>
+            </div>
+        </div>
+        <div class="o-footer-middle-left">
+            <cfpb-list color-theme="dark">
+                <cfpb-link>
+<a href="/foia-requests/">
+                        FOIA
+                    </a>
+</cfpb-link>
+                <cfpb-link>
+<a href="/privacy/website-privacy-policy/">
+                        Website Privacy Policy &amp; Legal Notices
+                    </a>
+</cfpb-link>
+                <cfpb-link>
+<a href="/accessibility/">
+                        Accessibility
+                    </a>
+</cfpb-link>
+                <cfpb-link>
+<a href="/office-civil-rights/no-fear-act-cummings-act/">
+                        No FEAR Act &amp; Cummings Act
+                    </a>
+</cfpb-link>
+            </cfpb-list>
+        </div>
+        <div class="o-footer-middle-right">
+            <cfpb-list color-theme="dark">
+                <cfpb-link link-variant="external" no-top-border="">
+<a href="https://www.usa.gov/">
+                        USA.gov
+                    </a>
+</cfpb-link>
+                <cfpb-link link-variant="external">
+<a href="https://oig.federalreserve.gov/">
+                        Office of Inspector General
+                    </a>
+</cfpb-link>
+                <cfpb-link link-variant="external">
+<a href="https://archive-it.org/organizations/2800">
+                        Public Archive
+                    </a>
+</cfpb-link>
+            </cfpb-list>
+        </div>
+        <div class="o-footer-post">
+<cfpb-tagline islarge
+  aria-label="Official website of the United States government">
+  An official website of the
+  <span class="u-nowrap">United States government</span>
+</cfpb-tagline>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
